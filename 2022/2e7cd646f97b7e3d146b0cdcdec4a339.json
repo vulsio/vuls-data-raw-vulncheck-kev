@@ -1,0 +1,101 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Common Log File System (CLFS) Driver contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Windows CLFS Driver Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-24521"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Apr?api-version=2020",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/cuba-ransomware-tropical-scorpius/",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/cisco-hacked-by-yanluowang-ransomware-gang-28gb-allegedly-stolen/",
+			"date_added": "2022-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/ransomware-updates-1-day-exploits/107291/",
+			"date_added": "2022-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.intrinsec.com/wp-content/uploads/2023/02/20230119_TLPCLEAR_Vice_Society_BLOG_Version_EN.pdf",
+			"date_added": "2023-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",
+			"date_added": "2023-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://ics-cert.kaspersky.com/publications/reports/2023/03/15/h2-2022-brief-overview-of-main-incidents-in-industrial-cybersecurity/",
+			"date_added": "2023-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/windows-clfs-exploits-ransomware-cve-2022-24521/111580/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/windows-clfs-exploits-ransomware-september-2022/111584/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/windows-clfs-exploits-ransomware/111560/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.sygnia.co/blog/blackcat-ransomware/",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-335a",
+			"date_added": "2023-01-05T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.prio-n.com/a-year-in-review-2022-100-vulnerabilities-you-should-prioritize/",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf",
+			"date_added": "2023-09-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-04T00:00:00Z",
+	"cisa_date_added": "2022-04-13T00:00:00Z",
+	"date_added": "2022-04-12T00:00:00Z"
+}

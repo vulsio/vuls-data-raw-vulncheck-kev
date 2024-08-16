@@ -1,0 +1,19 @@
+{
+	"vendorProject": "mageewp",
+	"product": "onetone",
+	"shortDescription": "includes/theme-functions.php in the OneTone theme through 3.0.6 for WordPress has multiple stored XSS issues.",
+	"vulnerabilityName": "mageewp onetone Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-17231"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sucuri.net/2020/04/onetone-vulnerability-leads-to-javascript-cookie-hijacking.html",
+			"date_added": "2020-04-15T00:00:00Z"
+		}
+	],
+	"date_added": "2020-04-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "commerce",
+	"shortDescription": "Adobe Commerce versions 2.4.6-p3, 2.4.5-p5, 2.4.4-p6 and earlier are affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability that could lead in arbitrary code execution by an attacker. Exploitation of this issue does not require user interaction.",
+	"vulnerabilityName": "Adobe commerce Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-20720"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://sansec.io/research/magento-xml-backdoor",
+			"date_added": "2024-04-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-04T00:00:00Z"
+}

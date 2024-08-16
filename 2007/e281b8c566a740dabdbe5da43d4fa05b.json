@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The URL handling in Shell32.dll in the Windows shell in Microsoft Windows XP and Server 2003, with Internet Explorer 7 installed, allows remote attackers to execute arbitrary programs via invalid \"%\" sequences in a mailto: or other URI handler, as demonstrated using mIRC, Outlook, Firefox, Adobe Reader, Skype, and other applications. NOTE: this issue might be related to other issues involving URL handlers in Windows systems, such as CVE-2007-3845. There also might be separate but closely related issues in the applications that are invoked by the handlers.",
+	"vulnerabilityName": "Microsoft Windows Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-3896"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-061",
+			"date_added": "2007-11-13T00:00:00Z"
+		}
+	],
+	"date_added": "2007-11-13T00:00:00Z"
+}

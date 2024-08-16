@@ -1,0 +1,34 @@
+{
+	"vendorProject": "cacti",
+	"product": "cacti",
+	"shortDescription": "graph_realtime.php in Cacti 1.2.8 allows remote attackers to execute arbitrary OS commands via shell metacharacters in a cookie, if a guest user has the graph real-time privilege.",
+	"vulnerabilityName": "cacti cacti Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8813"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "167031624578",
+			"xdb_url": "https://vulncheck.com/xdb/167031624578",
+			"date_added": "2021-05-11T22:38:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xm4ud/Cacti-CVE-2020-8813.git"
+		},
+		{
+			"xdb_id": "d5d2581a5455",
+			"xdb_url": "https://vulncheck.com/xdb/d5d2581a5455",
+			"date_added": "2022-09-30T11:23:52Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:p0dalirius/CVE-2020-8813-Cacti-RCE-in-graph_realtime.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-22T00:00:00Z"
+}

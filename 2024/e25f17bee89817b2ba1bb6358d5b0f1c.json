@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Roundcube",
+	"product": "Roundcube Webmail",
+	"shortDescription": "Roundcube Webmail contains a persistent cross-site scripting (XSS) vulnerability that can lead to information disclosure via malicious link references in plain/text messages.",
+	"vulnerabilityName": "Roundcube Webmail Persistent Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-43770"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2e15ee69f350",
+			"xdb_url": "https://vulncheck.com/xdb/2e15ee69f350",
+			"date_added": "2023-09-27T17:08:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:s3cb0y/CVE-2023-43770-POC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-02-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-03-04T00:00:00Z",
+	"cisa_date_added": "2024-02-12T00:00:00Z",
+	"date_added": "2024-02-12T00:00:00Z"
+}

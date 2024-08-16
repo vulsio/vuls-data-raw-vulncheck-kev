@@ -1,0 +1,27 @@
+{
+	"vendorProject": "strategy11",
+	"product": "formidable_forms",
+	"shortDescription": "The Formidable Forms WordPress plugin before 6.3.1 does not adequately authorize the user or validate the plugin URL in its functionality for installing add-ons. This allows a user with a role as low as Subscriber to install and activate arbitrary plugins of arbitrary versions from the WordPress.org plugin repository onto the site, leading to Remote Code Execution.",
+	"vulnerabilityName": "Formidable Forms WordPress plugin Remote Code Execution Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2877"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4fad991828e1",
+			"xdb_url": "https://vulncheck.com/xdb/4fad991828e1",
+			"date_added": "2023-06-28T10:34:08Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2023-2877.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formidable/formidable-forms-63-authenticated-subscriber-arbitrary-plugin-installation-and-activation",
+			"date_added": "2023-01-10T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-10T00:00:00Z"
+}

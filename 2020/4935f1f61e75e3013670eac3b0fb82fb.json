@@ -1,0 +1,19 @@
+{
+	"vendorProject": "std42",
+	"product": "elfinder",
+	"shortDescription": "elFinder before 2.1.48 has a command injection vulnerability in the PHP connector.",
+	"vulnerabilityName": "std42 elfinder Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9194"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+			"date_added": "2020-11-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-11-22T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "3cx",
+	"product": "live_chat",
+	"shortDescription": "The wp-live-chat-support plugin before 8.0.27 for WordPress has XSS via the GDPR page.",
+	"vulnerabilityName": "3cx live_chat Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-14950"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-live-chat-support/wp-live-chat-support-8027-unauthenticated-stored-cross-site-scripting",
+			"date_added": "2019-05-15T00:00:00Z"
+		}
+	],
+	"date_added": "2019-05-15T00:00:00Z"
+}

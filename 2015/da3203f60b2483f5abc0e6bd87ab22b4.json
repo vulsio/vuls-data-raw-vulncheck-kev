@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Integer underflow in Adobe Flash Player before 11.7.700.261 and 11.8.x through 12.0.x before 12.0.0.44 on Windows and Mac OS X, and before 11.2.202.336 on Linux, allows remote attackers to execute arbitrary code via unspecified vectors.",
+	"vulnerabilityName": "Adobe Flash Player Integer Underflow Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0497"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/darkhotels-attacks-in-2015/71713/",
+			"date_added": "2015-08-10T00:00:00Z"
+		}
+	],
+	"date_added": "2015-07-21T00:00:00Z"
+}

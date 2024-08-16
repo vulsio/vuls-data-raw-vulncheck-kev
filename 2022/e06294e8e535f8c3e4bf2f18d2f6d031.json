@@ -1,0 +1,48 @@
+{
+	"vendorProject": "VMware Tanzu",
+	"product": "Spring Cloud Configuration (Config) Server",
+	"shortDescription": "Spring, by VMware Tanzu, Cloud Config contains a path traversal vulnerability that allows applications to serve arbitrary configuration files.",
+	"vulnerabilityName": "VMware Tanzu Spring Cloud Config Directory Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-5410"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "788a7241c9c9",
+			"xdb_url": "https://vulncheck.com/xdb/788a7241c9c9",
+			"date_added": "2021-02-20T08:05:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:thelostworldFree/SpringCloud-Config-CVE-2020-5410.git"
+		},
+		{
+			"xdb_id": "e1abb7641447",
+			"xdb_url": "https://vulncheck.com/xdb/e1abb7641447",
+			"date_added": "2021-09-08T16:19:29+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:xl1605368195/spring-cloud-config-server.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "beyondtrust",
+	"product": "appliance_base_software",
+	"shortDescription": "A cross-site scripting (XSS) vulnerability has been reported and confirmed for BeyondTrust Secure Remote Access Base Software version 6.0.1 and older, which allows the injection of unauthenticated, specially-crafted web requests without proper sanitization.",
+	"vulnerabilityName": "beyondtrust appliance_base_software Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-31589"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ed371c62e95b",
+			"xdb_url": "https://vulncheck.com/xdb/ed371c62e95b",
+			"date_added": "2023-04-19T09:10:40Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:karthi-the-hacker/CVE-2021-31589.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

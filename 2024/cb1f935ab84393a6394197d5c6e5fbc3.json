@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft COM for Windows contains a deserialization of untrusted data vulnerability that allows for privilege escalation and remote code execution via a specially crafted file or script.",
+	"vulnerabilityName": "Microsoft COM for Windows Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-0824"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a5ebdd77a6af",
+			"xdb_url": "https://vulncheck.com/xdb/a5ebdd77a6af",
+			"date_added": "2018-06-15T08:59:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:codewhitesec/UnmarshalPwn.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute-with-shadowpad-and-cobaltstrike-2/",
+			"date_added": "2024-08-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-26T00:00:00Z",
+	"cisa_date_added": "2024-08-05T00:00:00Z",
+	"date_added": "2024-08-01T00:00:00Z"
+}

@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Java SE JDK and JRE",
+	"shortDescription": "An access control vulnerability exists in the Applet Rhino Script Engine component of Oracle's Java Runtime Environment allows an attacker to remotely execute arbitrary code.",
+	"vulnerabilityName": "Oracle Java SE Runtime Environment (JRE) Arbitrary Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-3544"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/12400",
+			"date_added": "2012-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/red-october-diplomatic-cyber-attacks-investigation/36740/",
+			"date_added": "2013-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2013/hidden_lynx.pdf",
+			"date_added": "2013-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage",
+			"date_added": "2015-08-05T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2012-01-14T00:00:00Z"
+}

@@ -1,0 +1,167 @@
+{
+	"vendorProject": "Oracle",
+	"product": "BI Publisher",
+	"shortDescription": "Vulnerability in the BI Publisher (formerly XML Publisher) component of Oracle Fusion Middleware (subcomponent: BI Publisher Security). The supported version that is affected is 11.1.1.9.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via HTTP to compromise BI Publisher (formerly XML Publisher). Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all BI Publisher (formerly XML Publisher) accessible data. CVSS 3.0 Base Score 7.5 (Confidentiality impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N).",
+	"vulnerabilityName": "Oracle Fusion Middleware BI Publisher Unauthenticated Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-2768"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-22&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-24&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-28&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-01-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-30&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-08&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-09&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-14&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-15&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-16&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-19&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-25&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-27&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-15&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-22&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-02&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-06&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-10&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-11&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-27&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-08&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-05-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-16&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-29&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-13&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-18&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-03&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-06&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-18&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-19&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-24&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-29&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2019-2768",
+			"date_added": "2024-08-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-22T00:00:00Z"
+}

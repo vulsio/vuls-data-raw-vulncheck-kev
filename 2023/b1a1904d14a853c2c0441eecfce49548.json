@@ -1,0 +1,38 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS",
+	"shortDescription": "Use of a hard-coded cryptographic key to cipher sensitive data in FortiOS configuration backup file may allow an attacker with access to the backup file to decipher the sensitive data, via knowledge of the hard-coded key. The aforementioned sensitive data includes users' passwords (except the administrator's password), private keys' passphrases and High Availability password (when set).",
+	"vulnerabilityName": "Fortinet FortiOS Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-6693"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "00a6bf68463d",
+			"xdb_url": "https://vulncheck.com/xdb/00a6bf68463d",
+			"date_added": "2021-12-21T15:28:00Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:gquere/CVE-2019-6693.git"
+		},
+		{
+			"xdb_id": "664ed0cdf661",
+			"xdb_url": "https://vulncheck.com/xdb/664ed0cdf661",
+			"date_added": "2023-12-08T11:00:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:saladandonionrings/cve-2019-6693.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://stairwell.com/resources/akira-pulling-on-the-chains-of-ransomware/",
+			"date_added": "2023-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html",
+			"date_added": "2023-09-15T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-23T00:00:00Z"
+}

@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows DNS Server Remote Code Execution Vulnerability",
+	"vulnerabilityName": "Windows DNS Server Remote Code Execution Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-26897"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-07T00:00:00Z"
+}

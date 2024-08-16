@@ -1,0 +1,76 @@
+{
+	"vendorProject": "wpdeveloper",
+	"product": "essential_addons_for_elementor",
+	"shortDescription": "Improper Authentication vulnerability in WPDeveloper Essential Addons for Elementor allows Privilege Escalation. This issue affects Essential Addons for Elementor: from 5.4.0 through 5.7.1.",
+	"vulnerabilityName": "wpdeveloper essential_addons_for_elementor Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-32243"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "df8ff21e2f02",
+			"xdb_url": "https://vulncheck.com/xdb/df8ff21e2f02",
+			"date_added": "2023-05-13T19:35:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:little44n1o/cve-2023-32243.git"
+		},
+		{
+			"xdb_id": "1588cd277e92",
+			"xdb_url": "https://vulncheck.com/xdb/1588cd277e92",
+			"date_added": "2023-06-26T08:17:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:manavvedawala/CVE-2023-32243-proof-of-concept.git"
+		},
+		{
+			"xdb_id": "846c37a850cb",
+			"xdb_url": "https://vulncheck.com/xdb/846c37a850cb",
+			"date_added": "2023-05-29T11:42:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thatonesecguy/Wordpress-Vulnerability-Identification-Scripts.git"
+		},
+		{
+			"xdb_id": "9eb4b255b6d5",
+			"xdb_url": "https://vulncheck.com/xdb/9eb4b255b6d5",
+			"date_added": "2023-07-29T20:43:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:shaoyu521/Mass-CVE-2023-32243.git"
+		},
+		{
+			"xdb_id": "ea40cfb0aa39",
+			"xdb_url": "https://vulncheck.com/xdb/ea40cfb0aa39",
+			"date_added": "2023-07-03T04:16:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Jenderal92/WP-CVE-2023-32243.git"
+		},
+		{
+			"xdb_id": "1b235b4ed2c8",
+			"xdb_url": "https://vulncheck.com/xdb/1b235b4ed2c8",
+			"date_added": "2023-05-14T19:32:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gbrsh/CVE-2023-32243.git"
+		},
+		{
+			"xdb_id": "96865bb10188",
+			"xdb_url": "https://vulncheck.com/xdb/96865bb10188",
+			"date_added": "2023-05-23T18:38:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:manavvedawala2/CVE-2023-32243-proof-of-concept.git"
+		},
+		{
+			"xdb_id": "168482234293",
+			"xdb_url": "https://vulncheck.com/xdb/168482234293",
+			"date_added": "2023-05-15T09:39:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2023-32243.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sucuri.net/2023/05/vulnerability-in-essential-addons-for-elementor-leads-to-mass-infection.html",
+			"date_added": "2023-05-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-18T00:00:00Z"
+}

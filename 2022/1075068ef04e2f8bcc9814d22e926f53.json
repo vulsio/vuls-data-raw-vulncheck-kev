@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "Apple macOS contains a use-after-free vulnerability that could allow for privilege escalation.",
+	"vulnerabilityName": "Apple macOS Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8526"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-04-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2022/01/25/watering-hole-deploys-new-macos-malware-dazzlespy-asia/",
+			"date_added": "2022-01-25T00:00:00Z"
+		},
+		{
+			"url": "https://objective-see.org/blog/blog_0x71.html",
+			"date_added": "2023-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-05-08T00:00:00Z",
+	"cisa_date_added": "2023-04-17T00:00:00Z",
+	"date_added": "2022-01-25T00:00:00Z"
+}

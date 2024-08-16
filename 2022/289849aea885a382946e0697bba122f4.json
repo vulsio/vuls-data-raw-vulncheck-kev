@@ -1,0 +1,19 @@
+{
+	"vendorProject": "tagdiv",
+	"product": "newspaper",
+	"shortDescription": "The newspaper theme before 6.7.2 for WordPress has a lack of options access control via td_ajax_update_panel.",
+	"vulnerabilityName": "tagdiv newspaper Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-10972"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.drweb.com/show/?i=14646&lng=en&c=23",
+			"date_added": "2022-12-30T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-30T00:00:00Z"
+}

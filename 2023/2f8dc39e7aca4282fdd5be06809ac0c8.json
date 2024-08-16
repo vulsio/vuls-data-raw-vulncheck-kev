@@ -1,0 +1,90 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Fusion Middleware",
+	"shortDescription": "Oracle Fusion Middleware contains an unspecified vulnerability in the WLS Core Components that allows an unauthenticated attacker with network access via IIOP to compromise the WebLogic Server.",
+	"vulnerabilityName": "Oracle Fusion Middleware Unspecified Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-2551"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "593ea0948a71",
+			"xdb_url": "https://vulncheck.com/xdb/593ea0948a71",
+			"date_added": "2022-06-02T14:20:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xAbbarhSF/CVE-Exploit.git"
+		},
+		{
+			"xdb_id": "0f71a5e7f06e",
+			"xdb_url": "https://vulncheck.com/xdb/0f71a5e7f06e",
+			"date_added": "2020-01-19T13:01:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hktalent/CVE-2020-2551.git"
+		},
+		{
+			"xdb_id": "331c7b695711",
+			"xdb_url": "https://vulncheck.com/xdb/331c7b695711",
+			"date_added": "2020-02-28T08:46:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Y4er/CVE-2020-2551.git"
+		},
+		{
+			"xdb_id": "3041ae129674",
+			"xdb_url": "https://vulncheck.com/xdb/3041ae129674",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
+			"xdb_id": "993743176260",
+			"xdb_url": "https://vulncheck.com/xdb/993743176260",
+			"date_added": "2021-03-25T15:44:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:cftang/CVE-2020-2551.git"
+		},
+		{
+			"xdb_id": "8dc42355d38d",
+			"xdb_url": "https://vulncheck.com/xdb/8dc42355d38d",
+			"date_added": "2020-06-20T17:03:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenjiew/CVE-2020-2551.git"
+		},
+		{
+			"xdb_id": "ebf92f4c5d9b",
+			"xdb_url": "https://vulncheck.com/xdb/ebf92f4c5d9b",
+			"date_added": "2020-06-19T14:05:11+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:lmdy/CVE-2020-2551.git"
+		},
+		{
+			"xdb_id": "f6dd1753be29",
+			"xdb_url": "https://vulncheck.com/xdb/f6dd1753be29",
+			"date_added": "2020-03-02T14:54:16+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:ggsddup3/CVE-2020-2551.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-16T00:00:00Z"
+		},
+		{
+			"url": "https://blog.eclecticiq.com/chinese-threat-actor-used-modified-cobalt-strike-variant-to-attack-taiwanese-critical-infrastructure",
+			"date_added": "2023-06-02T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2024/04/27161250/Kaspersky_MDR_Report_Eng_2023.pdf",
+			"date_added": "2024-04-30T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-12-07T00:00:00Z",
+	"cisa_date_added": "2023-11-16T00:00:00Z",
+	"date_added": "2023-06-02T00:00:00Z"
+}

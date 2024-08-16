@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Adobe ColdFusion versions 2023.5 (and earlier) and 2021.11 (and earlier) are affected by an Improper Access Control vulnerability that could result in a Security feature bypass. An unauthenticated attacker could leverage this vulnerability to access the administration CFM and CFC endpoints. Exploitation of this issue does not require user interaction.",
+	"vulnerabilityName": "Adobe ColdFusion Improper Access Control",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-26347"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

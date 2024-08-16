@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Defender",
+	"shortDescription": "Microsoft Defender SmartScreen contains a security feature bypass vulnerability that could allow an attacker to evade Mark of the Web (MOTW) defenses via a specially crafted malicious file.",
+	"vulnerabilityName": "Microsoft Defender SmartScreen Security Feature Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-44698"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Dec?api-version=2020",
+			"date_added": "2022-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.securityweek.com/patch-tuesday-microsoft-plugs-windows-hole-exploited-ransomware-attacks",
+			"date_added": "2022-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/",
+			"date_added": "2022-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/magniber-ransomware-actors-used-a-variant-of-microsoft-smartscreen-bypass/",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2022-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-01-03T00:00:00Z",
+	"cisa_date_added": "2022-12-13T00:00:00Z",
+	"date_added": "2022-12-13T00:00:00Z"
+}

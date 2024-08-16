@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "A remote code execution vulnerability exists when Internet Explorer improperly accesses objects in memory.",
+	"vulnerabilityName": "Microsoft Internet Explorer Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0222"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2017-May?api-version=2020",
+			"date_added": "2017-06-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-25T00:00:00Z",
+	"cisa_date_added": "2022-02-25T00:00:00Z",
+	"date_added": "2017-05-09T00:00:00Z"
+}

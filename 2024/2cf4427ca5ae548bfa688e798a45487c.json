@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "An issue was discovered in Adobe Acrobat and Reader: 2017.012.20098 and earlier versions, 2017.011.30066 and earlier versions, 2015.006.30355 and earlier versions, and 11.0.22 and earlier versions. The vulnerability is a result of untrusted input that is used to calculate an array index; the calculation occurs in the printing functionality. The vulnerability leads to an operation that can write to a memory location that is outside of the memory addresses allocated for the data structure. The specific scenario leads to a write access to a memory location that does not belong to the relevant process address space.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Improper Validation of Array Index",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-16391"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

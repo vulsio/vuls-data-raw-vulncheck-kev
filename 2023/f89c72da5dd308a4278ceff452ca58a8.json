@@ -1,0 +1,43 @@
+{
+	"vendorProject": "PaperCut",
+	"product": "papercut_mf",
+	"shortDescription": "This vulnerability allows remote attackers to bypass authentication on affected installations of PaperCut NG 22.0.5 (Build 63914). Authentication is not required to exploit this vulnerability. The specific flaw exists within the SecurityRequestFilter class. The issue results from improper implementation of the authentication algorithm. An attacker can leverage this vulnerability to bypass authentication on the system. Was ZDI-CAN-19226.",
+	"vulnerabilityName": "PaperCut papercut_mf Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-27351"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.hhs.gov/sites/default/files/cl0p-lockbit-new-data-breaches-sector-alert.pdf",
+			"date_added": "2023-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape",
+			"date_added": "2023-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2023-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2023-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2023-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html",
+			"date_added": "2024-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/threat-profile-june-2023.pdf",
+			"date_added": "2023-06-13T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-28T00:00:00Z"
+}

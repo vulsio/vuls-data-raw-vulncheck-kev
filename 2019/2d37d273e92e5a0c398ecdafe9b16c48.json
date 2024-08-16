@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "A custom cursor defined by scripting on a site can position itself over the addressbar to spoof the actual cursor when it should not be allowed outside of the primary web content area. This could be used by a malicious site to trick users into clicking on permission prompts, doorhanger notifications, or other buttons inadvertently if the location is spoofed over the user interface. This vulnerability affects Firefox < 67.",
+	"vulnerabilityName": "Mozilla Firefox Custom Cursor Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-11695"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1445844&_gl=1*1t9fm7u*_ga*NjA3NTg5MzIyLjE3MDk0MzQ0OTQ.*_ga_MQ7767QQQW*MTcxMjYyNTg2MS45LjEuMTcxMjYyNjAyMy4wLjAuMA..",
+			"date_added": "2019-02-06T00:00:00Z"
+		}
+	],
+	"date_added": "2019-02-06T00:00:00Z"
+}

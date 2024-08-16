@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Unspecified vulnerability in Microsoft Word 2000, 2002, and 2003 and Word Viewer 2003 allows remote attackers to execute code via unspecified vectors related to malformed data structures that trigger memory corruption, a different vulnerability than CVE-2006-5994.",
+	"vulnerabilityName": "Word Malformed Data Structures Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-6456"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-014",
+			"date_added": "2007-02-13T00:00:00Z"
+		}
+	],
+	"date_added": "2007-02-13T00:00:00Z"
+}

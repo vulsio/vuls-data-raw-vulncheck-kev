@@ -1,0 +1,27 @@
+{
+	"vendorProject": "contec",
+	"product": "sv-cpt-mc310_firmware",
+	"shortDescription": "An arbitrary file upload vulnerability /images/background/1.php in of SolarView Compact 6.0 allows attackers to execute arbitrary code via a crafted php file.",
+	"vulnerabilityName": "contec sv-cpt-mc310_firmware Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-31374"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "37c1f91c3822",
+			"xdb_url": "https://vulncheck.com/xdb/37c1f91c3822",
+			"date_added": "2022-05-19T02:18:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:badboycxcc/SolarView_Compact_6.0_upload.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://vulncheck.com/blog/solarview-exploitation",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-05T00:00:00Z"
+}

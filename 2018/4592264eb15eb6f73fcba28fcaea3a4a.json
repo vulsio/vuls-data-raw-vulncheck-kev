@@ -1,0 +1,47 @@
+{
+	"vendorProject": "sisoftware",
+	"product": "sandra",
+	"shortDescription": "sandra.sys 15.18.1.1 and earlier in the Sandra Device Driver in SiSoftware Sandra 16.10.2010.1 and earlier allows local users to gain privileges or cause a denial of service (system crash) via unspecified vectors involving \"Model-Specific Registers.\"",
+	"vulnerabilityName": "sisoftware sandra Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2010-1592"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf",
+			"date_added": "2018-03-06T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-slingshot/84312/",
+			"date_added": "2018-03-09T00:00:00Z"
+		}
+	],
+	"date_added": "2018-03-06T00:00:00Z"
+}

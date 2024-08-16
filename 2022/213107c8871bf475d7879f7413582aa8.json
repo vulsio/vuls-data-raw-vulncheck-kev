@@ -1,0 +1,35 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code Execution Vulnerability",
+	"vulnerabilityName": "Windows Internet Key Exchange (IKE) Protocol Extensions Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-34721"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "781d1207df8f",
+			"xdb_url": "https://vulncheck.com/xdb/781d1207df8f",
+			"date_added": "2022-08-16T04:00:10Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:78ResearchLab/PoC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cyfirma.com/blogs/windows-internet-key-exchange-ike-remote-code-execution-vulnerability-analysis/",
+			"date_added": "2022-11-25T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-25T00:00:00Z"
+}

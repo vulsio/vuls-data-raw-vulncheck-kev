@@ -1,0 +1,19 @@
+{
+	"vendorProject": "mathieu_vidal",
+	"product": "mv_cooking",
+	"shortDescription": "SQL injection vulnerability in the Kitchen recipe (mv_cooking) extension before 0.4.1 for TYPO3 allows remote attackers to execute arbitrary SQL commands via unspecified vectors, as exploited in the wild as of February 2012.",
+	"vulnerabilityName": "mathieu_vidal mv_cooking Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-1071"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://typo3.org/security/advisory/typo3-ext-sa-2012-001",
+			"date_added": "2012-02-02T00:00:00Z"
+		}
+	],
+	"date_added": "2012-02-02T00:00:00Z"
+}

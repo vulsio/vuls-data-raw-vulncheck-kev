@@ -1,0 +1,56 @@
+{
+	"vendorProject": "RARLAB",
+	"product": "UnRAR",
+	"shortDescription": "RARLAB UnRAR on Linux and UNIX contains a directory traversal vulnerability, allowing an attacker to write to files during an extract (unpack) operation.",
+	"vulnerabilityName": "RARLAB UnRAR Directory Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-30333"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2cf5d07b7a85",
+			"xdb_url": "https://vulncheck.com/xdb/2cf5d07b7a85",
+			"date_added": "2024-06-10T08:17:50Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:paradox0909/cve-2022-30333_online_rar_extracor.git"
+		},
+		{
+			"xdb_id": "470dc3493197",
+			"xdb_url": "https://vulncheck.com/xdb/470dc3493197",
+			"date_added": "2022-07-15T22:29:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rbowes-r7/unrar-cve-2022-30333-poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-q3-2023-report/",
+			"date_added": "2023-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-and-statistics-2023-report/",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-228a",
+			"date_added": "2023-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-278a",
+			"date_added": "2023-10-05T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-30T00:00:00Z",
+	"cisa_date_added": "2022-08-09T00:00:00Z",
+	"date_added": "2022-08-09T00:00:00Z"
+}

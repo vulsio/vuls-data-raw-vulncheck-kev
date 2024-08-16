@@ -1,0 +1,19 @@
+{
+	"vendorProject": "advantech",
+	"product": "webaccess\\/nms",
+	"shortDescription": "Multiple issues exist that allow files to be uploaded and executed on the WebAccess/NMS (versions prior to 3.0.2).",
+	"vulnerabilityName": "advantech webaccess\\/nms Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-10621"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sonicwall.com/en-us/2020/08/advantech-webaccess-nms-arbitrary-file-upload-vulnerability-being-exploited/",
+			"date_added": "2020-08-27T00:00:00Z"
+		}
+	],
+	"date_added": "2020-08-27T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "linksys",
+	"product": "wap54gv3",
+	"shortDescription": "Linksys WAP54Gv3 firmware 3.04.03 and earlier allows remote attackers to execute arbitrary commands via shell metacharacters in the (1) data2 and (2) data3 parameters to (a) Debug_command_page.asp and (b) debug.cgi.",
+	"vulnerabilityName": "linksys wap54gv3 Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-2261"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2023/02/eset_threat_report_t32022.pdf",
+			"date_added": "2023-02-08T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-08T00:00:00Z"
+}

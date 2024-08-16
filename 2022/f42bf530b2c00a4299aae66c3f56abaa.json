@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer",
+	"vulnerabilityName": "Microsoft Internet Explorer Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-0752"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "46f00e7bfdba",
+			"xdb_url": "https://vulncheck.com/xdb/46f00e7bfdba",
+			"date_added": "2020-12-18T22:53:16Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ZwCreatePhoton/CVE-2019-0752.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-15T00:00:00Z",
+	"cisa_date_added": "2022-02-15T00:00:00Z",
+	"date_added": "2022-02-15T00:00:00Z"
+}

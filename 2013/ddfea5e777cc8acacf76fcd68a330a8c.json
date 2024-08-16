@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Unspecified vulnerability in Adobe ColdFusion 9.0 before Update 11, 9.0.1 before Update 10, 9.0.2 before Update 5, and 10 before Update 10 allows remote attackers to execute arbitrary code via unknown vectors.",
+	"vulnerabilityName": "Adobe ColdFusion Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-1389"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cisa.gov/news-events/alerts/2013/05/09/adobe-releases-security-update-coldfusion",
+			"date_added": "2013-05-14T00:00:00Z"
+		}
+	],
+	"date_added": "2013-05-14T00:00:00Z"
+}

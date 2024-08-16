@@ -1,0 +1,186 @@
+{
+	"vendorProject": "GNU",
+	"product": "GNU C Library",
+	"shortDescription": "GNU C Library's dynamic loader ld.so contains a buffer overflow vulnerability when processing the GLIBC_TUNABLES environment variable, allowing a local attacker to execute code with elevated privileges.",
+	"vulnerabilityName": "GNU C Library Buffer Overflow Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-4911"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e9cc8a9653c6",
+			"xdb_url": "https://vulncheck.com/xdb/e9cc8a9653c6",
+			"date_added": "2023-10-08T04:17:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:b4k3d/POC_CVE4911.git"
+		},
+		{
+			"xdb_id": "716f0e88f550",
+			"xdb_url": "https://vulncheck.com/xdb/716f0e88f550",
+			"date_added": "2023-10-09T11:45:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0xtrace/CVE-2023-4911-Looney-Tunables-.git"
+		},
+		{
+			"xdb_id": "7154c8a75572",
+			"xdb_url": "https://vulncheck.com/xdb/7154c8a75572",
+			"date_added": "2023-10-14T02:24:52Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:guffre/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "794f2256b177",
+			"xdb_url": "https://vulncheck.com/xdb/794f2256b177",
+			"date_added": "2023-12-10T18:05:27Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:snurkeburk/Looney-Tunables.git"
+		},
+		{
+			"xdb_id": "7386501edb9e",
+			"xdb_url": "https://vulncheck.com/xdb/7386501edb9e",
+			"date_added": "2023-12-23T11:54:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "847bf09204ca",
+			"xdb_url": "https://vulncheck.com/xdb/847bf09204ca",
+			"date_added": "2023-10-04T11:58:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Green-Avocado/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "270ec9b3f4c1",
+			"xdb_url": "https://vulncheck.com/xdb/270ec9b3f4c1",
+			"date_added": "2023-11-08T09:34:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:teraGL/looneyCVE.git"
+		},
+		{
+			"xdb_id": "60ac54a2a53a",
+			"xdb_url": "https://vulncheck.com/xdb/60ac54a2a53a",
+			"date_added": "2024-01-19T18:20:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:yanfernandess/Looney-Tunables-CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "24a3ae6b3ae0",
+			"xdb_url": "https://vulncheck.com/xdb/24a3ae6b3ae0",
+			"date_added": "2023-10-08T03:26:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xiaoQ1z/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "4a0f3cecfcf5",
+			"xdb_url": "https://vulncheck.com/xdb/4a0f3cecfcf5",
+			"date_added": "2023-10-28T20:05:30Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Diego-AltF4/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "e8ba401a5397",
+			"xdb_url": "https://vulncheck.com/xdb/e8ba401a5397",
+			"date_added": "2023-10-10T13:29:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:silent6trinity/looney-tuneables.git"
+		},
+		{
+			"xdb_id": "b43d5e2b6b33",
+			"xdb_url": "https://vulncheck.com/xdb/b43d5e2b6b33",
+			"date_added": "2024-01-20T18:47:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NishanthAnand21/CVE-2023-4911-PoC.git"
+		},
+		{
+			"xdb_id": "0b3417810046",
+			"xdb_url": "https://vulncheck.com/xdb/0b3417810046",
+			"date_added": "2024-03-16T22:49:06Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xem6/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "847b8ad5421f",
+			"xdb_url": "https://vulncheck.com/xdb/847b8ad5421f",
+			"date_added": "2023-10-25T11:59:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:KernelKrise/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "6ddd35f752a2",
+			"xdb_url": "https://vulncheck.com/xdb/6ddd35f752a2",
+			"date_added": "2023-10-04T14:32:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RickdeJager/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "0bfd16ee5c6e",
+			"xdb_url": "https://vulncheck.com/xdb/0bfd16ee5c6e",
+			"date_added": "2023-10-10T22:04:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hadrian3689/looney-tunables-CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "d7f283c48b1a",
+			"xdb_url": "https://vulncheck.com/xdb/d7f283c48b1a",
+			"date_added": "2023-10-17T07:44:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chaudharyarjun/LooneyPwner.git"
+		},
+		{
+			"xdb_id": "1bf2c7948d0a",
+			"xdb_url": "https://vulncheck.com/xdb/1bf2c7948d0a",
+			"date_added": "2023-10-11T14:49:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ruycr4ft/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "c1e2b0d1e872",
+			"xdb_url": "https://vulncheck.com/xdb/c1e2b0d1e872",
+			"date_added": "2023-10-04T14:12:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:leesh3288/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "d9dc0002293f",
+			"xdb_url": "https://vulncheck.com/xdb/d9dc0002293f",
+			"date_added": "2023-11-04T21:55:55+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2023-4911.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-21T00:00:00Z"
+		},
+		{
+			"url": "https://blog.aquasec.com/loony-tunables-vulnerability-exploited-by-kinsing",
+			"date_added": "2023-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/23/k/cve-2023-46604-exploited-by-kinsing.html",
+			"date_added": "2023-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Professional_Services_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-12-12T00:00:00Z",
+	"cisa_date_added": "2023-11-21T00:00:00Z",
+	"date_added": "2023-11-03T00:00:00Z"
+}

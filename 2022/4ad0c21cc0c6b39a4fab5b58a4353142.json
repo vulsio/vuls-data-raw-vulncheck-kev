@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Sophos",
+	"product": "Firewall",
+	"shortDescription": "A code injection vulnerability in the User Portal and Webadmin of Sophos Firewall allows for remote code execution.",
+	"vulnerabilityName": "Sophos Firewall Code Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3236"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-09-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.sophos.com/en-us/security-advisories/sophos-sa-20220923-sfos-rce",
+			"date_added": "2022-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-10-14T00:00:00Z",
+	"cisa_date_added": "2022-09-23T00:00:00Z",
+	"date_added": "2022-09-16T00:00:00Z"
+}

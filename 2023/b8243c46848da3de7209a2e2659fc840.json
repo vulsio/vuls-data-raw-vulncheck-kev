@@ -1,0 +1,19 @@
+{
+	"vendorProject": "posimyth",
+	"product": "the_plus_addons_for_elementor",
+	"shortDescription": "The Plus Addons for Elementor plugin for WordPress is vulnerable to arbitrary file reads in versions up to, and including 4.1.9 (pro) and 2.0.6 (free). The plugin has a feature to add an \"Info Box\" to an Elementor created page. This Info Box can include an SVG image for the box. Unfortunately, the plugin used file_get_contents with no verification that the file being supplied was an SVG file, so any user with access to the Elementor page builder, such as contributors, could read arbitrary files on the WordPress installation.",
+	"vulnerabilityName": "Plus Addons for Elementor plugin for WordPress file_get_contents Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4332"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/the-plus-addons-for-elementor-page-builder/the-plus-addons-for-elementor-pro-419-the-plus-addons-for-elementor-206-authenticated-contributor-arbitrary-file-read",
+			"date_added": "2023-08-07T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-07T00:00:00Z"
+}

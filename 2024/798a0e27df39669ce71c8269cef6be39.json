@@ -1,0 +1,19 @@
+{
+	"vendorProject": "seiko-sol",
+	"product": "skybridge_mb-a200_firmware",
+	"shortDescription": "Seiko SkyBridge MB-A200 v01.00.04 and below was discovered to contain multiple hard-coded passcodes for root. Attackers are able to access the passcodes at /etc/srapi/config/system.conf and /usr/sbin/ssol-sshd.sh.",
+	"vulnerabilityName": "seiko-sol skybridge_mb-a200_firmware Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-36560"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://medium.com/s2wblog/detailed-analysis-of-operation-japan-campaign-14834a14a684",
+			"date_added": "2024-01-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-05T00:00:00Z"
+}

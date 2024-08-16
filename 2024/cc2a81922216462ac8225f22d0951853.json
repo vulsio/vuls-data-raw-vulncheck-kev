@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Google",
+	"product": "Chrome",
+	"shortDescription": "Incorrect optimization assumptions in V8 in Google Chrome prior to 72.0.3626.81 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page.",
+	"vulnerabilityName": "Google Chrome Out-of-bounds Read",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-5782"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-02T00:00:00Z"
+}

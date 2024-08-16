@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Cloudways",
+	"product": "Breeze",
+	"shortDescription": "Cloudways Breeze allows improper neutralization of input during web page creation, allowing for stored XSS ",
+	"vulnerabilityName": "Cloudways Breeze Stored Cross Site Scripting",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-27188"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://attackerkb.com/topics/DGJd6oJ2n1/cve-2024-27188#exploited-in-the-wild_d3f3388f-c1f7-4dd8-87f9-219a1551c8e1",
+			"date_added": "2024-04-02T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-02T00:00:00Z"
+}

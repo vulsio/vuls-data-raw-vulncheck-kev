@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wp-experts",
+	"product": "protect_wp_admin",
+	"shortDescription": "The Protect WP Admin WordPress plugin before 4.0 discloses the URL of the admin panel via a redirection of a crafted URL, bypassing the protection offered.",
+	"vulnerabilityName": "wp-experts protect_wp_admin URL Redirection to Untrusted Site ('Open Redirect')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3139"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/protect-wp-admin/wordpress-protect-wp-admin-plugin-4-0-unauthenticated-protection-bypass-vulnerability",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-22T00:00:00Z"
+}

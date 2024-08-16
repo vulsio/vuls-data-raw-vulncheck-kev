@@ -1,0 +1,19 @@
+{
+	"vendorProject": "74cms",
+	"product": "74cms",
+	"shortDescription": "PHP remote file inclusion in the assign_resume_tpl method in Application/Common/Controller/BaseController.class.php in 74CMS before 6.0.48 allows remote code execution.",
+	"vulnerabilityName": "74cms 74cms Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29279"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-february-april-2021/",
+			"date_added": "2021-06-01T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-01T00:00:00Z"
+}

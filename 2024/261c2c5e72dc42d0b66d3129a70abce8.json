@@ -1,0 +1,34 @@
+{
+	"vendorProject": "AI Engine: ChatGPT Chatbot",
+	"product": "AI Engine: ChatGPT Chatbot Plugin",
+	"shortDescription": "Unrestricted Upload of File with Dangerous Type vulnerability in Jordy Meow AI Engine: ChatGPT Chatbot.This issue affects AI Engine: ChatGPT Chatbot: from n/a through 1.9.98.",
+	"vulnerabilityName": "AI Engine: ChatGPT Chatbot Plugin File Upload Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-51409"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "07d480a13612",
+			"xdb_url": "https://vulncheck.com/xdb/07d480a13612",
+			"date_added": "2024-04-23T09:25:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:imhunterand/CVE-2023-51409.git"
+		},
+		{
+			"xdb_id": "736681b2b2d2",
+			"xdb_url": "https://vulncheck.com/xdb/736681b2b2d2",
+			"date_added": "2024-02-22T16:26:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2023-51409.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/ai-engine/wordpress-ai-engine-plugin-1-9-98-unauthenticated-arbitrary-file-upload-vulnerability?_s_id=cve",
+			"date_added": "2024-01-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-11T00:00:00Z"
+}

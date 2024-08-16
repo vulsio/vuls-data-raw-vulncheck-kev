@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Cisco IP Phones",
+	"shortDescription": "Cisco IP Phones contain an improper input validation vulnerability for HTTP requests. Exploitation could allow an attacker to execute code remotely with�root�privileges or cause a denial-of-service (DoS) condition.",
+	"vulnerabilityName": "Cisco IP Phones Web Server Remote Code Execution and Denial-of-Service Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-3161"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "683ddbd88289",
+			"xdb_url": "https://vulncheck.com/xdb/683ddbd88289",
+			"date_added": "2020-12-31T15:37:48Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:abood05972/CVE-2020-3161.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

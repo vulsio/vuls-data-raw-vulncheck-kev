@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "Microsoft Office Excel allows remote attackers to execute arbitrary code via a spreadsheet with a FEATHEADER record containing an invalid cbHdrData size element that affects a pointer offset.",
+	"vulnerabilityName": "Microsoft Excel Featheader Record Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-3129"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20120907091804/http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the_taidoor_campaign.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/red-october-diplomatic-cyber-attacks-investigation/36740/",
+			"date_added": "2013-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/the-epic-turla-operation/65545/",
+			"date_added": "2014-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/scarlet-mimic-years-long-espionage-targets-minority-activists/",
+			"date_added": "2016-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+			"date_added": "2017-02-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2012-01-01T00:00:00Z"
+}

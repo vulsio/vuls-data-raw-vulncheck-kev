@@ -1,0 +1,47 @@
+{
+	"vendorProject": "Google",
+	"product": "Chrome Blink",
+	"shortDescription": "Google Chrome Blink contains a heap use-after-free vulnerability that allows an attacker to potentially perform out of bounds memory access via a crafted HTML page.",
+	"vulnerabilityName": "Google Chrome Blink Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-5786"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b7d5385c6094",
+			"xdb_url": "https://vulncheck.com/xdb/b7d5385c6094",
+			"date_added": "2019-03-20T18:43:49Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:exodusintel/CVE-2019-5786.git"
+		},
+		{
+			"xdb_id": "87f2d6f034f9",
+			"xdb_url": "https://vulncheck.com/xdb/87f2d6f034f9",
+			"date_added": "2020-03-28T16:57:20+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:fengzihk/CVE-2019-5786.git"
+		},
+		{
+			"xdb_id": "5d48649bb47a",
+			"xdb_url": "https://vulncheck.com/xdb/5d48649bb47a",
+			"date_added": "2022-01-11T21:57:04+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_exodusintel/CVE-2019-5786.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2019-02-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2019-02-27T00:00:00Z"
+}

@@ -1,0 +1,90 @@
+{
+	"vendorProject": "Rejetto",
+	"product": "HTTP File Server",
+	"shortDescription": "Rejetto HTTP File Server contains an improper neutralization of special elements used in a template engine vulnerability. This allows a remote, unauthenticated attacker to execute commands on the affected system by sending a specially crafted HTTP request.",
+	"vulnerabilityName": "Rejetto HTTP File Server Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-23692"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c6a68c1f041c",
+			"xdb_url": "https://vulncheck.com/xdb/c6a68c1f041c",
+			"date_added": "2024-06-14T01:33:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-r00t11/CVE-2024-23692.git"
+		},
+		{
+			"xdb_id": "2ec70b75b126",
+			"xdb_url": "https://vulncheck.com/xdb/2ec70b75b126",
+			"date_added": "2024-06-13T13:13:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WanLiChangChengWanLiChang/CVE-2024-23692-RCE.git"
+		},
+		{
+			"xdb_id": "2a1f7d7aff04",
+			"xdb_url": "https://vulncheck.com/xdb/2a1f7d7aff04",
+			"date_added": "2024-06-11T07:21:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k3lpi3b4nsh33/CVE-2024-23692.git"
+		},
+		{
+			"xdb_id": "0a411a2452d2",
+			"xdb_url": "https://vulncheck.com/xdb/0a411a2452d2",
+			"date_added": "2024-06-16T07:04:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Tupler/CVE-2024-23692-exp.git"
+		},
+		{
+			"xdb_id": "4ac87aa915cb",
+			"xdb_url": "https://vulncheck.com/xdb/4ac87aa915cb",
+			"date_added": "2024-06-17T08:46:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BBD-YZZ/CVE-2024-23692.git"
+		},
+		{
+			"xdb_id": "46740685e776",
+			"xdb_url": "https://vulncheck.com/xdb/46740685e776",
+			"date_added": "2024-06-18T03:27:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-23692-EXP.git"
+		},
+		{
+			"xdb_id": "6274be6d1fb5",
+			"xdb_url": "https://vulncheck.com/xdb/6274be6d1fb5",
+			"date_added": "2024-06-13T06:00:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS.git"
+		},
+		{
+			"xdb_id": "c1ccd57299ea",
+			"xdb_url": "https://vulncheck.com/xdb/c1ccd57299ea",
+			"date_added": "2024-06-13T09:12:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vanboomqi/CVE-2024-23692.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/ko/67509/",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/6280129",
+			"date_added": "2024-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-30T00:00:00Z",
+	"cisa_date_added": "2024-07-09T00:00:00Z",
+	"date_added": "2024-06-28T00:00:00Z"
+}

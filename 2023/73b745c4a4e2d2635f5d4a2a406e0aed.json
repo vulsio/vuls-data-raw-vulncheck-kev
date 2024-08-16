@@ -1,0 +1,19 @@
+{
+	"vendorProject": "HappyFiles",
+	"product": "HappyFiles Pro",
+	"shortDescription": "HappyFiles Pro is vulnerable to a data modification due to a missing capability check. This could allow actions to be performed by unatuhorised users such as deleting arbitrary files.",
+	"vulnerabilityName": "HappyFiles Pro Arbitrary File Deletion Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-25446"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/happyfiles-pro/happyfiles-pro-181-missing-authorization-to-arbitrary-file-deletion",
+			"date_added": "2023-04-03T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-03T00:00:00Z"
+}

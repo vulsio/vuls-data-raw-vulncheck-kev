@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Oracle",
+	"product": "WebLogic Server",
+	"shortDescription": "Oracle WebLogic Server, a product within the Fusion Middleware suite, contains an OS command injection vulnerability that allows an attacker to execute arbitrary code via a specially crafted HTTP request that includes a malicious XML document.",
+	"vulnerabilityName": "Oracle WebLogic Server OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-3506"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7f8c560d1204",
+			"xdb_url": "https://vulncheck.com/xdb/7f8c560d1204",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/23/e/8220-gang-evolution-new-strategies-adapted.html",
+			"date_added": "2023-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.imperva.com/blog/imperva-detects-undocumented-8220-gang-activities/",
+			"date_added": "2023-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.broadcom.com/support/security-center/protection-bulletin/unveiling-cryptocurrency-mining-tactic-of-the-8220-gang",
+			"date_added": "2024-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/e/decoding-8220-latest-obfuscation-tricks.html",
+			"date_added": "2024-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html",
+			"date_added": "2024-06-28T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-06-24T00:00:00Z",
+	"cisa_date_added": "2024-06-03T00:00:00Z",
+	"date_added": "2023-05-16T00:00:00Z"
+}

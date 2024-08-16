@@ -1,0 +1,101 @@
+{
+	"vendorProject": "Sophos",
+	"product": "Firewall",
+	"shortDescription": "An authentication bypass vulnerability in User Portal and Webadmin of Sophos Firewall allows for remote code execution.",
+	"vulnerabilityName": "Sophos Firewall Authentication Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-1040"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "de8e5cbcd18e",
+			"xdb_url": "https://vulncheck.com/xdb/de8e5cbcd18e",
+			"date_added": "2023-01-08T15:46:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:michealadams30/CVE-2022-1040.git"
+		},
+		{
+			"xdb_id": "93e1e2d33806",
+			"xdb_url": "https://vulncheck.com/xdb/93e1e2d33806",
+			"date_added": "2022-08-10T10:38:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:APTIRAN/CVE-2022-1040.git"
+		},
+		{
+			"xdb_id": "e21dcd0c9b19",
+			"xdb_url": "https://vulncheck.com/xdb/e21dcd0c9b19",
+			"date_added": "2024-02-05T07:35:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xMr110/CVE-2022-1040.git"
+		},
+		{
+			"xdb_id": "27a470af6b96",
+			"xdb_url": "https://vulncheck.com/xdb/27a470af6b96",
+			"date_added": "2022-10-30T19:20:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jackson5sec/CVE-2022-1040.git"
+		},
+		{
+			"xdb_id": "739974fb0198",
+			"xdb_url": "https://vulncheck.com/xdb/739974fb0198",
+			"date_added": "2022-09-25T15:15:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jam620/Sophos-Vulnerability.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/hackers-tried-to-use-sophos-firewall-zero-day-to-deploy-ransomware/",
+			"date_added": "2022-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/",
+			"date_added": "2022-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2022-0922.pdf",
+			"date_added": "2022-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.prio-n.com/a-year-in-review-2022-100-vulnerabilities-you-should-prioritize/",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",
+			"date_added": "2023-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/chinese-espionage-tactics",
+			"date_added": "2023-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-21T00:00:00Z",
+	"cisa_date_added": "2022-03-31T00:00:00Z",
+	"date_added": "2022-03-21T00:00:00Z"
+}

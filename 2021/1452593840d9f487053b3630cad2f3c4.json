@@ -1,0 +1,41 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-825 R1 Devices",
+	"shortDescription": "D-Link DIR-825 R1 devices contain a buffer overflow vulnerability in the web interface that may allow for remote code execution.",
+	"vulnerabilityName": "D-Link DIR-825 R1 Devices Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29557"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-13&host_type=src&vulnerability=cve-2020-29557",
+			"date_added": "2024-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2020-29557",
+			"date_added": "2024-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/the-ghosts-of-mirai",
+			"date_added": "2021-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild",
+			"date_added": "2021-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-february-april-2021/",
+			"date_added": "2021-06-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-06-01T00:00:00Z"
+}

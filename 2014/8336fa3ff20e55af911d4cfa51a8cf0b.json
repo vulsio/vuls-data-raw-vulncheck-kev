@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player has a vulnerability in the way it handles a dereferenced memory pointer which could lead to code execution.",
+	"vulnerabilityName": "Adobe Flash Player Dereferenced Pointer Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2014-8439"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/01/a_different_exploit.html",
+			"date_added": "2015-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2014-10-14T00:00:00Z"
+}

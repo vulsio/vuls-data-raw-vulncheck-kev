@@ -1,0 +1,114 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Commerce and Magento Open Source",
+	"shortDescription": "Adobe Commerce and Magento Open Source contain an improper restriction of XML external entity reference (XXE) vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Adobe Commerce and Magento Open Source Improper Restriction of XML External Entity Reference (XXE) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-34102"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e16ac34e34d7",
+			"xdb_url": "https://vulncheck.com/xdb/e16ac34e34d7",
+			"date_added": "2024-06-28T14:50:29Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:d0rb/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "e10072b9959a",
+			"xdb_url": "https://vulncheck.com/xdb/e10072b9959a",
+			"date_added": "2024-06-28T12:45:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:11whoami99/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "56d612cb301b",
+			"xdb_url": "https://vulncheck.com/xdb/56d612cb301b",
+			"date_added": "2024-06-30T16:49:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "ff651d9ccadf",
+			"xdb_url": "https://vulncheck.com/xdb/ff651d9ccadf",
+			"date_added": "2024-07-07T23:35:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:SamJUK/cosmicsting-validator.git"
+		},
+		{
+			"xdb_id": "2eb4d44dc79b",
+			"xdb_url": "https://vulncheck.com/xdb/2eb4d44dc79b",
+			"date_added": "2024-07-13T17:31:10Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102-Python.git"
+		},
+		{
+			"xdb_id": "b9a5654f364d",
+			"xdb_url": "https://vulncheck.com/xdb/b9a5654f364d",
+			"date_added": "2024-07-13T10:25:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "eaa84997ad8a",
+			"xdb_url": "https://vulncheck.com/xdb/eaa84997ad8a",
+			"date_added": "2024-07-03T21:47:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0xhunster/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "62c07de93469",
+			"xdb_url": "https://vulncheck.com/xdb/62c07de93469",
+			"date_added": "2024-06-27T21:57:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "b740eaf30da0",
+			"xdb_url": "https://vulncheck.com/xdb/b740eaf30da0",
+			"date_added": "2024-07-01T08:19:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento.git"
+		},
+		{
+			"xdb_id": "c9c004d6c4af",
+			"xdb_url": "https://vulncheck.com/xdb/c9c004d6c4af",
+			"date_added": "2024-08-13T07:33:20Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:EQSTSeminar/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "68297a933a3c",
+			"xdb_url": "https://vulncheck.com/xdb/68297a933a3c",
+			"date_added": "2024-06-27T18:10:13Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:th3gokul/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "f7ec53083d00",
+			"xdb_url": "https://vulncheck.com/xdb/f7ec53083d00",
+			"date_added": "2024-06-28T23:33:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-34102.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://sansec.io/research/cosmicsting",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://sansec.io/research/cosmicsting-hitting-major-stores",
+			"date_added": "2024-07-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-07T00:00:00Z",
+	"cisa_date_added": "2024-07-17T00:00:00Z",
+	"date_added": "2024-07-01T00:00:00Z"
+}

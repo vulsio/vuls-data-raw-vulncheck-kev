@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux Kernel contains an improper input validation vulnerability in the Reliable Datagram Sockets (RDS) protocol implementation that allows local users to gain privileges via crafted use of the sendmsg and recvmsg system calls.",
+	"vulnerabilityName": "Linux Kernel Improper Input Validation Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3904"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5cf258448d69",
+			"xdb_url": "https://vulncheck.com/xdb/5cf258448d69",
+			"date_added": "2015-06-09T22:27:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:redhatkaty/-cve-2010-3904-report.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-02T00:00:00Z",
+	"cisa_date_added": "2023-05-12T00:00:00Z",
+	"date_added": "2023-05-12T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "vestacp",
+	"product": "control_panel",
+	"shortDescription": "myVesta Control Panel before 0.9.8-26-43 and Vesta Control Panel before 0.9.8-26 are vulnerable to command injection. An authenticated and remote administrative user can execute arbitrary commands via the v_sftp_license parameter when sending HTTP POST requests to the /edit/server endpoint.",
+	"vulnerabilityName": "vestacp control_panel Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-46850"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",
+			"date_added": "2021-06-03T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-03T00:00:00Z"
+}

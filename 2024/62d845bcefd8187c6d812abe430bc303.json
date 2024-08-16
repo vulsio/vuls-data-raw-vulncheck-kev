@@ -1,0 +1,19 @@
+{
+	"vendorProject": "dedecms",
+	"product": "dedecms",
+	"shortDescription": "DedeCMS through 5.7 has SQL Injection via the $_FILES superglobal to plus/recommend.php.",
+	"vulnerabilityName": "dedecms dedecms Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-17731"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

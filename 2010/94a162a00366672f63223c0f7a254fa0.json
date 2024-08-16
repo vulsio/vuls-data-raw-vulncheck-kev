@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "Adobe Acrobat and Reader contain a buffer overflow vulnerability that allows remote attackers to execute code via a PDF file with long arguments to unspecified JavaScript methods.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5659"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/acrobat-javascript-blacklist-framework/",
+			"date_added": "2010-01-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2010-01-20T00:00:00Z"
+}

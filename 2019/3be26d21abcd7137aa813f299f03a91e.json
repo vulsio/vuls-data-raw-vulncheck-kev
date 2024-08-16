@@ -1,0 +1,19 @@
+{
+	"vendorProject": "yellowpencil",
+	"product": "visual_css_style_editor",
+	"shortDescription": "The WaspThemes Visual CSS Style Editor (aka yellow-pencil-visual-theme-customizer) plugin before 7.2.1 for WordPress allows yp_option_update CSRF, as demonstrated by use of yp_remote_get to obtain admin access.",
+	"vulnerabilityName": "yellowpencil visual_css_style_editor Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-11886"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2019/04/zero-day-vulnerability-in-yellow-pencil-visual-theme-customizer-exploited-in-the-wild/",
+			"date_added": "2019-04-11T00:00:00Z"
+		}
+	],
+	"date_added": "2019-04-11T00:00:00Z"
+}

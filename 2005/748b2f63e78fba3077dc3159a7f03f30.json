@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "asp.net",
+	"shortDescription": "The Microsoft .NET forms authentication capability for ASP.NET allows remote attackers to bypass authentication for .aspx files in restricted directories via a request containing a (1) \"\\\" (backslash) or (2) \"%5C\" (encoded backslash), aka \"Path Validation Vulnerability.\"",
+	"vulnerabilityName": "Microsoft asp.net Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-0847"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-004",
+			"date_added": "2005-02-08T00:00:00Z"
+		}
+	],
+	"date_added": "2005-02-08T00:00:00Z"
+}

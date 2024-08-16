@@ -1,0 +1,19 @@
+{
+	"vendorProject": "gerapy",
+	"product": "gerapy",
+	"shortDescription": "Gerapy is a distributed crawler management framework. Prior to version 0.9.9, an authenticated user could execute arbitrary commands. This issue is fixed in version 0.9.9. There are no known workarounds.",
+	"vulnerabilityName": "gerapy gerapy Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-32849"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2021-32849",
+			"date_added": "2024-03-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-03-04T00:00:00Z"
+}

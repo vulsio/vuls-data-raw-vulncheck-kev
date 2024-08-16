@@ -1,0 +1,23 @@
+{
+	"vendorProject": "QNAP",
+	"product": "iartist_lite",
+	"shortDescription": "The FTP service in QNAP iArtist Lite before 1.4.54, as distributed with QNAP Signage Station before 2.0.1, has hardcoded credentials, which makes it easier for remote attackers to obtain access via a session on TCP port 21.",
+	"vulnerabilityName": "QNAP iArtist Lite before 1.4.54 FTP Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-7261"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_us/research/18/g/vpnfilter-affected-devices-still-riddled-with-19-vulnerabilities.html",
+			"date_added": "2018-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2018-07-13T00:00:00Z"
+}

@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Checkbox",
+	"product": "Checkbox Survey",
+	"shortDescription": "Deserialization of Untrusted Data vulnerability in CheckboxWeb.dll of Checkbox Survey allows an unauthenticated remote attacker to execute arbitrary code.",
+	"vulnerabilityName": "Checkbox Survey Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Versions 6 and earlier for this product are end-of-life and must be removed from agency networks. Versions 7 and later are not considered vulnerable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-27852"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4329/",
+			"date_added": "2024-05-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-02T00:00:00Z",
+	"cisa_date_added": "2022-04-11T00:00:00Z",
+	"date_added": "2022-04-11T00:00:00Z"
+}

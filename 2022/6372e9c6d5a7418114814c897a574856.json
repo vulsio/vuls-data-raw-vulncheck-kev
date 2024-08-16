@@ -1,0 +1,33 @@
+{
+	"vendorProject": "GIGABYTE",
+	"product": "Multiple Products",
+	"shortDescription": "The GPCIDrv and GDrv low-level drivers in GIGABYTE App Center, AORUS Graphics Engine, XTREME Gaming Engine, and OC GURU II expose functionality to read and write arbitrary physical memory. This could be leveraged by a local attacker to elevate privileges.",
+	"vulnerabilityName": "GIGABYTE Multiple Products Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-19321"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "74650e8a4a65",
+			"xdb_url": "https://vulncheck.com/xdb/74650e8a4a65",
+			"date_added": "2022-04-26T16:25:06Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:nanabingies/Driver-RW.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-11-14T00:00:00Z",
+	"cisa_date_added": "2022-10-24T00:00:00Z",
+	"date_added": "2022-10-24T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Netlify",
+	"product": "OpenMetadata",
+	"shortDescription": "OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration. Similarly to the GHSL-2023-250 issue, `AlertUtil::validateExpression` is also called from `EventSubscriptionRepository.prepare()`, which can lead to Remote Code Execution. `prepare()` is called from `EntityRepository.prepareInternal()` which, in turn, gets called from `EntityResource.createOrUpdate()`. Note that, even though there is an authorization check (`authorizer.authorize()`), it gets called after `prepareInternal()` gets called and, therefore, after the SpEL expression has been evaluated. In order to reach this method, an attacker can send a PUT request to `/api/v1/events/subscriptions` which gets handled by `EventSubscriptionResource.createOrUpdateEventSubscription()`. This issue may lead to Remote Code Execution and has been addressed in version 1.2.4. Users are advised to upgrade.",
+	"vulnerabilityName": "OpenMetadata SpEL Injection in PUT /api/v1/events/subscriptions",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-28847"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/04/17/attackers-exploiting-new-critical-openmetadata-vulnerabilities-on-kubernetes-clusters/",
+			"date_added": "2024-04-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-17T00:00:00Z"
+}

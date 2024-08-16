@@ -1,0 +1,89 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Kernel contains an exposed IOCTL with insufficient access control vulnerability within the IOCTL (input and output control) dispatcher in appid.sys that allows a local attacker to achieve privilege escalation.",
+	"vulnerabilityName": "Microsoft Windows Kernel Exposed IOCTL with Insufficient Access Control Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-21338"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0319939c028f",
+			"xdb_url": "https://vulncheck.com/xdb/0319939c028f",
+			"date_added": "2024-04-23T19:09:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:varwara/CVE-2024-21338.git"
+		},
+		{
+			"xdb_id": "bc7aefbec152",
+			"xdb_url": "https://vulncheck.com/xdb/bc7aefbec152",
+			"date_added": "2024-04-17T10:16:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:UMU618/CVE-2024-21338.git"
+		},
+		{
+			"xdb_id": "0c0b9d5ca67d",
+			"xdb_url": "https://vulncheck.com/xdb/0c0b9d5ca67d",
+			"date_added": "2024-06-23T06:03:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-21338_PoC.git"
+		},
+		{
+			"xdb_id": "d4686f78dfae",
+			"xdb_url": "https://vulncheck.com/xdb/d4686f78dfae",
+			"date_added": "2024-07-29T13:18:06Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Crowdfense/CVE-2024-21338.git"
+		},
+		{
+			"xdb_id": "b1beae9b4cef",
+			"xdb_url": "https://vulncheck.com/xdb/b1beae9b4cef",
+			"date_added": "2024-04-13T05:53:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hakaioffsec/CVE-2024-21338.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Feb?api-version=2020",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21338",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/luiginocamastra/from-byovd-to-a-0-day-unveiling-advanced-exploits-in-cyber-recruiting-scams/",
+			"date_added": "2024-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-quarterly-highlights-q1-2024/",
+			"date_added": "2024-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q1-2024-threat-report/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-quarterlyhighlights-q2-2024/",
+			"date_added": "2024-07-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-03-25T00:00:00Z",
+	"cisa_date_added": "2024-03-04T00:00:00Z",
+	"date_added": "2024-02-13T00:00:00Z"
+}

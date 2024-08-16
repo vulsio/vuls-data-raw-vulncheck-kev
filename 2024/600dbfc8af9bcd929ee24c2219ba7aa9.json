@@ -1,0 +1,19 @@
+{
+	"vendorProject": "import_legacy_media_project",
+	"product": "import_legacy_media",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in the Import Legacy Media plugin 0.1 and earlier for WordPress allows remote attackers to inject arbitrary web script or HTML via the filename parameter to getid3/demos/demo.mimeonly.php.",
+	"vulnerabilityName": "import_legacy_media_project import_legacy_media Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-4535"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

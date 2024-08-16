@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "An information disclosure vulnerability exists when the Windows RDP server improperly discloses the contents of its memory. An attacker who successfully exploited this vulnerability could obtain information to further compromise the system.\nTo exploit this vulnerability, an attacker would have to connect remotely to an affected system and run a specially crafted application.\nThe security update addresses the vulnerability by correcting how the Windows RDP server initializes memory.\n",
+	"vulnerabilityName": "Microsoft Windows Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-1224"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.hhs.gov/sites/default/files/revil-update-tlpwhite.pdf",
+			"date_added": "2021-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-19T00:00:00Z"
+}

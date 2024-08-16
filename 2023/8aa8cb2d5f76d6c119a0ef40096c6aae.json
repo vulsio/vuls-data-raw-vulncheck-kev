@@ -1,0 +1,27 @@
+{
+	"vendorProject": "wpdevart",
+	"product": "booking_calendar",
+	"shortDescription": "The Booking calendar, Appointment Booking System WordPress plugin before 3.2.2 does not validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE",
+	"vulnerabilityName": "wpdevart booking_calendar Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3982"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-23&host_type=src&vulnerability=cve-2022-3982",
+			"date_added": "2023-12-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2022-3982",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2022-3982",
+			"date_added": "2024-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-23T00:00:00Z"
+}

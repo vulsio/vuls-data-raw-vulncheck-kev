@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Vir.it_explorer",
+	"product": "Tgsoft",
+	"shortDescription": "Tgsoft Vir.it_explorer arbitrary write kernel vulnerability via 0x82730080 ioctls",
+	"vulnerabilityName": "Tgsoft Vir.it_explorer arbitrary write kernel vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-16238"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.microsoft.com/security/blog/2021/01/28/zinc-attacks-against-security-researchers/",
+			"date_added": "2021-01-28T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-28T00:00:00Z"
+}

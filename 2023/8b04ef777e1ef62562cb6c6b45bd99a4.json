@@ -1,0 +1,19 @@
+{
+	"vendorProject": "artbees",
+	"product": "jupiter_x_core",
+	"shortDescription": "Incorrect Authorization vulnerability in Artbees JupiterX Core allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects JupiterX Core: from n/a through 3.3.8.",
+	"vulnerabilityName": "artbees jupiter_x_core Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38389"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/jupiterx-core/wordpress-jupiter-x-core-plugin-3-3-0-unauthenticated-account-takeover-vulnerability",
+			"date_added": "2023-08-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-22T00:00:00Z"
+}

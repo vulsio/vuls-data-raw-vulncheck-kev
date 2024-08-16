@@ -1,0 +1,19 @@
+{
+	"vendorProject": "tshirtecommerce",
+	"product": "custom_product_designer",
+	"shortDescription": "An issue was discovered in the tshirtecommerce (aka Custom Product Designer) component 2.1.4 for PrestaShop. An HTTP request can be forged with the POST parameter file_name in the tshirtecommerce/ajax.php?type=svg endpoint, to allow a remote attacker to traverse directories on the system in order to open files (without restriction on the extension and path). Only files that can be parsed in XML can be opened. This is exploited in the wild in March 2023.",
+	"vulnerabilityName": "tshirtecommerce custom_product_designer Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27639"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-27639",
+			"date_added": "2023-06-01T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-01T00:00:00Z"
+}

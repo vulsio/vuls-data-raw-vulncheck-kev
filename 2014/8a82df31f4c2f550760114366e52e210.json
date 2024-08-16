@@ -1,0 +1,27 @@
+{
+	"vendorProject": "GE",
+	"product": "intelligent_platforms_proficy_hmi\\%2fscada_cimplicity",
+	"shortDescription": "Directory traversal vulnerability in CimWebServer.exe (aka the WebView component) in GE Intelligent Platforms Proficy HMI/SCADA - CIMPLICITY before 8.2 SIM 24, and Proficy Process Systems with CIMPLICITY, allows remote attackers to execute arbitrary code via a crafted message to TCP port 10212, aka ZDI-CAN-1623.",
+	"vulnerabilityName": "GE intelligent_platforms_proficy_hmi\\%2fscada_cimplicity Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0751"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-14-281-01B",
+			"date_added": "2014-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/ics-alerts/ics-alert-14-281-01a",
+			"date_added": "2018-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/ics-alerts/ics-alert-14-281-01e",
+			"date_added": "2021-07-22T00:00:00Z"
+		}
+	],
+	"date_added": "2014-12-10T00:00:00Z"
+}

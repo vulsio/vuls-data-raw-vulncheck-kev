@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Citrix",
+	"product": "NetScaler ADC and NetScaler Gateway",
+	"shortDescription": "Denial of Service in NetScaler ADC and NetScaler Gateway when configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or AAA Virtual Server",
+	"vulnerabilityName": "Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-4967"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://hub.dragos.com/hubfs/312-Year-in-Review/2023/Dragos-2023-Year-in-Review-Full-Report.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/battling-ransomware-one-tag-at-a-time",
+			"date_added": "2024-02-08T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-08T00:00:00Z"
+}

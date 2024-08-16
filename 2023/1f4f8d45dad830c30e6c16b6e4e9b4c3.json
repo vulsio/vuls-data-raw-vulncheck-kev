@@ -1,0 +1,19 @@
+{
+	"vendorProject": "HasThemes",
+	"product": "HT Mega",
+	"shortDescription": "Improper Privilege Management vulnerability in HasThemes HT Mega allows Privilege Escalation.This issue affects HT Mega: from n/a through 2.2.0.",
+	"vulnerabilityName": "HasThemes HT Mega Priviledge Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-37999"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/ht-mega-for-elementor/wordpress-ht-mega-absolute-addons-for-elementor-plugin-2-2-0-unauthenticated-privilege-escalation-vulnerability",
+			"date_added": "2023-07-14T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-14T00:00:00Z"
+}

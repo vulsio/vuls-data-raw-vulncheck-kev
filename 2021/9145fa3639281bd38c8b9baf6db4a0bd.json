@@ -1,0 +1,97 @@
+{
+	"vendorProject": "Apache",
+	"product": "Struts",
+	"shortDescription": "Forced Object-Graph Navigation Language (OGNL) evaluation in Apache Struts, when evaluated on raw user input in tag attributes, can lead to remote code execution.",
+	"vulnerabilityName": "Apache Struts Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-17530"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5fd88116c567",
+			"xdb_url": "https://vulncheck.com/xdb/5fd88116c567",
+			"date_added": "2023-04-02T13:20:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:keyuan15/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "dbd52a7e6d06",
+			"xdb_url": "https://vulncheck.com/xdb/dbd52a7e6d06",
+			"date_added": "2020-12-14T06:54:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fengziHK/CVE-2020-17530-strust2-061.git"
+		},
+		{
+			"xdb_id": "e3fa2afdc5f2",
+			"xdb_url": "https://vulncheck.com/xdb/e3fa2afdc5f2",
+			"date_added": "2020-12-09T09:53:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ka1n4t/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "d5f1da1e2721",
+			"xdb_url": "https://vulncheck.com/xdb/d5f1da1e2721",
+			"date_added": "2020-12-18T07:03:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ludy-dev/freemarker_RCE_struts2_s2-061.git"
+		},
+		{
+			"xdb_id": "de8e0e425aa8",
+			"xdb_url": "https://vulncheck.com/xdb/de8e0e425aa8",
+			"date_added": "2021-01-24T07:51:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:killmonday/CVE-2020-17530-s2-061.git"
+		},
+		{
+			"xdb_id": "20d585ac92c4",
+			"xdb_url": "https://vulncheck.com/xdb/20d585ac92c4",
+			"date_added": "2020-12-30T17:23:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:CyborgSecurity/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "bfb08d5ee460",
+			"xdb_url": "https://vulncheck.com/xdb/bfb08d5ee460",
+			"date_added": "2020-12-10T17:42:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wuzuowei/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "2413521dca63",
+			"xdb_url": "https://vulncheck.com/xdb/2413521dca63",
+			"date_added": "2020-12-13T11:02:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Al1ex/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "e2133615d248",
+			"xdb_url": "https://vulncheck.com/xdb/e2133615d248",
+			"date_added": "2021-01-24T10:44:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-17530.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2021/09/21/apache-struts-2-double-ognl-evaluation-vulnerability-cve-2020-17530",
+			"date_added": "2021-09-21T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-04-12T00:00:00Z"
+}

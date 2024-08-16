@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Unspecified vulnerability in Microsoft Word 2000 SP3, Word 2002 SP3, and Office 2004 for Mac allows user-assisted remote attackers to execute arbitrary code via a malformed string in a Word file, aka \"Word Memory Corruption Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Office Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-3899"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-060",
+			"date_added": "2007-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2007-10-09T00:00:00Z"
+}

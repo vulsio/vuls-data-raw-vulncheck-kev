@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium Animation",
+	"shortDescription": "Google Chromium Animation contains a use-after-free vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium Animation Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0609"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/countering-threats-north-korea/",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/the-dprk-delicate-sound-of-cyber/",
+			"date_added": "2022-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2022-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise",
+			"date_added": "2023-04-20T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.isc.360.com/isc-cxo/2023APT_report.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-01T00:00:00Z",
+	"cisa_date_added": "2022-02-15T00:00:00Z",
+	"date_added": "2022-02-10T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "opennetadmin",
+	"product": "opennetadmin",
+	"shortDescription": "A vulnerability was found in OpenNetAdmin 18.1.1. It has been rated as critical. Affected by this issue is some unknown functionality. The manipulation leads to privilege escalation. The attack may be launched remotely. The exploit has been disclosed to the public and may be used.",
+	"vulnerabilityName": "opennetadmin opennetadmin Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-25065"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-13&host_type=src&vulnerability=cve-2019-25065",
+			"date_added": "2024-01-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-13T00:00:00Z"
+}

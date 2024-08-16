@@ -1,0 +1,64 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Java SE",
+	"shortDescription": "The Java Runtime Environment (JRE) component in Oracle Java SE allow for remote code execution.",
+	"vulnerabilityName": "Oracle Java SE Runtime Environment (JRE) Arbitrary Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2012-4681"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "488e09b7437c",
+			"xdb_url": "https://vulncheck.com/xdb/488e09b7437c",
+			"date_added": "2014-09-26T02:33:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:benjholla/CVE-2012-4681-Armoring.git"
+		},
+		{
+			"xdb_id": "b7ad75c598ae",
+			"xdb_url": "https://vulncheck.com/xdb/b7ad75c598ae",
+			"date_added": "2018-01-05T08:10:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ZH3FENG/PoCs-CVE_2012_4681.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2012/08/27/oracle-java-7-security-manager-bypass-vulnerability",
+			"date_added": "2013-01-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-ke3chang.pdf",
+			"date_added": "2014-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/the-epic-turla-operation/65545/",
+			"date_added": "2014-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf",
+			"date_added": "2015-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://strapi.eurepoc.eu/uploads/Eu_Repo_C_APT_profile_Equation_Group_866e8d2944.pdf",
+			"date_added": "2022-11-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2013-01-23T00:00:00Z"
+}

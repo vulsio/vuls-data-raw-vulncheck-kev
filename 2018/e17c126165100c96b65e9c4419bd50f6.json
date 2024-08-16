@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "A privilege escalation vulnerability exists when Windows improperly handles calls to Win32k.sys. An attacker who successfully exploited this vulnerability could run remote code in the security context of the local system.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8589"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2018-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2018-Nov?api-version=2020",
+			"date_added": "2018-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://twitter.com/craiu/status/1038046509793722368",
+			"date_added": "2018-09-06T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/zero-day-in-windows-kernel-transaction-manager-cve-2018-8611/89253/",
+			"date_added": "2018-12-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2018-09-06T00:00:00Z"
+}

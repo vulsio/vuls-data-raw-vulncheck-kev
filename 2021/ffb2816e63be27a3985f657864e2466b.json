@@ -1,0 +1,49 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "Secure Remote Access (SRA)",
+	"shortDescription": "SonicWall Secure Remote Access (SRA) products contain an improper neutralization of a SQL Command leading to SQL injection.",
+	"vulnerabilityName": "SonicWall Secure Remote Access (SRA) SQL Injection Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-20028"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/how-ecrime-groups-leverage-sonicwall-vulnerability-cve-2019-7481/",
+			"date_added": "2021-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://blog.compass-security.com/2022/03/vpn-appliance-forensics/",
+			"date_added": "2022-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.theregister.com/2023/03/09/suspected_chinese_cyberspies_target_uppatched/",
+			"date_added": "2023-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/battling-ransomware-one-tag-at-a-time",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2021-06-08T00:00:00Z"
+}

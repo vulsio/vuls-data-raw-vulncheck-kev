@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "The EPATHOBJ::pprFlattenRec function in win32k.sys in the kernel-mode drivers in Microsoft does not properly initialize a pointer for the next object in a certain list, which allows local users to gain privileges.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-3660"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2015/01/ransomware-on-steroids-cryptowall-20.html",
+			"date_added": "2015-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064518/Carbanak_APT_eng.pdf",
+			"date_added": "2015-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2015/04/09/operation-buhtrap/",
+			"date_added": "2015-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
+			"date_added": "2016-04-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2015-01-06T00:00:00Z"
+}

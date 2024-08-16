@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "The XPC implementation in Admin Framework in Apple OS X before 10.10.3 allows local users to bypass authentication and obtain admin privileges.",
+	"vulnerabilityName": "Apple OS X Authentication Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-1130"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0014762ccc68",
+			"xdb_url": "https://vulncheck.com/xdb/0014762ccc68",
+			"date_added": "2015-04-10T20:43:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Shmoopi/RootPipe-Demo.git"
+		},
+		{
+			"xdb_id": "afd1ccbf6e8d",
+			"xdb_url": "https://vulncheck.com/xdb/afd1ccbf6e8d",
+			"date_added": "2015-04-15T15:12:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sideeffect42/RootPipeTester.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-10T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2022-02-10T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "webglimpse",
+	"product": "webglimpse",
+	"shortDescription": "webglimpse.cgi in Webglimpse before 2.20.0 allows remote attackers to execute arbitrary commands via shell metacharacters in the query parameter, as exploited in the wild in March 2012.",
+	"vulnerabilityName": "webglimpse webglimpse Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-1795"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2012-1795",
+			"date_added": "2012-03-20T00:00:00Z"
+		}
+	],
+	"date_added": "2012-03-20T00:00:00Z"
+}

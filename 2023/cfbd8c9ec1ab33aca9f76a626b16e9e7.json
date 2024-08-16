@@ -1,0 +1,55 @@
+{
+	"vendorProject": "Apache",
+	"product": "Airflow",
+	"shortDescription": "In Apache Airflow, prior to version 2.2.4, some example DAGs did not properly sanitize user-provided params, making them susceptible to OS Command Injection from the web UI.",
+	"vulnerabilityName": "Apache Airflow Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-24288"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-08&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2023-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-03&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-07&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-01-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-07&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-02-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-09&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-06&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-03-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-10&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-17&host_type=src&vulnerability=cve-2022-24288",
+			"date_added": "2024-03-17T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-08T00:00:00Z"
+}

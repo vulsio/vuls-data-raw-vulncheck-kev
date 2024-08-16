@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "visual_c\\+\\+",
+	"shortDescription": "The Active Template Library (ATL) in Microsoft Visual Studio .NET 2003 SP1, Visual Studio 2005 SP1 and 2008 Gold and SP1, and Visual C++ 2005 SP1 and 2008 Gold and SP1; and Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP2, Vista Gold, SP1, and SP2, and Server 2008 Gold and SP2; does not properly restrict use of OleLoadFromStream in instantiating objects from data streams, which allows remote attackers to execute arbitrary code via a crafted HTML document with an ATL (1) component or (2) control, related to ATL headers and bypassing security policies, aka \"ATL COM Initialization Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Active Template Library (ATL) COM Initialization Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-2493"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-055",
+			"date_added": "2009-11-04T00:00:00Z"
+		}
+	],
+	"date_added": "2009-11-04T00:00:00Z"
+}

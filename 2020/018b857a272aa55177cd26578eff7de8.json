@@ -1,0 +1,54 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 Engine contains a type confusion vulnerability allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-6418"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "68df06773b3b",
+			"xdb_url": "https://vulncheck.com/xdb/68df06773b3b",
+			"date_added": "2020-06-13T07:32:24Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Goyotan/CVE-2020-6418-PoC.git"
+		},
+		{
+			"xdb_id": "f153146b6e74",
+			"xdb_url": "https://vulncheck.com/xdb/f153146b6e74",
+			"date_added": "2022-02-19T20:00:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ulexec/ChromeSHELFLoader.git"
+		},
+		{
+			"xdb_id": "cef4dd4ed8b3",
+			"xdb_url": "https://vulncheck.com/xdb/cef4dd4ed8b3",
+			"date_added": "2023-12-12T06:13:41Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:gs-skbandaru/test.git"
+		},
+		{
+			"xdb_id": "09aef40e5781",
+			"xdb_url": "https://vulncheck.com/xdb/09aef40e5781",
+			"date_added": "2020-02-27T08:18:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ChoKyuWon/CVE-2020-6418.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-02-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-02-18T00:00:00Z"
+}

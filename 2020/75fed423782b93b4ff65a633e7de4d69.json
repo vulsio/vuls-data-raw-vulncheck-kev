@@ -1,0 +1,435 @@
+{
+	"vendorProject": "Progress",
+	"product": "Telerik UI for ASP.NET AJAX",
+	"shortDescription": "Progress Telerik UI for ASP.NET AJAX contains a deserialization of untrusted data vulnerability through RadAsyncUpload which leads to code execution on the server in the context of the w3wp.exe process.",
+	"vulnerabilityName": "Progress Telerik UI for ASP.NET AJAX Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-18935"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dd4d5145d7fd",
+			"xdb_url": "https://vulncheck.com/xdb/dd4d5145d7fd",
+			"date_added": "2020-08-26T20:57:11Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:appliedi/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "6733f1b67fb2",
+			"xdb_url": "https://vulncheck.com/xdb/6733f1b67fb2",
+			"date_added": "2020-05-17T04:22:45Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:becrevex/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "48d2eb3dee46",
+			"xdb_url": "https://vulncheck.com/xdb/48d2eb3dee46",
+			"date_added": "2020-05-25T08:37:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThanHuuTuan/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "569e3fec38c8",
+			"xdb_url": "https://vulncheck.com/xdb/569e3fec38c8",
+			"date_added": "2020-05-29T07:29:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThanHuuTuan/CVE_2019_18935.git"
+		},
+		{
+			"xdb_id": "8dc793fec147",
+			"xdb_url": "https://vulncheck.com/xdb/8dc793fec147",
+			"date_added": "2020-08-19T17:11:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:murataydemir/CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "dffdf06b5f8a",
+			"xdb_url": "https://vulncheck.com/xdb/dffdf06b5f8a",
+			"date_added": "2021-10-29T16:57:46Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0xAgun/CVE-2019-18935-checker.git"
+		},
+		{
+			"xdb_id": "de3ebe4e8ea8",
+			"xdb_url": "https://vulncheck.com/xdb/de3ebe4e8ea8",
+			"date_added": "2019-12-12T07:58:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:noperator/CVE-2019-18935.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-14&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-16&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-18&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-21&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-22&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-24&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-30&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-31&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2023-12-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-03&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-04&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-05&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-06&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-18&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-22&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-23&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-24&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-28&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-30&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-03&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-08&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-15&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-16&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-19&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-20&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-29&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-05&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-08&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-09&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-11&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-16&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-17&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-18&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-22&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-26&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-30&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-02&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-11&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-15&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-16&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-23&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-25&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-26&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-30&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-01&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-06&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-07&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-27&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-28&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-14&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-07-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-20&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-07-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-22&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-07-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-26&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-02&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2020/09/CTIR-quarterly-trends-Q4-2020.html",
+			"date_added": "2020-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/netwalker.pdf",
+			"date_added": "2020-09-24T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.pathfactory.com/assets/10753/contents/298161/03f15d14-01bb-462b-a8d4-d8c6149f5604.pdf",
+			"date_added": "2021-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/revil-update-tlpwhite.pdf",
+			"date_added": "2021-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2022/06/15/telerik-ui-exploitation-leads-to-cryptominer-cobalt-strike-infections/",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://redcanary.com/blog/blue-mockingbird-cryptominer/",
+			"date_added": "2020-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://lifars.com/knowledge-center/xmrig-based-coinminer-bluemockingbird-group/",
+			"date_added": "2020-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.telerik.com/blogs/blue-mockingbird-vulnerability-telerik-guidance",
+			"date_added": "2020-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-209a",
+			"date_added": "2021-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/rapid-attacks-extort-ransomware/175445/",
+			"date_added": "2021-10-13T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2023/03/15/threat-actors-exploited-progress-telerik-vulnerability-us-government-iis-server",
+			"date_added": "2023-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-074a",
+			"date_added": "2023-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2023-03/aa23-074a-threat-actors-exploit-telerik-vulnerability-in-us-government-iis-server_1.pdf",
+			"date_added": "2023-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/analysis-reports/ar23-166a",
+			"date_added": "2023-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html",
+			"date_added": "2023-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-278a",
+			"date_added": "2023-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.orangecyberdefense.com/global/blog/research/ivanti-deja-vu",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://4793768.fs1.hubspotusercontent-na1.net/hubfs/4793768/CyberCX_Report_DFIR%202023%20Year%20in%20Review_Online.pdf",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://services.google.com/fh/files/misc/m-trends-2024.pdf",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4329/",
+			"date_added": "2024-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2023-06/aa23-074a-Threat%20Actors%20Exploit%20Progress%20Telerik%20Vulnerabilities%20in%20Multiple%20U.S.%20Government%20IIS%20Servers.pdf",
+			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-05-07T00:00:00Z"
+}

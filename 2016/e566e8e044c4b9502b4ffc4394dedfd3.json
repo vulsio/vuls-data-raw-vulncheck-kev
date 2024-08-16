@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "JBoss Application Server",
+	"shortDescription": "Cross-site request forgery (CSRF) vulnerability in the Web Console (web-console) in Red Hat Enterprise Application Platform before 6.4.4 and WildFly (formerly JBoss Application Server) before 2.0.0.CR9 allows remote attackers to hijack the authentication of administrators for requests that make arbitrary changes to an instance via vectors involving a file upload using a multipart/form-data submission.",
+	"vulnerabilityName": "Red Hat JBoss Application Server Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-5188"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		}
+	],
+	"date_added": "2016-03-25T00:00:00Z"
+}

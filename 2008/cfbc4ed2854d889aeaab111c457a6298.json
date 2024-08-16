@@ -1,0 +1,19 @@
+{
+	"vendorProject": "phpcow",
+	"product": "phpcow",
+	"shortDescription": "Unspecified vulnerability in PHPCow allows remote attackers to execute arbitrary code via unknown vectors, related to a \"file inclusion vulnerability,\" as exploited in the wild in November 2008.",
+	"vulnerabilityName": "phpcow phpcow Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-5227"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2008-5227",
+			"date_added": "2008-11-25T00:00:00Z"
+		}
+	],
+	"date_added": "2008-11-25T00:00:00Z"
+}

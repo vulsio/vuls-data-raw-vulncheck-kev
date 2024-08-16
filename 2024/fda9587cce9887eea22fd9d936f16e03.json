@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "Microsoft Excel 2016 Click-to-Run (C2R) allows an attacker to run arbitrary code in the context of the current user by failing to properly handle objects in memory, aka \"Microsoft Office Memory Corruption Vulnerability\". This CVE ID is unique from CVE-2017-11882.",
+	"vulnerabilityName": "Microsoft Excel Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-11884"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-04T00:00:00Z"
+}

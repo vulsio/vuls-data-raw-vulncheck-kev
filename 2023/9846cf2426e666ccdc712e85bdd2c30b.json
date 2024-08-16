@@ -1,0 +1,27 @@
+{
+	"vendorProject": "apsystems",
+	"product": "ecu-r",
+	"shortDescription": "Command injection in the administration interface in APSystems ECU-R version 5203 allows a remote unauthenticated attacker to execute arbitrary commands as root using the timezone parameter.",
+	"vulnerabilityName": "apsystems ecu-r Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45699"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dbe80197dade",
+			"xdb_url": "https://vulncheck.com/xdb/dbe80197dade",
+			"date_added": "2022-11-17T14:55:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xst4n/APSystems-ECU-R-RCE-Timezone.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-22T00:00:00Z"
+}

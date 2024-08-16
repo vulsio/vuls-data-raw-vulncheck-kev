@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "An elevation of privilege vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka 'Win32k Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-0642.",
+	"vulnerabilityName": "Win32k Elevation of Privilege",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0624"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_Feb_2020_Edition_1.pdf",
+			"date_added": "2020-01-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-22T00:00:00Z"
+}

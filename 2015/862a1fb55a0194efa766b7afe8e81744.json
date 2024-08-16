@@ -1,0 +1,760 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office contains a memory corruption vulnerability that allows remote code execution in the context of the current user.",
+	"vulnerabilityName": "Microsoft Office Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-11882"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "09bbc90e9042",
+			"xdb_url": "https://vulncheck.com/xdb/09bbc90e9042",
+			"date_added": "2022-08-15T07:09:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2017-11882-reproduction.git"
+		},
+		{
+			"xdb_id": "e0d6cb6a75d0",
+			"xdb_url": "https://vulncheck.com/xdb/e0d6cb6a75d0",
+			"date_added": "2020-11-26T04:19:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:5l1v3r1/rtfkit.git"
+		},
+		{
+			"xdb_id": "1beb5af7f34c",
+			"xdb_url": "https://vulncheck.com/xdb/1beb5af7f34c",
+			"date_added": "2018-12-10T11:15:15Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:chanbin/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a22f4f0b4f81",
+			"xdb_url": "https://vulncheck.com/xdb/a22f4f0b4f81",
+			"date_added": "2021-01-25T12:44:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Retr0-code/SignHere.git"
+		},
+		{
+			"xdb_id": "b7c60553adc6",
+			"xdb_url": "https://vulncheck.com/xdb/b7c60553adc6",
+			"date_added": "2017-11-27T01:50:44Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Shadowshusky/CVE-2017-11882-.git"
+		},
+		{
+			"xdb_id": "884e21913154",
+			"xdb_url": "https://vulncheck.com/xdb/884e21913154",
+			"date_added": "2021-11-25T05:03:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lisinan988/CVE-2017-11882-exp.git"
+		},
+		{
+			"xdb_id": "f1dea32cd138",
+			"xdb_url": "https://vulncheck.com/xdb/f1dea32cd138",
+			"date_added": "2022-03-18T05:38:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:tzwlhack/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "bd4146cb3e92",
+			"xdb_url": "https://vulncheck.com/xdb/bd4146cb3e92",
+			"date_added": "2019-08-14T11:55:00Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:littlebin404/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "f99472e3e149",
+			"xdb_url": "https://vulncheck.com/xdb/f99472e3e149",
+			"date_added": "2018-01-11T09:43:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rxwx/CVE-2018-0802.git"
+		},
+		{
+			"xdb_id": "29dd95b375f6",
+			"xdb_url": "https://vulncheck.com/xdb/29dd95b375f6",
+			"date_added": "2018-01-12T11:38:33Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/RTF_11882_0802.git"
+		},
+		{
+			"xdb_id": "1d994aebc6f7",
+			"xdb_url": "https://vulncheck.com/xdb/1d994aebc6f7",
+			"date_added": "2017-11-20T16:35:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:embedi/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "2c706d9ab4e2",
+			"xdb_url": "https://vulncheck.com/xdb/2c706d9ab4e2",
+			"date_added": "2017-11-22T01:11:39Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:starnightcyber/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "7b4a8e276f3c",
+			"xdb_url": "https://vulncheck.com/xdb/7b4a8e276f3c",
+			"date_added": "2017-11-21T15:22:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:rip1s/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "560639fdbb7b",
+			"xdb_url": "https://vulncheck.com/xdb/560639fdbb7b",
+			"date_added": "2017-11-21T09:15:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BlackMathIT/2017-11882_Generator.git"
+		},
+		{
+			"xdb_id": "f3e789735124",
+			"xdb_url": "https://vulncheck.com/xdb/f3e789735124",
+			"date_added": "2017-11-21T18:17:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:0x09AL/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "2289a5f14fd6",
+			"xdb_url": "https://vulncheck.com/xdb/2289a5f14fd6",
+			"date_added": "2017-11-21T05:55:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "f148343ee61b",
+			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
+			"date_added": "2023-11-30T18:12:58+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "40468e8cc38a",
+			"xdb_url": "https://vulncheck.com/xdb/40468e8cc38a",
+			"date_added": "2021-01-20T11:25:39+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:adai2022/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "94f46950b1a7",
+			"xdb_url": "https://vulncheck.com/xdb/94f46950b1a7",
+			"date_added": "2020-04-30T18:33:43+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882-17k.git"
+		},
+		{
+			"xdb_id": "b33af3e3d9b8",
+			"xdb_url": "https://vulncheck.com/xdb/b33af3e3d9b8",
+			"date_added": "2019-11-19T09:30:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "e792aa5f248a",
+			"xdb_url": "https://vulncheck.com/xdb/e792aa5f248a",
+			"date_added": "2019-12-21T10:55:51+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:xiaolouuu/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a5ab3a44d45b",
+			"xdb_url": "https://vulncheck.com/xdb/a5ab3a44d45b",
+			"date_added": "2020-01-02T00:23:59+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:wu_ze_jun/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "047b151c3f07",
+			"xdb_url": "https://vulncheck.com/xdb/047b151c3f07",
+			"date_added": "2020-05-18T19:22:22+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:aston_mation/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "ea0b976f167f",
+			"xdb_url": "https://vulncheck.com/xdb/ea0b976f167f",
+			"date_added": "2021-10-17T00:01:07+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:csharphpython/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "5df1c82ae620",
+			"xdb_url": "https://vulncheck.com/xdb/5df1c82ae620",
+			"date_added": "2020-04-30T10:39:14+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "e3d7500258d5",
+			"xdb_url": "https://vulncheck.com/xdb/e3d7500258d5",
+			"date_added": "2022-01-11T22:49:55+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_embedi/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a5f8a5153c43",
+			"xdb_url": "https://vulncheck.com/xdb/a5f8a5153c43",
+			"date_added": "2020-08-08T10:14:29+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "ce6706b8e64f",
+			"xdb_url": "https://vulncheck.com/xdb/ce6706b8e64f",
+			"date_added": "2019-11-19T09:33:21+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "1ac59b46e457",
+			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
+			"date_added": "2022-01-11T22:45:31+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "e74b79fd3ee0",
+			"xdb_url": "https://vulncheck.com/xdb/e74b79fd3ee0",
+			"date_added": "2019-12-19T21:18:30Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:alessio_/CVE-2017-11882.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://heimdalsecurity.com/blog/security-alert-new-variant-trickbot-malware-returns-spoofing/",
+			"date_added": "2018-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://whitehat.eu/incident-response-case-study-featuring-ryuk-and-trickbot-part-1/",
+			"date_added": "2019-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/smokeloader-using-old-vulnerabilities",
+			"date_added": "2022-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/emotet-darkgate-lokibot-crimeware-report/110286/",
+			"date_added": "2023-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://nsfocusglobal.com/mirai-botnets-new-wave-hailbot-kiraibot-catddos-and-their-fierce-onslaught/",
+			"date_added": "2023-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware_index-update-q221-csw.pdf",
+			"date_added": "2021-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf",
+			"date_added": "2015-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/cobalt-malware-strikes-using-cve-2017-11882-rtf-vulnerability",
+			"date_added": "2017-11-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.riskiq.com/blog/labs/cobalt-strike/",
+			"date_added": "2017-11-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html",
+			"date_added": "2017-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/17-year-old-ms-office-flaw-cve-2017-11882-actively-exploited-in-the-wild",
+			"date_added": "2017-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.freebuf.com/column/159865.html",
+			"date_added": "2018-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.riskiq.com/blog/labs/cobalt-group-spear-phishing-russian-banks/",
+			"date_added": "2018-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf",
+			"date_added": "2018-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://community.rsa.com/t5/rsa-netwitness-platform-blog/lotus-blossom-continues-asean-targeting/ba-p/518891",
+			"date_added": "2018-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/18/c/tropic-trooper-new-strategy.html",
+			"date_added": "2018-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html",
+			"date_added": "2018-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q1-2018/85280/",
+			"date_added": "2018-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/luckymouse-hits-national-data-center/86083/",
+			"date_added": "2018-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2018-0626.pdf",
+			"date_added": "2018-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2018/07/microsoft-office-vulnerabilities-used-to-distribute-felixroot-backdoor.html",
+			"date_added": "2018-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2018/07/multiple-cobalt-personality-disorder.html",
+			"date_added": "2018-07-31T00:00:00Z"
+		},
+		{
+			"url": "https://sebdraven.medium.com/when-a-malware-is-more-complex-than-the-paper-5822fc7ff257",
+			"date_added": "2018-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_moving-into-the-darkside.pdf",
+			"date_added": "2018-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/cta-security-playbook--goblin-panda",
+			"date_added": "2018-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-inception-attackers-target-europe-year-old-office-vulnerability/",
+			"date_added": "2018-11-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/chinese-threat-actor-tempperiscope/",
+			"date_added": "2018-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.africacybersecurityconference.com/document/CrowdStrike_GTR_2019.pdf",
+			"date_added": "2018-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://content.fireeye.com/apt-41/rpt-apt41",
+			"date_added": "2019-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/greyenergys-overlap-with-zebrocy/89506/",
+			"date_added": "2019-01-24T00:00:00Z"
+		},
+		{
+			"url": "http://download.ahnlab.com/kr/site/library/%5bAnalysis_Report%5dOperation_Kabar_Cobra.pdf",
+			"date_added": "2019-02-21T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/multiple-artradownloader-variants-used-by-bitter-to-target-pakistan/",
+			"date_added": "2019-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html",
+			"date_added": "2019-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/blog/top-vulnerabilities-2018",
+			"date_added": "2019-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2019/03/20/fake-or-fake-keeping-up-with-oceanlotus-decoys/",
+			"date_added": "2019-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/",
+			"date_added": "2019-05-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
+			"date_added": "2019-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2019/07/sweed-agent-tesla.html",
+			"date_added": "2019-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/recent-cloud-atlas-activity/92016/",
+			"date_added": "2019-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.360.cn/post/apt-c-06_0day.html",
+			"date_added": "2020-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/silverterrier-covid-19-themed-business-email-compromise/",
+			"date_added": "2020-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-133a",
+			"date_added": "2020-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cycldek-bridging-the-air-gap/97157/",
+			"date_added": "2020-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.seqrite.com/blog/operation-sidecopy/",
+			"date_added": "2020-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-266a",
+			"date_added": "2020-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html",
+			"date_added": "2020-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://nao-sec.org/2021/01/royal-road-redive.html",
+			"date_added": "2021-01-04T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/kasablanka-lodarat/",
+			"date_added": "2021-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybereason.com/blog/research/portdoor-new-chinese-apt-backdoor-attack-targets-russian-defense-sector",
+			"date_added": "2021-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-209a",
+			"date_added": "2021-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/10/crimeware-targets-afghanistan-india.html",
+			"date_added": "2021-10-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/sites/default/files/2022-02/rt-apt41-dual-operation.pdf",
+			"date_added": "2022-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/ukraine-targeted-outsteel-saintbot/",
+			"date_added": "2022-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/",
+			"date_added": "2022-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.secuinfra.com/en/techtalk/whatever-floats-your-boat-bitter-apt-continues-to-target-bangladesh/",
+			"date_added": "2022-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html",
+			"date_added": "2022-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://c3rb3ru5d3d53c.github.io/malware-blog/2022-07-04-bitter-apt-zxxz-backdoor/",
+			"date_added": "2022-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://ics-cert.kaspersky.com/publications/reports/2022/08/08/targeted-attack-on-industrial-enterprises-and-public-institutions/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/reservations-requested-ta558-targets-hospitality-and-travel",
+			"date_added": "2022-08-18T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2022-0922.pdf",
+			"date_added": "2022-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/IwcxY3TqkmyY-pBxnXuM1A",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q3-2022/107787/",
+			"date_added": "2022-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q3-2022-threat-report/",
+			"date_added": "2022-11-02T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q3-2022/107957/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2022/cloud-atlas-targets-entities-in-russia-and-belarus-amid-the-ongoing-war-in-ukraine/",
+			"date_added": "2022-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/apt-cloud-atlas-unbroken-threat/",
+			"date_added": "2022-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/blog/articles/sidewinder-group%27s-recent-attack-activity-briefing/",
+			"date_added": "2022-12-28T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/needledropper/",
+			"date_added": "2023-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/ebEzQYjdS9_J0cy1bXglXQ",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/tonto-team/",
+			"date_added": "2023-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.eclecticiq.com/multi-year-spearphishing-campaign-targets-the-maritime-industry-likely-for-financial-gain",
+			"date_added": "2023-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/hi1YgUUHnFDGf26cUXJkQQ",
+			"date_added": "2023-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/blog/articles/Subgroup-of-Blind-Eagle-Analysis-of-Recent-Attack-Activities-from-Hagga-Group-EN/",
+			"date_added": "2023-05-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/url-obfuscation-schema-abuse",
+			"date_added": "2023-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.bankinfosecurity.com/chinese-hackers-targeted-g7-summit-through-ms-office-flaw-a-22344",
+			"date_added": "2023-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2023/06/vbspam-comparative-review",
+			"date_added": "2023-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/2023/07/eset_threat_report_h12023.pdf",
+			"date_added": "2023-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q2-2023/110231/",
+			"date_added": "2023-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-215a",
+			"date_added": "2023-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.kaspersky.com/blog/cve-2017-11882-exploitation-on-the-rise/48768/",
+			"date_added": "2023-08-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q2-2023-non-mobile-statistics/110413/",
+			"date_added": "2023-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document",
+			"date_added": "2023-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepinstinct.com/blog/operation-rusty-flag-a-malicious-campaign-against-azerbaijanian-targets",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://threatresearch.ext.hp.com/wp-content/uploads/2023/10/HP_Wolf_Security_Threat_Insights_Report_Q3_2023.pdf",
+			"date_added": "2023-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/CRx7NLPE4zzGwHEoWe8_bA",
+			"date_added": "2023-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q3-2023/111171/",
+			"date_added": "2023-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/cloud-atlas/",
+			"date_added": "2023-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22023.pdf",
+			"date_added": "2023-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.zscaler.com/blogs/security-research/threat-actors-exploit-cve-2017-11882-deliver-agent-tesla",
+			"date_added": "2023-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/3115/",
+			"date_added": "2024-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/maldocs-of-word-and-excel-vigor-of-the-ages/",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.ibm.com/downloads/cas/L0GKXDWJ",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.orangecyberdefense.com/global/blog/research/ivanti-deja-vu",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/outofband/exploiting-document-templates-stego-campaign-deploying-remcos-rat-and-agent-tesla/",
+			"date_added": "2024-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2023-q4/",
+			"date_added": "2024-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/spam-phishing-report-2023/112015/",
+			"date_added": "2024-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/expertise/blog/cloud-werewolf-atakuet-gossluzhashchikh-rossii-i-belarusi-putevkami-na-lechenie-i-prikazami-sluzhb/",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/eng/expertise/blog/cloud-werewolf-atakuet-gossluzhashchikh-rossii-i-belarusi-putevkami-na-lechenie-i-prikazami-sluzhb/",
+			"date_added": "2024-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf/",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/steganoamor-campaign-ta558-mass-attacking-companies-and-public-institutions-all-around-the-world/",
+			"date_added": "2024-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://hcenews.honeywell.com/rs/093-RAU-212/images/Honeywell_Gard_USB_Threat_Report_2024.pdf",
+			"date_added": "2024-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-report-q1-2024/112554/",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/blog/",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/ko/66135/",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people",
+			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://cofense.com/blog/str-rat-phishing-malware-baseline/",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/66720/",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.forcepoint.com/blog/x-labs/url-shortener-microsoft-word-remcos-rat-trojan",
+			"date_added": "2024-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h12024.pdf",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-quarterlyhighlights-q2-2024/",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/ta558/",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorb-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorc-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/threat-actor-profiles/threat-actor-profile-leviathan/",
+			"date_added": "2024-08-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2015-04-15T00:00:00Z"
+}

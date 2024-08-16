@@ -1,0 +1,49 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DSL-2750B Devices",
+	"shortDescription": "D-Link DSL-2750B devices contain a command injection vulnerability that allows remote, unauthenticated command injection via the login.cgi cli parameter.",
+	"vulnerabilityName": "D-Link DSL-2750B Devices Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-20017"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://blog.netlab.360.com/botnets-never-die-satori-refuses-to-fade-away-en/",
+			"date_added": "2018-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2022/10/eset_threat_report_t22022.pdf",
+			"date_added": "2022-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/",
+			"date_added": "2022-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2023/02/eset_threat_report_t32022.pdf",
+			"date_added": "2023-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
+			"date_added": "2023-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-29T00:00:00Z",
+	"cisa_date_added": "2024-01-08T00:00:00Z",
+	"date_added": "2018-06-15T00:00:00Z"
+}

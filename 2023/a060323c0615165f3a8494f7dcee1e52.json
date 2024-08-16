@@ -1,0 +1,81 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Error Reporting Service contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Windows Error Reporting Service Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36874"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ac746c902498",
+			"xdb_url": "https://vulncheck.com/xdb/ac746c902498",
+			"date_added": "2023-08-21T22:04:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:c4m3l-security/CVE-2023-36874.git"
+		},
+		{
+			"xdb_id": "280c2ac034a6",
+			"xdb_url": "https://vulncheck.com/xdb/280c2ac034a6",
+			"date_added": "2023-08-22T16:27:30Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:crisprss/CVE-2023-36874.git"
+		},
+		{
+			"xdb_id": "6218c1637bc9",
+			"xdb_url": "https://vulncheck.com/xdb/6218c1637bc9",
+			"date_added": "2023-08-24T22:24:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Octoberfest7/CVE-2023-36874_BOF.git"
+		},
+		{
+			"xdb_id": "87527a477737",
+			"xdb_url": "https://vulncheck.com/xdb/87527a477737",
+			"date_added": "2023-08-23T12:07:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Wh04m1001/CVE-2023-36874.git"
+		},
+		{
+			"xdb_id": "e688302f0377",
+			"xdb_url": "https://vulncheck.com/xdb/e688302f0377",
+			"date_added": "2023-12-09T18:55:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:Adrien_CHAMUSSY/cve-2023-36874.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-Jul?api-version=2020",
+			"date_added": "2023-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/falcon-complete-zero-day-exploit-cve-2023-36874/",
+			"date_added": "2023-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-report-q1-2024/112554/",
+			"date_added": "2024-05-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-08-01T00:00:00Z",
+	"cisa_date_added": "2023-07-11T00:00:00Z",
+	"date_added": "2023-06-30T00:00:00Z"
+}

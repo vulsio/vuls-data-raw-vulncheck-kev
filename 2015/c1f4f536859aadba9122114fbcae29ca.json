@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Unspecified vulnerability in Adobe Flash Player allows remote attackers to execute code.",
+	"vulnerabilityName": "Adobe Flash Player Remote Code Execution Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-0311"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "48142db4596a",
+			"xdb_url": "https://vulncheck.com/xdb/48142db4596a",
+			"date_added": "2022-05-07T21:08:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jr64/CVE-2015-0311.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-01-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/01/a_different_exploit.html",
+			"date_added": "2015-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/cryptolocker-variant-coming-after-gamers/111611/",
+			"date_added": "2015-03-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2015/04/threat-spotlight-teslacrypt-decrypt-it.html",
+			"date_added": "2015-04-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-04T00:00:00Z",
+	"cisa_date_added": "2022-04-13T00:00:00Z",
+	"date_added": "2015-01-20T00:00:00Z"
+}

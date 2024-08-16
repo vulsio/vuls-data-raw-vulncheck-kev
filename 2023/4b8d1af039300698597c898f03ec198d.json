@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Rank Math",
+	"product": "Rank Math SEO",
+	"shortDescription": "Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Rank Math Rank Math SEO allows Path Traversal.This issue affects Rank Math SEO: from n/a through 1.0.107.2.",
+	"vulnerabilityName": "Rank Math Rank Math SEO allows Directory Traversal Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-23888"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/seo-by-rank-math/rankmath-seo-101072-authenticated-contributor-local-file-inclusion",
+			"date_added": "2023-01-30T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-30T00:00:00Z"
+}

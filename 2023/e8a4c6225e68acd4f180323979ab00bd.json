@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "JBoss Application Server",
+	"shortDescription": "HTTPServerILServlet.java in JMS over HTTP Invocation Layer of the JbossMQ implementation, which is enabled by default in Red Hat Jboss Application Server <= Jboss 4.X does not restrict the classes for which it performs deserialization, which allows remote attackers to execute arbitrary code via crafted serialized data.",
+	"vulnerabilityName": "Red Hat JBoss Application Server Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-7504"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated",
+			"date_added": "2023-03-23T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html",
+			"date_added": "2023-09-21T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-23T00:00:00Z"
+}

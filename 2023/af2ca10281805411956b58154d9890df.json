@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Favethemes",
+	"product": "Houzez",
+	"shortDescription": "Improper Privilege Management vulnerability in Favethemes Houzez allows Privilege Escalation.This issue affects Houzez: from n/a through 2.7.1.",
+	"vulnerabilityName": "FaveThemes Houzez Priviledge Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-26540"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/houzez/wordpress-houzez-theme-2-7-1-privilege-escalation",
+			"date_added": "2023-02-23T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-23T00:00:00Z"
+}

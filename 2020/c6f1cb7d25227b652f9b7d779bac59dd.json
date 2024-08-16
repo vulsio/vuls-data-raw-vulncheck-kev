@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Trend Micro",
+	"product": "Apex One and Apex One as a Service",
+	"shortDescription": "A directory traversal vulnerability in Trend Micro Apex One, OfficeScan (versions XG and 11.0), and Worry-Free Business Security (versions 10.0, 9.5 and 9.0) could allow an attacker to modify arbitrary files on the affected product's management console.",
+	"vulnerabilityName": "Trend Micro Apex One and Apex One as a Service Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9489"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://jsac.jpcert.or.jp/archive/2020/pdf/JSAC2020_0_JPCERT_en.pdf",
+			"date_added": "2020-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/c/Shadowpad?x=P42eqA",
+			"date_added": "2021-08-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-17T00:00:00Z"
+}

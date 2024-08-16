@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "iphone_os",
+	"shortDescription": "The queueing primitives in IOMobileFrameBuffer in Apple iOS before 4.2.9 and 4.3.x before 4.3.4 do not properly perform type conversion, which allows local users to gain privileges via a crafted application.",
+	"vulnerabilityName": "Apple iOS before 4.2.9 and 4.3.x before 4.3.4 IOMobileFrameBuffer Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-0227"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/malware/troj_pidief.smxz",
+			"date_added": "2012-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2012-10-09T00:00:00Z"
+}

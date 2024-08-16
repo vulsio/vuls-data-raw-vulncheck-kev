@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themeum",
+	"product": "tutor_lms",
+	"shortDescription": "The tutor_quiz_builder_get_answers_by_question AJAX action from the Tutor LMS – eLearning and online course solution WordPress plugin before 1.8.3 was vulnerable to UNION based SQL injection that could be exploited by students.",
+	"vulnerabilityName": "themeum tutor_lms Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24182"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-182-sql-injection-via-tutor-quiz-builder-get-answers-by-question",
+			"date_added": "2021-03-15T00:00:00Z"
+		}
+	],
+	"date_added": "2021-03-15T00:00:00Z"
+}

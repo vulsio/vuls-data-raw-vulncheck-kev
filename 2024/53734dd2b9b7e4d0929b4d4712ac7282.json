@@ -1,0 +1,19 @@
+{
+	"vendorProject": "microstrategy",
+	"product": "microstrategy_web",
+	"shortDescription": "Microstrategy Web, version 7, does not sufficiently encode user-controlled inputs, resulting in a Cross-Site Scripting (XSS) vulnerability via the Login.asp Msg parameter.  NOTE: this is a deprecated product.",
+	"vulnerabilityName": "microstrategy microstrategy_web Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-18775"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

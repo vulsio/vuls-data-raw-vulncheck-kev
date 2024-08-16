@@ -1,0 +1,23 @@
+{
+	"vendorProject": "sygnoos",
+	"product": "popup_builder",
+	"shortDescription": "The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.",
+	"vulnerabilityName": "sygnoos popup_builder Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6000"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html",
+			"date_added": "2024-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html",
+			"date_added": "2024-03-07T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-10T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, iPadOS, macOS, watchOS, and tvOS WebKit contain a memory corruption vulnerability that leads to code execution when processing maliciously crafted web content. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
+	"vulnerabilityName": "Apple Multiple Products WebKit Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30665"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT212335",
+			"date_added": "2021-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212336",
+			"date_added": "2021-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212339",
+			"date_added": "2021-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212341",
+			"date_added": "2021-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212340",
+			"date_added": "2021-05-04T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212532",
+			"date_added": "2022-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-05-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-05-03T00:00:00Z"
+}

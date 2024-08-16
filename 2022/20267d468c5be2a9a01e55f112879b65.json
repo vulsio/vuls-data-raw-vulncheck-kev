@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "Mozilla Firefox contains a use-after-free vulnerability in XSLT parameter processing which can be exploited to perform arbitrary code execution.",
+	"vulnerabilityName": "Mozilla Firefox Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-26485"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "23f11992b642",
+			"xdb_url": "https://vulncheck.com/xdb/23f11992b642",
+			"date_added": "2023-01-31T09:01:17Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2022-26485.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/new-details-on-commercial-spyware-vendor-variston/",
+			"date_added": "2022-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2022-03-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-21T00:00:00Z",
+	"cisa_date_added": "2022-03-07T00:00:00Z",
+	"date_added": "2022-03-05T00:00:00Z"
+}

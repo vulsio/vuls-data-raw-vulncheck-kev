@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Tutor LMS",
+	"product": "Tutor LMS Pro plugin for WordPress",
+	"shortDescription": "The Tutor LMS Pro plugin for WordPress is vulnerable to unauthorized access of data, modification of data, loss of data due to a missing capability check on the 'authenticate' function in all versions up to, and including, 2.7.0. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to gain control of an existing administrator account.",
+	"vulnerabilityName": "Tutor LMS Pro plugin for WordPress authenticate function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4351"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor-pro/tutor-lms-pro-270-missing-authorization-to-privilege-escalation",
+			"date_added": "2024-05-16T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-16T00:00:00Z"
+}

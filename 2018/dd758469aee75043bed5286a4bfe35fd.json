@@ -1,0 +1,39 @@
+{
+	"vendorProject": "slysoft",
+	"product": "anydvd",
+	"shortDescription": "Elaborate Bytes ElbyCDIO.sys 6.0.2.0 and earlier, as distributed in SlySoft AnyDVD before 6.5.2.6, Virtual CloneDrive 5.4.2.3 and earlier, CloneDVD 2.9.2.0 and earlier, and CloneCD 5.3.1.3 and earlier, uses the METHOD_NEITHER communication method for IOCTLs and does not properly validate a buffer associated with the Irp object, which allows local users to cause a denial of service (system crash) via a crafted IOCTL call.",
+	"vulnerabilityName": "slysoft anydvd Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2009-0824"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf",
+			"date_added": "2018-03-06T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-slingshot/84312/",
+			"date_added": "2018-03-09T00:00:00Z"
+		}
+	],
+	"date_added": "2018-03-06T00:00:00Z"
+}

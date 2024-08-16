@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SharePoint",
+	"shortDescription": "Microsoft SharePoint Server contains a code injection vulnerability that allows an authenticated attacker with Site Owner privileges to execute code remotely.",
+	"vulnerabilityName": "Microsoft SharePoint Server Code Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-24955"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2ed6898e22a5",
+			"xdb_url": "https://vulncheck.com/xdb/2ed6898e22a5",
+			"date_added": "2023-12-28T09:08:47Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:former-farmer/CVE-2023-24955-PoC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-03-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-04-16T00:00:00Z",
+	"cisa_date_added": "2024-03-26T00:00:00Z",
+	"date_added": "2024-03-26T00:00:00Z"
+}

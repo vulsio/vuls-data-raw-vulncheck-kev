@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows ",
+	"shortDescription": "Microsoft Windows Hyper-V contains a privilege escalation vulnerability that allows a local attacker with user permissions to gain SYSTEM privileges.",
+	"vulnerabilityName": "Microsoft Windows Hyper-V Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38080"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Jul?api-version=2020",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38080",
+			"date_added": "2024-07-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-30T00:00:00Z",
+	"cisa_date_added": "2024-07-09T00:00:00Z",
+	"date_added": "2024-07-09T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystem",
+	"product": "ichitaro",
+	"shortDescription": "Stack-based buffer overflow in JSGCI.DLL in JustSystems Ichitaro 2005, 2006, and 2007 allows user-assisted remote attackers to execute arbitrary code via a crafted document, as actively exploited in December 2007 by the Tarodrop.F trojan.  NOTE: some of these details are obtained from third party information.",
+	"vulnerabilityName": "justsystem ichitaro Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-6436"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-6436",
+			"date_added": "2007-12-18T00:00:00Z"
+		}
+	],
+	"date_added": "2007-12-18T00:00:00Z"
+}

@@ -1,0 +1,57 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "A privilege escalation vulnerability exists in Microsoft Exchange Server. An attacker who successfully exploited this vulnerability could attempt to impersonate any other user of the Exchange server.",
+	"vulnerabilityName": "Microsoft Exchange Server Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-8581"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d7f23b749ff9",
+			"xdb_url": "https://vulncheck.com/xdb/d7f23b749ff9",
+			"date_added": "2018-12-28T15:47:32Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:qiantu88/CVE-2018-8581.git"
+		},
+		{
+			"xdb_id": "7730cd30a582",
+			"xdb_url": "https://vulncheck.com/xdb/7730cd30a582",
+			"date_added": "2019-01-24T06:08:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Ridter/Exchange2domain.git"
+		},
+		{
+			"xdb_id": "dba145cf3cba",
+			"xdb_url": "https://vulncheck.com/xdb/dba145cf3cba",
+			"date_added": "2018-12-27T06:30:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WyAtu/CVE-2018-8581.git"
+		},
+		{
+			"xdb_id": "3d3434d62f82",
+			"xdb_url": "https://vulncheck.com/xdb/3d3434d62f82",
+			"date_added": "2018-06-06T22:30:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thezdi/PoC.git"
+		},
+		{
+			"xdb_id": "276c34c7f74f",
+			"xdb_url": "https://vulncheck.com/xdb/276c34c7f74f",
+			"date_added": "2022-01-10T17:58:21+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:mirrors_WyAtu/CVE-2018-8581.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-17T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

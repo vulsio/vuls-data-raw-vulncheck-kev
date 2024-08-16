@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wavemaker",
+	"product": "wavemarker_studio",
+	"shortDescription": "com/wavemaker/studio/StudioService.java in WaveMaker Studio 6.6 mishandles the studioService.download?method=getContent&inUrl= value, leading to disclosure of local files and SSRF.",
+	"vulnerabilityName": "wavemaker wavemarker_studio Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8982"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

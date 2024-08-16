@@ -1,0 +1,59 @@
+{
+	"vendorProject": "3cx",
+	"product": "3cx",
+	"shortDescription": "3CX DesktopApp through 18.12.416 has embedded malicious code, as exploited in the wild in March 2023. This affects versions 18.12.407 and 18.12.416 of the 3CX DesktopApp Electron Windows application shipped in Update 7, and versions 18.11.1213, 18.12.402, 18.12.407, and 18.12.416 of the 3CX DesktopApp Electron macOS application.",
+	"vulnerabilityName": "3CX DesktopApp through 18.12.416 Embedded Malicious Code",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-29059"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.sophos.com/en-us/2023/03/29/3cx-dll-sideloading-attack/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.huntress.com/blog/3cx-voip-software-compromise-supply-chain-threats",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/crowdstrike-detects-and-prevents-active-intrusion-campaign-targeting-3cxdesktopapp-customers/",
+			"date_added": "2023-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.checkpoint.com/downloads/resources/2023-mid-year-cyber-security-report.pdf",
+			"date_added": "2023-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/22/2023-activities-summary-of-sectora-groups-eng/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-29T00:00:00Z"
+}

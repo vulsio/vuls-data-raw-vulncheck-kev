@@ -1,0 +1,55 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows New Technology File System (NTFS) contains an unspecified vulnerability that allows attackers to escalate privileges via a specially crafted application.",
+	"vulnerabilityName": "Microsoft Windows NTFS Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-31956"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "736c14a7215d",
+			"xdb_url": "https://vulncheck.com/xdb/736c14a7215d",
+			"date_added": "2022-01-11T16:03:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:aazhuliang/CVE-2021-31956-EXP.git"
+		},
+		{
+			"xdb_id": "189db9bb950f",
+			"xdb_url": "https://vulncheck.com/xdb/189db9bb950f",
+			"date_added": "2022-09-02T10:35:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Y3A/CVE-2021-31956.git"
+		},
+		{
+			"xdb_id": "ef8974070480",
+			"xdb_url": "https://vulncheck.com/xdb/ef8974070480",
+			"date_added": "2023-06-05T00:03:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hoangprod/CVE-2021-31956-POC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Jun?api-version=2020",
+			"date_added": "2021-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/puzzlemaker-chrome-zero-day-exploit-chain/102771/",
+			"date_added": "2021-06-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-04-14T00:00:00Z"
+}

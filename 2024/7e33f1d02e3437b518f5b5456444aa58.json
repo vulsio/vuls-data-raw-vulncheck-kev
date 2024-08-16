@@ -1,0 +1,19 @@
+{
+	"vendorProject": "fckeditor",
+	"product": "fckeditor",
+	"shortDescription": "editor/filemanager/upload/php/upload.php in FCKeditor before 2.3 Beta, when the upload feature is enabled, does not verify the Type parameter, which allows remote attackers to upload arbitrary file types.  NOTE: It is not clear whether this is related to CVE-2006-0658.",
+	"vulnerabilityName": "FCKeditor before 2.3 Beta editor/filemanager/upload/php/upload.php Arbitrary File Upload",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-2529"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.labs.greynoise.io/grimoire/2024-03-28-panning-for-gold/",
+			"date_added": "2024-03-28T00:00:00Z"
+		}
+	],
+	"date_added": "2024-03-28T00:00:00Z"
+}

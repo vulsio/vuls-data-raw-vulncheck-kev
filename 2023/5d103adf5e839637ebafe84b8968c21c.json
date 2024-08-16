@@ -1,0 +1,19 @@
+{
+	"vendorProject": "fastweb",
+	"product": "fastgate_firmware",
+	"shortDescription": "The web interface on FASTGate Fastweb devices with firmware through 0.00.47_FW_200_Askey 2017-05-17 (software through 1.0.1b) exposed a CGI binary that is vulnerable to a command injection vulnerability that can be exploited to achieve remote code execution with root privileges. No authentication is required in order to trigger the vulnerability.",
+	"vulnerabilityName": "fastweb fastgate_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-20122"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-05T00:00:00Z"
+}

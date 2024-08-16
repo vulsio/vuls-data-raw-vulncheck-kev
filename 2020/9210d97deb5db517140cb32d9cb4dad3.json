@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpcoursesplugin",
+	"product": "wp-courses",
+	"shortDescription": "The wp-courses plugin through 2.0.27 for WordPress allows remote attackers to bypass the intended payment step (for course videos and materials) by using the /wp-json REST API, as exploited in the wild in September 2020. This occurs because show_in_rest is enabled for custom post types (e.g., /wp-json/wp/v2/course and /wp-json/wp/v2/lesson exist).",
+	"vulnerabilityName": "wpcoursesplugin wp-courses Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-26876"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2020-26876",
+			"date_added": "2020-10-07T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-07T00:00:00Z"
+}

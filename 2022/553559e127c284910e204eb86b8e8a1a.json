@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux kernel fb_mmap function in drivers/video/fbmem.c contains an integer overflow vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Linux Kernel Integer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-2596"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2cf915667038",
+			"xdb_url": "https://vulncheck.com/xdb/2cf915667038",
+			"date_added": "2013-07-16T11:24:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hiikezoe/libfb_mem_exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-10-06T00:00:00Z",
+	"cisa_date_added": "2022-09-15T00:00:00Z",
+	"date_added": "2022-09-15T00:00:00Z"
+}

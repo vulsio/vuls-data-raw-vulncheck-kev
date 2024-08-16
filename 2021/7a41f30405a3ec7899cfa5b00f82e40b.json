@@ -1,0 +1,19 @@
+{
+	"vendorProject": "valvepress",
+	"product": "pinterest_automatic_pin",
+	"shortDescription": "The Pinterest Automatic plugin for WordPress is vulnerable to authorization bypass due to missing capability checks on the 'wp_pinterest_automatic_parse_request' function and the 'process_form.php' script in versions up to, and including, 1.14.3. This makes it possible for unauthenticated attackers to update arbitrary options on a site that can be used to create new administrative user accounts or redirect unsuspecting site visitors.",
+	"vulnerabilityName": "Pinterest Automatic plugin for WordPress Authorization Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4380"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-pinterest-automatic/pinterest-automatic-4143-unuathenticated-arbitrary-options-update",
+			"date_added": "2021-09-06T00:00:00Z"
+		}
+	],
+	"date_added": "2021-09-06T00:00:00Z"
+}

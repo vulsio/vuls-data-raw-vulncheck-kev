@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themeum",
+	"product": "tutor_lms",
+	"shortDescription": "Several AJAX endpoints in the Tutor LMS – eLearning and online course solution WordPress plugin before 1.7.7 were unprotected, allowing students to modify course information and elevate their privileges among many other actions.",
+	"vulnerabilityName": "themeum tutor_lms Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24184"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tutor/tutor-lms-elearning-and-online-course-solution-176-unprotected-ajax-including-privilege-escalation",
+			"date_added": "2023-01-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-11T00:00:00Z"
+}

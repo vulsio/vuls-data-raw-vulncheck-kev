@@ -1,0 +1,39 @@
+{
+	"vendorProject": "Progress",
+	"product": "MOVEit Transfer",
+	"shortDescription": "In Progress MOVEit Transfer before 2021.0.7 (13.0.7), 2021.1.5 (13.1.5), 2022.0.5 (14.0.5), 2022.1.6 (14.1.6), and 2023.0.2 (15.0.2), SQL injection vulnerabilities have been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to MOVEit Transfer's database. An attacker could submit a crafted payload to a MOVEit Transfer application endpoint that could result in modification and disclosure of MOVEit database content.",
+	"vulnerabilityName": "Progress MOVEit Transfer Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-35036"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://fourcore.io/blogs/clop-ransomware-history-adversary-simulation",
+			"date_added": "2023-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q2-2023-non-mobile-statistics/110413/",
+			"date_added": "2023-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://engage.cognyte.com/s/9829b9f8/?page=1",
+			"date_added": "2024-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html",
+			"date_added": "2024-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit-42-ransomware-leak-site-data-analysis/",
+			"date_added": "2024-02-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-03T00:00:00Z"
+}

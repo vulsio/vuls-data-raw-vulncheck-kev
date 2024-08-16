@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "Adobe Reader and Acrobat 9.x before 9.3, and 8.x before 8.2 on Windows and Mac OS X, might allow attackers to cause a denial of service (NULL pointer dereference) via unspecified vectors.",
+	"vulnerabilityName": "Adobe Acrobat and Reader NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-3957"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
+			"date_added": "2013-03-21T00:00:00Z"
+		}
+	],
+	"date_added": "2013-03-21T00:00:00Z"
+}

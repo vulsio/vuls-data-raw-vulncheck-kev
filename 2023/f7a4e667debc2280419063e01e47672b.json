@@ -1,0 +1,48 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "An elevation of privilege vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka \"Win32k Elevation of Privilege Vulnerability.\" This affects Windows 7, Windows Server 2012 R2, Windows RT 8.1, Windows Server 2008, Windows Server 2019, Windows Server 2012, Windows 8.1, Windows Server 2016, Windows Server 2008 R2, Windows 10, Windows 10 Servers. This CVE ID is unique from CVE-2018-8641.",
+	"vulnerabilityName": "Microsoft Windows Improper Resource Shutdown or Release",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8639"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "07b9ec25ec52",
+			"xdb_url": "https://vulncheck.com/xdb/07b9ec25ec52",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "103ce63ab269",
+			"xdb_url": "https://vulncheck.com/xdb/103ce63ab269",
+			"date_added": "2019-08-03T15:27:26+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cbwang505/CVE-2018-8639-EXP.git"
+		},
+		{
+			"xdb_id": "5619ec246b0f",
+			"xdb_url": "https://vulncheck.com/xdb/5619ec246b0f",
+			"date_added": "2020-05-02T13:01:48+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:stripcc/CVE-2018-8639-exp.git"
+		},
+		{
+			"xdb_id": "aa765b244430",
+			"xdb_url": "https://vulncheck.com/xdb/aa765b244430",
+			"date_added": "2020-03-28T16:57:21+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:fengzihk/CVE-2018-8639-exp.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://asec.ahnlab.com/en/47455/",
+			"date_added": "2023-02-13T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-13T00:00:00Z"
+}

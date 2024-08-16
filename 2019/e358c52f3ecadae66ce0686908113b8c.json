@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "DirectX Graphics Kernel (DXGKRNL)",
+	"shortDescription": "An elevation of privilege vulnerability exists when the DirectX Graphics Kernel (DXGKRNL) driver improperly handles objects in memory.",
+	"vulnerabilityName": "Microsoft DirectX Graphics Kernel Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-8406"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.africacybersecurityconference.com/document/CrowdStrike_GTR_2019.pdf",
+			"date_added": "2019-02-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2019-02-19T00:00:00Z"
+}

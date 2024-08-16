@@ -1,0 +1,71 @@
+{
+	"vendorProject": "mapsvg",
+	"product": "mapsvg",
+	"shortDescription": "The MapSVG WordPress plugin before 6.2.20 does not validate and escape a parameter via a REST endpoint before using it in a SQL statement, leading to a SQL Injection exploitable by unauthenticated users.",
+	"vulnerabilityName": "mapsvg mapsvg Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0592"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-22&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-23&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-24&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-27&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-28&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-29&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-01-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-17&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-28&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-08&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-04-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-01&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-15&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-23&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-06-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-24&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2022-0592",
+			"date_added": "2024-06-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-22T00:00:00Z"
+}

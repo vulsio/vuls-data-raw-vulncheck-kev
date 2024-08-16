@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Unspecified vulnerability in PowerPoint in Microsoft Office 2000, Office XP and Office 2003 allows user-assisted attackers to execute arbitrary code via a crafted record in a PPT file, as exploited by malware such as Exploit:Win32/Controlppt.W, Exploit:Win32/Controlppt.X, and Exploit-PPT.d/Trojan.PPDropper.F. NOTE: it has been reported that the attack vector involves SlideShowWindows.View.GotoNamedShow.",
+	"vulnerabilityName": "Microsoft Office Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-4694"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-058",
+			"date_added": "2006-10-10T00:00:00Z"
+		}
+	],
+	"date_added": "2006-10-10T00:00:00Z"
+}

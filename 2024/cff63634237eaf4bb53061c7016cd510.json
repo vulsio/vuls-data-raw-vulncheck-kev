@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Linksys",
+	"product": "RE7000",
+	"shortDescription": "Linksys RE7000 v2.0.9, v2.0.11, and v2.0.15 have a command execution vulnerability in the AccessControlList parameter of the access control function point. An attacker can use the vulnerability to obtain device administrator rights.",
+	"vulnerabilityName": "Linksys RE7000 AccessControlList Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-25852"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5708fc69bdf7",
+			"xdb_url": "https://vulncheck.com/xdb/5708fc69bdf7",
+			"date_added": "2024-06-30T12:29:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:A-little-dragon/Egret.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-22T00:00:00Z"
+}

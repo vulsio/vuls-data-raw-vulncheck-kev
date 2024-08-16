@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Siemens",
+	"product": "simatic_pcs7",
+	"shortDescription": "Untrusted search path vulnerability in Siemens SIMATIC STEP7 before 5.5 SP1, as used in SIMATIC PCS7 7.1 SP3 and earlier and other products, allows local users to gain privileges via a Trojan horse DLL in a STEP7 project folder.",
+	"vulnerabilityName": "Siemens simatic_pcs7 Untrusted Search Path",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-3015"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-15T00:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Meta Platforms",
+	"product": "WhatsApp",
+	"shortDescription": "A vulnerability in WhatsApp Desktop when paired with WhatsApp for iPhone allows cross-site scripting and local file reading.",
+	"vulnerabilityName": "WhatsApp Cross-Site Scripting Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-18426"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2022-04-12T00:00:00Z"
+}

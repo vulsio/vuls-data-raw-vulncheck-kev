@@ -1,0 +1,43 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists in Windows Remote Desktop Gateway (RD Gateway) when an unauthenticated attacker connects to the target system using RDP and sends specially crafted requests, aka 'Windows Remote Desktop Gateway (RD Gateway) Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2020-0609.",
+	"vulnerabilityName": "Windows Remote Desktop Gateway (RD Gateway) Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0610"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "3a3f10478ff3",
+			"xdb_url": "https://vulncheck.com/xdb/3a3f10478ff3",
+			"date_added": "2020-07-27T22:12:25Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitlab.com:ind3p3nd3nt/BlueGate.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_Feb_2020_Edition_1.pdf",
+			"date_added": "2020-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/revil-update-tlpwhite.pdf",
+			"date_added": "2021-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-014a",
+			"date_added": "2020-01-14T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-14T00:00:00Z"
+}

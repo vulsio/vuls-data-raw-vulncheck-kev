@@ -1,0 +1,19 @@
+{
+	"vendorProject": "1byte",
+	"product": "copy9",
+	"shortDescription": "The backend infrastructure shared by multiple mobile device monitoring services does not adequately authenticate or authorize API requests, creating an IDOR (Insecure Direct Object Reference) vulnerability.",
+	"vulnerabilityName": "1byte copy9 Authorization Bypass Through User-Controlled Key",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0732"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-208a",
+			"date_added": "2023-07-27T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-27T00:00:00Z"
+}

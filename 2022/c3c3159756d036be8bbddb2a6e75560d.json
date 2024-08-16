@@ -1,0 +1,19 @@
+{
+	"vendorProject": "etoilewebdesign",
+	"product": "ultimate_faq",
+	"shortDescription": "Functions/EWD_UFAQ_Import.php in the ultimate-faqs plugin through 1.8.24 for WordPress allows HTML content injection.",
+	"vulnerabilityName": "etoilewebdesign ultimate_faq Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-17233"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.drweb.com/show/?i=14646&lng=en&c=23",
+			"date_added": "2022-12-30T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-30T00:00:00Z"
+}

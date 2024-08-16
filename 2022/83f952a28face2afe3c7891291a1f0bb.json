@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Apache",
+	"product": "log4j",
+	"shortDescription": "JMSAppender in Log4j 1.2 is vulnerable to deserialization of untrusted data when the attacker has write access to the Log4j configuration. The attacker can provide TopicBindingName and TopicConnectionFactoryBindingName configurations causing JMSAppender to perform JNDI requests that result in remote code execution in a similar fashion to CVE-2021-44228. Note this issue only affects Log4j 1.2 when specifically configured to use JMSAppender, which is not the default. Apache Log4j 1.2 reached end of life in August 2015. Users should upgrade to Log4j 2 as it addresses numerous other issues from the previous versions.",
+	"vulnerabilityName": "Apache log4j Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4104"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
+			"date_added": "2022-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/research/threat-profiles/gold-melody",
+			"date_added": "2023-09-21T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-26T00:00:00Z"
+}

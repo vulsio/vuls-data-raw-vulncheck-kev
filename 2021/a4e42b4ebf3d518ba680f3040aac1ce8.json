@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "Apple macOS contains an unspecified logic issue in System Preferences that may allow a malicious application to bypass Gatekeeper checks.",
+	"vulnerabilityName": "Apple macOS Unspecified Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30657"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5a5cb257b016",
+			"xdb_url": "https://vulncheck.com/xdb/5a5cb257b016",
+			"date_added": "2021-11-07T18:33:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:shubham0d/CVE-2021-30657.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT212326",
+			"date_added": "2021-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212325",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-07-21T00:00:00Z"
+}

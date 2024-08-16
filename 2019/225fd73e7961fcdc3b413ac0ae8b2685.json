@@ -1,0 +1,27 @@
+{
+	"vendorProject": "netsas",
+	"product": "enigma_network_management_solution",
+	"shortDescription": "An OS command injection vulnerability in the discover_and_manage CGI script in NETSAS Enigma NMS 65.0.0 and prior allows an attacker to execute arbitrary code because of improper neutralization of shell metacharacters in the ip_address variable within an snmp_browser action.",
+	"vulnerabilityName": "netsas enigma_network_management_solution Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-16072"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-echobot-resurfaces-with-13-previously-unexploited-vulnerabilities/",
+			"date_added": "2019-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/echobot-malware-now-up-to-71-exploits--targeting-scada",
+			"date_added": "2019-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-12-13T00:00:00Z"
+}

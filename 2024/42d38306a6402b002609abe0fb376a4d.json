@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Netlify",
+	"product": "OpenMetadata",
+	"shortDescription": "The OpenMetadata CompiledRule::validateExpression method evaluates an SpEL expression using an StandardEvaluationContext which  allows the expression to reach and interact with Java classes such as java.lang.Runtime and leading to Remote Code Execution. The /api/v1/policies/validation/condition/<expression> endpoint passes user-controlled data CompiledRule::validateExpession allowing authenticated (non-admin) users to execute arbitrary system commands on the underlying operating system. There is also a missing authorization check since Authorizer.authorize() is never called in the affected path and therefore any authenticated non-admin user is able to trigger this endpoint and evaluate arbitrary SpEL expressions leading to arbitrary command execution.",
+	"vulnerabilityName": "OpenMetadata SpEL Injection in GET /api/v1/policies/validation/condition/<expr>",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-28848"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/04/17/attackers-exploiting-new-critical-openmetadata-vulnerabilities-on-kubernetes-clusters/",
+			"date_added": "2024-04-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-17T00:00:00Z"
+}

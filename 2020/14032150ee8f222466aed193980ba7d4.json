@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Palo Alto Networks",
+	"product": "PAN-OS",
+	"shortDescription": "Palo Alto Networks PAN-OS contains a vulnerability in SAML which allows an attacker to bypass authentication.",
+	"vulnerabilityName": "Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-2021"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.esentire.com/security-advisories/ransomware-groups-exploit-remote-access-services",
+			"date_added": "2020-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-283a",
+			"date_added": "2020-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://github.com/blackorbird/APT_REPORT/raw/master/summary/2021/The%20CrowdStrike%202021%20Global%20Threat%20Report.pdf",
+			"date_added": "2021-04-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2020-09-17T00:00:00Z"
+}

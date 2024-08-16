@@ -1,0 +1,19 @@
+{
+	"vendorProject": "YITH",
+	"product": "WooCommerce Ajax Search Plugin for WordPress",
+	"shortDescription": "The YITH WooCommerce Ajax Search plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the item parameter in versions up to, and including, 2.4.0 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": "YITH WooCommerce Ajax Search Plugin for WordPress item Parameter Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4455"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/yith-woocommerce-ajax-search/wordpress-yith-woocommerce-ajax-search-plugin-2-4-0-unauthenticated-stored-cross-site-scripting-vulnerability",
+			"date_added": "2024-05-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-24T00:00:00Z"
+}

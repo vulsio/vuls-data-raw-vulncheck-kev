@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Speedfan.sys in Alfredo Milani Comparetti SpeedFan 4.33, when used on Microsoft Windows Vista x64, allows local users to read or write arbitrary MSRs, and gain privileges and load unsigned drivers, via the (1) IOCTL_RDMSR 0x9C402438 and (2) IOCTL_WRMSR 0x9C40243C IOCTLs to \\Device\\speedfan, as demonstrated by an IOCTL_WRMSR action on MSR_LSTAR.",
+	"vulnerabilityName": "Alfredo Milani Comparetti SpeedFan 4.33 Speedfan.sys Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5633"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf",
+			"date_added": "2018-03-06T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-slingshot/84312/",
+			"date_added": "2018-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf",
+			"date_added": "2020-06-18T00:00:00Z"
+		}
+	],
+	"date_added": "2018-03-06T00:00:00Z"
+}

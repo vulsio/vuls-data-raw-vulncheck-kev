@@ -1,0 +1,111 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS and FortiProxy SSL-VPN",
+	"shortDescription": "Fortinet FortiOS and FortiProxy SSL-VPN contain a heap-based buffer overflow vulnerability which can allow an unauthenticated, remote attacker to execute code or commands via specifically crafted requests.",
+	"vulnerabilityName": "Fortinet FortiOS and FortiProxy SSL-VPN Heap-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27997"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c21297b5f565",
+			"xdb_url": "https://vulncheck.com/xdb/c21297b5f565",
+			"date_added": "2023-06-23T15:15:54Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:puckiestyle/cve-2023-27997.git"
+		},
+		{
+			"xdb_id": "2d8501b18677",
+			"xdb_url": "https://vulncheck.com/xdb/2d8501b18677",
+			"date_added": "2023-06-22T14:16:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:imbas007/CVE-2023-27997-Check.git"
+		},
+		{
+			"xdb_id": "02611bcf27fb",
+			"xdb_url": "https://vulncheck.com/xdb/02611bcf27fb",
+			"date_added": "2023-06-15T05:37:16Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Pik-sec/cve-2023-27997.git"
+		},
+		{
+			"xdb_id": "ad5db6a3b215",
+			"xdb_url": "https://vulncheck.com/xdb/ad5db6a3b215",
+			"date_added": "2023-10-12T17:50:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:delsploit/CVE-2023-27997.git"
+		},
+		{
+			"xdb_id": "58ad1cabba09",
+			"xdb_url": "https://vulncheck.com/xdb/58ad1cabba09",
+			"date_added": "2023-06-16T03:25:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rio128128/CVE-2023-27997-POC.git"
+		},
+		{
+			"xdb_id": "c42e440bbfba",
+			"xdb_url": "https://vulncheck.com/xdb/c42e440bbfba",
+			"date_added": "2023-10-12T16:12:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:lexfo/xortigate-cve-2023-27997.git"
+		},
+		{
+			"xdb_id": "a4ee616f0f8d",
+			"xdb_url": "https://vulncheck.com/xdb/a4ee616f0f8d",
+			"date_added": "2023-06-16T20:15:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:BishopFox/CVE-2023-27997-check.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/",
+			"date_added": "2023-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/psirt-blogs/analysis-of-cve-2023-27997-and-clarifications-on-volt-typhoon-campaign",
+			"date_added": "2023-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/psirt-blogs/importance-of-patching-an-analysis-of-the-exploitation-of-n-day-vulnerabilities",
+			"date_added": "2024-02-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2024-21762-critical-fortinet-fortios-out-of-bound-write-ssl-vpn-vulnerability",
+			"date_added": "2023-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/02/12/etr-critical-fortinet-fortios-cve-2024-21762-exploited/",
+			"date_added": "2024-02-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://hub.dragos.com/hubfs/Reports/Dragos_Report_Cyber_Threat_Perspective_Nordic_Feb24_Complete.pdf",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-04T00:00:00Z",
+	"cisa_date_added": "2023-06-13T00:00:00Z",
+	"date_added": "2023-06-12T00:00:00Z"
+}

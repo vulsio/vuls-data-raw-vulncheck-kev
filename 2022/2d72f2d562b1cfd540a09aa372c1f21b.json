@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Trend Micro",
+	"product": "Apex One and Apex One as a Service",
+	"shortDescription": "Trend Micro Apex One and Apex One as a Service contain an improper validation of rollback mechanism components that could lead to remote code execution.",
+	"vulnerabilityName": "Trend Micro Apex One and Apex One as a Service Improper Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-40139"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-actively-exploited-apex-one-rce-vulnerability/",
+			"date_added": "2022-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://success.trendmicro.com/dcx/s/solution/000291528",
+			"date_added": "2023-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-10-06T00:00:00Z",
+	"cisa_date_added": "2022-09-15T00:00:00Z",
+	"date_added": "2022-09-13T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Atlassian",
+	"product": "subversion_application_lifecycle_management",
+	"shortDescription": "Subversion ALM for the enterprise before 8.8.2 allows reflected XSS at multiple locations.",
+	"vulnerabilityName": "Atlassian subversion_application_lifecycle_management Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9344"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

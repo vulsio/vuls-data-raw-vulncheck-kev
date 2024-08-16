@@ -1,0 +1,458 @@
+{
+	"vendorProject": "Sudo",
+	"product": "Sudo",
+	"shortDescription": "Sudo contains an off-by-one error that can result in a heap-based buffer overflow, which allows for privilege escalation.",
+	"vulnerabilityName": "Sudo Heap-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-3156"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5ed83adb6174",
+			"xdb_url": "https://vulncheck.com/xdb/5ed83adb6174",
+			"date_added": "2022-12-25T03:58:20Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:meowhua15/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "b2ee85cf4e76",
+			"xdb_url": "https://vulncheck.com/xdb/b2ee85cf4e76",
+			"date_added": "2021-01-31T07:01:50Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Q4n/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "84e3dea90796",
+			"xdb_url": "https://vulncheck.com/xdb/84e3dea90796",
+			"date_added": "2021-05-19T09:44:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Jauler/cve2021-3156-sudo-heap-overflow.git"
+		},
+		{
+			"xdb_id": "5cd3a38f312a",
+			"xdb_url": "https://vulncheck.com/xdb/5cd3a38f312a",
+			"date_added": "2021-08-13T14:23:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0x7183/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "a36a6349c87b",
+			"xdb_url": "https://vulncheck.com/xdb/a36a6349c87b",
+			"date_added": "2022-05-26T02:47:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:q77190858/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "956619acb26b",
+			"xdb_url": "https://vulncheck.com/xdb/956619acb26b",
+			"date_added": "2021-01-28T09:52:55Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ph4ntonn/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "f074c511a33b",
+			"xdb_url": "https://vulncheck.com/xdb/f074c511a33b",
+			"date_added": "2021-04-04T01:15:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:password520/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "8f873fe619f2",
+			"xdb_url": "https://vulncheck.com/xdb/8f873fe619f2",
+			"date_added": "2021-10-13T17:43:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:musergi/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "0573a1989e58",
+			"xdb_url": "https://vulncheck.com/xdb/0573a1989e58",
+			"date_added": "2021-03-19T14:06:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:lmol/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "ff18a04b19fb",
+			"xdb_url": "https://vulncheck.com/xdb/ff18a04b19fb",
+			"date_added": "2021-01-31T16:10:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kal1gh0st/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "791107725e9b",
+			"xdb_url": "https://vulncheck.com/xdb/791107725e9b",
+			"date_added": "2021-06-25T05:45:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:donghyunlee00/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "dd12494d2728",
+			"xdb_url": "https://vulncheck.com/xdb/dd12494d2728",
+			"date_added": "2021-02-03T09:48:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:dinhbaouit/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "6f8a62e9dc05",
+			"xdb_url": "https://vulncheck.com/xdb/6f8a62e9dc05",
+			"date_added": "2021-04-05T18:00:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:capturingcats/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "a7e527112fb0",
+			"xdb_url": "https://vulncheck.com/xdb/a7e527112fb0",
+			"date_added": "2022-06-24T11:50:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:arvindshima/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "d82fe374addc",
+			"xdb_url": "https://vulncheck.com/xdb/d82fe374addc",
+			"date_added": "2021-06-30T18:00:03Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:TheFlash2k/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "d818ae56992a",
+			"xdb_url": "https://vulncheck.com/xdb/d818ae56992a",
+			"date_added": "2021-02-06T21:16:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:1N53C/CVE-2021-3156-PoC.git"
+		},
+		{
+			"xdb_id": "22cb903c9959",
+			"xdb_url": "https://vulncheck.com/xdb/22cb903c9959",
+			"date_added": "2021-08-07T08:38:50Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:CyberCommands/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "c1fae139d5d4",
+			"xdb_url": "https://vulncheck.com/xdb/c1fae139d5d4",
+			"date_added": "2023-09-05T14:06:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "a3fcd264aa62",
+			"xdb_url": "https://vulncheck.com/xdb/a3fcd264aa62",
+			"date_added": "2023-12-27T03:52:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:DDayLuong/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "750ce3551def",
+			"xdb_url": "https://vulncheck.com/xdb/750ce3551def",
+			"date_added": "2024-01-22T04:42:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:wurwur/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "d92fe7f1eb28",
+			"xdb_url": "https://vulncheck.com/xdb/d92fe7f1eb28",
+			"date_added": "2021-09-06T06:48:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Y3A/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "94ac175265db",
+			"xdb_url": "https://vulncheck.com/xdb/94ac175265db",
+			"date_added": "2022-11-03T13:10:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:PhuketIsland/CVE-2021-3156-centos7.git"
+		},
+		{
+			"xdb_id": "c5972ce378fc",
+			"xdb_url": "https://vulncheck.com/xdb/c5972ce378fc",
+			"date_added": "2022-07-04T13:55:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Mhackiori/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "cb038c4634e2",
+			"xdb_url": "https://vulncheck.com/xdb/cb038c4634e2",
+			"date_added": "2022-03-18T00:05:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RodricBr/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "b72767d3ef0b",
+			"xdb_url": "https://vulncheck.com/xdb/b72767d3ef0b",
+			"date_added": "2021-01-31T03:38:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:teamtopkarl/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "98bc51c674a1",
+			"xdb_url": "https://vulncheck.com/xdb/98bc51c674a1",
+			"date_added": "2021-11-01T15:30:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sharkmoos/Baron-Samedit.git"
+		},
+		{
+			"xdb_id": "b625d38ee231",
+			"xdb_url": "https://vulncheck.com/xdb/b625d38ee231",
+			"date_added": "2022-03-04T13:06:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "20f15e46bf13",
+			"xdb_url": "https://vulncheck.com/xdb/20f15e46bf13",
+			"date_added": "2023-05-11T19:38:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:mutur4/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "de59d87d7443",
+			"xdb_url": "https://vulncheck.com/xdb/de59d87d7443",
+			"date_added": "2022-03-10T01:03:47Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:barebackbandit/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "01280431c760",
+			"xdb_url": "https://vulncheck.com/xdb/01280431c760",
+			"date_added": "2024-05-02T22:19:00Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ragingkarson/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "5fa314f8b37f",
+			"xdb_url": "https://vulncheck.com/xdb/5fa314f8b37f",
+			"date_added": "2023-05-13T01:02:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:PurpleOzone/PE_CVE-CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "8486488deafe",
+			"xdb_url": "https://vulncheck.com/xdb/8486488deafe",
+			"date_added": "2021-01-29T19:24:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:mbcrump/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "172fcbe73544",
+			"xdb_url": "https://vulncheck.com/xdb/172fcbe73544",
+			"date_added": "2023-12-30T13:22:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:DASICS-ICT/DASICS-CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "a2e62b6d17d1",
+			"xdb_url": "https://vulncheck.com/xdb/a2e62b6d17d1",
+			"date_added": "2024-07-04T02:29:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Typical0day/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "33b2727e22e2",
+			"xdb_url": "https://vulncheck.com/xdb/33b2727e22e2",
+			"date_added": "2021-02-09T07:55:47Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jm33-m0/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "67522d547498",
+			"xdb_url": "https://vulncheck.com/xdb/67522d547498",
+			"date_added": "2021-02-23T03:14:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:oneoy/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "9fbcde6203e1",
+			"xdb_url": "https://vulncheck.com/xdb/9fbcde6203e1",
+			"date_added": "2021-01-30T03:22:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:stong/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "81c88fb24bd9",
+			"xdb_url": "https://vulncheck.com/xdb/81c88fb24bd9",
+			"date_added": "2021-02-09T19:25:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Rvn0xsy/CVE-2021-3156-plus.git"
+		},
+		{
+			"xdb_id": "1db9ceee140b",
+			"xdb_url": "https://vulncheck.com/xdb/1db9ceee140b",
+			"date_added": "2021-02-03T19:57:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:CptGibbon/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "3ee223200973",
+			"xdb_url": "https://vulncheck.com/xdb/3ee223200973",
+			"date_added": "2021-01-30T20:39:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:blasty/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "1e5a3258d388",
+			"xdb_url": "https://vulncheck.com/xdb/1e5a3258d388",
+			"date_added": "2021-02-08T18:21:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0xdevil/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "1ded723ada65",
+			"xdb_url": "https://vulncheck.com/xdb/1ded723ada65",
+			"date_added": "2022-01-27T02:31:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chenaotian/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "1add099f19fc",
+			"xdb_url": "https://vulncheck.com/xdb/1add099f19fc",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "e63e0be85a72",
+			"xdb_url": "https://vulncheck.com/xdb/e63e0be85a72",
+			"date_added": "2021-03-15T17:37:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:worawit/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "748cab143d91",
+			"xdb_url": "https://vulncheck.com/xdb/748cab143d91",
+			"date_added": "2021-12-11T00:59:24+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:hissec/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "664271a6cb02",
+			"xdb_url": "https://vulncheck.com/xdb/664271a6cb02",
+			"date_added": "2021-12-20T19:29:41+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "e970e6dec7b1",
+			"xdb_url": "https://vulncheck.com/xdb/e970e6dec7b1",
+			"date_added": "2023-10-13T16:51:12+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:vincentwang11/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "6b4c5b3f6b0e",
+			"xdb_url": "https://vulncheck.com/xdb/6b4c5b3f6b0e",
+			"date_added": "2021-03-16T13:14:14+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:eforall/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "4e52e6bd25cf",
+			"xdb_url": "https://vulncheck.com/xdb/4e52e6bd25cf",
+			"date_added": "2021-06-09T22:44:43+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "42c098e8e2cc",
+			"xdb_url": "https://vulncheck.com/xdb/42c098e8e2cc",
+			"date_added": "2021-11-23T16:28:35+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:lxonz/CVE-2021-3156-plus.git"
+		},
+		{
+			"xdb_id": "25def691895e",
+			"xdb_url": "https://vulncheck.com/xdb/25def691895e",
+			"date_added": "2021-02-07T05:01:00+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "bdfb7b3c721c",
+			"xdb_url": "https://vulncheck.com/xdb/bdfb7b3c721c",
+			"date_added": "2021-04-14T23:08:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:shine05/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "f80704f9c087",
+			"xdb_url": "https://vulncheck.com/xdb/f80704f9c087",
+			"date_added": "2021-04-09T13:34:40+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:eforall/cve-2021-3156_strong.git"
+		},
+		{
+			"xdb_id": "73a26a137f38",
+			"xdb_url": "https://vulncheck.com/xdb/73a26a137f38",
+			"date_added": "2021-03-18T16:55:35+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cor0ps/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "c60ebdc30c29",
+			"xdb_url": "https://vulncheck.com/xdb/c60ebdc30c29",
+			"date_added": "2021-03-19T14:43:17+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-3156-go.git"
+		},
+		{
+			"xdb_id": "12b9978dfd35",
+			"xdb_url": "https://vulncheck.com/xdb/12b9978dfd35",
+			"date_added": "2021-05-25T21:00:01+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:DuWA/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "314b3ed04db3",
+			"xdb_url": "https://vulncheck.com/xdb/314b3ed04db3",
+			"date_added": "2021-03-18T16:49:07+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:featherl/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "8a16e063dbd5",
+			"xdb_url": "https://vulncheck.com/xdb/8a16e063dbd5",
+			"date_added": "2021-02-01T21:53:57+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:pwn2security/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "300797d10318",
+			"xdb_url": "https://vulncheck.com/xdb/300797d10318",
+			"date_added": "2021-02-04T19:55:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:kal1gh0st/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "bfb260e80a93",
+			"xdb_url": "https://vulncheck.com/xdb/bfb260e80a93",
+			"date_added": "2023-05-14T12:04:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:tav1nald3rs0n/CVE-2021-3156.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/ex-cobalt-go-red-tehnika-skrytogo-tunnelya/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/",
+			"date_added": "2024-06-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-27T00:00:00Z",
+	"cisa_date_added": "2022-04-06T00:00:00Z",
+	"date_added": "2022-04-06T00:00:00Z"
+}

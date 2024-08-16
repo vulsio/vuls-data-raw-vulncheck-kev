@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows SmartScreen contains a security feature bypass vulnerability that allows an attacker to bypass the SmartScreen user experience via a malicious file.",
+	"vulnerabilityName": "Microsoft Windows SmartScreen Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38213"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Aug?api-version=2020",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/8/14/cve-2024-38213-copy2pwn-exploit-evades-windows-web-protections",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38213",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-09-03T00:00:00Z",
+	"cisa_date_added": "2024-08-13T00:00:00Z",
+	"date_added": "2024-08-13T00:00:00Z"
+}

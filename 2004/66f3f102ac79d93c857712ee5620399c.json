@@ -1,0 +1,19 @@
+{
+	"vendorProject": "avaya",
+	"product": "ip600_media_servers",
+	"shortDescription": "Heap-based buffer overflow in Internet Explorer 6 allows remote attackers to execute arbitrary code via long (1) SRC or (2) NAME attributes in IFRAME, FRAME, and EMBED elements, as originally discovered using the mangleme utility, aka \"the IFRAME vulnerability\" or the \"HTML Elements Vulnerability.\"",
+	"vulnerabilityName": "avaya ip600_media_servers Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-1050"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-040",
+			"date_added": "2004-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2004-12-01T00:00:00Z"
+}

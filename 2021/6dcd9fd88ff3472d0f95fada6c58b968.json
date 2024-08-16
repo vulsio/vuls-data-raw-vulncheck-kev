@@ -1,0 +1,19 @@
+{
+	"vendorProject": "car_rental_management_system_project",
+	"product": "car_rental_management_system",
+	"shortDescription": "An issue was discovered in Car Rental Management System 1.0. An unauthenticated user can perform a file inclusion attack against the /index.php file with a partial filename in the \"page\" parameter, to cause local file inclusion resulting in code execution.",
+	"vulnerabilityName": "Car Rental Management System index.php Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29227"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

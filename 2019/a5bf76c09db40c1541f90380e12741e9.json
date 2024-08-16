@@ -1,0 +1,23 @@
+{
+	"vendorProject": "seowonintech",
+	"product": "swr-300a_firmware",
+	"shortDescription": "On Seowon Intech routers, there is a Command Injection vulnerability in diagnostic.cgi via shell metacharacters in the ping_ipaddr parameter.",
+	"vulnerabilityName": "seowonintech swr-300a_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-10760"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.akamai.com/blog/security/latest-echobot-26-infection-vectors",
+			"date_added": "2019-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-06-13T00:00:00Z"
+}

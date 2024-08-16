@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft Internet Explorer Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-27085"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Mar?api-version=2020",
+			"date_added": "2021-03-12T00:00:00Z"
+		},
+		{
+			"url": "https://twitter.com/blackorbird/status/1385062113085825027",
+			"date_added": "2021-04-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-03-12T00:00:00Z"
+}

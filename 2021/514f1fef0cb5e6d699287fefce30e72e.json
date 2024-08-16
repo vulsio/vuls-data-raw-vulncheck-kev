@@ -1,0 +1,105 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "SSLVPN SMA100",
+	"shortDescription": "SonicWall SSLVPN SMA100 contains a SQL injection vulnerability that allows remote exploitation for credential access by an unauthenticated attacker.",
+	"vulnerabilityName": "SonicWall SSLVPN SMA100 SQL Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-20016"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat",
+			"date_added": "2021-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/shining-a-light-on-darkside-ransomware-operations",
+			"date_added": "2021-05-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/how-ecrime-groups-leverage-sonicwall-vulnerability-cve-2019-7481/",
+			"date_added": "2021-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/fivehands-ransomware-attack-analysis-and-risk-based-approach-to-prevention.html",
+			"date_added": "2021-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/darkside-ransomware-threat-associations-unearthed.html",
+			"date_added": "2021-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
+			"date_added": "2021-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware_index-update-q221-csw.pdf",
+			"date_added": "2021-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/Media/News/2021/211029.pdf",
+			"date_added": "2021-10-28T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2021/05/shining-a-light-on-darkside-ransomware-operations.html",
+			"date_added": "2021-05-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.theregister.com/2023/03/09/suspected_chinese_cyberspies_target_uppatched/",
+			"date_added": "2023-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-215a",
+			"date_added": "2023-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-04-29T00:00:00Z"
+}

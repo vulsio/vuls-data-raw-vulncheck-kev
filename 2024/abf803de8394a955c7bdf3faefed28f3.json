@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Tenda",
+	"product": "w6_firmware",
+	"shortDescription": "A command injection vulnerability exists in /goform/exeCommand in Tenda W6 V1.0.0.9(4122), which allows attackers to construct cmdinput parameters for arbitrary command execution.",
+	"vulnerabilityName": "Tenda w6_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-35555"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-22T00:00:00Z"
+}

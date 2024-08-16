@@ -1,0 +1,27 @@
+{
+	"vendorProject": "softwarepublico",
+	"product": "i3geo",
+	"shortDescription": "A local file inclusion (LFI) vulnerability in the component codemirror.php of Portal do Software Publico Brasileiro i3geo v7.0.5 allows attackers to execute arbitrary PHP code via a crafted HTTP request.",
+	"vulnerabilityName": "softwarepublico i3geo Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-32409"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-15&host_type=src&vulnerability=cve-2022-32409",
+			"date_added": "2023-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-28&host_type=src&vulnerability=cve-2022-32409",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2022-32409",
+			"date_added": "2024-03-01T00:00:00Z"
+		}
+	],
+	"date_added": "2023-11-15T00:00:00Z"
+}

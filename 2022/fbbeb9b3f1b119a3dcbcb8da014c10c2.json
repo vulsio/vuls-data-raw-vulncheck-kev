@@ -1,0 +1,25 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "SMA100",
+	"shortDescription": "In SonicWall SMA100, an unauthenticated Directory Traversal vulnerability in the handleWAFRedirect CGI allows the user to test for the presence of a file on the server.",
+	"vulnerabilityName": "SonicWall SMA100 Directory Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-7483"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.theregister.com/2023/03/09/suspected_chinese_cyberspies_target_uppatched/",
+			"date_added": "2023-03-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2022-03-28T00:00:00Z"
+}

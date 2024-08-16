@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpmet",
+	"product": "elements_kit_elementor_addons",
+	"shortDescription": "The Elements Kit Lite and Elements Kit Pro WordPress Plugins before 2.2.0 have a number of widgets that are vulnerable to stored Cross-Site Scripting (XSS) by lower-privileged users such as contributors, all via a similar method.",
+	"vulnerabilityName": "wpmet elements_kit_elementor_addons Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24258"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/elementskit-lite/elements-kit-litepro-217-authenticated-contributor-stored-cross-site-scripting",
+			"date_added": "2023-01-19T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-19T00:00:00Z"
+}

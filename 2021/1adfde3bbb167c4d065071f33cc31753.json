@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Western Digital",
+	"product": "wd_my_book_live",
+	"shortDescription": "Western Digital WD My Book Live (2.x and later) and WD My Book Live Duo (all versions) have an administrator API that can perform a system factory restore without authentication, as exploited in the wild in June 2021, a different vulnerability than CVE-2018-18472.",
+	"vulnerabilityName": "Western Digital wd_my_book_live Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-35941"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.westerndigital.com/support/product-security/wdc-21008-recommended-security-measures-wd-mybooklive-wd-mybookliveduo",
+			"date_added": "2021-07-06T00:00:00Z"
+		}
+	],
+	"date_added": "2021-07-06T00:00:00Z"
+}

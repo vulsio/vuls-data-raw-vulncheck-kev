@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS, iPadOS, and watchOS",
+	"shortDescription": "Apple iOS, iPadOS, and watchOS Mail contains an out-of-bounds write vulnerability which may allow memory modification or application termination when processing a maliciously crafted mail message.",
+	"vulnerabilityName": "Apple iOS, iPadOS, and watchOS Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9818"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/multiple-zero-day-vulnerabilities-in-ios-mail-app-exploited-in-the-wild",
+			"date_added": "2020-04-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-04-22T00:00:00Z"
+}

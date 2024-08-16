@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2, R2, and R2 SP1, Windows 7 Gold and SP1, and Windows 8 Consumer Preview; Office 2003 SP3, 2007 SP2 and SP3, and 2010 Gold and SP1; Silverlight 4 before 4.1.10329; and Silverlight 5 before 5.1.10411 allow remote attackers to execute arbitrary code via a crafted TrueType font (TTF) file, aka \"TrueType Font Parsing Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows TrueType Font Parsing Vulnerability Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-0159"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf",
+			"date_added": "2015-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://strapi.eurepoc.eu/uploads/Eu_Repo_C_APT_profile_Equation_Group_866e8d2944.pdf",
+			"date_added": "2022-11-15T00:00:00Z"
+		}
+	],
+	"date_added": "2015-02-01T00:00:00Z"
+}

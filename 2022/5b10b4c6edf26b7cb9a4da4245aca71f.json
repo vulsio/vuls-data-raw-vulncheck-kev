@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "nwa1100-nh",
+	"shortDescription": "A command injection vulnerability in the web interface of the Zyxel NWA-1100-NH firmware could allow an attacker to execute arbitrary OS commands on the device.",
+	"vulnerabilityName": "Zyxel nwa1100-nh Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4039"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/rapidly-evolving-iot-malware-enemybot-now-targeting-content-management-system-servers",
+			"date_added": "2022-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-26T00:00:00Z"
+}

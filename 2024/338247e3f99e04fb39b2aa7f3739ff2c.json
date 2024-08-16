@@ -1,0 +1,19 @@
+{
+	"vendorProject": "xuxueli",
+	"product": "xxl-job",
+	"shortDescription": "Multiple cross-site scripting (XSS) vulnerabilities in xxl-job v2.2.0 allow remote attackers to inject arbitrary web script or HTML via (1) AppName and (2)AddressList parameter in JobGroupController.java file.",
+	"vulnerabilityName": "xuxueli xxl-job Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-23814"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-10T00:00:00Z"
+}

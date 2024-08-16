@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 Engine contains an out-of-bounds memory access vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Out-of-Bounds Memory Access Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-0519"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://chromereleases.googleblog.com/2024/01/stable-channel-update-for-desktop_16.html",
+			"date_added": "2024-01-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-02-07T00:00:00Z",
+	"cisa_date_added": "2024-01-17T00:00:00Z",
+	"date_added": "2024-01-11T00:00:00Z"
+}

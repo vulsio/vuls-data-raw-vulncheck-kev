@@ -1,0 +1,100 @@
+{
+	"vendorProject": "Perl",
+	"product": "Exiftool",
+	"shortDescription": "Improper neutralization of user data in the DjVu file format in Exiftool versions 7.44 and up allows arbitrary code execution when parsing the malicious image",
+	"vulnerabilityName": "ExifTool Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22204"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c7f016c6ff9c",
+			"xdb_url": "https://vulncheck.com/xdb/c7f016c6ff9c",
+			"date_added": "2022-01-30T03:11:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:0xBruno/CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "c1c6e7d5d1dc",
+			"xdb_url": "https://vulncheck.com/xdb/c1c6e7d5d1dc",
+			"date_added": "2023-07-25T13:52:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:battleofthebots/dejavu.git"
+		},
+		{
+			"xdb_id": "0e17974417e2",
+			"xdb_url": "https://vulncheck.com/xdb/0e17974417e2",
+			"date_added": "2021-11-04T14:31:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:ph-arm/CVE-2021-22204-Gitlab.git"
+		},
+		{
+			"xdb_id": "228b3b833130",
+			"xdb_url": "https://vulncheck.com/xdb/228b3b833130",
+			"date_added": "2022-05-03T16:36:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:BBurgarella/An-Ethical-Hacking-Journey.git"
+		},
+		{
+			"xdb_id": "c1144f28258f",
+			"xdb_url": "https://vulncheck.com/xdb/c1144f28258f",
+			"date_added": "2022-02-21T11:07:19Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:mr-tuhin/CVE-2021-22204-exiftool.git"
+		},
+		{
+			"xdb_id": "2e739ce176b6",
+			"xdb_url": "https://vulncheck.com/xdb/2e739ce176b6",
+			"date_added": "2023-05-14T03:43:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Akash7350/CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "9c966b28d48a",
+			"xdb_url": "https://vulncheck.com/xdb/9c966b28d48a",
+			"date_added": "2024-06-07T21:57:22Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:cc3305/CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "0c2c0a7d6b52",
+			"xdb_url": "https://vulncheck.com/xdb/0c2c0a7d6b52",
+			"date_added": "2022-04-16T22:49:47Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:UNICORDev/exploit-CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "793a0410f319",
+			"xdb_url": "https://vulncheck.com/xdb/793a0410f319",
+			"date_added": "2021-05-12T08:51:44Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:se162xg/CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "195f85ead56c",
+			"xdb_url": "https://vulncheck.com/xdb/195f85ead56c",
+			"date_added": "2021-05-21T00:14:52Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bilkoh/POC-CVE-2021-22204.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.lacework.com/blog/mirai-goes-stealth-tls-iot-malware/",
+			"date_added": "2021-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
+			"date_added": "2022-04-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-12-01T00:00:00Z",
+	"cisa_date_added": "2021-11-17T00:00:00Z",
+	"date_added": "2021-09-30T00:00:00Z"
+}

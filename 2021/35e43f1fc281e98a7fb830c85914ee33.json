@@ -1,0 +1,48 @@
+{
+	"vendorProject": "Apache",
+	"product": "HTTP Server",
+	"shortDescription": "Apache HTTP Server, with MPM event, worker or prefork, code executing in less-privileged child processes or threads (including scripts executed by an in-process scripting interpreter) could execute code with the privileges of the parent process (usually root) by manipulating the scoreboard.",
+	"vulnerabilityName": "Apache HTTP Server Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-0211"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a8a29009807a",
+			"xdb_url": "https://vulncheck.com/xdb/a8a29009807a",
+			"date_added": "2019-05-12T10:08:57Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ozkanbilge/Apache-Exploit-2019.git"
+		},
+		{
+			"xdb_id": "dc948a8b0165",
+			"xdb_url": "https://vulncheck.com/xdb/dc948a8b0165",
+			"date_added": "2021-02-24T14:01:36+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:Solitude-Echo/cve-2019-0211.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Professional_Services_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-06-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

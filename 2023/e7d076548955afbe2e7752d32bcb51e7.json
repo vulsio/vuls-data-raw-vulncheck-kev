@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "Multiple Network-Attached Storage (NAS) Devices",
+	"shortDescription": "Multiple Zyxel network-attached storage (NAS) devices contain a pre-authentication command injection vulnerability that could allow an unauthenticated attacker to execute commands remotely via a crafted HTTP request.",
+	"vulnerabilityName": "Zyxel Multiple NAS Devices Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27992"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-14T00:00:00Z",
+	"cisa_date_added": "2023-06-23T00:00:00Z",
+	"date_added": "2023-06-23T00:00:00Z"
+}

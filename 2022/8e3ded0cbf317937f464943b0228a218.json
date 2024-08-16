@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The authentication implementation in the RPC subsystem in Microsoft Windows Server 2003 SP2 and R2 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 does not prevent DCE/RPC connection reflection, which allows local users to gain privileges via a crafted application, aka \"Windows RPC Elevation of Privilege Vulnerability.\"",
+	"vulnerabilityName": "Windows RPC Elevation of Privilege Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-2370"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7418f86c4ab4",
+			"xdb_url": "https://vulncheck.com/xdb/7418f86c4ab4",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-5/",
+			"date_added": "2022-03-16T00:00:00Z"
+		}
+	],
+	"date_added": "2022-03-16T00:00:00Z"
+}

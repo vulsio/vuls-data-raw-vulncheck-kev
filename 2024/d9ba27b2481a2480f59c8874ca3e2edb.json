@@ -1,0 +1,19 @@
+{
+	"vendorProject": "unimo",
+	"product": "udr-ja1004",
+	"shortDescription": "Missing authentication for critical function vulnerability in UNIMO Technology digital video recorders (UDR-JA1004/JA1008/JA1016 firmware versions v1.0.20.13 and earlier, and UDR-JA1016 firmware versions v2.0.20.13 and earlier) allows a remote unauthenticated attacker to execute an arbitrary OS command by sending a specially crafted request to the affected device web interface.",
+	"vulnerabilityName": "unimo udr-ja1004 Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-35733"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/a-deep-dive-into-the-zergeca-botnet/",
+			"date_added": "2024-06-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-19T00:00:00Z"
+}

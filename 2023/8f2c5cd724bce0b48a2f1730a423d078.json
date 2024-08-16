@@ -1,0 +1,19 @@
+{
+	"vendorProject": "xtemos",
+	"product": "woodmart",
+	"shortDescription": "Deserialization of Untrusted Data vulnerability in xtemos WoodMart - Multipurpose WooCommerce Theme.This issue affects WoodMart - Multipurpose WooCommerce Theme: from n/a through 1.0.36.\n\n",
+	"vulnerabilityName": "xtemos woodmart Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-32242"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/woodmart-core/wordpress-woodmart-core-plugin-1-0-36-php-object-injection",
+			"date_added": "2023-05-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-11T00:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium PopupBlocker",
+	"shortDescription": "Google Chromium PopupBlocker contains an insufficient policy enforcement vulnerability that allows a remote attacker to bypass navigation restrictions via a crafted iframe. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium PopupBlocker Security Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30533"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://blog.confiant.com/malvertising-threat-actor-yosec-exploits-browser-bugs-to-push-malware-cve-2021-1765-3040dd3c4af1",
+			"date_added": "2021-08-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-18T00:00:00Z",
+	"cisa_date_added": "2022-06-27T00:00:00Z",
+	"date_added": "2021-08-16T00:00:00Z"
+}

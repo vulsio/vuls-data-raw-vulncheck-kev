@@ -1,0 +1,27 @@
+{
+	"vendorProject": "VMware",
+	"product": "vrealize_log_insight",
+	"shortDescription": "VMware vRealize Log Insight contains an Information Disclosure Vulnerability. A malicious actor can remotely collect sensitive session and application information without authentication.",
+	"vulnerabilityName": "VMware vRealize Log Insight Information Disclosure",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-31711"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "bc1dbcfee34d",
+			"xdb_url": "https://vulncheck.com/xdb/bc1dbcfee34d",
+			"date_added": "2023-01-30T22:01:08Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:horizon3ai/vRealizeLogInsightRCE.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://25491742.fs1.hubspotusercontent-eu1.net/hubfs/25491742/WAZAWAKA_TLPCLEAR_Report.pdf",
+			"date_added": "2023-12-20T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-20T00:00:00Z"
+}

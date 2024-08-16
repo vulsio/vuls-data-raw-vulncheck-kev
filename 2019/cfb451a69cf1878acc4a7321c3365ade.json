@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the Microsoft Server Message Block 2.0 (SMBv2) server handles certain requests, aka 'Windows SMB Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-0633.",
+	"vulnerabilityName": "Windows SMB Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-0630"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2022/01/06/emotet-re-emerges-with-help-from-trickbot",
+			"date_added": "2022-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_April_edition_1_digest_pdf.pdf",
+			"date_added": "2019-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-04-01T00:00:00Z"
+}

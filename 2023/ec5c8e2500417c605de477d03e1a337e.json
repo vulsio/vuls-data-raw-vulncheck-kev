@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium Skia",
+	"shortDescription": "Google Chromium Skia contains an integer overflow vulnerability that allows a remote attacker, who has compromised the renderer process, to potentially perform a sandbox escape via a malicious file. This vulnerability affects Google Chrome and ChromeOS, Android, Flutter, and possibly other products.",
+	"vulnerabilityName": "Google Skia Integer Overflow Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6345"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-11-24T00:00:00Z"
+		},
+		{
+			"url": "https://chromereleases.googleblog.com/2023/11/stable-channel-update-for-desktop_28.html",
+			"date_added": "2023-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf",
+			"date_added": "2024-03-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-12-21T00:00:00Z",
+	"cisa_date_added": "2023-11-30T00:00:00Z",
+	"date_added": "2023-09-28T00:00:00Z"
+}

@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Arm",
+	"product": "Mali Graphics Processing Unit (GPU)",
+	"shortDescription": "Arm Mali Graphics Processing Unit (GPU) kernel driver contains a use-after-free vulnerability that may allow a non-privileged user to make improper operations on GPU memory to gain root privilege, and/or disclose information.",
+	"vulnerabilityName": "Arm Mali Graphics Processing Unit (GPU) Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-28663"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7fe79c6d9e0d",
+			"xdb_url": "https://vulncheck.com/xdb/7fe79c6d9e0d",
+			"date_added": "2021-09-01T22:59:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:lntrx/CVE-2021-28663.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2024-02-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-05-03T00:00:00Z"
+}

@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that could allow for code execution.",
+	"vulnerabilityName": "Adobe ColdFusion Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-4939"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-10-20T00:00:00Z"
+}

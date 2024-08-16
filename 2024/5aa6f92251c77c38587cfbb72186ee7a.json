@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Acronis",
+	"product": "Cyber Infrastructure (ACI)",
+	"shortDescription": "Acronis Cyber Infrastructure (ACI) allows an unauthenticated user to execute commands remotely due to the use of default passwords.",
+	"vulnerabilityName": "Acronis Cyber Infrastructure (ACI) Insecure Default Password Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-45249"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://security-advisory.acronis.com/updates/UPD-2310-9e7e-bd9b",
+			"date_added": "2024-07-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-19T00:00:00Z",
+	"cisa_date_added": "2024-07-29T00:00:00Z",
+	"date_added": "2024-07-24T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "grupposcai",
+	"product": "realgimm",
+	"shortDescription": "Multiple reflected cross-site scripting (XSS) vulnerabilities in the ErroreNonGestito.aspx component of GruppoSCAI RealGimm 1.1.37p38 allow attackers to execute arbitrary Javascript in the context of a victim user's browser via a crafted payload injected into the VIEWSTATE parameter.",
+	"vulnerabilityName": "grupposcai realgimm Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-41642"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-24&host_type=src&vulnerability=cve-2023-41642",
+			"date_added": "2024-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2023-41642",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-13&host_type=src&vulnerability=cve-2023-41642",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-24T00:00:00Z"
+}

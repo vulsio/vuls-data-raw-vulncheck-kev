@@ -1,0 +1,19 @@
+{
+	"vendorProject": "acme",
+	"product": "mini_httpd",
+	"shortDescription": "mini_httpd 1.19 writes data to a log file without sanitizing non-printable characters, which might allow remote attackers to modify a window's title, or possibly execute arbitrary commands or overwrite files, via an HTTP request containing an escape sequence for a terminal emulator.",
+	"vulnerabilityName": "acme mini_httpd Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-4490"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/the-ghosts-of-mirai",
+			"date_added": "2021-06-24T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-24T00:00:00Z"
+}

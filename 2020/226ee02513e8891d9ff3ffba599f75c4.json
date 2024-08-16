@@ -1,0 +1,19 @@
+{
+	"vendorProject": "telartis_bv",
+	"product": "awstats_totals",
+	"shortDescription": "awstatstotals.php in AWStats Totals 1.0 through 1.14 allows remote attackers to execute arbitrary code via PHP sequences in the sort parameter, which is used by the multisort function when dynamically creating an anonymous PHP function.",
+	"vulnerabilityName": "telartis_bv awstats_totals Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-3922"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

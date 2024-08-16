@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Tenda",
+	"product": "ax3_firmware",
+	"shortDescription": "Tenda AX3 V16.03.12.11 was discovered to contain a command injection vulnerability via the lanip parameter at /goform/AdvSetLanip.",
+	"vulnerabilityName": "Tenda ax3_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27240"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-22T00:00:00Z"
+}

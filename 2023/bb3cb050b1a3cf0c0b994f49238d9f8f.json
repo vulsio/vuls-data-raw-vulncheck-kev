@@ -1,0 +1,109 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+	"shortDescription": "Cisco Adaptive Security Appliance and Firepower Threat Defense contain an unauthorized access vulnerability that could allow an unauthenticated, remote attacker to conduct a brute force attack in an attempt to identify valid username and password combinations or establish a clientless SSL VPN session with an unauthorized user.",
+	"vulnerabilityName": "Cisco Adaptive Security Appliance and Firepower Threat Defense Unauthorized Access Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions for group-lock and vpn-simultaneous-logins or discontinue use of the product for unsupported devices.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-20269"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-vpn-zero-day-exploited-by-ransomware-gangs/",
+			"date_added": "2023-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.intrinsec.com/akira_ransomware/",
+			"date_added": "2023-11-28T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2023/12/21/akira-again-the-ransomware-that-keeps-on-taking/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.coveware.com/blog/2024/1/25/new-ransomware-reporting-requirements-kick-in-as-victims-increasingly-avoid-paying",
+			"date_added": "2024-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.kroll.com/en/insights/publications/cyber/threat-intelligence-reports/q4-2023-threat-landscape-report-threat-actors-breach-outer-limits",
+			"date_added": "2024-02-21T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ransomware-attacks-exploits",
+			"date_added": "2024-03-12T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://notfallseite.sit.nrw/fileadmin/user_upload/SIT_Incident_Response_v1.1.pdf",
+			"date_added": "2024-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.coveware.com/blog/2024/4/17/raas-devs-hurt-their-credibility-by-cheating-affiliates-in-q1-2024",
+			"date_added": "2024-04-17T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html",
+			"date_added": "2024-04-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/akira-ransomware",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
+			"date_added": "2024-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://stonefly.com/blog/akira-ransomware-how-it-works-and-how-to-stop-it/",
+			"date_added": "2024-06-05T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.uptycs.com/blog/uptycs-quarterly-cyber-threat-bulletin-q2-2024",
+			"date_added": "2024-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.zscaler.com/resources/industry-reports/threatlabz-ransomware-report.pdf",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2023/08/29/under-siege-rapid7-observed-exploitation-of-cisco-asa-ssl-vpns/",
+			"date_added": "2023-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-ravpn-auth-8LyfCkeC",
+			"date_added": "2023-09-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.orangecyberdefense.com/fileadmin/general/pdf/Cy-Xplorer-2024.pdf",
+			"date_added": "2024-07-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-04T00:00:00Z",
+	"cisa_date_added": "2023-09-13T00:00:00Z",
+	"date_added": "2023-08-29T00:00:00Z"
+}

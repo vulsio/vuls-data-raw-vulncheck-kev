@@ -1,0 +1,19 @@
+{
+	"vendorProject": "chef",
+	"product": "chef_manage",
+	"shortDescription": "The Chef Manage (formerly opscode-manage) add-on before 1.12.0 for Chef allows remote attackers to execute arbitrary code via crafted serialized data in a cookie.",
+	"vulnerabilityName": "Chef Manage Add-on before 1.12.0 for Chef Crafted Serialized Data Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-4326"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-10T00:00:00Z"
+}

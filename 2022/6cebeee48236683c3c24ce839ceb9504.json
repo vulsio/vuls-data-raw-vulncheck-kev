@@ -1,0 +1,53 @@
+{
+	"vendorProject": "asrock",
+	"product": "rgb_driver",
+	"shortDescription": "AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.",
+	"vulnerabilityName": "ASRock RGB Driver AsrDrv103.sys Triple Fault",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-15368"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1ecc40849d27",
+			"xdb_url": "https://vulncheck.com/xdb/1ecc40849d27",
+			"date_added": "2021-06-29T04:38:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:stong/CVE-2020-15368.git"
+		},
+		{
+			"xdb_id": "ea0d53dd94e0",
+			"xdb_url": "https://vulncheck.com/xdb/ea0d53dd94e0",
+			"date_added": "2024-08-10T23:51:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:R7flex/asrockploit.git"
+		},
+		{
+			"xdb_id": "712d9b0dd5fc",
+			"xdb_url": "https://vulncheck.com/xdb/712d9b0dd5fc",
+			"date_added": "2020-02-02T05:28:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hfiref0x/KDU.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/us-warns-of-govt-hackers-targeting-industrial-control-systems/",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/incontroller-state-sponsored-ics-tool",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-103a",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Jimmy%20Wylie%20-%20Analyzing%20PIPEDREAM%20Challenges%20in%20testing%20an%20ICS%20attack%20toolkit.pdf",
+			"date_added": "2022-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-13T00:00:00Z"
+}

@@ -1,0 +1,23 @@
+{
+	"vendorProject": "ServiceNow",
+	"product": "Washington DC, Vancouver, and Utah Now Platform",
+	"shortDescription": "ServiceNow has addressed a sensitive file read vulnerability that was identified in the Washington DC, Vancouver, and Utah Now Platform releases. This vulnerability could allow an administrative user to gain unauthorized access to sensitive files on the web application server. The vulnerability is addressed in the listed patches and hot fixes, which were released during the June 2024 patching cycle. If you have not done so already, we recommend applying security patches relevant to your instance as soon as possible.",
+	"vulnerabilityName": "ServiceNow Washington DC, Vancouver, and Utah Now Platform Administrative User Information Disclosure Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-5178"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.imperva.com/blog/imperva-customers-protected-against-critical-servicenow-vulnerability/",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://fortiguard.fortinet.com/outbreak-alert/servicenow-rce",
+			"date_added": "2024-08-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-23T00:00:00Z"
+}

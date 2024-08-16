@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "dap-1860_firmware",
+	"shortDescription": "D-Link DAP-1860 devices before v1.04b03 Beta allow arbitrary remote code execution as root without authentication via shell metacharacters within an HNAP_AUTH HTTP header.",
+	"vulnerabilityName": "D-Link dap-1860_firmware Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-19597"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

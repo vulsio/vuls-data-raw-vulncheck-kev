@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists when Microsoft Windows MSDT is called using the URL protocol from a calling application.",
+	"vulnerabilityName": "Microsoft Windows Support Diagnostic Tool (MSDT) Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-34713"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Aug?api-version=2020",
+			"date_added": "2022-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2023/03/01/blacklotus-uefi-bootkit-myth-confirmed/",
+			"date_added": "2023-03-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-30T00:00:00Z",
+	"cisa_date_added": "2022-08-09T00:00:00Z",
+	"date_added": "2022-08-09T00:00:00Z"
+}

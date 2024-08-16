@@ -1,0 +1,23 @@
+{
+	"vendorProject": "inpage",
+	"product": "inpage",
+	"shortDescription": "Special crafted InPage document leads to arbitrary code execution in InPage reader.",
+	"vulnerabilityName": "inpage inpage Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-12824"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://ti.qianxin.com/blog/articles/analysis-of-targeted-attack-against-pakistan-by-exploiting-inpage-vulnerability-and-related-apt-groups-english/",
+			"date_added": "2018-11-29T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q3-2022-threat-report/",
+			"date_added": "2022-11-02T00:00:00Z"
+		}
+	],
+	"date_added": "2018-11-29T00:00:00Z"
+}

@@ -1,0 +1,85 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-610 Devices",
+	"shortDescription": "D-Link DIR-610 devices allow remote code execution via the cmd parameter to command.php.",
+	"vulnerabilityName": "D-Link DIR-610 Devices Remote Command Execution",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9377"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-02&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-19&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-02-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-12&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-13&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-14&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-20&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-21&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-25&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-14&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-20&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-13&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-04&host_type=src&vulnerability=cve-2020-9377",
+			"date_added": "2024-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits",
+			"date_added": "2021-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/botenago-strike-again-malware-source-code-uploaded-to-github",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/threat-signal-report/4389/botenago-malware-targets-multiple-iot-devices",
+			"date_added": "2022-01-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2021-11-11T00:00:00Z"
+}

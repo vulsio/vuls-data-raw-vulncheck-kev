@@ -1,0 +1,19 @@
+{
+	"vendorProject": "cozmoslabs",
+	"product": "user_profile_picture",
+	"shortDescription": "The REST API endpoint get_users in the User Profile Picture WordPress plugin before 2.5.0 returned more information than was required for its functionality to users with the upload_files capability. This included password hashes, hashed user activation keys, usernames, emails, and other less sensitive information.",
+	"vulnerabilityName": "cozmoslabs user_profile_picture Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24170"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/users-profile-picture/user-profile-picture-240-sensitive-information-disclosure",
+			"date_added": "2022-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

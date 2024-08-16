@@ -1,0 +1,19 @@
+{
+	"vendorProject": "quest",
+	"product": "kace_systems_management",
+	"shortDescription": "service/krashrpt.php in Quest KACE K1000 Systems Management Appliance before 6.4 SP3 (6.4.120822) allows a remote attacker to execute code via shell metacharacters in the kuid parameter.",
+	"vulnerabilityName": "quest kace_systems_management Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-20504"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2019-20504",
+			"date_added": "2024-06-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-29T00:00:00Z"
+}

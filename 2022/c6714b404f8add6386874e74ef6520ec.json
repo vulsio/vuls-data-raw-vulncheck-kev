@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Spoofing Vulnerability",
+	"vulnerabilityName": "Windows Spoofing Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-1599"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html",
+			"date_added": "2022-11-14T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-14T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "10web",
+	"product": "photo_gallery",
+	"shortDescription": "Unvalidated input in the Photo Gallery (10Web Photo Gallery) WordPress plugin, versions before 1.5.55, leads to SQL injection via the frontend/models/model.php bwg_search_x parameter.",
+	"vulnerabilityName": "10web photo_gallery Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24139"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/photo-gallery/photo-gallery-by-10web-1554-sql-injection-via-bwg-search-x-parameter",
+			"date_added": "2023-01-24T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-24T00:00:00Z"
+}

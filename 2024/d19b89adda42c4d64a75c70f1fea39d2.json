@@ -1,0 +1,19 @@
+{
+	"vendorProject": "perforce",
+	"product": "helix_core",
+	"shortDescription": "An arbitrary code execution which results in privilege escalation was discovered in Helix Core versions prior to 2023.2.  Reported by Jason Geffner.\n",
+	"vulnerabilityName": "perforce helix_core Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-45849"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://redsense.com/publications/yearly-intel-trend-review-2023/",
+			"date_added": "2024-01-30T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-30T00:00:00Z"
+}

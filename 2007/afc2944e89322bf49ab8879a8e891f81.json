@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ichitaro",
+	"product": "ichitaro",
+	"shortDescription": "Ichitaro 2005 through 2007, and possibly related products, allows remote attackers to have an unknown impact via unspecified vectors in a document distributed through e-mail or a web site, possibly due to a buffer overflow or cross-site scripting (XSS).",
+	"vulnerabilityName": "ichitaro ichitaro Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-1938"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.justsystems.com/jp/corporate/info/pd7002.html",
+			"date_added": "2007-04-10T00:00:00Z"
+		}
+	],
+	"date_added": "2007-04-10T00:00:00Z"
+}

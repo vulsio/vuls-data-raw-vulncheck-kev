@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "safari",
+	"shortDescription": "This issue was addressed with improved iframe sandbox enforcement. This issue is fixed in Safari 13.0.1, iOS 13. Maliciously crafted web content may violate iframe sandboxing policy.",
+	"vulnerabilityName": "Apple safari Improper Restriction of Rendered UI Layers or Frames",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8771"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.confiant.com/malvertiser-egobbler-exploits-chrome-webkit-bugs-infects-over-1-billion-ads-6b8ccc41b0e6",
+			"date_added": "2019-09-30T00:00:00Z"
+		}
+	],
+	"date_added": "2019-09-30T00:00:00Z"
+}

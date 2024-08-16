@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipad_os",
+	"shortDescription": "This issue was addressed with improved iframe sandbox enforcement. This issue is fixed in macOS Big Sur 11.2, Security Update 2021-001 Catalina, Security Update 2021-001 Mojave, watchOS 7.3, tvOS 14.4, iOS 14.4 and iPadOS 14.4. Maliciously crafted web content may violate iframe sandboxing policy.",
+	"vulnerabilityName": "Apple macOS iframe Sandboxing Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-1801"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.confiant.com/hubfs/ScamClub-Threat-Report-Q1Q2-2023.pdf",
+			"date_added": "2023-09-27T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-27T00:00:00Z"
+}

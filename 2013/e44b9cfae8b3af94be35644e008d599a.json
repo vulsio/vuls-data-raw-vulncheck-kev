@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystems",
+	"product": "hanako",
+	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro 2006 and 2007, Ichitaro Government 2006 and 2007, Ichitaro Portable with oreplug, Hanako 2006 through 2013, Hanako Police, Hanako Police 3, and Hanako Police 2010 allows remote attackers to execute arbitrary code via a crafted file.",
+	"vulnerabilityName": "JustSystems Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-0707"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://jvndb.jvn.jp/en/contents/2013/JVNDB-2013-000015.html",
+			"date_added": "2013-02-26T00:00:00Z"
+		}
+	],
+	"date_added": "2013-02-26T00:00:00Z"
+}

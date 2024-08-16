@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Schneider Electric",
+	"product": "powerlogic_ion8650_firmware",
+	"shortDescription": "A CWE-119:Improper restriction of operations within the bounds of a memory buffer vulnerability exists in PowerLogic ION8650, ION8800, ION7650, ION7700/73xx, and ION83xx/84xx/85xx/8600 (see security notifcation for affected versions), which could cause the meter to reboot.",
+	"vulnerabilityName": "Schneider Electric powerlogic_ion8650_firmware Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22713"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.cloudflare.com/ddos-threat-report-2023-q1/",
+			"date_added": "2023-04-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-11T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "magmi_project",
+	"product": "magmi",
+	"shortDescription": "Directory traversal vulnerability in web/ajax_pluginconf.php in the MAGMI (aka Magento Mass Importer) plugin for Magento Server allows remote attackers to read arbitrary files via a .. (dot dot) in the file parameter.",
+	"vulnerabilityName": "magmi_project magmi Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-2067"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+			"date_added": "2020-11-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-11-22T00:00:00Z"
+}

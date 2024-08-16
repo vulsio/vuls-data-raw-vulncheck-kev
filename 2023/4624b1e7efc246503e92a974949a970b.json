@@ -1,0 +1,23 @@
+{
+	"vendorProject": "dcnglobal",
+	"product": "dcbi-netlog-lab_firmware",
+	"shortDescription": "An issue in the component /network_config/nsg_masq.cgi of DCN (Digital China Networks) DCBI-Netlog-LAB v1.0 allows attackers to bypass authentication and execute arbitrary commands via a crafted request.",
+	"vulnerabilityName": "dcnglobal dcbi-netlog-lab_firmware Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-26802"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/router-malware-attack",
+			"date_added": "2023-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-iz1h9/",
+			"date_added": "2023-05-25T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-01T00:00:00Z"
+}

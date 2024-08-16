@@ -1,0 +1,81 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, iPadOS, macOS, tvOS, and watchOS contain an unspecified vulnerability allowing an app to modify a sensitive kernel state.",
+	"vulnerabilityName": "Apple Multiple Products Kernel Unspecified Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38606"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213841",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213842",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213843",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213844",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213845",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213846",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213848",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/",
+			"date_added": "2023-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://redsense.com/publications/yearly-intel-trend-review-2023/",
+			"date_added": "2024-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.isc.360.com/isc-cxo/2023APT_report.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/resources/research-hub/cybercrime-trends-annual-report-2023-2024/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf",
+			"date_added": "2024-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q1-2024/112742/",
+			"date_added": "2024-06-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-08-16T00:00:00Z",
+	"cisa_date_added": "2023-07-26T00:00:00Z",
+	"date_added": "2023-07-24T00:00:00Z"
+}

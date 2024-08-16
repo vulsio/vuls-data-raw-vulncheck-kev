@@ -1,0 +1,19 @@
+{
+	"vendorProject": "pdoc",
+	"product": "API Documentation for Python Projects",
+	"shortDescription": "pdoc provides API Documentation for Python Projects. Documentation generated with `pdoc --math` linked to JavaScript files from polyfill.io. The polyfill.io CDN has been sold and now serves malicious code.",
+	"vulnerabilityName": "pdoc API Documentation for Python Projects 'pdoc --math' Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38526"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://45734016.fs1.hubspotusercontent-na1.net/hubfs/45734016/THREATMON%20GLOBAL%20CYBER%20THREAT%20REPORT%202024_H1.pdf",
+			"date_added": "2024-07-09T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-09T00:00:00Z"
+}

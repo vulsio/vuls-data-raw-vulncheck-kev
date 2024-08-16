@@ -1,0 +1,19 @@
+{
+	"vendorProject": "inspireui",
+	"product": "mstore_api",
+	"shortDescription": "The MStore API plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 3.9.1. This is due to insufficient verification on the user being supplied during the cart sync from mobile REST API request through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they have access to the user id.",
+	"vulnerabilityName": "MStore API plugin for WordPress Authentication Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2734"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mstore-api/mstore-api-391-authentication-bypass",
+			"date_added": "2023-05-25T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-25T00:00:00Z"
+}

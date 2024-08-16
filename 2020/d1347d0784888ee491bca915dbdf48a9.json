@@ -1,0 +1,19 @@
+{
+	"vendorProject": "tunasite",
+	"product": "adning_advertising",
+	"shortDescription": "The Adning Advertising plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the _ning_upload_image function in versions up to, and including, 1.5.5. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected sites server which may make remote code execution possible.",
+	"vulnerabilityName": "tunasite adning_advertising Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36705"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/angwp/adning-advertising-155-arbitrary-file-upload",
+			"date_added": "2020-07-07T00:00:00Z"
+		}
+	],
+	"date_added": "2020-07-07T00:00:00Z"
+}

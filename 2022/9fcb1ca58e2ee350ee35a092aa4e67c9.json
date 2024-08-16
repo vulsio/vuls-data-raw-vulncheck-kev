@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "Heap-based buffer overflow in IOHIDFamily in Apple OS X, which affects, iOS before 8 and Apple TV before 7, allows attackers to execute arbitrary code in a privileged context.",
+	"vulnerabilityName": "Apple OS X Heap-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-4404"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-10T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2022-02-10T00:00:00Z"
+}

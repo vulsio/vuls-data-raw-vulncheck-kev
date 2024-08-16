@@ -1,0 +1,19 @@
+{
+	"vendorProject": "smashballoon",
+	"product": "smash_balloon_social_post_feed",
+	"shortDescription": "The Smash Balloon Social Post Feed WordPress plugin before 4.0.1 did not have any privilege or nonce validation before saving the plugin's setting. As a result, any logged-in user on a vulnerable site could update the settings and store rogue JavaScript on each of its posts and pages.",
+	"vulnerabilityName": "smashballoon smash_balloon_social_post_feed Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24918"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/custom-facebook-feed/smash-balloon-social-post-feed-40-arbitrary-plugin-settings-update-to-stored-cross-site-scripting",
+			"date_added": "2023-01-23T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-23T00:00:00Z"
+}

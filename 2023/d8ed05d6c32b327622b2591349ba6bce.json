@@ -1,0 +1,19 @@
+{
+	"vendorProject": "favethemes",
+	"product": "houzez",
+	"shortDescription": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Favethemes Houzez - Real Estate WordPress Theme allows SQL Injection.This issue affects Houzez - Real Estate WordPress Theme: from n/a through 1.3.4.\n\n",
+	"vulnerabilityName": "favethemes houzez Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36529"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/houzez-crm/wordpress-houzez-crm-plugin-1-3-3-sql-injection",
+			"date_added": "2023-06-28T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-28T00:00:00Z"
+}

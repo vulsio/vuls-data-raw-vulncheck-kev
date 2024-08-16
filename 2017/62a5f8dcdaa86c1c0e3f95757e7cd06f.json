@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SMBv1",
+	"shortDescription": "The SMBv1 server in Microsoft allows remote attackers to execute arbitrary code via crafted packets.",
+	"vulnerabilityName": "Microsoft SMBv1 Server Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-0148"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "01fbcaf8d8bd",
+			"xdb_url": "https://vulncheck.com/xdb/01fbcaf8d8bd",
+			"date_added": "2023-07-18T13:32:17Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:HakaKali/CVE-2017-0148.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf",
+			"date_added": "2017-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-27T00:00:00Z",
+	"cisa_date_added": "2022-04-06T00:00:00Z",
+	"date_added": "2017-05-17T00:00:00Z"
+}

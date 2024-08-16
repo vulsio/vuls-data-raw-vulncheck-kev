@@ -1,0 +1,296 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "MSHTML",
+	"shortDescription": "Microsoft MSHTML contains a unspecified vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft MSHTML Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-40444"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7e430bace93f",
+			"xdb_url": "https://vulncheck.com/xdb/7e430bace93f",
+			"date_added": "2023-06-05T02:27:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:hqdat809/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "0314f5542800",
+			"xdb_url": "https://vulncheck.com/xdb/0314f5542800",
+			"date_added": "2021-12-28T06:33:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:MRacumen/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "19c332e12d63",
+			"xdb_url": "https://vulncheck.com/xdb/19c332e12d63",
+			"date_added": "2021-09-24T10:59:34Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kal1gh0st/CVE-2021-40444_CAB_archives.git"
+		},
+		{
+			"xdb_id": "d20aa5c71d42",
+			"xdb_url": "https://vulncheck.com/xdb/d20aa5c71d42",
+			"date_added": "2021-11-08T17:38:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Zeop-CyberSec/word_mshtml.git"
+		},
+		{
+			"xdb_id": "12be0ac785f6",
+			"xdb_url": "https://vulncheck.com/xdb/12be0ac785f6",
+			"date_added": "2021-09-09T15:43:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Immersive-Labs-Sec/cve-2021-40444-analysis.git"
+		},
+		{
+			"xdb_id": "87d55d5439d0",
+			"xdb_url": "https://vulncheck.com/xdb/87d55d5439d0",
+			"date_added": "2021-09-16T10:14:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Udyz/CVE-2021-40444-CAB.git"
+		},
+		{
+			"xdb_id": "f798291de8d1",
+			"xdb_url": "https://vulncheck.com/xdb/f798291de8d1",
+			"date_added": "2021-09-10T09:43:41Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Udyz/CVE-2021-40444-Sample.git"
+		},
+		{
+			"xdb_id": "8772ca6900ac",
+			"xdb_url": "https://vulncheck.com/xdb/8772ca6900ac",
+			"date_added": "2024-07-28T17:23:43Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:basim-ahmad/Follina-CVE-and-CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "b0dcf99bb489",
+			"xdb_url": "https://vulncheck.com/xdb/b0dcf99bb489",
+			"date_added": "2021-09-14T01:37:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:aydianosec/CVE2021-40444.git"
+		},
+		{
+			"xdb_id": "df7c894fd424",
+			"xdb_url": "https://vulncheck.com/xdb/df7c894fd424",
+			"date_added": "2021-09-09T09:46:00Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bambooqj/CVE-2021-40444_EXP_JS.git"
+		},
+		{
+			"xdb_id": "8898a986e5b4",
+			"xdb_url": "https://vulncheck.com/xdb/8898a986e5b4",
+			"date_added": "2021-09-10T16:55:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lockedbyte/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "7ab0ea4d6122",
+			"xdb_url": "https://vulncheck.com/xdb/7ab0ea4d6122",
+			"date_added": "2021-09-12T18:05:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:aslitsecurity/CVE-2021-40444_builders.git"
+		},
+		{
+			"xdb_id": "7aaf744b4107",
+			"xdb_url": "https://vulncheck.com/xdb/7aaf744b4107",
+			"date_added": "2021-10-03T01:13:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:H0j3n/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "4d7cd714a253",
+			"xdb_url": "https://vulncheck.com/xdb/4d7cd714a253",
+			"date_added": "2021-09-15T22:34:35Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:klezVirus/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "0a14a2a0a7d0",
+			"xdb_url": "https://vulncheck.com/xdb/0a14a2a0a7d0",
+			"date_added": "2021-12-19T08:16:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit.git"
+		},
+		{
+			"xdb_id": "488dd6b83a3a",
+			"xdb_url": "https://vulncheck.com/xdb/488dd6b83a3a",
+			"date_added": "2021-10-08T15:46:41+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xiaocainiao149/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "8bc0a3fef89c",
+			"xdb_url": "https://vulncheck.com/xdb/8bc0a3fef89c",
+			"date_added": "2021-10-04T05:01:03+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444_1.git"
+		},
+		{
+			"xdb_id": "834486323132",
+			"xdb_url": "https://vulncheck.com/xdb/834486323132",
+			"date_added": "2021-09-12T12:47:49+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "f40045a34384",
+			"xdb_url": "https://vulncheck.com/xdb/f40045a34384",
+			"date_added": "2021-09-13T05:02:34+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "82c5f73256d8",
+			"xdb_url": "https://vulncheck.com/xdb/82c5f73256d8",
+			"date_added": "2021-10-09T14:52:35+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "d5396d15ae8b",
+			"xdb_url": "https://vulncheck.com/xdb/d5396d15ae8b",
+			"date_added": "2021-11-06T03:51:17+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:Moxin1044/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "2b08563b64ee",
+			"xdb_url": "https://vulncheck.com/xdb/2b08563b64ee",
+			"date_added": "2021-10-03T20:22:57+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-40444.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Sep?api-version=2020",
+			"date_added": "2021-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sophos.com/X24WTUEQ/at/b5n9ntjqmbkb8fg5rn25g4fc/sophos-2023-threat-report.pdf",
+			"date_added": "2022-11-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros",
+			"date_added": "2023-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/security/blog/2021/09/15/analyzing-attacks-that-exploit-the-mshtml-cve-2021-40444-vulnerability/",
+			"date_added": "2021-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.riskiq.com/blog/external-threat-management/wizard-spider-windows-0day-exploit/",
+			"date_added": "2021-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2021/09/15/analyzing-attacks-that-exploit-the-mshtml-cve-2021-40444-vulnerability/",
+			"date_added": "2021-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.trellix.com/en-gb/about/newsroom/stories/research/prime-ministers-office-compromised.html",
+			"date_added": "2022-01-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.prevailion.com/what-wicked-webs-we-unweave/",
+			"date_added": "2022-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.malwarebytes.com/threat-intelligence/2022/03/new-spear-phishing-campaign-targets-russian-dissidents/",
+			"date_added": "2022-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
+			"date_added": "2022-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.prodaft.com/m/reports/WizardSpider_TLPWHITE_v.1.4.pdf",
+			"date_added": "2022-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-216a",
+			"date_added": "2022-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://contagiodump.blogspot.com/2023/02/malware-arsenal-used-by-ember-bear-aka.html",
+			"date_added": "2023-02-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/dark-river-you-can-t-see-them-but-they-re-there/",
+			"date_added": "2023-09-27T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/graph-api-threats",
+			"date_added": "2024-05-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-mustang-panda/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
+			"date_added": "2024-07-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-09-07T00:00:00Z"
+}

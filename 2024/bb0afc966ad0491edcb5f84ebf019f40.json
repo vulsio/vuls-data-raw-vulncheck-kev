@@ -1,0 +1,39 @@
+{
+	"vendorProject": "jeecg",
+	"product": "jimureport",
+	"shortDescription": "A vulnerability was found in jeecgboot JimuReport up to 1.6.0. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Template Handler. The manipulation leads to injection. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.6.1 is able to address this issue. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-237571.",
+	"vulnerabilityName": "jeecg jimureport Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-4450"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ee5af2a9df25",
+			"xdb_url": "https://vulncheck.com/xdb/ee5af2a9df25",
+			"date_added": "2024-02-07T03:51:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ilikeoyt/CVE-2023-4450-Attack.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2023-4450",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-13&host_type=src&vulnerability=cve-2023-4450",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2023-4450",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2023-4450",
+			"date_added": "2024-08-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-06T00:00:00Z"
+}

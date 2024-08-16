@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Startklar",
+	"product": "Elementor Addons plugin for WordPress",
+	"shortDescription": "The Startklar Elementor Addons plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file type validation in the 'process' function in the 'startklarDropZoneUploadProcess' class in versions up to, and including, 1.7.13. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.",
+	"vulnerabilityName": "Startklar Elementor Addons plugin for WordPress startklarDropZoneUploadProcess Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4345"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/startklar-elmentor-forms-extwidgets/wordpress-startklar-elementor-addons-plugin-1-7-13-unauthenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

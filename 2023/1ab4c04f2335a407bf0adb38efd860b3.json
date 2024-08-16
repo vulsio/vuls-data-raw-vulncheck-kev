@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "JBoss RichFaces Framework",
+	"shortDescription": "Red Hat JBoss RichFaces Framework contains an expression language injection vulnerability via the UserResource resource. A remote, unauthenticated attacker could exploit this vulnerability to execute malicious code using a chain of Java serialized objects via org.ajax4jsf.resource.UserResource$UriData.",
+	"vulnerabilityName": "Red Hat JBoss RichFaces Framework Expression Language Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-14667"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "484aa7ad502f",
+			"xdb_url": "https://vulncheck.com/xdb/484aa7ad502f",
+			"date_added": "2019-09-23T07:45:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Venscor/CVE-2018-14667-poc.git"
+		},
+		{
+			"xdb_id": "19e2dcdd6dd0",
+			"xdb_url": "https://vulncheck.com/xdb/19e2dcdd6dd0",
+			"date_added": "2018-11-30T04:06:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:syriusbughunt/CVE-2018-14667.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-09-28T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-19T00:00:00Z",
+	"cisa_date_added": "2023-09-28T00:00:00Z",
+	"date_added": "2023-09-28T00:00:00Z"
+}

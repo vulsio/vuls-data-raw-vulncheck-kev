@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": ".NET Framework",
+	"shortDescription": "ASP.NET in Microsoft .NET Framework 2.0 SP1 and SP2 and 3.5 Gold and SP1, when ASP 2.0 is used in integrated mode on IIS 7.0, does not properly manage request scheduling, which allows remote attackers to cause a denial of service (daemon outage) via a series of crafted HTTP requests, aka \"Remote Unauthenticated Denial of Service in ASP.NET Vulnerability.\"",
+	"vulnerabilityName": "Microsoft .NET Framework Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-1536"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-036",
+			"date_added": "2009-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2009-08-13T00:00:00Z"
+}

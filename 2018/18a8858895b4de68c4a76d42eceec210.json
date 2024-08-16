@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player have a stack-based buffer overflow vulnerability that could lead to remote code execution.",
+	"vulnerabilityName": "Adobe Flash Player Stack-based Buffer Overflow Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-5002"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2018-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cve-2018-8453-used-in-targeted-attacks/88151/",
+			"date_added": "2018-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2022-05-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2018-06-07T00:00:00Z"
+}

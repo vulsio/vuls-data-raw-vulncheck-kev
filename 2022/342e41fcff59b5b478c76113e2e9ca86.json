@@ -1,0 +1,19 @@
+{
+	"vendorProject": "muffingroup",
+	"product": "betheme",
+	"shortDescription": "Auth. (subscriber+) PHP Object Injection vulnerability in Betheme theme <= 26.5.1.4 on WordPress.",
+	"vulnerabilityName": "muffingroup betheme Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45077"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/betheme/wordpress-betheme-theme-26-5-1-4-auth-php-object-injection-vulnerability",
+			"date_added": "2022-11-17T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-17T00:00:00Z"
+}

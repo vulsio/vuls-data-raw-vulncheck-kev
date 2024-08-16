@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Local Security Authority (LSA) contains a spoofing vulnerability where an attacker can coerce the domain controller to authenticate to the attacker using NTLM.",
+	"vulnerabilityName": "Microsoft Windows LSA Spoofing Vulnerability",
+	"required_action": "Apply remediation actions outlined in CISA guidance [https://www.cisa.gov/guidance-applying-june-microsoft-patch].",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-26925"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-May?api-version=2020",
+			"date_added": "2022-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-22T00:00:00Z",
+	"cisa_date_added": "2022-07-01T00:00:00Z",
+	"date_added": "2022-05-10T00:00:00Z"
+}

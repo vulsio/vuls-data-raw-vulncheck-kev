@@ -1,0 +1,45 @@
+{
+	"vendorProject": "IBM",
+	"product": "InfoSphere BigInsights",
+	"shortDescription": "Certain APIs within BigInsights can take invalid input that might allow attackers unauthorized access to read, write, modify, or delete data.",
+	"vulnerabilityName": "IBM InfoSphere BigInsights Invalid Input Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-3993"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2022-01-26T00:00:00Z"
+}

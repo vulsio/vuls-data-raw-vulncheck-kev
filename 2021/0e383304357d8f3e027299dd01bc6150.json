@@ -1,0 +1,19 @@
+{
+	"vendorProject": "imagestowebp_project",
+	"product": "images_to_webp",
+	"shortDescription": "The Images to WebP WordPress plugin before 1.9 does not validate or sanitise the tab parameter before passing it to the include() function, which could lead to a Local File Inclusion issue",
+	"vulnerabilityName": "imagestowebp_project images_to_webp Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24644"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/images-to-webp/wordpress-images-to-webp-plugin-1-8-authenticated-local-file-inclusion-lfi-vulnerability",
+			"date_added": "2021-10-19T00:00:00Z"
+		}
+	],
+	"date_added": "2021-10-19T00:00:00Z"
+}

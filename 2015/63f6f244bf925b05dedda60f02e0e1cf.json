@@ -1,0 +1,57 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ATM Font Driver",
+	"shortDescription": "ATMFD.DLL in the Adobe Type Manager Font Driver in Microsoft Windows Server allows local users to gain privileges via a crafted application.",
+	"vulnerabilityName": "Microsoft ATM Font Driver Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-2387"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "eae6da526a3c",
+			"xdb_url": "https://vulncheck.com/xdb/eae6da526a3c",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/15/g/hacking-team-leak-uncovers-another-windows-zero-day-ms-releases-patch.html",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2015-07-05T00:00:00Z"
+}

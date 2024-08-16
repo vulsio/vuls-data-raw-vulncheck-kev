@@ -1,0 +1,19 @@
+{
+	"vendorProject": "rockwellautomation",
+	"product": "1756-en2f_series_a_firmware",
+	"shortDescription": "\nWhere this vulnerability exists in the Rockwell Automation 1756 EN2* and 1756 EN3* ControlLogix communication products, it could allow a malicious user to perform remote code execution with persistence on the target system through maliciously crafted CIP messages. This includes the ability to modify, deny, and exfiltrate data passing through the device.\n\n",
+	"vulnerabilityName": "rockwellautomation 1756-en2f_series_a_firmware Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3595"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://hub.dragos.com/hubfs/312-Year-in-Review/2023/Dragos-2023-Year-in-Review-Full-Report.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-20T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, iPadOs, macOS, watchOS, and tvOS contain a race condition vulnerability that may allow a malicious application to elevate privileges.",
+	"vulnerabilityName": "Apple Multiple Products Race Condition Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-1782"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5d442d6d99aa",
+			"xdb_url": "https://vulncheck.com/xdb/5d442d6d99aa",
+			"date_added": "2021-02-10T14:38:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:synacktiv/CVE-2021-1782.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT212148",
+			"date_added": "2021-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212149",
+			"date_added": "2021-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212146",
+			"date_added": "2021-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212147",
+			"date_added": "2021-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-01-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-01-26T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ideastocode",
+	"product": "enable_svg\\,_webp_\\&_ico_upload",
+	"shortDescription": "Authenticated (author or higher user role) Arbitrary File Upload vulnerability in ideasToCode Enable SVG, WebP & ICO Upload plugin <= 1.0.1 at WordPress.",
+	"vulnerabilityName": "ideastocode enable_svg\\,_webp_\\&_ico_upload Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-34154"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/enable-svg-webp-ico-upload/wordpress-enable-svg-webp-ico-upload-plugin-1-0-1-authenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2022-08-01T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-01T00:00:00Z"
+}

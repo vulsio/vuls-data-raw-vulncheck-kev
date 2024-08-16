@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Arm",
+	"product": "Trusted Firmware",
+	"shortDescription": "Arm Trusted Firmware contains an out-of-bounds write vulnerability allowing the non-secure (NS) world to trigger a system halt, overwrite secure data, or print out secure data when calling secure functions under the non-secure processing environment (NSPE) handler mode. This vulnerability affects Yealink Device Management servers.",
+	"vulnerabilityName": "Arm Trusted Firmware Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-27562"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-iot-vulnerabilities/",
+			"date_added": "2021-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/the-ghosts-of-mirai",
+			"date_added": "2021-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.radware.com/getmedia/18d24c2d-c092-4a61-9ad6-ebb92b7a49b8/Alert_Realtek_SDK.aspx",
+			"date_added": "2021-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
+			"date_added": "2023-10-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-03-15T00:00:00Z"
+}

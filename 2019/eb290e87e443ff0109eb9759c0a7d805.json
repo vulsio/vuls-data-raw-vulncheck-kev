@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "A vulnerability exists during authorization prompting for FTP transaction where successive modal prompts are displayed and cannot be immediately dismissed. This allows for a denial of service (DOS) attack. This vulnerability affects Firefox < 66.",
+	"vulnerabilityName": "Mozilla Firefox Denial of Service Through Successive FTP Authorization Prompts",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9806"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://bugzilla.mozilla.org/show_bug.cgi?id=377496",
+			"date_added": "2019-02-04T00:00:00Z"
+		}
+	],
+	"date_added": "2019-02-04T00:00:00Z"
+}

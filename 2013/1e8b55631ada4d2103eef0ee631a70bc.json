@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "access",
+	"shortDescription": "Unspecified vulnerability in Microsoft Excel 2000, XP, 2003, and 2004 for Mac, and possibly other Office products, allows remote user-assisted attackers to execute arbitrary code via unknown attack vectors, as demonstrated by Exploit-MSExcel.h in targeted zero-day attacks.",
+	"vulnerabilityName": "Excel Malformed Record Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-0671"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
+			"date_added": "2013-03-21T00:00:00Z"
+		}
+	],
+	"date_added": "2013-03-21T00:00:00Z"
+}

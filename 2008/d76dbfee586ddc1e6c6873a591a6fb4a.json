@@ -1,0 +1,19 @@
+{
+	"vendorProject": "coppermine",
+	"product": "coppermine_photo_gallery",
+	"shortDescription": "SQL injection vulnerability in the session handling functionality in bridge/coppermine.inc.php in Coppermine Photo Gallery (CPG) 1.4.17 and earlier allows remote attackers to execute arbitrary SQL commands via an input field associated with the session_id variable, as exploited in the wild in April 2008.  NOTE: the fix for CVE-2008-1840 was intended to address this vulnerability, but is actually inapplicable.",
+	"vulnerabilityName": "coppermine coppermine_photo_gallery Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-1841"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2008-1841",
+			"date_added": "2008-04-16T00:00:00Z"
+		}
+	],
+	"date_added": "2008-04-16T00:00:00Z"
+}

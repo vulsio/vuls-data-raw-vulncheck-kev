@@ -1,0 +1,19 @@
+{
+	"vendorProject": "acme.sh_project",
+	"product": "acme.sh",
+	"shortDescription": "acme.sh before 3.0.6 runs arbitrary commands from a remote server via eval, as exploited in the wild in June 2023.",
+	"vulnerabilityName": "Acme.sh before 3.0.6 Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38198"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-38198",
+			"date_added": "2023-07-12T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-12T00:00:00Z"
+}

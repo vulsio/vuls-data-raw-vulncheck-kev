@@ -1,0 +1,38 @@
+{
+	"vendorProject": "MikroTik",
+	"product": "RouterOS",
+	"shortDescription": "The Mikrotik RouterOS web server allows memory corruption in releases before Stable 6.38.5 and Long-term 6.37.5, aka Chimay-Red. A remote and unauthenticated user can trigger the vulnerability by sending a crafted HTTP request. An attacker can use this vulnerability to execute arbitrary code on the affected system, as exploited in the wild in mid-2017 and later.",
+	"vulnerabilityName": "MikroTik RouterOS Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-20149"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6e01200a1e6a",
+			"xdb_url": "https://vulncheck.com/xdb/6e01200a1e6a",
+			"date_added": "2018-04-27T20:43:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:seekintoo/Chimay-Red.git"
+		},
+		{
+			"xdb_id": "b3d6c84c78db",
+			"xdb_url": "https://vulncheck.com/xdb/b3d6c84c78db",
+			"date_added": "2017-05-11T23:00:17Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BigNerd95/Chimay-Red.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.netlab.360.com/quick-summary-port-8291-scan-en/",
+			"date_added": "2018-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf",
+			"date_added": "2019-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "2018-03-28T00:00:00Z"
+}

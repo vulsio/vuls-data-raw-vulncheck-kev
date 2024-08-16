@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium",
+	"shortDescription": "Google Chromium Visuals contains a use-after-free vulnerability that allows a remote attacker to exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium Visuals Use-After-Free Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4671"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://chromereleases.googleblog.com/2024/05/stable-channel-update-for-desktop_9.html",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.hivepro.com/threat-advisory/google-chrome-fixes-zero-day-cve-2024-4671-exploited-in-the-wild/",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.uptycs.com/blog/uptycs-quarterly-cyber-threat-bulletin-q2-2024",
+			"date_added": "2024-07-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-06-03T00:00:00Z",
+	"cisa_date_added": "2024-05-13T00:00:00Z",
+	"date_added": "2024-05-07T00:00:00Z"
+}

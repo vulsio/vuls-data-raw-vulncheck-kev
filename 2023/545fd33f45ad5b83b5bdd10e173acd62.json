@@ -1,0 +1,19 @@
+{
+	"vendorProject": "hitreach",
+	"product": "allow_php_in_posts_and_pages",
+	"shortDescription": "The Allow PHP in Posts and Pages plugin for WordPress is vulnerable to Remote Code Execution in versions up to, and including, 3.0.4 via the 'php' shortcode. This allows authenticated attackers with subscriber-level permissions or above, to execute code on the server.",
+	"vulnerabilityName": "Allow PHP in Posts and Pages plugin for WordPress Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-4994"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/allow-php-in-posts-and-pages/allow-php-in-posts-and-pages-304-authenticated-subscriber-remote-code-execution-via-shortcode",
+			"date_added": "2023-09-15T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-15T00:00:00Z"
+}

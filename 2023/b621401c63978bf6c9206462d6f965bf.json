@@ -1,0 +1,35 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Secure Boot Security Feature Bypass Vulnerability",
+	"vulnerabilityName": "Secure Boot Security Feature Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-24932"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-May?api-version=2020",
+			"date_added": "2023-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/blog/2023/05/guidance-related-to-secure-boot-manager-changes-associated-with-cve-2023-24932/",
+			"date_added": "2023-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q2-2023-non-mobile-statistics/110413/",
+			"date_added": "2023-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d",
+			"date_added": "2024-04-09T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-09T00:00:00Z"
+}

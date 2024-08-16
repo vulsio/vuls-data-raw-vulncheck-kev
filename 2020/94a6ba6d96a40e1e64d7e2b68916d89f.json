@@ -1,0 +1,62 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A tampering vulnerability exists in Microsoft Windows when a man-in-the-middle attacker is able to successfully bypass the NTLM MIC (Message Integrity Check) protection, aka 'Windows NTLM Tampering Vulnerability'.",
+	"vulnerabilityName": "Windows NTLM Tampering ",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-1040"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f2b408e5e645",
+			"xdb_url": "https://vulncheck.com/xdb/f2b408e5e645",
+			"date_added": "2019-06-18T12:10:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2019-1040-dcpwn.git"
+		},
+		{
+			"xdb_id": "7c8f5346bd7a",
+			"xdb_url": "https://vulncheck.com/xdb/7c8f5346bd7a",
+			"date_added": "2021-12-05T21:36:21Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:5l1v3r1/CVE-2019-1041.git"
+		},
+		{
+			"xdb_id": "fb1859c115f7",
+			"xdb_url": "https://vulncheck.com/xdb/fb1859c115f7",
+			"date_added": "2019-06-19T08:32:31Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lazaars/UltraRealy_with_CVE-2019-1040.git"
+		},
+		{
+			"xdb_id": "964bc1fb8fad",
+			"xdb_url": "https://vulncheck.com/xdb/964bc1fb8fad",
+			"date_added": "2019-06-24T15:33:50Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:fox-it/cve-2019-1040-scanner.git"
+		},
+		{
+			"xdb_id": "a9df8050c46d",
+			"xdb_url": "https://vulncheck.com/xdb/a9df8050c46d",
+			"date_added": "2019-06-14T11:16:03Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2019-1040.git"
+		},
+		{
+			"xdb_id": "80bae939a6d9",
+			"xdb_url": "https://vulncheck.com/xdb/80bae939a6d9",
+			"date_added": "2020-05-11T14:09:35+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:godzeo/CVE-2019-1040.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-20T00:00:00Z"
+}

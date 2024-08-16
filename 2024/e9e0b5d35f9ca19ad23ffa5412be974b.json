@@ -1,0 +1,19 @@
+{
+	"vendorProject": "marketo_ma_project",
+	"product": "marketo_ma",
+	"shortDescription": "Multiple cross-site scripting (XSS) vulnerabilities in the Marketo MA module before 7.x-1.5 for Drupal allow remote authenticated users with certain permissions to inject arbitrary web script or HTML via vectors related to field titles to the (1) Webform or (2) User sub-modules.",
+	"vulnerabilityName": "marketo_ma_project marketo_ma Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-8379"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

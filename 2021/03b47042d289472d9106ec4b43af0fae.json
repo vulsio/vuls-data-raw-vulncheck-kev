@@ -1,0 +1,264 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Print Spooler contains an unspecified vulnerability due to the Windows Print Spooler service improperly performing privileged file operations. Successful exploitation allows an attacker to perform remote code execution with SYSTEM privileges. The vulnerability is also known under the moniker of PrintNightmare.",
+	"vulnerabilityName": "Microsoft Windows Print Spooler Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-34527"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "66146f087766",
+			"xdb_url": "https://vulncheck.com/xdb/66146f087766",
+			"date_added": "2021-07-09T08:27:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dywhoami/CVE-2021-34527-Scanner-Based-On-cube0x0-POC.git"
+		},
+		{
+			"xdb_id": "aafd327559cb",
+			"xdb_url": "https://vulncheck.com/xdb/aafd327559cb",
+			"date_added": "2024-02-12T20:54:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:whoami-chmod777/CVE-2021-1675-CVE-2021-34527.git"
+		},
+		{
+			"xdb_id": "0544e277335e",
+			"xdb_url": "https://vulncheck.com/xdb/0544e277335e",
+			"date_added": "2023-09-08T12:59:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:d0nkeyk0ng787/PrintNightmare-POC.git"
+		},
+		{
+			"xdb_id": "94dfa232ad84",
+			"xdb_url": "https://vulncheck.com/xdb/94dfa232ad84",
+			"date_added": "2022-06-24T13:25:25Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:cyb3rpeace/CVE-2021-34527.git"
+		},
+		{
+			"xdb_id": "f06e206bb116",
+			"xdb_url": "https://vulncheck.com/xdb/f06e206bb116",
+			"date_added": "2021-07-03T15:15:12Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:nemo-wq/PrintNightmare-CVE-2021-34527.git"
+		},
+		{
+			"xdb_id": "8b8ea9fe1124",
+			"xdb_url": "https://vulncheck.com/xdb/8b8ea9fe1124",
+			"date_added": "2022-09-05T23:48:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hackerhouse-opensource/cve-2021-34527.git"
+		},
+		{
+			"xdb_id": "236b4901d545",
+			"xdb_url": "https://vulncheck.com/xdb/236b4901d545",
+			"date_added": "2021-06-29T17:24:14Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:cube0x0/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "f4a2f262c1e1",
+			"xdb_url": "https://vulncheck.com/xdb/f4a2f262c1e1",
+			"date_added": "2021-09-26T13:53:10Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:ly4k/PrintNightmare.git"
+		},
+		{
+			"xdb_id": "161c77693a74",
+			"xdb_url": "https://vulncheck.com/xdb/161c77693a74",
+			"date_added": "2022-08-23T20:20:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:m8sec/CVE-2021-34527.git"
+		},
+		{
+			"xdb_id": "a9a05728c824",
+			"xdb_url": "https://vulncheck.com/xdb/a9a05728c824",
+			"date_added": "2021-07-02T12:10:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:JohnHammond/CVE-2021-34527.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Jul?api-version=2020",
+			"date_added": "2021-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/magniber-ransomware-caught-using-printnightmare-vulnerability/",
+			"date_added": "2021-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa21-265a",
+			"date_added": "2021-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybereason.com/blog/threat-analysis-report-printnightmare-and-magniber-ransomware",
+			"date_added": "2021-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/product-tech/2021/10/05/assess-risk-ransomware-attacks-qualys-research",
+			"date_added": "2021-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/csw_final_ransomware_index-update-q321-csw_.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement",
+			"date_added": "2021-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/f/black-basta-ransomware-operators-expand-their-attack-arsenal-wit.html",
+			"date_added": "2022-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/sentinellabs22/SentinelLabs-BlackBasta",
+			"date_added": "2022-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.csoonline.com/article/574109/what-is-ransom-cartel-a-ransomware-gang-focused-on-reputational-damage.html",
+			"date_added": "2022-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/vice-society-targets-education-sector/",
+			"date_added": "2022-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/labs/custom-branded-ransomware-the-vice-society-group-and-the-threat-of-outsourced-development/",
+			"date_added": "2022-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.intrinsec.com/wp-content/uploads/2023/02/20230119_TLPCLEAR_Vice_Society_BLOG_Version_EN.pdf",
+			"date_added": "2023-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/wp-content/uploads/2023/08/2023-State-of-Cybersecurity-for-Medical-Devices-and-Healthcare-Systems.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/black-basta-ransomware",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html",
+			"date_added": "2021-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2021/07/13/cisa-issues-emergency-directive-microsoft-windows-print-spooler",
+			"date_added": "2022-01-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-074a",
+			"date_added": "2022-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
+			"date_added": "2022-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/03/15/russian-state-sponsored-cyber-actors-gain-network-access-exploiting",
+			"date_added": "2022-05-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-074a",
+			"date_added": "2022-05-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-249a",
+			"date_added": "2022-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-249a-0",
+			"date_added": "2022-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html",
+			"date_added": "2022-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-001.pdf",
+			"date_added": "2023-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://ics-cert.kaspersky.com/publications/reports/2023/03/24/apt-attacks-on-industrial-organizations-in-h2-2022/",
+			"date_added": "2023-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf",
+			"date_added": "2023-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://redcanary.com/threat-detection-report/trends/vulnerabilities/",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.horizon3.ai/wp-content/uploads/2024/03/Proactive_Cybersecurity_Unleashed.pdf",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/05/black-basta-ransomware-strikes-500.html",
+			"date_added": "2024-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-mustang-panda/",
+			"date_added": "2024-06-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-07-20T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-07-02T00:00:00Z"
+}

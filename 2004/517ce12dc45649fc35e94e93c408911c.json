@@ -1,0 +1,19 @@
+{
+	"vendorProject": "avaya",
+	"product": "ip600_media_servers",
+	"shortDescription": "Internet Explorer in Windows XP SP2, and other versions including 5.01 and 5.5, allows remote attackers to install arbitrary programs via a web page that uses certain styles and the AnchorClick behavior, popup windows, and drag-and-drop capabilities to drop the program in the local startup folder, as demonstrated by \"wottapoop.html\".",
+	"vulnerabilityName": "Microsoft Internet Explorer Arbitrary Program Installation Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-0839"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038",
+			"date_added": "2004-11-09T00:00:00Z"
+		}
+	],
+	"date_added": "2004-11-09T00:00:00Z"
+}

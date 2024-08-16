@@ -1,0 +1,40 @@
+{
+	"vendorProject": "MediaTek",
+	"product": "Multiple Chipsets",
+	"shortDescription": "Multiple MediaTek chipsets contain an insufficient input validation vulnerability and have missing SELinux restrictions in the Command Queue drivers ioctl handlers. This causes an out-of-bounds write leading to privilege escalation. This vulnerability was observed chained with CVE-2019-2215 and CVE-2020-0041 under exploit chain \"AbstractEmu.\"",
+	"vulnerabilityName": "Mediatek Multiple Chipsets Insufficient Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-0069"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "466ce736a0d4",
+			"xdb_url": "https://vulncheck.com/xdb/466ce736a0d4",
+			"date_added": "2023-09-04T17:52:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0xf15h/mtk_su.git"
+		},
+		{
+			"xdb_id": "9a931c619e3c",
+			"xdb_url": "https://vulncheck.com/xdb/9a931c619e3c",
+			"date_added": "2019-09-06T12:12:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:R0rt1z2/AutomatedRoot.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.lookout.com/threat-intelligence/article/lookout-discovers-global-rooting-malware-campaign",
+			"date_added": "2021-10-28T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-10-28T00:00:00Z"
+}

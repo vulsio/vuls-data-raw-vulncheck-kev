@@ -1,0 +1,23 @@
+{
+	"vendorProject": "netgain-systems",
+	"product": "enterprise_manager",
+	"shortDescription": "This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of NetGain Systems Enterprise Manager 7.2.730 build 1034. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the org.apache.jsp.u.jsp.tools.exec_jsp servlet, which listens on TCP port 8081 by default. When parsing the command parameter, the process does not properly validate a user-supplied string before using it to execute a system call. An attacker can leverage this vulnerability to execute code under the context of Administrator. Was ZDI-CAN-5193.",
+	"vulnerabilityName": "netgain-systems enterprise_manager Use of Externally-Controlled Format String",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-16602"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-echobot-resurfaces-with-13-previously-unexploited-vulnerabilities/",
+			"date_added": "2019-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-12-13T00:00:00Z"
+}

@@ -1,0 +1,66 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS",
+	"shortDescription": "Apple iOS WebKit contains a memory corruption vulnerability that allows attackers to execute remote code or cause a denial-of-service (DoS) via a crafted web site. This vulnerability could impact HTML parsers that use WebKit, including but not limited to Apple Safari and non-Apple products which rely on WebKit for HTML processing.",
+	"vulnerabilityName": "Apple iOS Webkit Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2016-4657"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a76f1cfce42e",
+			"xdb_url": "https://vulncheck.com/xdb/a76f1cfce42e",
+			"date_added": "2017-03-17T01:39:57Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Traiver/CVE-2016-4657-Switch-Browser-Binary.git"
+		},
+		{
+			"xdb_id": "e2f10ce0ea66",
+			"xdb_url": "https://vulncheck.com/xdb/e2f10ce0ea66",
+			"date_added": "2017-03-13T13:08:17Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Mimoja/CVE-2016-4657-NintendoSwitch.git"
+		},
+		{
+			"xdb_id": "682e7cc60ee0",
+			"xdb_url": "https://vulncheck.com/xdb/682e7cc60ee0",
+			"date_added": "2018-11-11T14:22:18Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:viai957/webkit-vulnerability.git"
+		},
+		{
+			"xdb_id": "86ce9e51f6fd",
+			"xdb_url": "https://vulncheck.com/xdb/86ce9e51f6fd",
+			"date_added": "2017-06-02T10:54:27Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:iDaN5x/Switcheroo.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://citizenlab.ca/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/",
+			"date_added": "2016-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2022-05-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2016-08-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "valvepress",
+	"product": "wordpress_automatic_plugin",
+	"shortDescription": "The WordPress Automatic Plugin for WordPress is vulnerable to arbitrary options updates in versions up to, and including, 3.53.2. This is due to missing authorization and option validation in the process_form.php file. This makes it possible for unauthenticated attackers to arbitrarily update the settings of a vulnerable site and ultimately compromise the entire site.",
+	"vulnerabilityName": "valvepress wordpress_automatic_plugin Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4374"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-automatic/wordpress-automatic-plugin-3532-unauthenticated-arbitrary-options-update",
+			"date_added": "2021-09-06T00:00:00Z"
+		}
+	],
+	"date_added": "2021-09-06T00:00:00Z"
+}

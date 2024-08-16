@@ -1,0 +1,19 @@
+{
+	"vendorProject": "muffingroup",
+	"product": "betheme",
+	"shortDescription": "Broken Access Control in Betheme theme <= 26.6.1 on WordPress.\n",
+	"vulnerabilityName": "muffingroup betheme Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45353"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/betheme/wordpress-betheme-theme-26-6-1-broken-access-control-vulnerability",
+			"date_added": "2022-11-25T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-25T00:00:00Z"
+}

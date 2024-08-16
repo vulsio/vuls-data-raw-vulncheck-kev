@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The kernel in Microsoft Windows, when access to 16-bit applications is enabled on a 32-bit x86 platform, does not properly validate certain BIOS calls, which allows local users to gain privileges.",
+	"vulnerabilityName": "Microsoft Windows Kernel Exception Handler Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-0232"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "74da309f4d8d",
+			"xdb_url": "https://vulncheck.com/xdb/74da309f4d8d",
+			"date_added": "2023-09-11T10:08:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:azorfus/CVE-2010-0232.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2016-08-04T00:00:00Z"
+}

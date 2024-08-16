@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Integer overflow in imgbmp.cxx for Windows 2000 allows remote attackers to execute arbitrary code via a BMP image with a large bfOffBits value.",
+	"vulnerabilityName": "Microsoft Internet Explorer Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-0566"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-025",
+			"date_added": "2004-07-30T00:00:00Z"
+		}
+	],
+	"date_added": "2004-07-30T00:00:00Z"
+}

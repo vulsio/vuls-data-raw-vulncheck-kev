@@ -1,0 +1,19 @@
+{
+	"vendorProject": "theme-fusion",
+	"product": "avada",
+	"shortDescription": "Missing Authorization vulnerability in ThemeFusion Avada.This issue affects Avada: from n/a through 7.11.1.",
+	"vulnerabilityName": "theme-fusion avada Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-39312"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-themes/Avada/avada-7111-authenticatedauthor-arbitrary-file-upload-via-zip-extraction",
+			"date_added": "2023-08-10T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-10T00:00:00Z"
+}

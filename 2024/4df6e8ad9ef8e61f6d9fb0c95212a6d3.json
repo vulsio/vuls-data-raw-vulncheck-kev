@@ -1,0 +1,55 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "A heap-based buffer overflow flaw was found in the way the legacy_parse_param function in the Filesystem Context functionality of the Linux kernel verified the supplied parameters length. An unprivileged (in case of unprivileged user namespaces enabled, otherwise needs namespaced CAP_SYS_ADMIN privilege) local user able to open a filesystem that does not support the Filesystem Context API (and thus fallbacks to legacy handling) could use this flaw to escalate their privileges on the system.",
+	"vulnerabilityName": "Linux Kernel Integer Underflow (Wrap or Wraparound)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0185"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "38c4c63f9d6f",
+			"xdb_url": "https://vulncheck.com/xdb/38c4c63f9d6f",
+			"date_added": "2022-02-18T09:27:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chenaotian/CVE-2022-0185.git"
+		},
+		{
+			"xdb_id": "6f9afef80b6d",
+			"xdb_url": "https://vulncheck.com/xdb/6f9afef80b6d",
+			"date_added": "2022-04-05T07:48:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:veritas501/CVE-2022-0185-PipeVersion.git"
+		},
+		{
+			"xdb_id": "617305981f80",
+			"xdb_url": "https://vulncheck.com/xdb/617305981f80",
+			"date_added": "2022-01-19T06:19:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Crusaders-of-Rust/CVE-2022-0185.git"
+		},
+		{
+			"xdb_id": "c66aa08676a5",
+			"xdb_url": "https://vulncheck.com/xdb/c66aa08676a5",
+			"date_added": "2022-03-04T16:32:18+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:shuaiqi_lw/CVE-2022-0185.git"
+		},
+		{
+			"xdb_id": "ee5208622092",
+			"xdb_url": "https://vulncheck.com/xdb/ee5208622092",
+			"date_added": "2022-11-10T07:37:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:Skwgasnaw/CVE-2022-0185.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.mandiant.com/resources/blog/initial-access-brokers-exploit-f5-screenconnect",
+			"date_added": "2024-03-21T00:00:00Z"
+		}
+	],
+	"date_added": "2024-03-21T00:00:00Z"
+}

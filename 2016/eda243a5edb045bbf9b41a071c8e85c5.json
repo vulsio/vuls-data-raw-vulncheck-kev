@@ -1,0 +1,19 @@
+{
+	"vendorProject": "templatic",
+	"product": "telvolution",
+	"shortDescription": "The Tevolution plugin before 2.3.0 for WordPress has arbitrary file upload via single_upload.php or single-upload.php.",
+	"vulnerabilityName": "templatic telvolution Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-10995"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/Tevolution/tevolution-230-arbitrary-file-upload",
+			"date_added": "2016-04-23T00:00:00Z"
+		}
+	],
+	"date_added": "2016-04-23T00:00:00Z"
+}

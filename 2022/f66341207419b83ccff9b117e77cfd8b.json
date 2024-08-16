@@ -1,0 +1,19 @@
+{
+	"vendorProject": "mailpoet",
+	"product": "mailpoet_newsletters",
+	"shortDescription": "The MailPoet Newsletters (wysija-newsletters) plugin before 2.6.7 for WordPress allows remote attackers to bypass authentication and execute arbitrary PHP code by uploading a crafted theme using wp-admin/admin-post.php and accessing the theme in wp-content/uploads/wysija/themes/mailp/.",
+	"vulnerabilityName": "mailpoet mailpoet_newsletters Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-4725"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wysija-newsletters/mailpoet-newsletters-266-arbitrary-file-upload",
+			"date_added": "2022-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

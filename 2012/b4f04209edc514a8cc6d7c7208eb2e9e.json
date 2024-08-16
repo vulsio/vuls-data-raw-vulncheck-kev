@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Use-after-free vulnerability in DirectShow in Microsoft DirectX 8.1 and 9.0 allows remote attackers to execute arbitrary code via an MJPEG file or video stream with a malformed Huffman table, which triggers an exception that frees heap memory that is later accessed, aka \"MJPEG Decompression Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-0084"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
+			"date_added": "2012-10-18T00:00:00Z"
+		}
+	],
+	"date_added": "2012-10-18T00:00:00Z"
+}

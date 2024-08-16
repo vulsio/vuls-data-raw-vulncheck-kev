@@ -1,0 +1,36 @@
+{
+	"vendorProject": "PlaySMS",
+	"product": "PlaySMS",
+	"shortDescription": "PlaySMS contains a server-side template injection vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "PlaySMS Server-Side Template Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8644"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c5293846ecdb",
+			"xdb_url": "https://vulncheck.com/xdb/c5293846ecdb",
+			"date_added": "2023-07-25T22:01:01Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:hheeyywweellccoommee/CVE-2020-8644-PlaySMS-1.4-rlvpp.git"
+		},
+		{
+			"xdb_id": "7f9ab9f4fabb",
+			"xdb_url": "https://vulncheck.com/xdb/7f9ab9f4fabb",
+			"date_added": "2023-07-25T23:11:51Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

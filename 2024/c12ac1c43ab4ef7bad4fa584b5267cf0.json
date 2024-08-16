@@ -1,0 +1,19 @@
+{
+	"vendorProject": "webnus",
+	"product": "modern_events_calendar",
+	"shortDescription": "The Modern Events Calendar plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the set_featured_image function in all versions up to, and including, 7.11.0. This makes it possible for authenticated attackers, with subscriber access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible. The plugin allows administrators (via its settings) to extend the ability to submit events to unauthenticated users, which would allow unauthenticated attackers to exploit this vulnerability.",
+	"vulnerabilityName": "webnus modern_events_calendar Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-5441"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/modern-events-calendar-lite/wordpress-modern-events-calendar-lite-plugin-7-11-0-authenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2024-07-08T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-08T00:00:00Z"
+}

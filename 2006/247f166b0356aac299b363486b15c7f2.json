@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "visual_basic",
+	"shortDescription": "Buffer overflow in Microsoft Visual Basic for Applications (VBA) SDK 6.0 through 6.4, as used by Microsoft Office 2000 SP3, Office XP SP3, Project 2000 SR1, Project 2002 SP1, Access 2000 Runtime SP3, Visio 2002 SP2, and Works Suite 2004 through 2006, allows user-assisted attackers to execute arbitrary code via unspecified document properties that are not verified when VBA is invoked to open documents.",
+	"vulnerabilityName": "Microsoft visual_basic Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3649"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-047",
+			"date_added": "2006-08-08T00:00:00Z"
+		}
+	],
+	"date_added": "2006-08-08T00:00:00Z"
+}

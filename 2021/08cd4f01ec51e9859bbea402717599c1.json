@@ -1,0 +1,19 @@
+{
+	"vendorProject": "aioseo",
+	"product": "all_in_one_seo",
+	"shortDescription": "The All in One SEO WordPress plugin before 4.1.5.3 is affected by an authenticated SQL injection issue, which was discovered during an internal audit by the Jetpack Scan team, and could grant attackers access to privileged information from the affected site’s database (e.g., usernames and hashed passwords).",
+	"vulnerabilityName": "aioseo all_in_one_seo Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25037"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/all-in-one-seo-pack/wordpress-all-in-one-seo-plugin-4-1-5-2-authenticated-sql-injection-sqli-vulnerability",
+			"date_added": "2021-12-14T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-14T00:00:00Z"
+}

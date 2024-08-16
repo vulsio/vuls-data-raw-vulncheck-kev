@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "di-524up",
+	"shortDescription": "The web interface on D-Link DIR-100, DIR-120, DI-624S, DI-524UP, DI-604S, DI-604UP, DI-604+, and TM-G5240 routers; Planex BRL-04R, BRL-04UR, and BRL-04CW routers; and Alpha Networks routers allows remote attackers to bypass authentication and modify settings via an xmlset_roodkcableoj28840ybtide User-Agent HTTP header, as exploited in the wild in October 2013.",
+	"vulnerabilityName": "Multiple Router xmlset_roodkcableoj28840ybtide User-Agent HTTP Header Authentication Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-6026"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-6026",
+			"date_added": "2013-10-19T00:00:00Z"
+		}
+	],
+	"date_added": "2013-10-19T00:00:00Z"
+}

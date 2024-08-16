@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists when components of Windows, .NET Framework, Office, Lync, and Silverlight fail to properly handle TrueType fonts.",
+	"vulnerabilityName": "Microsoft Windows Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-1671"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2021-02-11T00:00:00Z"
+}

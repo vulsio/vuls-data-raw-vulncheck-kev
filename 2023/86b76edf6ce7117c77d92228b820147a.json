@@ -1,0 +1,19 @@
+{
+	"vendorProject": "rockstargames",
+	"product": "grand_theft_auto_v",
+	"shortDescription": "Grand Theft Auto V for PC allows attackers to achieve partial remote code execution or modify files on a PC, as exploited in the wild in January 2023.",
+	"vulnerabilityName": "Grand Theft Auto V for PC Partial Remote Code Execution and File Modification",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-24059"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2023-24059",
+			"date_added": "2023-01-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-22T00:00:00Z"
+}

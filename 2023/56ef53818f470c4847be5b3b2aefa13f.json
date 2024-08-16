@@ -1,0 +1,65 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows SmartScreen contains a security feature bypass vulnerability that could allow an attacker to bypass Windows Defender SmartScreen checks and their associated prompts.",
+	"vulnerabilityName": "Microsoft Windows SmartScreen Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36025"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dc28e49a6acf",
+			"xdb_url": "https://vulncheck.com/xdb/dc28e49a6acf",
+			"date_added": "2023-12-28T23:29:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:coolman6942o/-EXPLOIT-CVE-2023-36025.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-Nov?api-version=2020",
+			"date_added": "2023-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-darkgate-menace-leveraging-autohotkey-attempt-to-evade-smartscreen/",
+			"date_added": "2024-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://twitter.com/ffforward/status/1726540034462159165",
+			"date_added": "2023-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/a/cve-2023-36025-exploited-for-defense-evasion-in-phemedrone-steal.html",
+			"date_added": "2024-01-12T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/8/14/cve-2024-38213-copy2pwn-exploit-evades-windows-web-protections",
+			"date_added": "2024-08-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-12-05T00:00:00Z",
+	"cisa_date_added": "2023-11-14T00:00:00Z",
+	"date_added": "2023-11-14T00:00:00Z"
+}

@@ -1,0 +1,35 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Use-after-free vulnerability in the SetMouseCapture implementation in mshtml.dll in Microsoft Internet Explorer 6 through 11 allows remote attackers to execute arbitrary code via crafted JavaScript strings, as demonstrated by use of an ms-help: URL that triggers loading of hxds.dll.",
+	"vulnerabilityName": "Internet Explorer SetMouseCapture Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-3893"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4b4069f28d66",
+			"xdb_url": "https://vulncheck.com/xdb/4b4069f28d66",
+			"date_added": "2013-10-15T14:56:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:travelworld/cve_2013_3893_trigger.html.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20130924130243/https://www.fireeye.com/blog/technical/cyber-exploits/2013/09/operation-deputydog-zero-day-cve-2013-3893-attack-against-japanese-targets.html",
+			"date_added": "2013-09-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/hidden-lynx-analysis/",
+			"date_added": "2014-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2014/10/threat-spotlight-group-72.html",
+			"date_added": "2014-10-14T00:00:00Z"
+		}
+	],
+	"date_added": "2013-09-21T00:00:00Z"
+}

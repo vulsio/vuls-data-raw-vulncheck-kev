@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office Publisher contains a security feature bypass vulnerability that allows for a local, authenticated attack on a targeted system.",
+	"vulnerabilityName": "Microsoft Office Publisher Security Feature Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-21715"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-Feb?api-version=2020",
+			"date_added": "2023-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/",
+			"date_added": "2023-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.trellix.com/en-us/about/newsroom/stories/research/storm-0324-an-access-for-the-raas-threat-actor.html",
+			"date_added": "2023-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-03-07T00:00:00Z",
+	"cisa_date_added": "2023-02-14T00:00:00Z",
+	"date_added": "2023-02-14T00:00:00Z"
+}

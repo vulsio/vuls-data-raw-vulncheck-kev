@@ -1,0 +1,44 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS and FortiProxy",
+	"shortDescription": "An Improper Authorization vulnerability in Fortinet FortiOS and FortiProxy under SSL VPN web portal allows an unauthenticated attacker to modify the password.",
+	"vulnerabilityName": "Fortinet FortiOS and FortiProxy Improper Authorization",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-13382"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "bac14e8d2f95",
+			"xdb_url": "https://vulncheck.com/xdb/bac14e8d2f95",
+			"date_added": "2021-04-28T19:17:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:tumikoto/Exploit-FortinetMagicBackdoor.git"
+		},
+		{
+			"xdb_id": "032ed957d9fa",
+			"xdb_url": "https://vulncheck.com/xdb/032ed957d9fa",
+			"date_added": "2019-08-11T11:13:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:milo2012/CVE-2018-13382.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-158a",
+			"date_added": "2022-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-158a",
+			"date_added": "2022-06-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-10T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "thimpress",
+	"product": "wp_hotel_booking",
+	"shortDescription": "The wp-hotel-booking plugin through 1.10.2 for WordPress allows remote attackers to execute arbitrary code because of an unserialize operation on the thimpress_hotel_booking_1 cookie in load in includes/class-wphb-sessions.php.",
+	"vulnerabilityName": "thimpress wp_hotel_booking Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29047"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/security%20Quarterly%20Report%20q2.pdf",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-17T00:00:00Z"
+}

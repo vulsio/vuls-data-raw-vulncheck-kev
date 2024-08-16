@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The ThreadPool class in Windows Vista Gold and SP1, and Server 2008, does not properly implement isolation among a set of distinct processes that (1) all run under the NetworkService account or (2) all run under the LocalService account, which allows local users to gain privileges by leveraging incorrect thread ACLs to access the resources of one of the processes, aka \"Windows Thread Pool ACL Weakness Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-0080"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-012",
+			"date_added": "2009-04-14T00:00:00Z"
+		}
+	],
+	"date_added": "2009-04-14T00:00:00Z"
+}

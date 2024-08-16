@@ -1,0 +1,19 @@
+{
+	"vendorProject": "inductiveautomation",
+	"product": "Ignition",
+	"shortDescription": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Inductive Automation Ignition 8.1.15 (b2022030114). Authentication is not required to exploit this vulnerability. The specific flaw exists within the authenticateAdSso method. The issue results from the lack of authentication prior to allowing the execution of python code. An attacker can leverage this vulnerability to execute code in the context of SYSTEM. Was ZDI-CAN-17206.",
+	"vulnerabilityName": "inductiveautomation Ignition Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-35871"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-20T00:00:00Z"
+}

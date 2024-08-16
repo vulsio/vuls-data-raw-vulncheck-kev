@@ -1,0 +1,35 @@
+{
+	"vendorProject": "IBM",
+	"product": "jazz_reporting_service",
+	"shortDescription": "Cross-site request forgery (CSRF) vulnerability in Lifecycle Query Engine (LQE) in IBM Jazz Reporting Service (JRS) 6.0 before 6.0.0-Rational-CLM-ifix005 allows remote authenticated users to hijack the authentication of arbitrary users for requests that insert XSS sequences.",
+	"vulnerabilityName": "IBM jazz_reporting_service Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-7465"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-26T00:00:00Z"
+}

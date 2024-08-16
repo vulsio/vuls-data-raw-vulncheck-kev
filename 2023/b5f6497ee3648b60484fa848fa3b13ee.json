@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpfastestcache",
+	"product": "wp_fastest_cache",
+	"shortDescription": "The WP Fastest Cache plugin for WordPress is vulnerable to unauthorized data modification due to a missing capability check on the wpfc_purgecache_varnish_callback function in versions up to, and including, 1.1.2. This makes it possible for authenticated attackers with subscriber-level access to purge the varnish cache.",
+	"vulnerabilityName": "WP Fastest Cache plugin for WordPress Unauthorised Data Modification Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-1929"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-fastest-cache/wp-fastest-cache-112-missing-authorization-in-wpfc-purgecache-varnish-callback",
+			"date_added": "2023-04-06T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-06T00:00:00Z"
+}

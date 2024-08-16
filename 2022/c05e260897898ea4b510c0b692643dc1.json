@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Certificate Dialog contains a privilege escalation vulnerability, allowing attackers to run processes in an elevated context.",
+	"vulnerabilityName": "Microsoft Windows Certificate Dialog Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-1388"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9589a4bb20ab",
+			"xdb_url": "https://vulncheck.com/xdb/9589a4bb20ab",
+			"date_added": "2023-12-24T01:31:28Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sickthecat/CVE-2019-1388.git"
+		},
+		{
+			"xdb_id": "ffc4f0f49488",
+			"xdb_url": "https://vulncheck.com/xdb/ffc4f0f49488",
+			"date_added": "2021-05-05T08:22:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:nobodyatall648/CVE-2019-1388.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-04-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-28T00:00:00Z",
+	"cisa_date_added": "2023-04-07T00:00:00Z",
+	"date_added": "2022-06-29T00:00:00Z"
+}

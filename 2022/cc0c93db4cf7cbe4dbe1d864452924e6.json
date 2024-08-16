@@ -1,0 +1,19 @@
+{
+	"vendorProject": "oxilab",
+	"product": "shortcode_addons",
+	"shortDescription": "Unauthenticated Arbitrary Option Update vulnerability in biplob018's Shortcode Addons plugin <= 3.0.2 at WordPress.",
+	"vulnerabilityName": "Oxilab Shortcode Addons Plugin Arbitrary Option Update Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-34487"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/shortcode-addons/wordpress-shortcode-addons-plugin-3-0-3-unauthenticated-arbitrary-option-update-vulnerability",
+			"date_added": "2022-06-30T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-30T00:00:00Z"
+}

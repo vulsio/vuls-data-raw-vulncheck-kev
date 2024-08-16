@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "PowerPoint",
+	"shortDescription": "mso.dll, as used by Microsoft PowerPoint 2000 through 2003, allows user-assisted attackers to execute arbitrary commands via a malformed shape container in a PPT file that leads to memory corruption, as exploited by Trojan.PPDropper.B, a different issue than CVE-2006-1540 and CVE-2006-3493.",
+	"vulnerabilityName": "Microsoft PowerPoint Mso.dll Vulnerability ",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3590"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-048",
+			"date_added": "2006-08-08T00:00:00Z"
+		}
+	],
+	"date_added": "2006-08-08T00:00:00Z"
+}

@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium WebRTC",
+	"shortDescription": "Google Chromium WebRTC, an open-source project providing web browsers with real-time communication, contains a heap buffer overflow vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could impact web browsers using WebRTC, including but not limited to Google Chrome.",
+	"vulnerabilityName": "Google Chromium WebRTC Heap Buffer Overflow Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-7024"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-23T00:00:00Z",
+	"cisa_date_added": "2024-01-02T00:00:00Z",
+	"date_added": "2023-12-19T00:00:00Z"
+}

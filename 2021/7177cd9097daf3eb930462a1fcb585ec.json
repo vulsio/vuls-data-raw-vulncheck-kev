@@ -1,0 +1,19 @@
+{
+	"vendorProject": "HP",
+	"product": "universal_configuration_management_database",
+	"shortDescription": "Unspecified vulnerability in HP Universal CMDB 10.01 and 10.10 allows remote attackers to execute arbitrary code or obtain sensitive information via unknown vectors, aka ZDI-CAN-2104.",
+	"vulnerabilityName": "HP Universal CMDB 10.01 and 10.10 Unknown Vector Remote Code Execution Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-2617"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

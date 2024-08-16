@@ -1,0 +1,23 @@
+{
+	"vendorProject": "tunasite",
+	"product": "adning_advertising",
+	"shortDescription": "The Adning Advertising plugin for WordPress is vulnerable to file deletion via path traversal in versions up to, and including, 1.5.5. This allows unauthenticated attackers to delete arbitrary files which can be used to reset and gain full control of a site.",
+	"vulnerabilityName": "Adning Advertising plugin for WordPress Directory Traversal File Deletion",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36728"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.nintechnet.com/critical-vulnerability-in-adning-advertising-plugin-actively-exploited-in-the-wild/",
+			"date_added": "2020-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://wpscan.com/vulnerability/e9873fe3-fc06-4a52-aa32-6922cab7830c/",
+			"date_added": "2020-07-07T00:00:00Z"
+		}
+	],
+	"date_added": "2020-07-07T00:00:00Z"
+}

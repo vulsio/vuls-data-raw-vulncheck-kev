@@ -1,0 +1,35 @@
+{
+	"vendorProject": "bitrix24",
+	"product": "bitrix24",
+	"shortDescription": "In the vote (aka \"Polls, Votes\") module before 21.0.100 of Bitrix Site Manager, a remote unauthenticated attacker can execute arbitrary code.",
+	"vulnerabilityName": "bitrix24 bitrix24 Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-27228"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.securityweek.com/exploitation-of-bitrix-cms-vulnerability-drives-ics-attack-surge-in-russia/",
+			"date_added": "2023-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyberok.ru/docs/CyberOK-Bitrix_web_1.1.pdf",
+			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/ex-cobalt-go-red-tehnika-skrytogo-tunnelya/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/",
+			"date_added": "2024-06-19T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-07T00:00:00Z"
+}

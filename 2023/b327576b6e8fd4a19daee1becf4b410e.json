@@ -1,0 +1,84 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Windows Ancillary Function Driver for WinSock Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-21768"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "242fe4c47b64",
+			"xdb_url": "https://vulncheck.com/xdb/242fe4c47b64",
+			"date_added": "2023-04-20T08:26:42Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit.git"
+		},
+		{
+			"xdb_id": "691609805fb7",
+			"xdb_url": "https://vulncheck.com/xdb/691609805fb7",
+			"date_added": "2023-10-02T11:36:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Rosayxy/Recreate-cve-2023-21768.git"
+		},
+		{
+			"xdb_id": "c7f98476bb81",
+			"xdb_url": "https://vulncheck.com/xdb/c7f98476bb81",
+			"date_added": "2024-04-07T02:26:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ha0-Y/CVE-2023-21768.git"
+		},
+		{
+			"xdb_id": "1c3e7f162c3a",
+			"xdb_url": "https://vulncheck.com/xdb/1c3e7f162c3a",
+			"date_added": "2023-03-21T01:58:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:HKxiaoli/Windows_AFD_LPE_CVE-2023-21768.git"
+		},
+		{
+			"xdb_id": "165a90954330",
+			"xdb_url": "https://vulncheck.com/xdb/165a90954330",
+			"date_added": "2023-04-05T02:05:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:h1bAna/CVE-2023-21768.git"
+		},
+		{
+			"xdb_id": "a2215d69e357",
+			"xdb_url": "https://vulncheck.com/xdb/a2215d69e357",
+			"date_added": "2023-03-07T23:00:27Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chompie1337/Windows_LPE_AFD_CVE-2023-21768.git"
+		},
+		{
+			"xdb_id": "fd03247f1aa9",
+			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
+			"date_added": "2024-05-15T17:42:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xboxoneresearch/CVE-2023-21768-dotnet.git"
+		},
+		{
+			"xdb_id": "784b586cbad4",
+			"xdb_url": "https://vulncheck.com/xdb/784b586cbad4",
+			"date_added": "2023-03-10T19:08:28Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:SamuelTulach/nullmap.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://securityintelligence.com/posts/patch-tuesday-exploit-wednesday-pwning-windows-ancillary-function-driver-winsock/",
+			"date_added": "2023-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-14T00:00:00Z"
+}

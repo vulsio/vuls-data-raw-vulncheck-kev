@@ -1,0 +1,19 @@
+{
+	"vendorProject": "tenable",
+	"product": "nessus",
+	"shortDescription": "Nessus 6.6.2 - 6.10.3 contains a flaw related to insecure permissions that may allow a local attacker to escalate privileges when the software is running in Agent Mode. Version 6.10.4 fixes this issue.",
+	"vulnerabilityName": "tenable nessus Incorrect Permission Assignment for Critical Resource",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-7199"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-03T00:00:00Z"
+}

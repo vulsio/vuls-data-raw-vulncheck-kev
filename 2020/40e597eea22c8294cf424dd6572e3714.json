@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "A remote code execution vulnerability exists when the Microsoft Malware Protection Engine does not properly scan a specially crafted file, leading to memory corruption, aka \"Microsoft Malware Protection Engine Remote Code Execution Vulnerability.\" This affects Windows Defender, Windows Intune Endpoint Protection, Microsoft Security Essentials, Microsoft System Center Endpoint Protection, Microsoft Exchange Server, Microsoft System Center, Microsoft Forefront Endpoint Protection.",
+	"vulnerabilityName": "Microsoft Exchange Server Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-0986"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",
+			"date_added": "2020-02-25T00:00:00Z"
+		}
+	],
+	"date_added": "2020-02-25T00:00:00Z"
+}

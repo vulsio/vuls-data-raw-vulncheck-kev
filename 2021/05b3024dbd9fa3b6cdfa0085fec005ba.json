@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpdownloadmanager",
+	"product": "wordpress_download_manager",
+	"shortDescription": "The WordPress Download Manager WordPress plugin before 3.2.22 does not sanitise and escape Template data before outputting it in various pages (such as admin dashboard and frontend). Due to the lack of authorisation and CSRF checks in the wpdm_save_template AJAX action, any authenticated users such as subscriber is able to call it and perform Cross-Site Scripting attacks",
+	"vulnerabilityName": "wpdownloadmanager wordpress_download_manager Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24969"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/download-manager/wordpress-download-manager-plugin-3-2-21-stored-cross-site-scripting-xss-vulnerability",
+			"date_added": "2021-11-29T00:00:00Z"
+		}
+	],
+	"date_added": "2021-11-29T00:00:00Z"
+}

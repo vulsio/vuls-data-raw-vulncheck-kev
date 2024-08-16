@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wasen",
+	"product": "mod_simplefileupload",
+	"shortDescription": "Multiple incomplete blacklist vulnerabilities in the Simple File Upload (mod_simplefileuploadv1.3) module before 1.3.5 for Joomla! allow remote attackers to execute arbitrary code by uploading a file with a (1) php5, (2) php6, or (3) double (e.g. .php.jpg) extension, then accessing it via a direct request to the file in images/, as exploited in the wild in January 2012.",
+	"vulnerabilityName": "Simple File Upload (mod_simplefileuploadv1.3) module before 1.3.5 for Joomla! Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-5148"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2011-5148",
+			"date_added": "2012-08-31T00:00:00Z"
+		}
+	],
+	"date_added": "2012-08-31T00:00:00Z"
+}

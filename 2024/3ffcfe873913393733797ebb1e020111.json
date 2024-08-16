@@ -1,0 +1,25 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-600 Router",
+	"shortDescription": "D-Link DIR-600 routers contain a cross-site request forgery (CSRF) vulnerability that allows an attacker to change router configurations by hijacking an existing administrator session.",
+	"vulnerabilityName": "D-Link DIR-600 Router Cross-Site Request Forgery (CSRF) Vulnerability",
+	"required_action": "This vulnerability affects legacy D-Link products. All associated hardware revisions have reached their end-of-life (EOL) or end-of-service (EOS) life cycle and should be retired and replaced per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-100005"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/d-link-multiple-devices-attack",
+			"date_added": "2024-05-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-06-06T00:00:00Z",
+	"cisa_date_added": "2024-05-16T00:00:00Z",
+	"date_added": "2024-05-16T00:00:00Z"
+}

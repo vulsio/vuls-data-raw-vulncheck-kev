@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Citrix",
+	"product": "ShareFile",
+	"shortDescription": "Improper Access Control in Citrix ShareFile storage zones controller may allow an unauthenticated attacker to remotely compromise the storage zones controller.",
+	"vulnerabilityName": "Citrix ShareFile Improper Access Control Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-22941"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "22cd7057fdf0",
+			"xdb_url": "https://vulncheck.com/xdb/22cd7057fdf0",
+			"date_added": "2021-10-12T14:52:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hoavt184/CVE-2021-22941.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://socprime.com/blog/cve-2021-22941-citrix-sharefile-remote-code-execution-vulnerability-exploited-by-prophet-spider/",
+			"date_added": "2022-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html",
+			"date_added": "2023-09-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-07T00:00:00Z"
+}

@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Use-after-free vulnerability in the BitmapData class in the ActionScript 3 (AS3) implementation in Adobe Flash Player allows remote attackers to execute code or cause a denial-of-service (DoS).",
+	"vulnerabilityName": "Adobe Flash Player Use-After-Free Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-5123"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/15/g/hacking-team-leak-uncovers-another-windows-zero-day-ms-releases-patch.html",
+			"date_added": "2015-07-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-04T00:00:00Z",
+	"cisa_date_added": "2022-04-13T00:00:00Z",
+	"date_added": "2015-07-05T00:00:00Z"
+}

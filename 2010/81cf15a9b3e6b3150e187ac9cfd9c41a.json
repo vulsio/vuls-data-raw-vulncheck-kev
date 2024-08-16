@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "reader",
+	"shortDescription": "The customDictionaryOpen spell method in the JavaScript API in Adobe Reader 9.1, 8.1.4, 7.1.1, and earlier on Linux and UNIX allows remote attackers to cause a denial of service (memory corruption) or execute arbitrary code via a PDF file that triggers a call to this method with a long string in the second argument.",
+	"vulnerabilityName": "Adobe Reader customDictionaryOpen Spell Method Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-1493"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.talosintelligence.com/acrobat-javascript-blacklist-framework/",
+			"date_added": "2010-01-20T00:00:00Z"
+		}
+	],
+	"date_added": "2010-01-20T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "edge",
+	"shortDescription": "Browsers in Microsoft Edge allow remote attackers to obtain sensitive information from process memory via a crafted web site, aka \"Microsoft Edge Information Disclosure Vulnerability.\" This vulnerability is different from those described in CVE-2017-0009, CVE-2017-0011, CVE-2017-0017, and CVE-2017-0065.",
+	"vulnerabilityName": "Microsoft edge Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0068"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

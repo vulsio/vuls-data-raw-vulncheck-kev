@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Cisco",
+	"product": "AppDynamics Controller",
+	"shortDescription": "A vulnerability in the file upload functionality of Cisco AppDynamics Controller could allow an authenticated, remote attacker to conduct directory traversal attacks on an affected device. This vulnerability is due to insufficient validation of user-supplied input. An attacker could exploit this vulnerability by sending a crafted request to an affected device. A successful exploit could allow the attacker to access sensitive data on an affected device.",
+	"vulnerabilityName": "Cisco AppDynamics Controller Directory Traversal Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-20345"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.tenable.com/blog/cybersecurity-snapshot-new-guide-explains-how-to-assess-if-software-is-secure-by-design-while",
+			"date_added": "2024-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-10T00:00:00Z"
+}

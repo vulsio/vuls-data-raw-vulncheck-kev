@@ -1,0 +1,35 @@
+{
+	"vendorProject": "Kaseya",
+	"product": "vsa",
+	"shortDescription": "Kaseya VSA before 9.5.7 allows attackers to bypass the 2FA requirement. The need to use 2FA for authentication in enforce client-side instead of server-side and can be bypassed using a local proxy. Thus rendering 2FA useless. Detailed description --- During the login process, after the user authenticates with username and password, the server sends a response to the client with the booleans MFARequired and MFAEnroled. If the attacker has obtained a password of a user and used an intercepting proxy (e.g. Burp Suite) to change the value of MFARequered from True to False, there is no prompt for the second factor, but the user is still logged in.",
+	"vulnerabilityName": "Kaseya vsa Incorrect Resource Transfer Between Spheres",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-30120"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/",
+			"date_added": "2021-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/csw_final_ransomware_index-update-q321-csw_.pdf",
+			"date_added": "2021-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2021-30116-multiple-zero-day-vulnerabilities-in-kaseya-vsa-exploited-to-distribute-ransomware",
+			"date_added": "2019-07-06T00:00:00Z"
+		}
+	],
+	"date_added": "2019-07-06T00:00:00Z"
+}

@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Siemens",
+	"product": "simatic_wincc",
+	"shortDescription": "Siemens Simatic WinCC and PCS 7 SCADA system uses a hard-coded password, which allows local users to access a back-end database and gain privileges, as demonstrated in the wild in July 2010 by the Stuxnet worm, a different vulnerability than CVE-2010-2568.",
+	"vulnerabilityName": "Siemens simatic_wincc Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-2772"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.industry.siemens.com/cs/document/43876783/simatic-wincc-simatic-pcs-7-information-about-malware-viruses-trojan-horses?dti=0&lc=en-US",
+			"date_added": "2011-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		}
+	],
+	"date_added": "2011-04-01T00:00:00Z"
+}

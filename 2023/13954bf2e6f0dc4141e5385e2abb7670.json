@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "Jenkins User Interface (UI)",
+	"shortDescription": "Jenkins User Interface (UI) contains an information disclosure vulnerability that allows users to see the names of jobs and builds otherwise inaccessible to them on the \"Fingerprints\" pages.",
+	"vulnerabilityName": "Jenkins User Interface (UI) Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-5317"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-02T00:00:00Z",
+	"cisa_date_added": "2023-05-12T00:00:00Z",
+	"date_added": "2023-05-12T00:00:00Z"
+}

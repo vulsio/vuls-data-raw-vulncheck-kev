@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 Engine has a bug in JSON.stringify, where the internal TheHole value can leak to script code, causing memory corruption. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-38003"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1a0b1ef4a809",
+			"xdb_url": "https://vulncheck.com/xdb/1a0b1ef4a809",
+			"date_added": "2023-01-07T06:09:14Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/janvojtesek/dota-2-under-attack-how-a-v8-bug-was-exploited-in-the-game/",
+			"date_added": "2023-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/mercenary-intellexa-predator/",
+			"date_added": "2023-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-10-26T00:00:00Z"
+}

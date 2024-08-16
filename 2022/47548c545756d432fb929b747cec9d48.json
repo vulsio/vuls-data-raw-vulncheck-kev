@@ -1,0 +1,91 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-21882"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6d168e5ae7b1",
+			"xdb_url": "https://vulncheck.com/xdb/6d168e5ae7b1",
+			"date_added": "2023-04-21T06:14:06Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:dishfwk/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "178edfa6e2a9",
+			"xdb_url": "https://vulncheck.com/xdb/178edfa6e2a9",
+			"date_added": "2022-02-01T17:58:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:David-Honisch/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "daa024c59e63",
+			"xdb_url": "https://vulncheck.com/xdb/daa024c59e63",
+			"date_added": "2022-02-14T21:28:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:r1l4-i3pur1l4/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "0df71d9bfe29",
+			"xdb_url": "https://vulncheck.com/xdb/0df71d9bfe29",
+			"date_added": "2022-02-07T03:45:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sailay1996/cve-2022-21882-poc.git"
+		},
+		{
+			"xdb_id": "8b1663fa985c",
+			"xdb_url": "https://vulncheck.com/xdb/8b1663fa985c",
+			"date_added": "2022-01-27T03:44:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "9bd0de5ceacd",
+			"xdb_url": "https://vulncheck.com/xdb/9bd0de5ceacd",
+			"date_added": "2022-02-03T11:25:14Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:L4ys/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "5494ab88126e",
+			"xdb_url": "https://vulncheck.com/xdb/5494ab88126e",
+			"date_added": "2019-11-10T18:02:31Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:gdabah/win32k-bugs.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Jan?api-version=2020",
+			"date_added": "2022-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-02-18T00:00:00Z",
+	"cisa_date_added": "2022-02-04T00:00:00Z",
+	"date_added": "2022-01-11T00:00:00Z"
+}

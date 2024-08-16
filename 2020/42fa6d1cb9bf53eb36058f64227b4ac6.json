@@ -1,0 +1,50 @@
+{
+	"vendorProject": "Laravel",
+	"product": "Laravel Framework",
+	"shortDescription": "The Illuminate component of Laravel Framework 5.7.x has a deserialization vulnerability that can lead to remote code execution if the content is controllable, related to the __destruct method of the PendingCommand class in PendingCommand.php.",
+	"vulnerabilityName": "Laravel Framework 5.7.x Illuminate Deserialization Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-9081"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "365069586200",
+			"xdb_url": "https://vulncheck.com/xdb/365069586200",
+			"date_added": "2023-04-25T09:07:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:qafdevsec/CVE-2019-9081_PoC.git"
+		},
+		{
+			"xdb_id": "87a2eca0bae4",
+			"xdb_url": "https://vulncheck.com/xdb/87a2eca0bae4",
+			"date_added": "2021-05-17T06:54:05Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:nth347/CVE-2019-9081_poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2020-06-24T00:00:00Z"
+		}
+	],
+	"date_added": "2020-06-24T00:00:00Z"
+}

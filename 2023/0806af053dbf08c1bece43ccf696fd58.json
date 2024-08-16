@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Freemius",
+	"product": "SDK for WordPress",
+	"shortDescription": "Freemius SDK for WordPress is vulnerable to a reflected cross site scripting vulnerablility due to improper sanitization.",
+	"vulnerabilityName": "Freemius SDK for WordPress Reflected Cross Site Scripting (XSS)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-33999"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/woocommerce-upcoming-product/wordpress-woocommerce-upcoming-products-plugin-1-5-9-2-reflected-cross-site-scripting-xss-vulnerability",
+			"date_added": "2023-07-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-18T00:00:00Z"
+}

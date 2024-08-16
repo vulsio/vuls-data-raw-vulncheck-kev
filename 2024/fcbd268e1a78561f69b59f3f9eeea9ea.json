@@ -1,0 +1,43 @@
+{
+	"vendorProject": "ruifang-tech",
+	"product": "rebuild",
+	"shortDescription": "A vulnerability, which was classified as critical, has been found in Rebuild up to 3.5.5. Affected by this issue is the function readRawText of the component HTTP Request Handler. The manipulation of the argument url leads to server-side request forgery. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. VDB-252290 is the identifier assigned to this vulnerability.",
+	"vulnerabilityName": "ruifang-tech rebuild Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-1021"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-04&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-19&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-05-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-30&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-31&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-02&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-06-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-16&host_type=src&vulnerability=cve-2024-1021",
+			"date_added": "2024-06-16T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-04T00:00:00Z"
+}

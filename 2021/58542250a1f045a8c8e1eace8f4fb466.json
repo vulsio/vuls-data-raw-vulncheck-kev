@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Zoho",
+	"product": "ManageEngine ServiceDesk Plus (SDP)",
+	"shortDescription": "Zoho ManageEngine ServiceDesk Plus before 11302 is vulnerable to authentication bypass that allows a few REST-API URLs without authentication",
+	"vulnerabilityName": "Zoho ManageEngine ServiceDesk Authentication Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-37415"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-12-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-12-15T00:00:00Z",
+	"cisa_date_added": "2021-12-01T00:00:00Z",
+	"date_added": "2021-12-01T00:00:00Z"
+}

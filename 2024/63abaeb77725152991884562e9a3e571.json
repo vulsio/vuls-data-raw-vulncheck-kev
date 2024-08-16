@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SmartScreen Prompt",
+	"shortDescription": "Microsoft SmartScreen Prompt contains a security feature bypass vulnerability that allows an attacker to bypass the Mark of the Web (MotW) feature. This vulnerability can be chained with CVE-2023-38831 and CVE-2024-21412 to execute a malicious file.",
+	"vulnerabilityName": "Microsoft SmartScreen Prompt Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-29988"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/4/9/the-april-2024-security-updates-review",
+			"date_added": "2024-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/8/14/cve-2024-38213-copy2pwn-exploit-evades-windows-web-protections",
+			"date_added": "2024-08-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-05-21T00:00:00Z",
+	"cisa_date_added": "2024-04-30T00:00:00Z",
+	"date_added": "2024-04-09T00:00:00Z"
+}

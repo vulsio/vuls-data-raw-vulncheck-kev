@@ -1,0 +1,19 @@
+{
+	"vendorProject": "booking_project",
+	"product": "booking",
+	"shortDescription": "The nd-booking plugin before 2.5 for WordPress has a nopriv_ AJAX action that allows modification of the siteurl setting.",
+	"vulnerabilityName": "booking_project booking URL Redirection to Untrusted Site ('Open Redirect')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-15774"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/nd-booking/nd-booking-24-unauthenticated-arbitrary-options-update",
+			"date_added": "2019-08-05T00:00:00Z"
+		}
+	],
+	"date_added": "2019-08-05T00:00:00Z"
+}

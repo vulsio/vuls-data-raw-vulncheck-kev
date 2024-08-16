@@ -1,0 +1,19 @@
+{
+	"vendorProject": "NETGEAR",
+	"product": "rax43_firmware",
+	"shortDescription": "Netgear RAX43 version 1.0.3.96 contains a command injection vulnerability. The readycloud cgi application is vulnerable to command injection in the name parameter.",
+	"vulnerabilityName": "NETGEAR rax43_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-20167"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

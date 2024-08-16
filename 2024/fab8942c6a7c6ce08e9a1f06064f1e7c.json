@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wp3dprinting",
+	"product": "3dprint_lite",
+	"shortDescription": "The 3DPrint Lite WordPress plugin before 1.9.1.5 does not have any authorisation and does not check the uploaded file in its p3dlite_handle_upload AJAX action , allowing unauthenticated users to upload arbitrary file to the web server. However, there is a .htaccess, preventing the file to be accessed on Web servers such as Apache.",
+	"vulnerabilityName": "wp3dprinting 3dprint_lite Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4436"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://thedfirreport.com/wp-content/uploads/2024/03/WordPress-Plugin-Exploit-Leads-to-Godzilla-Web-Shell-Discovery-New-CVE.pdf.pdf",
+			"date_added": "2024-03-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-03-04T00:00:00Z"
+}

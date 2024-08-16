@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Tenda",
+	"product": "g103_firmware",
+	"shortDescription": "Command injection vulnerability found in Tenda G103 v.1.0.0.5 allows attacker to execute arbitrary code via a the language parameter.",
+	"vulnerabilityName": "Tenda g103_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27076"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/router-malware-attack",
+			"date_added": "2023-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-iz1h9/",
+			"date_added": "2023-05-25T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-01T00:00:00Z"
+}

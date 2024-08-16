@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ruby-lang",
+	"product": "ruby",
+	"shortDescription": "RubyGems 2.0.x before 2.0.16, 2.2.x before 2.2.4, and 2.4.x before 2.4.7 does not validate the hostname when fetching gems or making API requests, which allows remote attackers to redirect requests to arbitrary domains via a crafted DNS SRV record, aka a \"DNS hijack attack.\"",
+	"vulnerabilityName": "RubyGems DNS SRV Record Request Redirect",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-3900"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-098",
+			"date_added": "2014-07-29T00:00:00Z"
+		}
+	],
+	"date_added": "2014-07-29T00:00:00Z"
+}

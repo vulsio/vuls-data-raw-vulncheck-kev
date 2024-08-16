@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer 8 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka \"Internet Explorer Memory Corruption Vulnerability,\" a different vulnerability than CVE-2014-0297, CVE-2014-0308, and CVE-2014-0312.",
+	"vulnerabilityName": "Microsoft Internet Explorer Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0324"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2014/ms14-012",
+			"date_added": "2014-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2014-09-18T00:00:00Z"
+}

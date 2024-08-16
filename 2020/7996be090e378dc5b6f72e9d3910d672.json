@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists in the Windows Remote Desktop Client when a user connects to a malicious server, aka 'Remote Desktop Client Remote Code Execution Vulnerability'.",
+	"vulnerabilityName": "Remote Desktop Client Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0611"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_Feb_2020_Edition_1.pdf",
+			"date_added": "2020-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-014a",
+			"date_added": "2020-01-14T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-14T00:00:00Z"
+}

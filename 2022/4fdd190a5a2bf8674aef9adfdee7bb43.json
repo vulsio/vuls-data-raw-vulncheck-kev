@@ -1,0 +1,19 @@
+{
+	"vendorProject": "external_media_project",
+	"product": "external_media",
+	"shortDescription": "The wp_ajax_upload-remote-file AJAX action of the External Media WordPress plugin before 1.0.34 was vulnerable to arbitrary file uploads via any authenticated users.",
+	"vulnerabilityName": "external_media_project external_media Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24311"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/external-media/external-media-1033-authenticated-arbitrary-file-upload",
+			"date_added": "2022-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

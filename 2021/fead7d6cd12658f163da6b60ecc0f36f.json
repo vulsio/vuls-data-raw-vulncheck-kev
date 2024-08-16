@@ -1,0 +1,19 @@
+{
+	"vendorProject": "flothemes",
+	"product": "flo_forms",
+	"shortDescription": "The Flo Forms – Easy Drag & Drop Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Options Change by using the flo_import_forms_options AJAX action in versions up to, and including, 1.0.35 due to insufficient input sanitization and output escaping along with missing capability checks. This makes it possible for authenticated attackers, like subscribers, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": "flothemes flo_forms Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4367"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://wpscan.com/vulnerability/b4a83501-c727-4c9b-a9a1-46b399ab0caa/",
+			"date_added": "2021-03-16T00:00:00Z"
+		}
+	],
+	"date_added": "2021-03-16T00:00:00Z"
+}

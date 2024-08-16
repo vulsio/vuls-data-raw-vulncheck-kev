@@ -1,0 +1,34 @@
+{
+	"vendorProject": "Apache",
+	"product": "solr",
+	"shortDescription": "In Apache Solr versions 5.0.0 to 5.5.5 and 6.0.0 to 6.6.5, the Config API allows to configure the JMX server via an HTTP POST request. By pointing it to a malicious RMI server, an attacker could take advantage of Solr's unsafe deserialization to trigger remote code execution on the Solr side.",
+	"vulnerabilityName": "Apache solr Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-0192"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8be89dc68d9f",
+			"xdb_url": "https://vulncheck.com/xdb/8be89dc68d9f",
+			"date_added": "2019-11-01T13:46:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Rapidsafeguard/Solr-RCE-CVE-2019-0192.git"
+		},
+		{
+			"xdb_id": "54759569be2d",
+			"xdb_url": "https://vulncheck.com/xdb/54759569be2d",
+			"date_added": "2019-03-10T11:35:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-0192.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

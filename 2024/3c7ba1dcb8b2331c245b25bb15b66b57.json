@@ -1,0 +1,19 @@
+{
+	"vendorProject": "talend",
+	"product": "esb_runtime",
+	"shortDescription": "Talend ESB Runtime in all versions from 5.1 to 7.3.1-R2021-09, 7.2.1-R2021-09, 7.1.1-R2021-09, has an unauthenticated Jolokia HTTP endpoint which allows remote access to the JMX of the runtime container, which would allow an attacker the ability to read or modify the container or software running in the container.",
+	"vulnerabilityName": "Talend ESB Runtime Unauthenticated Jolokia HTTP Endpoint Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-40684"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

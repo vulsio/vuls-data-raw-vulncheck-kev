@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ssreader",
+	"product": "ultra_star_reader",
+	"shortDescription": "Buffer overflow in the register function in Ultra Star Reader ActiveX control in SSReader allows remote attackers to execute arbitrary code via unspecified vectors, as exploited in the wild.  NOTE: the provenance of this information is unknown; the details are obtained solely from third party information.",
+	"vulnerabilityName": "ssreader ultra_star_reader Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5807"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2007-5807",
+			"date_added": "2007-11-05T00:00:00Z"
+		}
+	],
+	"date_added": "2007-11-05T00:00:00Z"
+}

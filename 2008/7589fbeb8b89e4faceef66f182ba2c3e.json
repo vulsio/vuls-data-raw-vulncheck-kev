@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "acrobat_3d",
+	"shortDescription": "Unspecified vulnerability in Adobe Reader and Acrobat 7.0.9 and earlier, and 8.0 through 8.1.2, allows remote attackers to cause a denial of service (application crash) or possibly execute arbitrary code via unknown vectors, related to an \"input validation issue in a JavaScript method.\"",
+	"vulnerabilityName": "Adobe Reader and Acrobat 7.0.9 and earlier, and 8.0 through 8.1.2 Input Validation in a JavaScript Method Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-2641"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.kb.cert.org/vuls/id/788019",
+			"date_added": "2008-06-25T00:00:00Z"
+		}
+	],
+	"date_added": "2008-06-25T00:00:00Z"
+}

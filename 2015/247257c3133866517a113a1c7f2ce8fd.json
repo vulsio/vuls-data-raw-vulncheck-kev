@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The kernel-mode drivers in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows Server 2012, and Windows RT allow remote attackers to execute arbitrary code via a crafted CMAP table in a TrueType font (TTF) file, aka \"TrueType Font CMAP Table Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-3894"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf",
+			"date_added": "2015-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://strapi.eurepoc.eu/uploads/Eu_Repo_C_APT_profile_Equation_Group_866e8d2944.pdf",
+			"date_added": "2022-11-15T00:00:00Z"
+		}
+	],
+	"date_added": "2015-02-01T00:00:00Z"
+}

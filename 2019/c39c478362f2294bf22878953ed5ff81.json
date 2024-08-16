@@ -1,0 +1,35 @@
+{
+	"vendorProject": "Kaseya",
+	"product": "vsa",
+	"shortDescription": "Authenticated reflective XSS in HelpDeskTab/rcResults.asp The parameter result of /HelpDeskTab/rcResults.asp is insecurely returned in the requested web page and can be used to perform a Cross Site Scripting attack Example request: `https://x.x.x.x/HelpDeskTab/rcResults.asp?result=<script>alert(document.cookie)</script>` The same is true for the parameter FileName of /done.asp Eaxmple request: `https://x.x.x.x/done.asp?FileName=\";</script><script>alert(1);a=\"&PathData=&originalName=shell.aspx&FileSize=4388&TimeElapsed=00:00:00.078`",
+	"vulnerabilityName": "Kaseya vsa Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-30119"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/",
+			"date_added": "2021-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/csw_final_ransomware_index-update-q321-csw_.pdf",
+			"date_added": "2021-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2021-30116-multiple-zero-day-vulnerabilities-in-kaseya-vsa-exploited-to-distribute-ransomware",
+			"date_added": "2019-07-06T00:00:00Z"
+		}
+	],
+	"date_added": "2019-07-06T00:00:00Z"
+}

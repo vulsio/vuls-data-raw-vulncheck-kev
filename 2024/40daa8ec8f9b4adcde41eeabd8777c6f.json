@@ -1,0 +1,284 @@
+{
+	"vendorProject": "D-Link",
+	"product": "Multiple NAS Devices",
+	"shortDescription": "D-Link DNS-320L, DNS-325, DNS-327L, and DNS-340L contain a command injection vulnerability. When combined with CVE-2024-3272, this can lead to remote, unauthorized code execution.",
+	"vulnerabilityName": "D-Link Multiple NAS Devices Command Injection Vulnerability",
+	"required_action": "This vulnerability affects legacy D-Link products. All associated hardware revisions have reached their end-of-life (EOL) or end-of-service (EOS) life cycle and should be retired and replaced per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-3273"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1664daa62f60",
+			"xdb_url": "https://vulncheck.com/xdb/1664daa62f60",
+			"date_added": "2024-04-10T00:27:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2024-3273.git"
+		},
+		{
+			"xdb_id": "30450b0eb331",
+			"xdb_url": "https://vulncheck.com/xdb/30450b0eb331",
+			"date_added": "2024-04-23T06:31:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mrrobot0o/CVE-2024-3273-.git"
+		},
+		{
+			"xdb_id": "4c25a2a8f708",
+			"xdb_url": "https://vulncheck.com/xdb/4c25a2a8f708",
+			"date_added": "2024-04-08T13:54:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nickswink/D-Link-NAS-Devices-Unauthenticated-RCE.git"
+		},
+		{
+			"xdb_id": "54167707d84f",
+			"xdb_url": "https://vulncheck.com/xdb/54167707d84f",
+			"date_added": "2024-04-07T03:09:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-3273.git"
+		},
+		{
+			"xdb_id": "09dd98af8d08",
+			"xdb_url": "https://vulncheck.com/xdb/09dd98af8d08",
+			"date_added": "2024-04-09T12:26:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-3273-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "57d4fad19689",
+			"xdb_url": "https://vulncheck.com/xdb/57d4fad19689",
+			"date_added": "2024-04-07T15:36:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:adhikara13/CVE-2024-3273.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-09&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-10&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-11&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-13&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-15&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-16&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-17&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-18&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-19&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-21&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-23&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-24&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-25&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-26&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-27&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-01&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-04&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-05&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-06&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-07&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-08&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-10&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-11&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-12&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-13&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-14&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-22&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-23&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-29&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-01&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-07&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-10&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-11&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-13&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-15&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-16&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-19&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-21&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-23&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-27&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-30&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-17&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-18&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-19&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-20&host_type=src&vulnerability=cve-2024-3273",
+			"date_added": "2024-07-20T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@greynoise/112236315274772968",
+			"date_added": "2024-04-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/cve-2024-3273-d-link-nas-rce-exploited-in-the-wild",
+			"date_added": "2024-04-08T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/critical-d-link-nas-vulnerability-under-active-exploitation/",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/d-link-multiple-devices-attack",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/New%20Exploit%20Variation%20Against%20D-Link%20NAS%20Devices%20%28CVE-2024-3273%29/31102",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-05-02T00:00:00Z",
+	"cisa_date_added": "2024-04-11T00:00:00Z",
+	"date_added": "2024-04-08T00:00:00Z"
+}

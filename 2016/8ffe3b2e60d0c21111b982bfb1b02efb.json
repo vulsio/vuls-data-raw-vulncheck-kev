@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Interpretation conflict between Internet Explorer and other web browsers such as Mozilla, Opera, and Firefox might allow remote attackers to modify the visual presentation of web pages and possibly bypass protection mechanisms such as content filters via ASCII characters with the 8th bit set, which could be stripped by Internet Explorer to render legible text, but not when using other browsers. NOTE: there has been significant discussion about this issue, and as of 20060625, it is not clear where the responsibility for this issue lies, although it might be due to vagueness within the associated standards.  NOTE: this might only be exploitable with certain encodings.",
+	"vulnerabilityName": "Microsoft Internet Explorer ASCII encoded Web filter bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3227"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		}
+	],
+	"date_added": "2016-09-29T00:00:00Z"
+}

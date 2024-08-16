@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Mitel",
+	"product": "MiCollab, MiVoice Business Express",
+	"shortDescription": "A vulnerability has been identified in MiCollab and MiVoice Business Express that may allow a malicious actor to gain unauthorized access to sensitive information and services, cause performance degradations or a denial of service condition on the affected system.",
+	"vulnerabilityName": "MiCollab, MiVoice Business Express Access Control Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-26143"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/cve-2022-26143-amplification-attack/",
+			"date_added": "2022-03-08T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/ddos-threat-report-2023-q2/",
+			"date_added": "2023-07-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-08T00:00:00Z"
+}

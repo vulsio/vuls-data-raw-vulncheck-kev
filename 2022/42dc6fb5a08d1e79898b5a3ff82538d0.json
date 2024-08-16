@@ -1,0 +1,23 @@
+{
+	"vendorProject": "omron",
+	"product": "nx701-1600_firmware",
+	"shortDescription": "Use of hard-coded credentials vulnerability exists in Machine automation controller NJ series all models V 1.48 and earlier, Machine automation controller NX7 series all models V1.28 and earlier, Machine automation controller NX1 series all models V1.48 and earlier, Automation software 'Sysmac Studio' all models V1.49 and earlier, and Programmable Terminal (PT) NA series NA5-15W/NA5-12W/NA5-9W/NA5-7W models Runtime V1.15 and earlier, which may allow a remote attacker who successfully obtained the user credentials by analyzing the affected product to access the controller.",
+	"vulnerabilityName": "omron nx701-1600_firmware Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-34151"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defcon.org/DEF%20CON%2030/DEF%20CON%2030%20presentations/Jimmy%20Wylie%20-%20Analyzing%20PIPEDREAM%20Challenges%20in%20testing%20an%20ICS%20attack%20toolkit.pdf",
+			"date_added": "2022-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.dragos.com/blog/analyzing-pipedream-results-from-runtime-testing/",
+			"date_added": "2022-10-27T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-13T00:00:00Z"
+}

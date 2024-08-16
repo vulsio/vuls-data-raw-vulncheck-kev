@@ -1,0 +1,19 @@
+{
+	"vendorProject": "inspireui",
+	"product": "mstore_api",
+	"shortDescription": "The MStore API plugin for WordPress is vulnerable to Unauthorized Account Access and Privilege Escalation in versions up to, and including, 4.10.7 due to improper implementation of the Apple login feature. This allows unauthenticated attackers to log in as any user as long as they know the user's email address. We are disclosing this issue as the developer has not yet released a patch, but continues to release updates and we escalated this issue to the plugin's team 30 days ago.",
+	"vulnerabilityName": "MStore API plugin for WordPress Priviledge Escalation Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3277"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mstore-api/mstore-api-4107-unauthorized-account-access-and-privilege-escalation",
+			"date_added": "2023-06-19T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-19T00:00:00Z"
+}

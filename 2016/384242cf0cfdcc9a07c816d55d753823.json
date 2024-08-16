@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Google",
+	"product": "Android",
+	"shortDescription": "The (1) pipe_read and (2) pipe_write implementations in fs/pipe.c in the Linux kernel before 3.16 do not properly consider the side effects of failed __copy_to_user_inatomic and __copy_from_user_inatomic calls, which allows local users to cause a denial of service (system crash) or possibly gain privileges via a crafted application, aka an \"I/O vector array overrun.\"",
+	"vulnerabilityName": "Linux kernel before 3.16 pipe_read and pipe_write I/O Vector Array Overrun",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-1805"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://source.android.com/docs/security/bulletin/advisory/2016-03-18",
+			"date_added": "2016-03-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/blog/top-vulnerabilities-2018",
+			"date_added": "2019-03-19T00:00:00Z"
+		}
+	],
+	"date_added": "2016-03-18T00:00:00Z"
+}

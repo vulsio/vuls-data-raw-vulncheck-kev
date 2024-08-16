@@ -1,0 +1,35 @@
+{
+	"vendorProject": "webhmi",
+	"product": "webhmi_firmware",
+	"shortDescription": "The software allows the attacker to upload or transfer files of dangerous types to the WebHMI portal, that may be automatically processed within the product's environment or lead to arbitrary code execution.",
+	"vulnerabilityName": "webhmi webhmi_firmware Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-43936"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b39c4d15f28d",
+			"xdb_url": "https://vulncheck.com/xdb/b39c4d15f28d",
+			"date_added": "2021-12-12T22:31:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LongWayHomie/CVE-2021-43936.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-09T00:00:00Z"
+}

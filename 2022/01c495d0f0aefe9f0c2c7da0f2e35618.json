@@ -1,0 +1,27 @@
+{
+	"vendorProject": "commscope",
+	"product": "ruckus_vriot",
+	"shortDescription": "Ruckus through 1.5.1.0.21 is affected by remote command injection. An authenticated user can submit a query to the API (/service/v1/createUser endpoint), injecting arbitrary commands that will be executed as root user via web.py.",
+	"vulnerabilityName": "commscope ruckus_vriot Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-26878"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5b875bd3339d",
+			"xdb_url": "https://vulncheck.com/xdb/5b875bd3339d",
+			"date_added": "2020-11-26T12:32:46Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:beyefendi/exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/",
+			"date_added": "2022-06-28T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-28T00:00:00Z"
+}

@@ -1,0 +1,570 @@
+{
+	"vendorProject": "PHP Group",
+	"product": "PHP",
+	"shortDescription": "PHP, specifically Windows-based PHP used in CGI mode, contains an OS command injection vulnerability that allows for arbitrary code execution. This vulnerability is a patch bypass for CVE-2012-1823.",
+	"vulnerabilityName": "PHP-CGI OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-4577"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d3b12b49d03c",
+			"xdb_url": "https://vulncheck.com/xdb/d3b12b49d03c",
+			"date_added": "2024-06-07T17:01:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Sysc4ll3r/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "b2eb4bae1e05",
+			"xdb_url": "https://vulncheck.com/xdb/b2eb4bae1e05",
+			"date_added": "2024-06-07T12:49:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Wh02m1/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "cd32f509d4ab",
+			"xdb_url": "https://vulncheck.com/xdb/cd32f509d4ab",
+			"date_added": "2024-06-08T03:12:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-4577-nuclei.git"
+		},
+		{
+			"xdb_id": "293eaa222a74",
+			"xdb_url": "https://vulncheck.com/xdb/293eaa222a74",
+			"date_added": "2024-06-10T07:28:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:it-t4mpan/check_cve_2024_4577.sh.git"
+		},
+		{
+			"xdb_id": "7a69cea7f16d",
+			"xdb_url": "https://vulncheck.com/xdb/7a69cea7f16d",
+			"date_added": "2024-06-09T13:46:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dbyMelina/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "0c4b91081cb3",
+			"xdb_url": "https://vulncheck.com/xdb/0c4b91081cb3",
+			"date_added": "2023-01-13T08:18:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xPugal/my-nuclei-templates.git"
+		},
+		{
+			"xdb_id": "b2fa764f2781",
+			"xdb_url": "https://vulncheck.com/xdb/b2fa764f2781",
+			"date_added": "2024-06-11T15:11:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bl4cksku11/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "975f3d4508fd",
+			"xdb_url": "https://vulncheck.com/xdb/975f3d4508fd",
+			"date_added": "2024-06-12T06:45:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:d3ck4/Shodan-CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "c3ffd6462c70",
+			"xdb_url": "https://vulncheck.com/xdb/c3ffd6462c70",
+			"date_added": "2024-06-12T11:50:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE.git"
+		},
+		{
+			"xdb_id": "aed5b2a31554",
+			"xdb_url": "https://vulncheck.com/xdb/aed5b2a31554",
+			"date_added": "2024-06-12T02:16:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nemu1k5ma/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "218b19f4d22e",
+			"xdb_url": "https://vulncheck.com/xdb/218b19f4d22e",
+			"date_added": "2024-06-13T11:28:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hexedbyte/cve-2024-4577.git"
+		},
+		{
+			"xdb_id": "ed23c8ab0f6a",
+			"xdb_url": "https://vulncheck.com/xdb/ed23c8ab0f6a",
+			"date_added": "2024-06-13T14:25:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Sh0ckFR/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "552c4106ae73",
+			"xdb_url": "https://vulncheck.com/xdb/552c4106ae73",
+			"date_added": "2024-06-07T09:42:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Junp0/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "112f55c12274",
+			"xdb_url": "https://vulncheck.com/xdb/112f55c12274",
+			"date_added": "2024-06-15T18:05:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sug4r-wr41th/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "051952ff1a0d",
+			"xdb_url": "https://vulncheck.com/xdb/051952ff1a0d",
+			"date_added": "2024-06-19T01:50:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:amandineVdw/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "912529ac004f",
+			"xdb_url": "https://vulncheck.com/xdb/912529ac004f",
+			"date_added": "2024-06-07T10:40:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:huseyinstif/CVE-2024-4577-Nuclei-Template.git"
+		},
+		{
+			"xdb_id": "c8c379f83d10",
+			"xdb_url": "https://vulncheck.com/xdb/c8c379f83d10",
+			"date_added": "2024-06-26T07:07:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ggfzx/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "64f14f4beecb",
+			"xdb_url": "https://vulncheck.com/xdb/64f14f4beecb",
+			"date_added": "2024-06-28T10:19:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:olebris/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "7dd0ca311187",
+			"xdb_url": "https://vulncheck.com/xdb/7dd0ca311187",
+			"date_added": "2024-06-07T17:02:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP.git"
+		},
+		{
+			"xdb_id": "cb830f9d202f",
+			"xdb_url": "https://vulncheck.com/xdb/cb830f9d202f",
+			"date_added": "2024-07-03T15:30:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:charis3306/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "1287f9a713c6",
+			"xdb_url": "https://vulncheck.com/xdb/1287f9a713c6",
+			"date_added": "2024-06-08T05:27:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:manuelinfosec/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "aa3899b675a4",
+			"xdb_url": "https://vulncheck.com/xdb/aa3899b675a4",
+			"date_added": "2024-06-07T20:10:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BitMEXResearch/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "653c6ebf65f2",
+			"xdb_url": "https://vulncheck.com/xdb/653c6ebf65f2",
+			"date_added": "2024-07-05T12:47:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cybersagor/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "5d63cc33def4",
+			"xdb_url": "https://vulncheck.com/xdb/5d63cc33def4",
+			"date_added": "2024-06-07T09:51:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:11whoami99/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "3e8fa83c20c9",
+			"xdb_url": "https://vulncheck.com/xdb/3e8fa83c20c9",
+			"date_added": "2024-07-24T20:25:46Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:a-roshbaik/CVE-2024-4577-PHP-RCE.git"
+		},
+		{
+			"xdb_id": "20d85040c310",
+			"xdb_url": "https://vulncheck.com/xdb/20d85040c310",
+			"date_added": "2024-07-31T03:56:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VictorShem/QVD-2024-26473.git"
+		},
+		{
+			"xdb_id": "825b99bdb560",
+			"xdb_url": "https://vulncheck.com/xdb/825b99bdb560",
+			"date_added": "2024-07-31T10:14:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Jcccccx/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "5d24a3878ae0",
+			"xdb_url": "https://vulncheck.com/xdb/5d24a3878ae0",
+			"date_added": "2024-06-09T14:18:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "0b2ec7cacbad",
+			"xdb_url": "https://vulncheck.com/xdb/0b2ec7cacbad",
+			"date_added": "2024-07-11T02:22:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bibo318/CVE-2024-4577-RCE-ATTACK.git"
+		},
+		{
+			"xdb_id": "834ffcdb7324",
+			"xdb_url": "https://vulncheck.com/xdb/834ffcdb7324",
+			"date_added": "2024-06-12T04:50:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:aaddmin1122345/CVE-2024-4577-POC.git"
+		},
+		{
+			"xdb_id": "d89b163c7ba9",
+			"xdb_url": "https://vulncheck.com/xdb/d89b163c7ba9",
+			"date_added": "2024-06-07T05:50:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "ff0f9bccbf68",
+			"xdb_url": "https://vulncheck.com/xdb/ff0f9bccbf68",
+			"date_added": "2024-07-15T21:31:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:waived/CVE-2024-4577-PHP-RCE.git"
+		},
+		{
+			"xdb_id": "c4c00e052574",
+			"xdb_url": "https://vulncheck.com/xdb/c4c00e052574",
+			"date_added": "2024-06-17T17:53:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VictorShem/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "f15f9e088016",
+			"xdb_url": "https://vulncheck.com/xdb/f15f9e088016",
+			"date_added": "2024-08-08T14:04:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ManuelKy08/CVE-2024-4577---RR.git"
+		},
+		{
+			"xdb_id": "d06e30d57aaf",
+			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
+			"date_added": "2024-06-15T02:49:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "081170ce66e7",
+			"xdb_url": "https://vulncheck.com/xdb/081170ce66e7",
+			"date_added": "2024-06-18T13:19:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-4577-PHP-CGI-argument-injection-RCE.git"
+		},
+		{
+			"xdb_id": "acfef3dab7ab",
+			"xdb_url": "https://vulncheck.com/xdb/acfef3dab7ab",
+			"date_added": "2024-06-08T12:23:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
+		},
+		{
+			"xdb_id": "cc11323372a3",
+			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
+			"date_added": "2024-06-08T13:04:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
+		},
+		{
+			"xdb_id": "d982c4edc474",
+			"xdb_url": "https://vulncheck.com/xdb/d982c4edc474",
+			"date_added": "2024-07-06T19:37:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-4577-RCE.git"
+		},
+		{
+			"xdb_id": "7ee6ed2bc73f",
+			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
+			"date_added": "2024-06-07T09:52:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-11&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-12&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-13&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-15&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-16&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-18&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-19&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-21&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-22&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-23&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-24&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-25&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-27&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-30&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-01&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-06&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-07&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-08&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-09&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-10&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-11&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-12&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-13&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-14&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-15&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-16&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-17&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-18&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-19&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-20&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-21&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-22&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-23&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-24&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-25&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-26&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-28&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-29&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-31&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-07-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-01&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-02&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-03&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-05&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-09&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-10&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-11&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-13&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.imperva.com/blog/update-cve-2024-4577-quickly-weaponized-to-distribute-tellyouthepass-ransomware/",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/cve-2024-4577-pt2/",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://medium.com/s2wlab-threat-intelligence/tellyouthepass-ransomware-attacks-exploits-critical-php-rce-vulnerability-08d111e8e545",
+			"date_added": "2024-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cybersecurity-snapshot-data-breach-costs-rise-as-ransomware-attacks-fall",
+			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.imperva.com/blog/imperva-protects-against-critical-php-vulnerability-cve-2024-4577/",
+			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@ntkramer/112582375921224782",
+			"date_added": "2024-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/Attacker%20Probing%20for%20New%20PHP%20Vulnerablity%20CVE-2024-4577/30994",
+			"date_added": "2024-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/php-rce-attack",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.labs.greynoise.io/grimoire/2024-06-13-sup-php-rce-cve-2024-4577/",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/2024-php-exploit-cve-one-day-after-disclosure",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-q2-2024",
+			"date_added": "2024-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://community.riskiq.com/article/028baa37",
+			"date_added": "2024-07-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-03T00:00:00Z",
+	"cisa_date_added": "2024-06-12T00:00:00Z",
+	"date_added": "2024-06-07T00:00:00Z"
+}

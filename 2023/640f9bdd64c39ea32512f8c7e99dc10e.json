@@ -1,0 +1,19 @@
+{
+	"vendorProject": "thinkcmf",
+	"product": "thinkcmf",
+	"shortDescription": "ThinkCMF 5.0.190111 allows remote attackers to execute arbitrary PHP code via the portal/admin_category/addpost.html alias parameter because the mishandling of a single quote character allows data/conf/route.php injection.",
+	"vulnerabilityName": "thinkcmf thinkcmf Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-7580"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-05T00:00:00Z"
+}

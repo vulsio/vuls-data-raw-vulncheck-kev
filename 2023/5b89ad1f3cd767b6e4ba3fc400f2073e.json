@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux Kernel contains a race condition vulnerability within the n_tty_write function that allows local users to cause a denial-of-service (DoS) or gain privileges via read and write operations with long strings.",
+	"vulnerabilityName": "Linux Kernel Race Condition Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0196"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dc9022508ef9",
+			"xdb_url": "https://vulncheck.com/xdb/dc9022508ef9",
+			"date_added": "2014-12-17T07:39:00Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tempbottle/CVE-2014-0196.git"
+		},
+		{
+			"xdb_id": "cd9f2a0f1fca",
+			"xdb_url": "https://vulncheck.com/xdb/cd9f2a0f1fca",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-02T00:00:00Z",
+	"cisa_date_added": "2023-05-12T00:00:00Z",
+	"date_added": "2023-05-12T00:00:00Z"
+}

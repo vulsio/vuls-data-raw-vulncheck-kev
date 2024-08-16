@@ -1,0 +1,23 @@
+{
+	"vendorProject": "skygroup",
+	"product": "skysea_client_view",
+	"shortDescription": "SKYSEA Client View Ver.11.221.03 and earlier allows remote code execution via a flaw in processing authentication on the TCP connection with the management console program.",
+	"vulnerabilityName": "skygroup skysea_client_view Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-7836"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses",
+			"date_added": "2017-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/",
+			"date_added": "2019-10-02T00:00:00Z"
+		}
+	],
+	"date_added": "2017-10-12T00:00:00Z"
+}

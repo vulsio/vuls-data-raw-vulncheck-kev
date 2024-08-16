@@ -1,0 +1,19 @@
+{
+	"vendorProject": "JetElements",
+	"product": "Crocoblock",
+	"shortDescription": "Multiple plugins by Crocoblock for WordPress are vulnerable to an authorization bypass vulnerability.",
+	"vulnerabilityName": "Multiple plugins by Crocoblock for WordPress Authorization Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-48760"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/jet-elements/wordpress-jetelements-for-elementor-plugin-2-6-13-unauthenticated-broken-access-control-vulnerability",
+			"date_added": "2023-11-28T00:00:00Z"
+		}
+	],
+	"date_added": "2023-11-28T00:00:00Z"
+}

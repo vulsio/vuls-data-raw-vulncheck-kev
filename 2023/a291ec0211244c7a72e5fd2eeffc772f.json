@@ -1,0 +1,23 @@
+{
+	"vendorProject": "",
+	"product": "Microsoft",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-2551"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-14T00:00:00Z"
+}

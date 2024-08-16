@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Apache",
+	"product": "Airflow's Experimental API",
+	"shortDescription": "The previous default setting for Airflow's Experimental API was to allow all API requests without authentication.",
+	"vulnerabilityName": "Apache Airflow's Experimental API Authentication Bypass",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-13927"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-18T00:00:00Z",
+	"cisa_date_added": "2022-01-18T00:00:00Z",
+	"date_added": "2022-01-18T00:00:00Z"
+}

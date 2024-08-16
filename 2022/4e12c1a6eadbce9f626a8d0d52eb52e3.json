@@ -1,0 +1,54 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A privilege escalation vulnerability exists when the Windows AppX Deployment Server improperly handles junctions.",
+	"vulnerabilityName": "Microsoft Windows AppX Deployment Server Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-1253"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8413d1b8bafe",
+			"xdb_url": "https://vulncheck.com/xdb/8413d1b8bafe",
+			"date_added": "2019-04-10T09:44:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:rogue-kdc/CVE-2019-1253.git"
+		},
+		{
+			"xdb_id": "cc8bc5f73283",
+			"xdb_url": "https://vulncheck.com/xdb/cc8bc5f73283",
+			"date_added": "2019-09-11T23:28:59Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sgabe/CVE-2019-1253.git"
+		},
+		{
+			"xdb_id": "be673a8a105e",
+			"xdb_url": "https://vulncheck.com/xdb/be673a8a105e",
+			"date_added": "2019-09-11T20:40:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:padovah4ck/CVE-2019-1253.git"
+		},
+		{
+			"xdb_id": "32a1c7b0a35e",
+			"xdb_url": "https://vulncheck.com/xdb/32a1c7b0a35e",
+			"date_added": "2019-09-11T09:59:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:likescam/CVE-2019-1253.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-05T00:00:00Z",
+	"cisa_date_added": "2022-03-15T00:00:00Z",
+	"date_added": "2022-03-15T00:00:00Z"
+}

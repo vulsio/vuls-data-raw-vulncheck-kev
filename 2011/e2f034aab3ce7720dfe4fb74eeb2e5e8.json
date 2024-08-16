@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer 6, 7, and 8 does not properly handle objects in memory, which allows remote attackers to execute arbitrary code by accessing an object that (1) was not properly initialized or (2) is deleted, as demonstrated by Stephen Fewer as the first of three chained vulnerabilities during a Pwn2Own competition at CanSecWest 2011, aka \"Object Management Memory Corruption Vulnerability.\"",
+	"vulnerabilityName": "Object Management Memory Corruption Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-1345"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-018",
+			"date_added": "2011-05-16T00:00:00Z"
+		}
+	],
+	"date_added": "2011-05-16T00:00:00Z"
+}

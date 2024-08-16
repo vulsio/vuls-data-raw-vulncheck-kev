@@ -1,0 +1,19 @@
+{
+	"vendorProject": "codemiq",
+	"product": "wordpress_email_template_designer",
+	"shortDescription": "The WP HTML Mail WordPress plugin is vulnerable to unauthorized access which allows unauthenticated attackers to retrieve and modify theme settings due to a missing capability check on the /themesettings REST-API endpoint found in the ~/includes/class-template-designer.php file, in versions up to and including 3.0.9. This makes it possible for attackers with no privileges to execute the endpoint and add malicious JavaScript to a vulnerable WordPress site.",
+	"vulnerabilityName": "codemiq wordpress_email_template_designer Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0218"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/wp-html-mail/wordpress-wp-html-mail-plugin-3-0-9-unauthenticated-stored-cross-site-scripting-xss-vulnerability",
+			"date_added": "2022-01-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-13T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "sygnoos",
+	"product": "popup_builder",
+	"shortDescription": "The Popup Builder WordPress plugin before 4.0.7 does not validate and sanitise the sgpb_type parameter before using it in a require statement, leading to a Local File Inclusion issue. Furthermore, since the beginning of the string can be controlled, the issue can lead to RCE vulnerability via wrappers such as PHAR",
+	"vulnerabilityName": "sygnoos popup_builder Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25082"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/popup-builder/popup-builder-406-local-file-inclusion-and-phar-deserialization",
+			"date_added": "2022-12-19T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-19T00:00:00Z"
+}

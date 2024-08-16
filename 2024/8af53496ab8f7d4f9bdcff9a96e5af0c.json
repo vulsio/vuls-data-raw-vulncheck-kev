@@ -1,0 +1,27 @@
+{
+	"vendorProject": "wpengine",
+	"product": "better_search_replace",
+	"shortDescription": "The Better Search Replace plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 1.4.4 via deserialization of untrusted input. This makes it possible for unauthenticated attackers to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code.",
+	"vulnerabilityName": "wpengine better_search_replace Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6933"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a42df92e4069",
+			"xdb_url": "https://vulncheck.com/xdb/a42df92e4069",
+			"date_added": "2024-01-28T23:16:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:w2xim3/CVE-2023-6933.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-database-plugin-active-on-1-million-sites/",
+			"date_added": "2024-01-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-25T00:00:00Z"
+}

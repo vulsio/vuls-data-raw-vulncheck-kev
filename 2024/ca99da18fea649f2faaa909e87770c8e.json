@@ -1,0 +1,19 @@
+{
+	"vendorProject": "8theme",
+	"product": "XStore Core",
+	"shortDescription": "Deserialization of Untrusted Data vulnerability in 8theme XStore Core.This issue affects XStore Core: from n/a through 5.3.5.",
+	"vulnerabilityName": "8theme XStore Core Deserialization Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-33553"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/et-core-plugin/wordpress-xstore-core-plugin-5-3-5-unauthenticated-php-object-injection-vulnerability",
+			"date_added": "2024-04-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-25T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Information Services (IIS)",
+	"shortDescription": "IIS 4.0 and 5.0 allows remote attackers to read documents outside of the web root, and possibly execute arbitrary commands, via malformed URLs that contain UNICODE encoded characters, aka the \"Web Server Folder Traversal\" vulnerability.",
+	"vulnerabilityName": "Microsoft IIS 4.0 and 5.0 Folder Traversal Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2000-0884"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/103022664",
+			"date_added": "2005-08-25T00:00:00Z"
+		}
+	],
+	"date_added": "2005-08-25T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "umbraco",
+	"product": "umbraco",
+	"shortDescription": "The Page_Load function in Umbraco.Web/umbraco.presentation/umbraco/dashboard/FeedProxy.aspx.cs in Umbraco before 7.4.0 allows remote attackers to conduct server-side request forgery (SSRF) attacks via the url parameter.",
+	"vulnerabilityName": "umbraco umbraco Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-8813"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Roundcube",
+	"product": "Webmail",
+	"shortDescription": "Absolute path traversal vulnerability in steps/mail/sendmail.inc in Roundcube Webmail before 0.7.3 and 0.8.x before 0.8.6 allows remote attackers to read arbitrary files via a full pathname in the _value parameter for the generic_message_footer setting in a save-perf action to index.php, as exploited in the wild in March 2013.",
+	"vulnerabilityName": "Roundcube Webmail Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-1904"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-1904",
+			"date_added": "2014-02-07T00:00:00Z"
+		}
+	],
+	"date_added": "2014-02-07T00:00:00Z"
+}

@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-43226"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d3b41461a7f7",
+			"xdb_url": "https://vulncheck.com/xdb/d3b41461a7f7",
+			"date_added": "2023-10-30T06:47:50Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Rosayxy/cve-2021-43226PoC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
+			"date_added": "2024-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-03T00:00:00Z"
+}

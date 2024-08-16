@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office and WordPad",
+	"shortDescription": "Microsoft Office Word 2002 SP3 allows remote attackers to execute arbitrary code via a .doc file that contains malformed data, as exploited in the wild in July 2008, and as demonstrated by attachement.doc.",
+	"vulnerabilityName": "Microsoft Office Word 2002 SP3 Malformed Data Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-2244"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		}
+	],
+	"date_added": "2016-09-29T00:00:00Z"
+}

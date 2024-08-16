@@ -1,0 +1,72 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "Microsoft Win32k contains an unspecified vulnerability due to it failing to properly handle objects in memory causing privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-0803"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0550a8f285e6",
+			"xdb_url": "https://vulncheck.com/xdb/0550a8f285e6",
+			"date_added": "2019-05-17T11:05:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ExpLife0011/CVE-2019-0803.git"
+		},
+		{
+			"xdb_id": "c4e15259ee73",
+			"xdb_url": "https://vulncheck.com/xdb/c4e15259ee73",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2019-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2019-Apr?api-version=2020",
+			"date_added": "2019-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2021/the-story-of-jian/",
+			"date_added": "2021-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/",
+			"date_added": "2023-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks",
+			"date_added": "2023-10-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2019-04-09T00:00:00Z"
+}

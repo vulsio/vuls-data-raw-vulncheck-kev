@@ -1,0 +1,33 @@
+{
+	"vendorProject": "QNAP",
+	"product": "QNAP Network-Attached Storage (NAS)",
+	"shortDescription": "A command injection vulnerability affecting QNAP NAS File Station could allow remote attackers to run commands.",
+	"vulnerabilityName": "QNAP NAS File Station Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-19949"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/ongoing-ech0raix-ransomware-campaign-targets-qnap-nas-devices/",
+			"date_added": "2020-06-05T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2020-06-05T00:00:00Z"
+}

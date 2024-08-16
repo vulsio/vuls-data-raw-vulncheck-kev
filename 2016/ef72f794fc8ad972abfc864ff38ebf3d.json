@@ -1,0 +1,35 @@
+{
+	"vendorProject": "efstechnology",
+	"product": "autoform_pdm_archive",
+	"shortDescription": "AutoFORM PDM Archive before 7.0 implements user accounts in a way that allows for JMX Console authentication, which allows remote authenticated users to bypass intended access restrictions via the /jmx-console URI, and then upload and execute arbitrary JSP code via a JBoss remote-deployment mechanism, a different vulnerability than CVE-2012-1828.",
+	"vulnerabilityName": "AutoFORM PDM Archive before 7.0 Remote Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2012-3347"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		}
+	],
+	"date_added": "2016-03-25T00:00:00Z"
+}

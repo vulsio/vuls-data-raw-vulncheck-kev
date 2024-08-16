@@ -1,0 +1,19 @@
+{
+	"vendorProject": "rankmath",
+	"product": "seo",
+	"shortDescription": "The Rank Math plugin through 1.0.40.2 for WordPress allows unauthenticated remote attackers to update arbitrary WordPress metadata, including the ability to escalate or revoke administrative privileges for existing users via the unsecured rankmath/v1/updateMeta REST API endpoint.",
+	"vulnerabilityName": "rankmath seo Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-11514"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/seo-by-rank-math/rank-math-seo-10402-privilege-escalation-via-unprotected-rest-api-endpoint",
+			"date_added": "2023-07-19T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-19T00:00:00Z"
+}

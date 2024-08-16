@@ -1,0 +1,45 @@
+{
+	"vendorProject": "SAP",
+	"product": "businessobjects_business_intelligence_platform",
+	"shortDescription": "SAP BusinessObjects Business Intelligence Platform (Web Services) versions - 410, 420, 430, allows an unauthenticated attacker to inject arbitrary values as CMS parameters to perform lookups on the internal network which is otherwise not accessible externally. On successful exploitation, attacker can scan internal network to determine internal infrastructure and gather information for further attacks like remote file inclusion, retrieve server files, bypass firewall and force the vulnerable server to perform malicious requests, resulting in a Server-Side Request Forgery vulnerability.",
+	"vulnerabilityName": "SAP businessobjects_business_intelligence_platform Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-6308"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d2d52eadfbdb",
+			"xdb_url": "https://vulncheck.com/xdb/d2d52eadfbdb",
+			"date_added": "2021-08-24T08:36:11Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:TheMMMdev/CVE-2020-6308.git"
+		},
+		{
+			"xdb_id": "594af6c30e0c",
+			"xdb_url": "https://vulncheck.com/xdb/594af6c30e0c",
+			"date_added": "2020-12-27T10:37:11Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:InitRoot/CVE-2020-6308-PoC.git"
+		},
+		{
+			"xdb_id": "36a69cbe2895",
+			"xdb_url": "https://vulncheck.com/xdb/36a69cbe2895",
+			"date_added": "2024-08-12T15:05:13Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MachadoOtto/sap_bo_launchpad-ssrf-timing_attack.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-14&host_type=src&vulnerability=cve-2020-6308",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-19&host_type=src&vulnerability=cve-2020-6308",
+			"date_added": "2024-02-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-14T00:00:00Z"
+}

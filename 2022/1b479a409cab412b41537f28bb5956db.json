@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "macOS Monterey contains an out-of-bounds write vulnerability that could allow an application to execute arbitrary code with kernel privileges.",
+	"vulnerabilityName": "Apple macOS Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-22675"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213219",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213253",
+			"date_added": "2022-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213254",
+			"date_added": "2022-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213256",
+			"date_added": "2022-10-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/05/17/apple-releases-security-updates-multiple-products",
+			"date_added": "2022-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-25T00:00:00Z",
+	"cisa_date_added": "2022-04-04T00:00:00Z",
+	"date_added": "2022-03-31T00:00:00Z"
+}

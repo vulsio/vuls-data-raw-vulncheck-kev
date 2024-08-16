@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "Unspecified vulnerability in Microsoft Excel 2000 through 2004 allows remote user-assisted attackers to execute arbitrary code via unspecified vectors.  NOTE: this is a different vulnerability than CVE-2006-3086.",
+	"vulnerabilityName": "Microsoft Excel Malformed file Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3059"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-037",
+			"date_added": "2006-07-11T00:00:00Z"
+		}
+	],
+	"date_added": "2006-07-11T00:00:00Z"
+}

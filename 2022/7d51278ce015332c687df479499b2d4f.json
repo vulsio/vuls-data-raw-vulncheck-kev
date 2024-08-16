@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Netwrix",
+	"product": "Auditor",
+	"shortDescription": "Netwrix Auditor User Activity Video Recording component contains an insecure objection deserialization vulnerability that allows an unauthenticated, remote attacker to execute code as the NT AUTHORITY\\SYSTEM user. Successful exploitation requires that the attacker is able to reach port 9004/TCP, which is commonly blocked by standard enterprise firewalling.",
+	"vulnerabilityName": "Netwrix Auditor Insecure Object Deserialization Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-31199"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-187a",
+			"date_added": "2023-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants",
+			"date_added": "2023-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/breaking-the-silence-recent-truebot-activity/",
+			"date_added": "2022-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://heimdalsecurity.com/blog/clop-ransomware-uses-viral-truebot-malware-to-access-networks/",
+			"date_added": "2022-12-12T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants",
+			"date_added": "2023-07-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-08-01T00:00:00Z",
+	"cisa_date_added": "2023-07-11T00:00:00Z",
+	"date_added": "2022-12-08T00:00:00Z"
+}

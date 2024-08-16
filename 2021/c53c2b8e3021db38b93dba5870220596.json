@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Trend Micro",
+	"product": "Apex One, Apex One as a Service, and Worry-Free Business Security",
+	"shortDescription": "Trend Micro Apex One, Apex One as a Service, and Worry-Free Business Security contain an improper input validation vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Trend Micro Multiple Products Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-36742"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://therecord.media/hackers-tried-to-exploit-two-zero-days-in-trend-micros-apex-one-edr-platform",
+			"date_added": "2021-08-11T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-08-11T00:00:00Z"
+}

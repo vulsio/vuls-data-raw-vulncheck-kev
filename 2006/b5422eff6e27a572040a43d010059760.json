@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Cisco",
+	"product": "IOS",
+	"shortDescription": "Cisco IOS contains an unspecified vulnerability that may block further telnet, reverse telnet, Remote Shell (RSH), Secure Shell (SSH), and in some cases, Hypertext Transport Protocol (HTTP) access to the Cisco device.",
+	"vulnerabilityName": "Cisco IOS Denial-of-Service Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-1464"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisco.com/c/en/us/support/docs/csa/cisco-sa-20040827-telnet.html",
+			"date_added": "2006-08-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-09T00:00:00Z",
+	"cisa_date_added": "2023-05-19T00:00:00Z",
+	"date_added": "2006-08-27T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Java Runtime Environment (JRE)",
+	"shortDescription": "Unspecified vulnerability in the Java Runtime Environment (JRE) component in Oracle Java SE 7 through Update 11 and 6 through Update 38 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Scripting.",
+	"vulnerabilityName": "Oracle Java SE 7 through Update 11 and 6 through Update 38 Java Runtime Environment (JRE) Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-3213"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/wild-neutron-economic-espionage-threat-actor-returns-with-new-tricks/71275/",
+			"date_added": "2015-07-08T00:00:00Z"
+		}
+	],
+	"date_added": "2015-07-08T00:00:00Z"
+}

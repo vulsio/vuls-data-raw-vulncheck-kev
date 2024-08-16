@@ -1,0 +1,34 @@
+{
+	"vendorProject": "TP-Link",
+	"product": "tapo_c200",
+	"shortDescription": "TP-Link Tapo C200 IP camera, on its 1.1.15 firmware version and below, is affected by an unauthenticated RCE vulnerability, present in the uhttpd binary running by default as root. The exploitation of this vulnerability allows an attacker to take full control of the camera.",
+	"vulnerabilityName": "TP-Link tapo_c200 Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4045"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "56890d47546e",
+			"xdb_url": "https://vulncheck.com/xdb/56890d47546e",
+			"date_added": "2023-12-26T08:20:49Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:pl4int3xt/CVE-2021-4045.git"
+		},
+		{
+			"xdb_id": "63144902df7a",
+			"xdb_url": "https://vulncheck.com/xdb/63144902df7a",
+			"date_added": "2021-11-15T14:48:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hacefresko/CVE-2021-4045-PoC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
+			"date_added": "2022-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-01T00:00:00Z"
+}

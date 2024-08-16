@@ -1,0 +1,29 @@
+{
+	"vendorProject": "EyesOfNetwork",
+	"product": "EyesOfNetwork",
+	"shortDescription": "EyesOfNetwork contains an improper privilege management vulnerability that may allow a user to run commands as root via a crafted Nmap Scripting Engine (NSE) script to nmap7.",
+	"vulnerabilityName": "EyesOfNetwork Improper Privilege Management Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8655"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "743d1c5492ba",
+			"xdb_url": "https://vulncheck.com/xdb/743d1c5492ba",
+			"date_added": "2020-03-05T15:18:12Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:h4knet/eonrce.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

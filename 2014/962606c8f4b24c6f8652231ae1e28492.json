@@ -1,0 +1,89 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A vulnerability exists in Windows Object Linking & Embedding (OLE) that could allow remote code execution if a user opens a file that contains a specially crafted OLE object.",
+	"vulnerabilityName": "Microsoft Windows Object Linking & Embedding (OLE) Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-4114"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20160503234007/https://www.isightpartners.com/2014/10/cve-2014-4114/",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/14/j/an-analysis-of-windows-zero-day-vulnerability-cve-2014-4114-aka-sandworm.html",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://blog.trendmicro.com/trendlabs-security-intelligence/timeline-of-sandworm-attacks/",
+			"date_added": "2014-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ics/alerts/ICS-ALERT-14-281-01B",
+			"date_added": "2014-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2016/01/ukraine-and-sandworm-team.html",
+			"date_added": "2016-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=5da7ee8f-e251-4e14-acf5-693bdd61bde6&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+			"date_added": "2016-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=09308982-77bd-41e0-8269-f2cc9ce3266e&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+			"date_added": "2016-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://citizenlab.ca/2016/08/group5-syria/",
+			"date_added": "2016-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://documents.trendmicro.com/assets/tech-brief-untangling-the-patchwork-cyberespionage-group.pdf",
+			"date_added": "2017-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/",
+			"date_added": "2018-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/ics-alerts/ics-alert-14-281-01",
+			"date_added": "2018-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/ics-alerts/ics-alert-14-281-01a",
+			"date_added": "2018-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/ics-alerts/ics-alert-14-281-01e",
+			"date_added": "2021-07-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2014-10-14T00:00:00Z"
+}

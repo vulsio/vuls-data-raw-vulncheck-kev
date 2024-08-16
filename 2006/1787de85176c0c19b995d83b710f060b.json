@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystem",
+	"product": "formliner",
+	"shortDescription": "Stack-based buffer overflow in Justsystem Ichitaro 9.x through 13.x, Ichitaro 2004, 2005, 2006, and Government 2006; Ichitaro for Linux; and FormLiner before 20060818 allows remote attackers to execute arbitrary code via long Unicode strings in a crafted document, as being actively exploited by malware such as Trojan.Tarodrop.  NOTE: some details are obtained from third party information.",
+	"vulnerabilityName": "justsystem formliner Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-4326"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.justsystems.com/jp/corporate/info/pd6002.html",
+			"date_added": "2006-08-22T00:00:00Z"
+		}
+	],
+	"date_added": "2006-08-22T00:00:00Z"
+}

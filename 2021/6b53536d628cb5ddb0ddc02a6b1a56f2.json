@@ -1,0 +1,34 @@
+{
+	"vendorProject": "canonical",
+	"product": "ubuntu_linux",
+	"shortDescription": "The overlayfs implementation in the linux (aka Linux kernel) package before 3.19.0-21.21 in Ubuntu through 15.04 does not properly check permissions for file creation in the upper filesystem directory, which allows local users to obtain root access by leveraging a configuration in which overlayfs is permitted in an arbitrary mount namespace.",
+	"vulnerabilityName": "Linux Kernel overlayfs Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-1328"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "52b1981b374e",
+			"xdb_url": "https://vulncheck.com/xdb/52b1981b374e",
+			"date_added": "2022-02-07T10:52:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0x1ns4n3/CVE-2015-1328-GoldenEye.git"
+		},
+		{
+			"xdb_id": "1a7d6e27e1ca",
+			"xdb_url": "https://vulncheck.com/xdb/1a7d6e27e1ca",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.microsoft.com/security/blog/2021/08/19/how-to-proactively-defend-against-mozi-iot-botnet/",
+			"date_added": "2021-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-19T00:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server Remote Code Execution Vulnerability",
+	"vulnerabilityName": "Microsoft Exchange Server Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-31206"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.cyble.com/2022/01/17/avoslocker-ransomware-linux-version-targets-vmware-esxi-servers/",
+			"date_added": "2022-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-257a",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-17T00:00:00Z"
+}

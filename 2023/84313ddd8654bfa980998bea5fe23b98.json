@@ -1,0 +1,306 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office Outlook contains a privilege escalation vulnerability that allows for a NTLM Relay attack against another service to authenticate as the user.",
+	"vulnerabilityName": "Microsoft Office Outlook Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-23397"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d75a920b3234",
+			"xdb_url": "https://vulncheck.com/xdb/d75a920b3234",
+			"date_added": "2023-03-16T15:00:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:grn-bogo/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "c0620b5dfee4",
+			"xdb_url": "https://vulncheck.com/xdb/c0620b5dfee4",
+			"date_added": "2023-03-17T06:52:42Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:cleverg0d/CVE-2023-23397-PoC-PowerShell.git"
+		},
+		{
+			"xdb_id": "92069e59a002",
+			"xdb_url": "https://vulncheck.com/xdb/92069e59a002",
+			"date_added": "2023-03-17T10:18:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ahmedkhlief/CVE-2023-23397-POC.git"
+		},
+		{
+			"xdb_id": "6b1515a227c5",
+			"xdb_url": "https://vulncheck.com/xdb/6b1515a227c5",
+			"date_added": "2023-03-19T08:07:58Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook.git"
+		},
+		{
+			"xdb_id": "299a8987514a",
+			"xdb_url": "https://vulncheck.com/xdb/299a8987514a",
+			"date_added": "2023-03-24T19:47:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:madelynadams9/CVE-2023-23397-Report.git"
+		},
+		{
+			"xdb_id": "7c5622c2d3a6",
+			"xdb_url": "https://vulncheck.com/xdb/7c5622c2d3a6",
+			"date_added": "2023-03-23T13:40:18Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:stevesec/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "2c4a55aaa42a",
+			"xdb_url": "https://vulncheck.com/xdb/2c4a55aaa42a",
+			"date_added": "2023-03-29T01:17:22Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:jacquesquail/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "48107c717601",
+			"xdb_url": "https://vulncheck.com/xdb/48107c717601",
+			"date_added": "2023-03-31T03:35:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:CKevens/CVE-2023-23397-POC.git"
+		},
+		{
+			"xdb_id": "d597159f1565",
+			"xdb_url": "https://vulncheck.com/xdb/d597159f1565",
+			"date_added": "2023-03-21T18:38:00Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:tiepologian/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "8983cd572882",
+			"xdb_url": "https://vulncheck.com/xdb/8983cd572882",
+			"date_added": "2023-03-18T21:14:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:djackreuter/CVE-2023-23397-PoC.git"
+		},
+		{
+			"xdb_id": "645d3afa21d8",
+			"xdb_url": "https://vulncheck.com/xdb/645d3afa21d8",
+			"date_added": "2023-10-26T09:26:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Pushkarup/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "7d72184f22bf",
+			"xdb_url": "https://vulncheck.com/xdb/7d72184f22bf",
+			"date_added": "2023-03-16T19:10:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ka7ana/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "e7dac301aad2",
+			"xdb_url": "https://vulncheck.com/xdb/e7dac301aad2",
+			"date_added": "2024-03-20T09:49:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:TheUnknownSoul/CVE-2023-23397-PoW.git"
+		},
+		{
+			"xdb_id": "99246ea573d0",
+			"xdb_url": "https://vulncheck.com/xdb/99246ea573d0",
+			"date_added": "2023-05-07T18:21:35Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vlad-a-man/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "4a869df48f74",
+			"xdb_url": "https://vulncheck.com/xdb/4a869df48f74",
+			"date_added": "2023-03-22T11:00:47Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BronzeBee/cve-2023-23397.git"
+		},
+		{
+			"xdb_id": "baaf8b3e5c4b",
+			"xdb_url": "https://vulncheck.com/xdb/baaf8b3e5c4b",
+			"date_added": "2023-03-20T16:31:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Trackflaw/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "d81f13d3b637",
+			"xdb_url": "https://vulncheck.com/xdb/d81f13d3b637",
+			"date_added": "2023-03-16T19:43:39Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:api0cradle/CVE-2023-23397-POC-Powershell.git"
+		},
+		{
+			"xdb_id": "205fe7e2ef61",
+			"xdb_url": "https://vulncheck.com/xdb/205fe7e2ef61",
+			"date_added": "2023-03-15T17:03:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY.git"
+		},
+		{
+			"xdb_id": "dc500bda81a1",
+			"xdb_url": "https://vulncheck.com/xdb/dc500bda81a1",
+			"date_added": "2023-03-17T17:35:14Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BillSkiCO/CVE-2023-23397_EXPLOIT.git"
+		},
+		{
+			"xdb_id": "fe69ab5a1930",
+			"xdb_url": "https://vulncheck.com/xdb/fe69ab5a1930",
+			"date_added": "2023-09-02T15:35:15Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitlab.com:smnelson128/CVE-2023-23397.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-Mar?api-version=2020",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepinstinct.com/blog/cve-2023-23397-exploitations-in-the-wild-what-you-need-to-know",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/blog/articles/Analysis-of-In-the-wild-Attack-Samples-Exploiting-Outlook-Privilege-Escalation-Vulnerability-(CVE-2023-23397)-EN/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/apt28-leverages-multiple-phishing-techniques-to-target-ukrainian-civil-society/",
+			"date_added": "2023-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/bluedelta-exploits-ukrainian-government-roundcube-mail-servers",
+			"date_added": "2023-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/analysis-of-attack-samples-exploiting-cve-2023-23397/110202/",
+			"date_added": "2023-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/documents/MDDR_FINAL_2023_1004.pdf",
+			"date_added": "2023-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-009.pdf",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q3-2023/111171/",
+			"date_added": "2023-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/",
+			"date_added": "2023-12-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/ta422s-dedicated-exploitation-loop-same-week-after-week",
+			"date_added": "2023-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.wojsko-polskie.pl/woc/articles/aktualnosci-w/detecting-malicious-activity-against-microsoft-exchange-servers/",
+			"date_added": "2023-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/russian-apt-fighting-ursa-exploits-cve-2023-233397/",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.infosecurity-magazine.com/news/pawn-storms-stealthy-net-ntlmv2/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+			"date_added": "2024-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0217.pdf",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf",
+			"date_added": "2024-02-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/Media/News/2024/240227.pdf",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2023-na/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://cert.pl/uploads/docs/Raport_CP_2023.pdf",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/",
+			"date_added": "2024-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://assets.beyondtrust.com/assets/documents/BT_whitepaper_Microsoft-Vulnerabilities-Report-2024.pdf",
+			"date_added": "2024-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://mzv.gov.cz/jnp/en/issues_and_press/press_releases/statement_of_the_mfa_on_the_cyberattacks.html",
+			"date_added": "2024-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/blog/",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorc-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-04T00:00:00Z",
+	"cisa_date_added": "2023-03-14T00:00:00Z",
+	"date_added": "2023-03-14T00:00:00Z"
+}

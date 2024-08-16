@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS, iPadOS, and macOS",
+	"shortDescription": "Apple iOS, iPadOS, and macOS contain a type confusion vulnerability in the XNU which may allow a malicious application to execute code with kernel privileges.",
+	"vulnerabilityName": "Apple iOS, iPadOS, and macOS Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30869"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/",
+			"date_added": "2021-10-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2022/01/25/watering-hole-deploys-new-macos-malware-dazzlespy-asia/",
+			"date_added": "2022-01-25T00:00:00Z"
+		},
+		{
+			"url": "https://objective-see.org/blog/blog_0x71.html",
+			"date_added": "2023-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/daggerfly-espionage-updated-toolset",
+			"date_added": "2024-07-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-09-23T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Adobe ColdFusion versions 2018u18 (and earlier), 2021u8 (and earlier) and 2023u2 (and earlier) are affected by a Deserialization of Untrusted Data vulnerability that could result in Arbitrary code execution. Exploitation of this issue does not require user interaction.",
+	"vulnerabilityName": "Adobe ColdFusion Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38204"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities",
+			"date_added": "2023-08-30T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-30T00:00:00Z"
+}

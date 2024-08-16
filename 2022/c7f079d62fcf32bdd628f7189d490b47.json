@@ -1,0 +1,65 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS",
+	"shortDescription": "Apple iOS contains a type confusion vulnerability when processing maliciously crafted web content leading to code execution.",
+	"vulnerabilityName": "Apple iOS Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-42856"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213516",
+			"date_added": "2022-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213535",
+			"date_added": "2022-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213597",
+			"date_added": "2023-01-23T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213530",
+			"date_added": "2023-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213531",
+			"date_added": "2023-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213532",
+			"date_added": "2023-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213537",
+			"date_added": "2023-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2024-02-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-01-04T00:00:00Z",
+	"cisa_date_added": "2022-12-14T00:00:00Z",
+	"date_added": "2022-11-30T00:00:00Z"
+}

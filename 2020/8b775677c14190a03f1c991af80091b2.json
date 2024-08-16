@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpbakery",
+	"product": "page_builder",
+	"shortDescription": "The WPBakery plugin before 6.4.1 for WordPress allows XSS because it calls kses_remove_filters to disable the standard WordPress XSS protection mechanism for the Author and Contributor roles.",
+	"vulnerabilityName": "wpbakery page_builder Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-28650"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/js_composer/wpbakery-page-builder-for-wordpress-64-authenticated-contributor-stored-cross-site-scripting",
+			"date_added": "2020-10-07T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-07T00:00:00Z"
+}

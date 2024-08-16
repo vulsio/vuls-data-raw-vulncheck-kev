@@ -1,0 +1,73 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains an unspecified vulnerability that allows for memory corruption.",
+	"vulnerabilityName": "Microsoft Internet Explorer Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-26411"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Mar?api-version=2020",
+			"date_added": "2021-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/janvojtesek/magnitude-exploit-kit-still-alive-and-kicking/",
+			"date_added": "2021-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/magniber-ransomware-caught-using-printnightmare-vulnerability/",
+			"date_added": "2021-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware_index-update-q221-csw.pdf",
+			"date_added": "2021-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://arstechnica.com/gadgets/2021/03/microsoft-patches-critical-0day-that-north-korea-used-to-target-researchers/",
+			"date_added": "2021-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/",
+			"date_added": "2021-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/updated-mata-attacks-industrial-companies-in-eastern-europe/110829/",
+			"date_added": "2023-10-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-03-09T00:00:00Z"
+}

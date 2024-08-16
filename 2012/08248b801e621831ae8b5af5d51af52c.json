@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystems",
+	"product": "ichitaro",
+	"shortDescription": "JustSystems Ichitaro 2005 through 2011, Ichitaro Government 6, Ichitaro Government 2006 through 2010, Ichitaro Portable, Ichitaro Pro, and Ichitaro Viewer allow remote attackers to execute arbitrary code or cause a denial of service (heap memory corruption) via a crafted document, as exploited in the wild in early 2011.",
+	"vulnerabilityName": "justsystems ichitaro Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-1331"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
+			"date_added": "2012-10-18T00:00:00Z"
+		}
+	],
+	"date_added": "2012-10-18T00:00:00Z"
+}

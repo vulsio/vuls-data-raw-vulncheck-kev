@@ -1,0 +1,19 @@
+{
+	"vendorProject": "PHP",
+	"product": "PHP",
+	"shortDescription": "Unspecified vulnerability in the _php_stream_scandir function in the stream implementation in PHP before 5.3.15 and 5.4.x before 5.4.5 has unknown impact and remote attack vectors, related to an \"overflow.\"",
+	"vulnerabilityName": "PHP_php_stream_scandir Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-2688"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/31752",
+			"date_added": "2012-06-19T00:00:00Z"
+		}
+	],
+	"date_added": "2012-06-19T00:00:00Z"
+}

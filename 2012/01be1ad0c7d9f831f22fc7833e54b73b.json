@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player contains a XSS vulnerability that allows remote attackers to inject web script or HTML.",
+	"vulnerabilityName": "Adobe Flash Player Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-0767"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.darkreading.com/cyberattacks-data-breaches/flash-zero-day-used-in-targeted-email-attacks",
+			"date_added": "2012-02-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2012-02-16T00:00:00Z"
+}

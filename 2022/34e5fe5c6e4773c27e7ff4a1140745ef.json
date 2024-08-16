@@ -1,0 +1,100 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "HTTP Protocol Stack",
+	"shortDescription": "Microsoft HTTP Protocol Stack contains a vulnerability in http.sys that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft HTTP Protocol Stack Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-31166"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e25c79214978",
+			"xdb_url": "https://vulncheck.com/xdb/e25c79214978",
+			"date_added": "2021-07-03T14:54:59Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:y0g3sh-99/CVE-2021-31166-Exploit.git"
+		},
+		{
+			"xdb_id": "74d91688925d",
+			"xdb_url": "https://vulncheck.com/xdb/74d91688925d",
+			"date_added": "2022-03-07T18:56:52Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:mauricelambert/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "a07dc76a6f89",
+			"xdb_url": "https://vulncheck.com/xdb/a07dc76a6f89",
+			"date_added": "2022-11-22T09:10:36Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:0xmaximus/Home-Demolisher.git"
+		},
+		{
+			"xdb_id": "b60f189b7005",
+			"xdb_url": "https://vulncheck.com/xdb/b60f189b7005",
+			"date_added": "2021-05-19T07:50:40Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:zecopro/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "3d89c1c29c99",
+			"xdb_url": "https://vulncheck.com/xdb/3d89c1c29c99",
+			"date_added": "2023-07-05T03:53:10Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:liang2kl/iot-exploits.git"
+		},
+		{
+			"xdb_id": "e7beeee5920b",
+			"xdb_url": "https://vulncheck.com/xdb/e7beeee5920b",
+			"date_added": "2021-09-27T05:56:45Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:antx-code/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "3dbf2e48a531",
+			"xdb_url": "https://vulncheck.com/xdb/3dbf2e48a531",
+			"date_added": "2021-05-16T16:15:56Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "5719bfcb7a63",
+			"xdb_url": "https://vulncheck.com/xdb/5719bfcb7a63",
+			"date_added": "2021-05-21T10:38:41+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:ckz-code/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "e1866d71c3af",
+			"xdb_url": "https://vulncheck.com/xdb/e1866d71c3af",
+			"date_added": "2021-05-18T20:34:58+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:ljygit123/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "86c76b7eb3bc",
+			"xdb_url": "https://vulncheck.com/xdb/86c76b7eb3bc",
+			"date_added": "2021-05-20T05:00:38+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-31166.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-27T00:00:00Z",
+	"cisa_date_added": "2022-04-06T00:00:00Z",
+	"date_added": "2022-03-24T00:00:00Z"
+}

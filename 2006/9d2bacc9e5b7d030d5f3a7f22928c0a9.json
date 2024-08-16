@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Heap-based buffer overflow in DirectAnimation.PathControl COM object (daxctle.ocx) in Microsoft Internet Explorer 6.0 SP1 allows remote attackers to cause a denial of service and possibly execute arbitrary code via a Spline function call whose first argument specifies a large number of points.",
+	"vulnerabilityName": "Microsoft ie Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-4446"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2006/ms06-067",
+			"date_added": "2006-11-14T00:00:00Z"
+		}
+	],
+	"date_added": "2006-11-14T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Western Digital",
+	"product": "my_book_live_firmware",
+	"shortDescription": "Western Digital WD My Book Live and WD My Book Live Duo (all versions) have a root Remote Command Execution bug via shell metacharacters in the /api/1.0/rest/language_configuration language parameter. It can be triggered by anyone who knows the IP address of the affected device, as exploited in the wild in June 2021 for factory reset commands,",
+	"vulnerabilityName": "Western Digital my_book_live_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-18472"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.westerndigital.com/support/product-security/wdc-21008-recommended-security-measures-wd-mybooklive-wd-mybookliveduo",
+			"date_added": "2021-07-06T00:00:00Z"
+		}
+	],
+	"date_added": "2021-07-06T00:00:00Z"
+}

@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+	"shortDescription": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) contain an infinite loop vulnerability that can lead to remote denial of service condition.",
+	"vulnerabilityName": "Cisco ASA and FTD Denial of Service Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-20353"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/common-ransomware-actor-ttps-playbooks/",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-asaftd-websrvs-dos-X8gNucD2",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/analysis-of-arcanedoor-threat-infrastructure-suggests-potential-ties-to-chinese-based-actor/",
+			"date_added": "2024-05-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-05-01T00:00:00Z",
+	"cisa_date_added": "2024-04-24T00:00:00Z",
+	"date_added": "2024-04-24T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "chinagames",
+	"product": "igame",
+	"shortDescription": "Stack-based buffer overflow in the Chinagames CGAgent ActiveX control 1.x in CGAgent.dll, as distributed in Chinagames iGame 2009, allows remote attackers to execute arbitrary code via a long argument to the CreateChinagames method, as exploited in the wild in April and May 2009.  NOTE: some of these details are obtained from third party information.",
+	"vulnerabilityName": "chinagames igame Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-1800"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2009-1800",
+			"date_added": "2009-05-28T00:00:00Z"
+		}
+	],
+	"date_added": "2009-05-28T00:00:00Z"
+}

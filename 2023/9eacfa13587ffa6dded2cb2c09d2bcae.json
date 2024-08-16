@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "BuddyBoss Theme",
+	"shortDescription": "Improper Authentication vulnerability in BUDDYBOSS DMCC BuddyBoss Theme allows Accessing Functionality Not Properly Constrained by ACLs.This issue affects BuddyBoss Theme: from n/a through 2.4.60.",
+	"vulnerabilityName": "WordPress BuddyBoss Theme Authentication Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-51477"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/buddyboss-theme/wordpress-buddyboss-theme-theme-2-4-60-unauthenticated-arbitrary-wordpress-settings-change-vulnerability",
+			"date_added": "2023-12-23T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-23T00:00:00Z"
+}

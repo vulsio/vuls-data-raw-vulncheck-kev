@@ -1,0 +1,23 @@
+{
+	"vendorProject": "acclaimsystems",
+	"product": "usaherds",
+	"shortDescription": "Acclaim USAHERDS through 7.4.0.1 uses hard-coded credentials.",
+	"vulnerabilityName": "acclaimsystems usaherds Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-44207"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.mandiant.com/resources/blog/apt41-us-state-governments",
+			"date_added": "2022-03-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/apt41-recent-activity.pdf",
+			"date_added": "2022-09-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-03-08T00:00:00Z"
+}

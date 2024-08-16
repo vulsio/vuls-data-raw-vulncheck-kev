@@ -1,0 +1,19 @@
+{
+	"vendorProject": "kennziffer",
+	"product": "statistics",
+	"shortDescription": "SQL injection vulnerability in the Statistics (ke_stats) extension before 1.1.2 for TYPO3 allows remote attackers to execute arbitrary SQL commands via unspecified vectors, as exploited in the wild in February 2014.",
+	"vulnerabilityName": "kennziffer statistics Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-6293"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://typo3.org/security/advisory/typo3-ext-sa-2014-002",
+			"date_added": "2014-02-12T00:00:00Z"
+		}
+	],
+	"date_added": "2014-02-12T00:00:00Z"
+}

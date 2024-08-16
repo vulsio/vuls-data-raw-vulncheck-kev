@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Google",
+	"product": "Android",
+	"shortDescription": "The join_session_keyring function in security/keys/process_keys.c in the Linux kernel before 4.4.1 mishandles object references in a certain error case, which allows local users to gain privileges or cause a denial of service (integer overflow and use-after-free) via crafted keyctl commands.",
+	"vulnerabilityName": "Google Android Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-0728"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "649bd1d0823b",
+			"xdb_url": "https://vulncheck.com/xdb/649bd1d0823b",
+			"date_added": "2022-12-04T05:26:12Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sidrk01/cve-2016-0728.git"
+		},
+		{
+			"xdb_id": "68c19d6171b6",
+			"xdb_url": "https://vulncheck.com/xdb/68c19d6171b6",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "359768e64841",
+			"xdb_url": "https://vulncheck.com/xdb/359768e64841",
+			"date_added": "2020-05-27T07:08:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:dominicusin/cve_2016_0728.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		}
+	],
+	"date_added": "2016-08-04T00:00:00Z"
+}

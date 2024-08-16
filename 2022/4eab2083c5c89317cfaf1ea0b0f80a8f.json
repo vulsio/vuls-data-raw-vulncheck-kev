@@ -1,0 +1,19 @@
+{
+	"vendorProject": "muffingroup",
+	"product": "betheme",
+	"shortDescription": "Auth. (subscriber+) Stored Cross-Site Scripting (XSS) in Muffingroup Betheme theme <= 26.6.1 on WordPress.",
+	"vulnerabilityName": "muffingroup betheme Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45363"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/betheme/wordpress-betheme-theme-26-6-1-auth-stored-cross-site-scripting-xss-vulnerability",
+			"date_added": "2022-11-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-26T00:00:00Z"
+}

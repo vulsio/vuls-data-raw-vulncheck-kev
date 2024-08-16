@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft Exchange Server Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-33768"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-257a",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2022-09-14T00:00:00Z"
+}

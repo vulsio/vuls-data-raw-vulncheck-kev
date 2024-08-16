@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux Kernel contains a flaw in the packet socket (AF_PACKET) implementation which could lead to incorrectly freeing memory. A local user could exploit this for denial-of-service (DoS) or possibly for privilege escalation.",
+	"vulnerabilityName": "Linux Kernel Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22600"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "880227fd1810",
+			"xdb_url": "https://vulncheck.com/xdb/880227fd1810",
+			"date_added": "2024-05-02T22:16:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ragingkarson/CVE-2021-22600.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2024-02-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-02T00:00:00Z",
+	"cisa_date_added": "2022-04-11T00:00:00Z",
+	"date_added": "2022-03-07T00:00:00Z"
+}

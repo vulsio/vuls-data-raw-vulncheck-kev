@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Zoho",
+	"product": "Desktop Central",
+	"shortDescription": "Zoho Desktop Central contains an authentication bypass vulnerability that could allow an attacker to execute arbitrary code in the Desktop Central MSP server.",
+	"vulnerabilityName": "Zoho Desktop Central Authentication Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-44515"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/Media/News/2021/211220.pdf",
+			"date_added": "2021-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2022GTR.pdf",
+			"date_added": "2022-02-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-12-24T00:00:00Z",
+	"cisa_date_added": "2021-12-10T00:00:00Z",
+	"date_added": "2021-12-10T00:00:00Z"
+}

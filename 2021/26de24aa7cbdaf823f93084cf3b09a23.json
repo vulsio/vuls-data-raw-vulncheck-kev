@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Samsung",
+	"product": "Mobile Devices",
+	"shortDescription": "Samsung mobile devices contain an out-of-bounds read vulnerability within the modem interface driver due to a lack of boundary checking of a buffer in set_skb_priv(), leading to remote code execution by dereference of an invalid function pointer.",
+	"vulnerabilityName": "Samsung Mobile Devices Out-of-Bounds Read Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25487"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-07-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-20T00:00:00Z",
+	"cisa_date_added": "2023-06-29T00:00:00Z",
+	"date_added": "2021-07-26T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "magazine3",
+	"product": "amp_for_wp",
+	"shortDescription": "ampforwp_save_steps_data in the AMP for WP plugin before 0.9.97.21 for WordPress allows stored XSS.",
+	"vulnerabilityName": "magazine3 amp_for_wp Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-20838"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://wpscan.com/vulnerability/46b90ea0-df16-4af4-a6e9-fa5d6e702d15/",
+			"date_added": "2018-11-20T00:00:00Z"
+		}
+	],
+	"date_added": "2018-11-20T00:00:00Z"
+}

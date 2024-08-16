@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Print Spooler contains an unspecified vulnerability which can allow for privilege escalation.",
+	"vulnerabilityName": "Microsoft Windows Print Spooler Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-21999"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "609ca9e59da3",
+			"xdb_url": "https://vulncheck.com/xdb/609ca9e59da3",
+			"date_added": "2022-02-08T17:25:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ly4k/SpoolFool.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/rare-possible-gelsemium-attack-targets-se-asia/",
+			"date_added": "2023-09-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

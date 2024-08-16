@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themepunch",
+	"product": "showbiz_pro",
+	"shortDescription": "The ThemePunch Slider Revolution (revslider) plugin before 3.0.96 for WordPress and Showbiz Pro plugin 1.7.1 and earlier for Wordpress does not properly restrict access to administrator AJAX functionality, which allows remote attackers to (1) upload and execute arbitrary files via an update_plugin action; (2) delete arbitrary sliders via a delete_slider action; and (3) create, (4) update, (5) import, or (6) export arbitrary sliders via unspecified vectors.",
+	"vulnerabilityName": "ThemePunch Slider Revolution (revslider) plugin before 3.0.96 for WordPress and Showbiz Pro plugin 1.7.1 and earlier for Wordpress Admin AJAX Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-9735"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sucuri.net/2014/09/slider-revolution-plugin-critical-vulnerability-being-exploited.html",
+			"date_added": "2014-09-03T00:00:00Z"
+		}
+	],
+	"date_added": "2014-09-03T00:00:00Z"
+}

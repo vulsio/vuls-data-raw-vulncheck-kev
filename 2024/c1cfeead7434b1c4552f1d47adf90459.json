@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Twilio",
+	"product": "Authy",
+	"shortDescription": "Twilio Authy contains an information disclosure vulnerability in its API that allows an unauthenticated endpoint to accept a request containing a phone number and respond with information about whether the phone number was registered with Authy.",
+	"vulnerabilityName": "Twilio Authy Information Disclosure Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-39891"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-39891",
+			"date_added": "2024-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/hackers-abused-api-to-verify-millions-of-authy-mfa-phone-numbers/",
+			"date_added": "2024-07-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-13T00:00:00Z",
+	"cisa_date_added": "2024-07-23T00:00:00Z",
+	"date_added": "2024-07-02T00:00:00Z"
+}

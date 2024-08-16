@@ -1,0 +1,19 @@
+{
+	"vendorProject": "commscope",
+	"product": "arris_tr3300_firmware",
+	"shortDescription": "Arris TR3300 v1.0.13 were discovered to contain a command injection vulnerability in the ddns function via the ddns_name, ddns_pwd, h_ddns、ddns_host parameters. This vulnerability allows attackers to execute arbitrary commands via a crafted request.",
+	"vulnerabilityName": "commscope arris_tr3300_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-27002"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-22T00:00:00Z"
+}

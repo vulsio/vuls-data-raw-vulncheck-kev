@@ -1,0 +1,19 @@
+{
+	"vendorProject": "webnus",
+	"product": "modern_events_calendar_lite",
+	"shortDescription": "Multiple Stored Cross-site scripting (XSS) vulnerabilities in the Webnus Modern Events Calendar Lite plugin through 5.1.6 for WordPress allows remote authenticated users (with minimal permissions) to inject arbitrary JavaScript, HTML, or CSS via Ajax actions. This affects mec_save_notifications and import_settings.",
+	"vulnerabilityName": "webnus modern_events_calendar_lite Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9459"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2020/02/site-takeover-campaign-exploits-multiple-zero-day-vulnerabilities/",
+			"date_added": "2020-02-27T00:00:00Z"
+		}
+	],
+	"date_added": "2020-02-27T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "gocloud",
+	"product": "s2a_wl_firmware",
+	"shortDescription": "Gocloud S2A_WL 4.2.7.16471, S2A 4.2.7.17278, S2A 4.3.0.15815, S2A 4.3.0.17193, S3A K2P MTK 4.2.7.16528, S3A 4.3.0.16572, and ISP3000 4.3.0.17190 devices allows remote attackers to execute arbitrary OS commands via shell metacharacters in a ping operation, as demonstrated by the cgi-bin/webui/admin/tools/app_ping/diag_ping/; substring.",
+	"vulnerabilityName": "gocloud s2a_wl_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8949"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://ti.qianxin.com/blog/articles/Dark-IoT-Botnet-Abuses-ClouDNS-and-White-Domains-for-C2-Communication-EN/",
+			"date_added": "2023-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-18T00:00:00Z"
+}

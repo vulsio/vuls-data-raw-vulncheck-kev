@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ideamk",
+	"product": "eps_viewer",
+	"shortDescription": "Buffer overflow in the gldll32.dll module in EPS Viewer 3.2 and earlier allows remote attackers to execute arbitrary code via a crafted EPS file.",
+	"vulnerabilityName": "ideamk eps_viewer Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-4979"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		}
+	],
+	"date_added": "2018-02-04T00:00:00Z"
+}

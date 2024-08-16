@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that could result in code execution in the context of the current user.",
+	"vulnerabilityName": "Adobe ColdFusion Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-26359"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/adobe-coldfusion-code-execution",
+			"date_added": "2023-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/adobe-coldfusion-access-bypass",
+			"date_added": "2024-01-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-09-11T00:00:00Z",
+	"cisa_date_added": "2023-08-21T00:00:00Z",
+	"date_added": "2023-08-21T00:00:00Z"
+}

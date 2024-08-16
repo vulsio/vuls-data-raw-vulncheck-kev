@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS, macOS, watchOS",
+	"shortDescription": "In affected versions of Apple iOS, macOS, and watchOS, a sandboxed process may be able to circumvent sandbox restrictions.",
+	"vulnerabilityName": "Apple iOS, macOS, watchOS Sandbox Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-31010"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT212805",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212806",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212807",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212824",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212804",
+			"date_added": "2022-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2022-05-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-09-15T00:00:00Z",
+	"cisa_date_added": "2022-08-25T00:00:00Z",
+	"date_added": "2021-09-13T00:00:00Z"
+}

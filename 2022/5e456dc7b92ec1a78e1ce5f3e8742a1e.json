@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Tenda",
+	"product": "hg9_firmware",
+	"shortDescription": "Tenda ONT GPON AC1200 Dual band WiFi HG9 v1.0.1 is vulnerable to Command Injection via the Ping function.",
+	"vulnerabilityName": "Tenda hg9_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-30023"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "07335ed8b59f",
+			"xdb_url": "https://vulncheck.com/xdb/07335ed8b59f",
+			"date_added": "2022-06-15T16:10:49Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Haniwa0x01/CVE-2022-30023.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/",
+			"date_added": "2022-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-21T00:00:00Z"
+}

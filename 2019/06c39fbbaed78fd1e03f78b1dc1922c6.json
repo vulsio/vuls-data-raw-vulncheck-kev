@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ui",
+	"product": "airos",
+	"shortDescription": "Denial of Service attack in airMAX < 8.3.2 , airMAX < 6.0.7 and EdgeMAX < 1.9.7 allow attackers to use the Discovery Protocol in amplification attacks.",
+	"vulnerabilityName": "ui airos Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0938"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://x.com/troutman/status/1090212243197870081",
+			"date_added": "2019-01-29T00:00:00Z"
+		}
+	],
+	"date_added": "2019-01-29T00:00:00Z"
+}

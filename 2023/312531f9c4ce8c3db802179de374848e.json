@@ -1,0 +1,19 @@
+{
+	"vendorProject": "10web",
+	"product": "map_builder_for_google_maps",
+	"shortDescription": "The 10Web Map Builder for Google Maps WordPress plugin before 1.0.73 does not properly sanitise and escape some parameters before using them in an SQL statement via an AJAX action available to unauthenticated users, leading to a SQL injection",
+	"vulnerabilityName": "10Web Map Builder for Google Maps WordPress Plugin AJAX SQL Injection",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0037"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/wd-google-maps/wordpress-10webmapbuilder-plugin-1-0-73-unauthenticated-sqli-vulnerability",
+			"date_added": "2023-03-03T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-03T00:00:00Z"
+}

@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Fusion Middleware",
+	"shortDescription": "Unspecified vulnerability in the Oracle WebCenter Forms Recognition component in Oracle Fusion Middleware allows remote attackers to affect confidentiality, integrity, and availability via Unknown vectors related to Designer.",
+	"vulnerabilityName": "Oracle Fusion Middleware Unspecified Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2012-1710"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2021-02-11T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in Adobe Flash Player before 10.3.181.22 on Windows, Mac OS X, Linux, and Solaris, and 10.3.185.22 and earlier on Android, allows remote attackers to inject arbitrary web script or HTML via unspecified vectors, related to a \"universal cross-site scripting vulnerability.\"",
+	"vulnerabilityName": "Adobe Flash Player Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-2107"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cnet.com/news/privacy/adobe-issues-fix-for-flash-hole-being-used-in-attacks/",
+			"date_added": "2011-06-06T00:00:00Z"
+		}
+	],
+	"date_added": "2011-06-06T00:00:00Z"
+}

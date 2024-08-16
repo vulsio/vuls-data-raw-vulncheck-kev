@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Secure Access Control System (ACS)",
+	"shortDescription": "A vulnerability in Java deserialization used by Cisco Secure Access Control System (ACS) could allow an unauthenticated, remote attacker to execute arbitrary commands on an affected device. The vulnerability is due to insecure deserialization of user-supplied content by the affected software.",
+	"vulnerabilityName": "Cisco Secure Access Control System Java Deserialization Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-0147"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-5/",
+			"date_added": "2022-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://securityaffairs.co/wordpress/139821/security/cisco-old-vulnerabilities-exploitation.html",
+			"date_added": "2022-12-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-16T00:00:00Z"
+}

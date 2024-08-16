@@ -1,0 +1,37 @@
+{
+	"vendorProject": "SAP",
+	"product": "NetWeaver",
+	"shortDescription": "SAP NetWeaver contains a vulnerability that allows unrestricted file upload.",
+	"vulnerabilityName": "SAP NetWeaver Unrestricted File Upload Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-38163"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f849d74a8cfd",
+			"xdb_url": "https://vulncheck.com/xdb/f849d74a8cfd",
+			"date_added": "2022-09-10T03:41:52Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:core1impact/CVE-2021-38163.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs",
+			"date_added": "2022-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.csoonline.com/article/2092336/sap-users-are-at-high-risk-as-hackers-exploit-application-vulnerabilities.html",
+			"date_added": "2024-04-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-30T00:00:00Z",
+	"cisa_date_added": "2022-06-09T00:00:00Z",
+	"date_added": "2022-06-09T00:00:00Z"
+}

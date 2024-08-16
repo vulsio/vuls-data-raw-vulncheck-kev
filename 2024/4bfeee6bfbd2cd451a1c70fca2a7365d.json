@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "neurons_for_itsm",
+	"shortDescription": "An file upload vulnerability in Ivanti ITSM before 2023.4, allows an authenticated remote user to perform file writes to the server. Successful exploitation may lead to execution of commands in the context of non-root user. ",
+	"vulnerabilityName": "Ivanti neurons_for_itsm Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-46808"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-14T00:00:00Z"
+}

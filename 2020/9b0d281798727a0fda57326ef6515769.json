@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themerex",
+	"product": "addons",
+	"shortDescription": "The ThemeREX Addons plugin before 2020-03-09 for WordPress lacks access control on the /trx_addons/v2/get/sc_layout REST API endpoint, allowing for PHP functions to be executed by any users, because includes/plugin.rest-api.php calls trx_addons_rest_get_sc_layout with an unsafe sc parameter.",
+	"vulnerabilityName": "themerex addons Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-10257"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2020/03/zero-day-vulnerability-in-themerex-addons-now-patched/",
+			"date_added": "2020-03-09T00:00:00Z"
+		}
+	],
+	"date_added": "2020-03-09T00:00:00Z"
+}

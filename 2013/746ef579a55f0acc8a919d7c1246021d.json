@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player contains an integer overflow vulnerability that allows remote attackers to execute code via malformed arguments.",
+	"vulnerabilityName": "Adobe Flash Player Integer Overflow Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-5054"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/adobe-flash-player-0-day-and-hackingteams-remote-control-system/64215/",
+			"date_added": "2013-02-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2013-02-12T00:00:00Z"
+}

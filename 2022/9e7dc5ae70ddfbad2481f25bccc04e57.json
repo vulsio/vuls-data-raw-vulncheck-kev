@@ -1,0 +1,19 @@
+{
+	"vendorProject": "slickremix",
+	"product": "feed_them_social",
+	"shortDescription": "The Feed Them Social WordPress plugin before 3.0.1 does not sanitise and escape a parameter before outputting it back in the page, leading to a Reflected Cross-Site Scripting",
+	"vulnerabilityName": "slickremix feed_them_social Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-2383"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/feed-them-social/wordpress-feed-them-social-plugin-2-9-9-reflected-cross-site-scripting-xss-vulnerability-2",
+			"date_added": "2022-07-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-07-26T00:00:00Z"
+}

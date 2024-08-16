@@ -1,0 +1,29 @@
+{
+	"vendorProject": "SolarWinds",
+	"product": "Serv-U",
+	"shortDescription": "SolarWinds Serv-U versions 15.2.5 and earlier contain an improper input validation vulnerability that allows attackers to build and send queries without sanitization.",
+	"vulnerabilityName": "SolarWinds Serv-U Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-35247"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/",
+			"date_added": "2022-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
+			"date_added": "2023-03-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-02-04T00:00:00Z",
+	"cisa_date_added": "2022-01-21T00:00:00Z",
+	"date_added": "2022-01-19T00:00:00Z"
+}

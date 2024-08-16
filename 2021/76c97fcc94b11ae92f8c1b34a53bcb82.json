@@ -1,0 +1,107 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Kernel/ptrace.c in Linux kernel mishandles contains an improper privilege management vulnerability that allows local users to obtain root access.",
+	"vulnerabilityName": "Linux Kernel Improper Privilege Management Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-13272"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a750816d33ab",
+			"xdb_url": "https://vulncheck.com/xdb/a750816d33ab",
+			"date_added": "2023-09-04T15:16:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "ed71c71d1008",
+			"xdb_url": "https://vulncheck.com/xdb/ed71c71d1008",
+			"date_added": "2024-01-31T21:50:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation.git"
+		},
+		{
+			"xdb_id": "4cdc3b31592d",
+			"xdb_url": "https://vulncheck.com/xdb/4cdc3b31592d",
+			"date_added": "2022-03-10T01:27:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:babyshen/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "e060cd0f389f",
+			"xdb_url": "https://vulncheck.com/xdb/e060cd0f389f",
+			"date_added": "2019-09-19T01:58:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Huandtx/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "95bb9eeffab4",
+			"xdb_url": "https://vulncheck.com/xdb/95bb9eeffab4",
+			"date_added": "2024-06-20T10:04:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:josemlwdf/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "5581a09e1c77",
+			"xdb_url": "https://vulncheck.com/xdb/5581a09e1c77",
+			"date_added": "2020-03-05T10:10:19Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:polosec/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "94bf994e3e35",
+			"xdb_url": "https://vulncheck.com/xdb/94bf994e3e35",
+			"date_added": "2019-07-31T04:51:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "1df2059c8c67",
+			"xdb_url": "https://vulncheck.com/xdb/1df2059c8c67",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "72cbc61fa5c1",
+			"xdb_url": "https://vulncheck.com/xdb/72cbc61fa5c1",
+			"date_added": "2019-07-31T06:36:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Cyc1eC/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "7500952732c6",
+			"xdb_url": "https://vulncheck.com/xdb/7500952732c6",
+			"date_added": "2019-08-07T01:21:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:oneoy/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "aebd1e7d7dfe",
+			"xdb_url": "https://vulncheck.com/xdb/aebd1e7d7dfe",
+			"date_added": "2022-01-11T21:53:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_jas502n/CVE-2019-13272.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/ex-cobalt-go-red-tehnika-skrytogo-tunnelya/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/",
+			"date_added": "2024-06-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-10T00:00:00Z",
+	"cisa_date_added": "2021-12-10T00:00:00Z",
+	"date_added": "2021-12-10T00:00:00Z"
+}

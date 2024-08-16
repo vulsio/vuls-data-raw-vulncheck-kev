@@ -1,0 +1,23 @@
+{
+	"vendorProject": "lantronix",
+	"product": "premierwave_2050_firmware",
+	"shortDescription": "An OS command injection vulnerability exists in the Web Manager Diagnostics: Traceroute functionality of Lantronix PremierWave 2050 8.9.0.0R4. A specially-crafted HTTP request can lead to arbitrary command execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
+	"vulnerabilityName": "lantronix premierwave_2050_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-21872"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-07T00:00:00Z"
+}

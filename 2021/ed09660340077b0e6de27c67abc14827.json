@@ -1,0 +1,19 @@
+{
+	"vendorProject": "roundupwp",
+	"product": "registrations_for_the_events_calendar",
+	"shortDescription": "The Registrations for the Events Calendar WordPress plugin before 2.7.5 does not escape the v parameter before outputting it back in an attribute, leading to a Reflected Cross-Site Scripting",
+	"vulnerabilityName": "roundupwp registrations_for_the_events_calendar Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24876"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/registrations-for-the-events-calendar/wordpress-registrations-for-the-events-calendar-plugin-2-7-4-reflected-cross-site-scripting-xss-vulnerability",
+			"date_added": "2021-10-27T00:00:00Z"
+		}
+	],
+	"date_added": "2021-10-27T00:00:00Z"
+}

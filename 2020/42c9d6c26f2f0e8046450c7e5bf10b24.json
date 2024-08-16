@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Trend Micro",
+	"product": "Apex One and OfficeScan",
+	"shortDescription": "Trend Micro Apex One and OfficeScan contain an unspecified vulnerability within a migration tool component that allows for remote code execution.",
+	"vulnerabilityName": "Trend Micro Apex One and OfficeScan Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8467"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://success.trendmicro.com/dcx/s/solution/000245571-SECURITY-BULLETIN-Multiple-Critical-Vulnerabilities-in-Trend-Micro-Apex-One-and-OfficeScan",
+			"date_added": "2021-05-04T00:00:00Z"
+		},
+		{
+			"url": "https://therecord.media/hackers-tried-to-exploit-two-zero-days-in-trend-micros-apex-one-edr-platform",
+			"date_added": "2021-08-11T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-03-16T00:00:00Z"
+}

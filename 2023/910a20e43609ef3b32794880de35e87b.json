@@ -1,0 +1,19 @@
+{
+	"vendorProject": "BeRocket",
+	"product": "BeRocket Plugins for WordPress",
+	"shortDescription": "BeRocket Plugins for WordPress is vulnerable to an authorization bypass in the close_notice, subscribe, disable_rate_notice, feature_request_send, get_plugin_error_ajax, close_notice, and test_key functions which can allow user level subscribers to invoke these admin level functions.",
+	"vulnerabilityName": "BeRocket Plugins for WordPress Authorization Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45813"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/berocket-plugins-various-versions-missing-authorization",
+			"date_added": "2023-03-21T00:00:00Z"
+		}
+	],
+	"date_added": "2023-03-21T00:00:00Z"
+}

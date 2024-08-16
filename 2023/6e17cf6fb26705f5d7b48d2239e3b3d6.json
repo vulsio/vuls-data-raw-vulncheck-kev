@@ -1,0 +1,19 @@
+{
+	"vendorProject": "querysol",
+	"product": "redirection_for_contact_form_7",
+	"shortDescription": "In the Redirection for Contact Form 7 WordPress plugin before 2.3.4, unauthenticated users can use the wpcf7r_get_nonce AJAX action to retrieve a valid nonce for any WordPress action/function.",
+	"vulnerabilityName": "querysol redirection_for_contact_form_7 Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24278"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpcf7-redirect/redirection-for-contact-form-7-233-unauthenticated-arbitrary-nonce-generation",
+			"date_added": "2023-01-29T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-29T00:00:00Z"
+}

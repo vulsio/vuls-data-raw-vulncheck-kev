@@ -1,0 +1,34 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Remote Procedure Call Runtime Remote Code Execution Vulnerability",
+	"vulnerabilityName": "Remote Procedure Call Runtime Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-26809"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "3a073b21eee3",
+			"xdb_url": "https://vulncheck.com/xdb/3a073b21eee3",
+			"date_added": "2022-12-26T10:36:29Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:anonymouss1276/Cve-2022-26809.git"
+		},
+		{
+			"xdb_id": "bc623cfe5572",
+			"xdb_url": "https://vulncheck.com/xdb/bc623cfe5572",
+			"date_added": "2022-06-13T11:08:33Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:s1ckb017/PoC-CVE-2022-26809.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-17T00:00:00Z"
+}

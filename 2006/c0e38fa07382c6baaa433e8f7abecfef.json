@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Microsoft Internet Explorer 6 and 7 Beta 2 allows remote attackers to cause a denial of service and possibly execute arbitrary code via a certain createTextRange call on a checkbox object, which results in a dereference of an invalid table pointer.",
+	"vulnerabilityName": "Microsoft ie Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-1359"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-013",
+			"date_added": "2006-04-11T00:00:00Z"
+		}
+	],
+	"date_added": "2006-04-11T00:00:00Z"
+}

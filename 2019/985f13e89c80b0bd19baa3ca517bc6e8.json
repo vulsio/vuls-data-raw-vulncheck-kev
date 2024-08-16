@@ -1,0 +1,84 @@
+{
+	"vendorProject": "Rejetto",
+	"product": "HTTP File Server (HFS)",
+	"shortDescription": "The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (HFS or HttpFileServer) allows remote attackers to execute arbitrary programs.",
+	"vulnerabilityName": "Rejetto HTTP File Server (HFS) Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-6287"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7e75a52fb2c4",
+			"xdb_url": "https://vulncheck.com/xdb/7e75a52fb2c4",
+			"date_added": "2022-01-18T03:45:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hadrian3689/rejetto_hfs_rce.git"
+		},
+		{
+			"xdb_id": "d3f707772d31",
+			"xdb_url": "https://vulncheck.com/xdb/d3f707772d31",
+			"date_added": "2021-12-03T12:13:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mrintern/thm_steelmountain_CVE-2014-6287.git"
+		},
+		{
+			"xdb_id": "5a7c8f3319f2",
+			"xdb_url": "https://vulncheck.com/xdb/5a7c8f3319f2",
+			"date_added": "2021-12-02T15:15:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wizardy0ga/THM-Steel_Mountain-CVE-2014-6287.git"
+		},
+		{
+			"xdb_id": "87218ce82812",
+			"xdb_url": "https://vulncheck.com/xdb/87218ce82812",
+			"date_added": "2024-03-06T20:55:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zhsh9/CVE-2014-6287.git"
+		},
+		{
+			"xdb_id": "ac9a55de5631",
+			"xdb_url": "https://vulncheck.com/xdb/ac9a55de5631",
+			"date_added": "2023-04-04T18:39:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution.git"
+		},
+		{
+			"xdb_id": "ca60bce877c0",
+			"xdb_url": "https://vulncheck.com/xdb/ca60bce877c0",
+			"date_added": "2023-09-15T21:13:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xTabun/CVE-2014-6287.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/19/f/blacksquid-slithers-into-servers-and-drives-with-8-notorious-exploits-to-drop-xmrig-miner.html",
+			"date_added": "2019-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://s.tencent.com/research/report/737.html",
+			"date_added": "2019-06-11T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/",
+			"date_added": "2020-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2019-06-03T00:00:00Z"
+}

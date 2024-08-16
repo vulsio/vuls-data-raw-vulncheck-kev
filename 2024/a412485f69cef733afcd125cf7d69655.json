@@ -1,0 +1,34 @@
+{
+	"vendorProject": "instawp",
+	"product": "instawp_connect",
+	"shortDescription": "The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.",
+	"vulnerabilityName": "instawp instawp_connect Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4898"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9654cffc09a8",
+			"xdb_url": "https://vulncheck.com/xdb/9654cffc09a8",
+			"date_added": "2024-06-14T07:01:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cve-2024/CVE-2024-4898-Poc.git"
+		},
+		{
+			"xdb_id": "5a1ba1284c3b",
+			"xdb_url": "https://vulncheck.com/xdb/5a1ba1284c3b",
+			"date_added": "2024-06-12T10:03:14Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:truonghuuphuc/CVE-2024-4898-Poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/instawp-connect/wordpress-instawp-connect-1-click-wp-staging-migration-plugin-0-1-0-38-missing-authorization-to-unauthenticated-api-setup-arbitrary-options-update-administrative-user-creation-vulnerability",
+			"date_added": "2024-06-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-12T00:00:00Z"
+}

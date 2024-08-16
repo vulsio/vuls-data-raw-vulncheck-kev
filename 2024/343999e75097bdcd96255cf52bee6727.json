@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "safari",
+	"shortDescription": "A use after free issue was addressed with improved memory management. This issue affected versions prior to iOS 12, tvOS 12, Safari 12, iTunes 12.9 for Windows, iCloud for Windows 7.7.",
+	"vulnerabilityName": "Apple safari Use After Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-4312"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

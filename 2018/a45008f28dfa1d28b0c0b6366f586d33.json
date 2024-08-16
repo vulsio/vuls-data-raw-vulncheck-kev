@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office allows remote attackers to execute arbitrary code via a crafted Office document.",
+	"vulnerabilityName": "Microsoft Office Uninitialized Memory Use Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-1770"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://nciipc.gov.in/documents/NCIIPC_Newsletter_July18.pdf",
+			"date_added": "2018-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/",
+			"date_added": "2018-08-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2018-07-01T00:00:00Z"
+}

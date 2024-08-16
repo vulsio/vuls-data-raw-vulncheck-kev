@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "An Elevation of Privilege vulnerability exists when Cortana retrieves data from user input services without consideration for status, aka \"Cortana Elevation of Privilege Vulnerability.\" This affects Windows 10 Servers, Windows 10.",
+	"vulnerabilityName": "Cortana Elevation of Privilege",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-8140"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://know.netenrich.com/blog/ragnar-locker-petya-and-ryuk-know-your-ransomware/",
+			"date_added": "2020-10-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-01T00:00:00Z"
+}

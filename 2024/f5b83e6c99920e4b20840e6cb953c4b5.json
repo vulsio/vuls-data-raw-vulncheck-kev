@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Fluent Forms",
+	"product": "Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress",
+	"shortDescription": "The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the /wp-json/fluentform/v1/global-settings REST API endpoint in all versions up to, and including, 5.1.16. This makes it possible for unauthenticated attackers to modify all of the plugin's settings.",
+	"vulnerabilityName": "Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-2782"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/fluentform/wordpress-fluentform-plugin-5-1-16-missing-authorization-to-setting-manipulation-vulnerability",
+			"date_added": "2024-05-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-20T00:00:00Z"
+}

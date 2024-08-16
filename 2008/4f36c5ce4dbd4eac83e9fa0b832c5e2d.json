@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "Unspecified vulnerability in Microsoft Excel 2000 SP3 through 2003 SP2, Viewer 2003, and Office 2004 for Mac allows user-assisted remote attackers to execute arbitrary code via crafted macros, aka \"Macro Validation Vulnerability,\" a different vulnerability than CVE-2007-3490.",
+	"vulnerabilityName": "Microsoft Excel Use of Uninitialized Resource",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-0081"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-014",
+			"date_added": "2008-10-01T00:00:00Z"
+		}
+	],
+	"date_added": "2008-10-01T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "joomlaworks",
+	"product": "k2",
+	"shortDescription": "The K2 component 2.8.0 for Joomla! has Incorrect Access Control with directory traversal, allowing an attacker to download arbitrary files, as demonstrated by a view=media&task=connector&cmd=file&target=l1_../configuration.php&download=1 request. The specific pathname ../configuration.php should be base64 encoded for a valid attack. NOTE: the vendor disputes this issue because only files under the media-manager path can be downloaded, and the documentation indicates that sensitive information does not belong there. Nonetheless, 2.8.1 has additional blocking of .php downloads",
+	"vulnerabilityName": "joomlaworks k2 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-7482"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

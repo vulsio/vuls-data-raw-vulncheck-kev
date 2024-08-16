@@ -1,0 +1,97 @@
+{
+	"vendorProject": "ValvePress",
+	"product": "Automatic",
+	"shortDescription": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in ValvePress Automatic allows SQL Injection.This issue affects Automatic through 3.92.0",
+	"vulnerabilityName": "ValvePress Automatic SQL Injection",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-27956"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6141dc1c2fd0",
+			"xdb_url": "https://vulncheck.com/xdb/6141dc1c2fd0",
+			"date_added": "2024-05-03T16:19:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN.git"
+		},
+		{
+			"xdb_id": "96f8fb6c286e",
+			"xdb_url": "https://vulncheck.com/xdb/96f8fb6c286e",
+			"date_added": "2024-05-15T07:48:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W3BW/CVE-2024-27956-RCE-File-Package.git"
+		},
+		{
+			"xdb_id": "00ceb5c17386",
+			"xdb_url": "https://vulncheck.com/xdb/00ceb5c17386",
+			"date_added": "2024-06-13T02:05:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TadashiJei/Valve-Press-CVE-2024-27956-RCE.git"
+		},
+		{
+			"xdb_id": "f1969acd14df",
+			"xdb_url": "https://vulncheck.com/xdb/f1969acd14df",
+			"date_added": "2024-06-14T07:13:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cve-2024/CVE-2024-27956-RCE.git"
+		},
+		{
+			"xdb_id": "ee5ad81bbd31",
+			"xdb_url": "https://vulncheck.com/xdb/ee5ad81bbd31",
+			"date_added": "2024-06-09T07:21:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:itzheartzz/MASS-CVE-2024-27956.git"
+		},
+		{
+			"xdb_id": "47fdf7489fbf",
+			"xdb_url": "https://vulncheck.com/xdb/47fdf7489fbf",
+			"date_added": "2024-06-07T04:40:06Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Cappricio-Securities/CVE-2024-27956.git"
+		},
+		{
+			"xdb_id": "c2bee21d4146",
+			"xdb_url": "https://vulncheck.com/xdb/c2bee21d4146",
+			"date_added": "2024-07-11T14:17:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2024-27956.git"
+		},
+		{
+			"xdb_id": "541234df3b1a",
+			"xdb_url": "https://vulncheck.com/xdb/541234df3b1a",
+			"date_added": "2024-07-23T08:24:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:CERTologists/EXPLOITING-CVE-2024-27956.git"
+		},
+		{
+			"xdb_id": "c213e3cf0599",
+			"xdb_url": "https://vulncheck.com/xdb/c213e3cf0599",
+			"date_added": "2024-05-14T14:21:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AiGptCode/WordPress-Auto-Admin-Account-and-Reverse-Shell-cve-2024-27956.git"
+		},
+		{
+			"xdb_id": "68f086605e61",
+			"xdb_url": "https://vulncheck.com/xdb/68f086605e61",
+			"date_added": "2024-04-27T11:03:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:truonghuuphuc/CVE-2024-27956.git"
+		},
+		{
+			"xdb_id": "23332f12d7da",
+			"xdb_url": "https://vulncheck.com/xdb/23332f12d7da",
+			"date_added": "2024-05-01T01:58:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:diego-tella/CVE-2024-27956-RCE.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://wpscan.com/blog/new-malware-campaign-targets-wp-automatic-plugin",
+			"date_added": "2024-04-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-24T00:00:00Z"
+}

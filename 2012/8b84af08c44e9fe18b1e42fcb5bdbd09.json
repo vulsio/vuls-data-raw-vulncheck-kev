@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "The mem_write function in the Linux kernel before 3.2.2, when ASLR is disabled, does not properly check permissions when writing to /proc/<pid>/mem, which allows local users to gain privileges by modifying process memory, as demonstrated by Mempodipper.",
+	"vulnerabilityName": "Linux kernel before 3.2.2 Process Memory Modification Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-0056"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7789f7055022",
+			"xdb_url": "https://vulncheck.com/xdb/7789f7055022",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.kb.cert.org/vuls/id/470151",
+			"date_added": "2012-01-27T00:00:00Z"
+		}
+	],
+	"date_added": "2012-01-27T00:00:00Z"
+}

@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "JScript in Microsoft Internet Explorer allows remote attackers to execute remote code or cause a denial of service (memory corruption) via a crafted web site.",
+	"vulnerabilityName": "Microsoft Internet Explorer Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-2419"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/teslacrypt-arrives-via-neutrino-exploit-kit/",
+			"date_added": "2016-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.oreilly.com/content/threat-intelligence-and-ransomware/",
+			"date_added": "2016-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.malwarebytes.com/cybercrime/2017/08/rig-exploit-kit-distributes-princess-ransomware/",
+			"date_added": "2017-08-31T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2015-07-21T00:00:00Z"
+}

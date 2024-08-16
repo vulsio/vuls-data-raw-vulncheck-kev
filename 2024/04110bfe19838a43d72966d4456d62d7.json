@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Android",
+	"product": "Android",
+	"shortDescription": "Android contains an unspecified vulnerability in the kernel that allows for remote code execution. This vulnerability resides in Linux Kernel and could impact other products, including but not limited to Android OS.",
+	"vulnerabilityName": "Android Kernel Remote Code Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-36971"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://source.android.com/docs/security/bulletin/2024-08-01",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybersecurity-help.cz/vdb/SB20240805114",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.zero-day.cz/database/897/",
+			"date_added": "2024-08-05T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-28T00:00:00Z",
+	"cisa_date_added": "2024-08-07T00:00:00Z",
+	"date_added": "2024-08-05T00:00:00Z"
+}

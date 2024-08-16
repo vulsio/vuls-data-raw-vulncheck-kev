@@ -1,0 +1,47 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux Kernel contains a use-after-free vulnerability in the nft_object, allowing local attackers to escalate privileges. ",
+	"vulnerabilityName": "Linux Kernel Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-2586"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "371b22b792df",
+			"xdb_url": "https://vulncheck.com/xdb/371b22b792df",
+			"date_added": "2022-09-03T19:04:31Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:aels/CVE-2022-2586-LPE.git"
+		},
+		{
+			"xdb_id": "6feeb109d166",
+			"xdb_url": "https://vulncheck.com/xdb/6feeb109d166",
+			"date_added": "2022-08-22T23:08:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:greek0x0/2022-LPE-UAF.git"
+		},
+		{
+			"xdb_id": "174eaee64a01",
+			"xdb_url": "https://vulncheck.com/xdb/174eaee64a01",
+			"date_added": "2022-11-06T07:34:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sniper404ghostxploit/CVE-2022-2586.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/",
+			"date_added": "2024-06-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-17T00:00:00Z",
+	"cisa_date_added": "2024-06-26T00:00:00Z",
+	"date_added": "2024-06-19T00:00:00Z"
+}

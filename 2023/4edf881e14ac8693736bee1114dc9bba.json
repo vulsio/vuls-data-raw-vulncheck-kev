@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Progress",
+	"product": "WS_FTP Server",
+	"shortDescription": "\n\n\nIn WS_FTP Server versions prior to 8.7.4 and 8.8.2, a directory traversal vulnerability was discovered.  An attacker could leverage this vulnerability to perform file operations (delete, rename, rmdir, mkdir) on files and folders outside of their authorized WS_FTP folder path.  Attackers could also escape the context of the WS_FTP Server file structure and perform the same level of operations (delete, rename, rmdir, mkdir) on file and folder locations on the underlying operating system.\n",
+	"vulnerabilityName": "Progress WS_FTP Server Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-42657"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sentinelone.com/blog/threat-actors-actively-exploiting-progress-ws_ftp-via-multiple-attack-chains/",
+			"date_added": "2023-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2023-10-09T00:00:00Z"
+}

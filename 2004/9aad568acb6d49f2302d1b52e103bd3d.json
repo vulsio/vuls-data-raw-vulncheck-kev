@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer 6.0.2800.1106 on Microsoft Windows XP SP2, and other versions including 5.01 and 5.5, allows remote web servers to bypass zone restrictions and execute arbitrary code in the local computer zone by redirecting a function to another function with the same name, as demonstrated by SimilarMethodNameRedir, aka the \"Similar Method Name Redirection Cross Domain Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Internet Explorer Similar Method Name Redirection Cross Domain Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-0727"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-038",
+			"date_added": "2004-11-09T00:00:00Z"
+		}
+	],
+	"date_added": "2004-11-09T00:00:00Z"
+}

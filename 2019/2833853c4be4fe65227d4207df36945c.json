@@ -1,0 +1,81 @@
+{
+	"vendorProject": "Kaseya",
+	"product": "Virtual System/Server Administrator (VSA)",
+	"shortDescription": "Kaseya Virtual System/Server Administrator (VSA) contains an information disclosure vulnerability allowing an attacker to obtain the sessionId that can be used to execute further attacks against the system.",
+	"vulnerabilityName": "Kaseya Virtual System/Server Administrator (VSA) Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-30116"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/07/revil-ransomware-actors-attack-kaseya.html",
+			"date_added": "2021-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/",
+			"date_added": "2021-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/revil-update-tlpwhite.pdf",
+			"date_added": "2021-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/10/quarterly-report-incident-response.html",
+			"date_added": "2021-10-28T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/csw_final_ransomware_index-update-q321-csw_.pdf",
+			"date_added": "2021-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://redcanary.com/threat-detection-report/trends/vulnerabilities/",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.huntress.com/blog/rapid-response-kaseya-vsa-mass-msp-ransomware-incident",
+			"date_added": "2019-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.truesec.com/2021/07/04/kaseya-supply-chain-attack-targeting-msps-to-deliver-revil-ransomware/",
+			"date_added": "2019-07-04T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
+			"date_added": "2019-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2021-30116-multiple-zero-day-vulnerabilities-in-kaseya-vsa-exploited-to-distribute-ransomware",
+			"date_added": "2019-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/how-crowdstrike-stops-revil-ransomware-from-kaseya-attack/",
+			"date_added": "2019-07-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2019-07-03T00:00:00Z"
+}

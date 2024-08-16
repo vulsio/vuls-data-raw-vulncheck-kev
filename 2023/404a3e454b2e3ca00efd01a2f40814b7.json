@@ -1,0 +1,74 @@
+{
+	"vendorProject": "VMware",
+	"product": "cloud_foundation",
+	"shortDescription": "OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.",
+	"vulnerabilityName": "VMware cloud_foundation Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-21974"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "675899c043d5",
+			"xdb_url": "https://vulncheck.com/xdb/675899c043d5",
+			"date_added": "2024-03-19T04:35:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:OUB3LL4/vmware_esxi_exp.git"
+		},
+		{
+			"xdb_id": "fdfbf9fc812e",
+			"xdb_url": "https://vulncheck.com/xdb/fdfbf9fc812e",
+			"date_added": "2021-05-25T17:14:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Shadow0ps/CVE-2021-21974.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-015/",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/hypervisor-jackpotting-lack-of-antivirus-support-opens-the-door-to-adversaries/",
+			"date_added": "2023-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit-42-ransomware-leak-site-data-analysis/",
+			"date_added": "2024-02-05T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.ibm.com/downloads/cas/L0GKXDWJ",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/tortoise-and-malwahare.html",
+			"date_added": "2023-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
+			"date_added": "2024-06-03T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-03T00:00:00Z"
+}

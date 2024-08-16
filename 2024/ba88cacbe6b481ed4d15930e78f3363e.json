@@ -1,0 +1,19 @@
+{
+	"vendorProject": "dirk_bartley",
+	"product": "nweb2fax",
+	"shortDescription": "Multiple directory traversal vulnerabilities in nweb2fax 0.2.7 and earlier allow remote attackers to read arbitrary files via a .. (dot dot) in the (1) id parameter to comm.php and (2) var_filename parameter to viewrq.php.",
+	"vulnerabilityName": "dirk_bartley nweb2fax Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-6668"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

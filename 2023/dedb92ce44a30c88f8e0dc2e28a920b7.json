@@ -1,0 +1,19 @@
+{
+	"vendorProject": "artbees",
+	"product": "jupiter",
+	"shortDescription": "Jupiter Theme <= 6.10.1 and JupiterX Core Plugin <= 2.0.7 allow any authenticated attacker, including a subscriber or customer-level attacker, to gain administrative privileges via the \"abb_uninstall_template\" (both) and \"jupiterx_core_cp_uninstall_template\" (JupiterX Core Only) AJAX actions",
+	"vulnerabilityName": "Jupiter Theme and JupiterX Core Plugin jupiterx_core_cp_uninstall_template Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-1654"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/detail/jupiter-theme-6101-and-jupiterx-core-plugin-207-authenticated-privilege-escalation",
+			"date_added": "2023-02-03T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-03T00:00:00Z"
+}

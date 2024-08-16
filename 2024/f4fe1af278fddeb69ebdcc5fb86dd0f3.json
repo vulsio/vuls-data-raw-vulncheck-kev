@@ -1,0 +1,27 @@
+{
+	"vendorProject": "php-fusion",
+	"product": "php-fusion",
+	"shortDescription": "Privilege escalation in PHP-Fusion 9.03.50 downloads/downloads.php allows an authenticated user (not admin) to send a crafted request to the server and perform remote command execution (RCE).",
+	"vulnerabilityName": "PHP-Fusion 9.03.50 downloads/downloads.php Authenticated Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-24949"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "315ef377c96c",
+			"xdb_url": "https://vulncheck.com/xdb/315ef377c96c",
+			"date_added": "2021-06-03T09:49:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r90tpass/CVE-2020-24949.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

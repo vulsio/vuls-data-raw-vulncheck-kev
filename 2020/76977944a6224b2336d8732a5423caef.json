@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains a memory corruption vulnerability due to how the Scripting Engine handles objects in memory, leading to remote code execution.",
+	"vulnerabilityName": "Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0968"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/magniber-ransomware-caught-using-printnightmare-vulnerability/",
+			"date_added": "2021-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2020/10/02/xdspy-stealing-government-secrets-since-2011/",
+			"date_added": "2020-10-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-10-02T00:00:00Z"
+}

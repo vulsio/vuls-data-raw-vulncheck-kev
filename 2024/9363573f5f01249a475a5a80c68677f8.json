@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpdeveloper",
+	"product": "essential_blocks",
+	"shortDescription": "The Essential Blocks WordPress plugin before 4.4.3 does not prevent unauthenticated attackers from overwriting local variables when rendering templates over the REST API, which may lead to Local File Inclusion attacks.",
+	"vulnerabilityName": "wpdeveloper essential_blocks Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6623"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://wpscan.com/blog/a-persistent-twist-in-the-current-malware-campaign/",
+			"date_added": "2024-05-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-13T00:00:00Z"
+}

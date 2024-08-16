@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-645 Router",
+	"shortDescription": "Multiple cross-site scripting (XSS) vulnerabilities in D-Link DIR-645 Router (Rev. A1) with firmware before 1.04B11 allow remote attackers to inject arbitrary web script or HTML via the (1) deviceid parameter to parentalcontrols/bind.php, (2) RESULT parameter to info.php, or (3) receiver parameter to bsc_sms_send.php.",
+	"vulnerabilityName": "D-Link DIR-645 Router Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-7389"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

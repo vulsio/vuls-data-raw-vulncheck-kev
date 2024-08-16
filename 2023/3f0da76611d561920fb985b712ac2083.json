@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "Multiple Firewalls",
+	"shortDescription": "Zyxel ATP, USG FLEX, USG FLEX 50(W), USG20(W)-VPN, VPN, and ZyWALL/USG firewalls contain a buffer overflow vulnerability in the ID processing function that could allow an unauthenticated attacker to cause denial-of-service (DoS) conditions and remote code execution on an affected device.",
+	"vulnerabilityName": "Zyxel Multiple Firewalls Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-33010"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-05T00:00:00Z"
+		},
+		{
+			"url": "https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf",
+			"date_added": "2023-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/clearing-the-fog-of-war",
+			"date_added": "2024-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-26T00:00:00Z",
+	"cisa_date_added": "2023-06-05T00:00:00Z",
+	"date_added": "2023-06-05T00:00:00Z"
+}

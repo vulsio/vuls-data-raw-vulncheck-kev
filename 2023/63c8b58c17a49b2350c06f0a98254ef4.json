@@ -1,0 +1,267 @@
+{
+	"vendorProject": "Juniper",
+	"product": "Junos OS",
+	"shortDescription": "Juniper Junos OS on EX Series and SRX Series contains a PHP external variable modification vulnerability that allows an unauthenticated, network-based attacker to control an important environment variable. Using a crafted request, which sets the variable PHPRC, an attacker is able to modify the PHP execution environment allowing the injection und execution of code.",
+	"vulnerabilityName": "Juniper Junos OS EX Series and SRX Series PHP External Variable Modification Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36845"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "592341ac11ad",
+			"xdb_url": "https://vulncheck.com/xdb/592341ac11ad",
+			"date_added": "2023-10-01T18:05:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845.git"
+		},
+		{
+			"xdb_id": "7550982b47dd",
+			"xdb_url": "https://vulncheck.com/xdb/7550982b47dd",
+			"date_added": "2023-11-14T16:36:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ditekshen/ansible-cve-2023-36845.git"
+		},
+		{
+			"xdb_id": "b7d482a421d4",
+			"xdb_url": "https://vulncheck.com/xdb/b7d482a421d4",
+			"date_added": "2023-12-12T16:06:46Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:WhiteOwl-Pub/Juniper-PoC-CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "7f3ac2cfdf5a",
+			"xdb_url": "https://vulncheck.com/xdb/7f3ac2cfdf5a",
+			"date_added": "2023-09-27T23:56:07Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:halencarjunior/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "4fae7ca850e5",
+			"xdb_url": "https://vulncheck.com/xdb/4fae7ca850e5",
+			"date_added": "2023-10-01T03:41:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:simrotion13/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "f2e8c180103f",
+			"xdb_url": "https://vulncheck.com/xdb/f2e8c180103f",
+			"date_added": "2024-02-01T03:54:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cyb3rzest/Juniper-Bug-Automation-CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "f6208bcc8206",
+			"xdb_url": "https://vulncheck.com/xdb/f6208bcc8206",
+			"date_added": "2023-09-29T03:11:37Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:zaenhaxor/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "40881a555da5",
+			"xdb_url": "https://vulncheck.com/xdb/40881a555da5",
+			"date_added": "2024-01-30T08:00:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jahithoque/Juniper-CVE-2023-36845-Mass-Hunting.git"
+		},
+		{
+			"xdb_id": "a2f2dd7e0a50",
+			"xdb_url": "https://vulncheck.com/xdb/a2f2dd7e0a50",
+			"date_added": "2024-02-14T12:47:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xNehru/CVE-2023-36845-Juniper-Vulnerability.git"
+		},
+		{
+			"xdb_id": "549b4b2e791e",
+			"xdb_url": "https://vulncheck.com/xdb/549b4b2e791e",
+			"date_added": "2023-09-24T13:30:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r3dcl1ff/CVE-2023-36844_Juniper_RCE.git"
+		},
+		{
+			"xdb_id": "f1599fa5e102",
+			"xdb_url": "https://vulncheck.com/xdb/f1599fa5e102",
+			"date_added": "2024-02-13T14:59:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:iveresk/CVE-2023-36845-6-.git"
+		},
+		{
+			"xdb_id": "23f413cb1c62",
+			"xdb_url": "https://vulncheck.com/xdb/23f413cb1c62",
+			"date_added": "2024-02-17T08:15:30Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ifconfig-me/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "b805e455ee30",
+			"xdb_url": "https://vulncheck.com/xdb/b805e455ee30",
+			"date_added": "2024-02-15T20:17:33Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:imhunterand/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "19b6c8bddf2d",
+			"xdb_url": "https://vulncheck.com/xdb/19b6c8bddf2d",
+			"date_added": "2023-11-15T10:02:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:CKevens/ansible-cve-2023-36845.git"
+		},
+		{
+			"xdb_id": "c5b62df0eae0",
+			"xdb_url": "https://vulncheck.com/xdb/c5b62df0eae0",
+			"date_added": "2023-10-02T06:28:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cyberh3als/CVE-2023-36845-POC.git"
+		},
+		{
+			"xdb_id": "7b025fd69feb",
+			"xdb_url": "https://vulncheck.com/xdb/7b025fd69feb",
+			"date_added": "2024-05-04T14:57:08Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Vignesh2712/utomation-for-Juniper-cve-2023-36845.git"
+		},
+		{
+			"xdb_id": "539fa0525155",
+			"xdb_url": "https://vulncheck.com/xdb/539fa0525155",
+			"date_added": "2024-02-13T20:59:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ak1t4/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "bea8d1e01668",
+			"xdb_url": "https://vulncheck.com/xdb/bea8d1e01668",
+			"date_added": "2024-02-03T06:09:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:CharonDefalt/Juniper-exploit-CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "861198e6f367",
+			"xdb_url": "https://vulncheck.com/xdb/861198e6f367",
+			"date_added": "2023-09-16T09:11:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-36845-scanner.git"
+		},
+		{
+			"xdb_id": "fcb027407d46",
+			"xdb_url": "https://vulncheck.com/xdb/fcb027407d46",
+			"date_added": "2023-08-25T07:28:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/juniper-rce_cve-2023-36844.git"
+		},
+		{
+			"xdb_id": "f715efbe5fe8",
+			"xdb_url": "https://vulncheck.com/xdb/f715efbe5fe8",
+			"date_added": "2024-01-29T18:53:22Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Asbawy/Automation-for-Juniper-cve-2023-36845.git"
+		},
+		{
+			"xdb_id": "eb307a27c46c",
+			"xdb_url": "https://vulncheck.com/xdb/eb307a27c46c",
+			"date_added": "2023-09-26T17:56:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "db1e7b347773",
+			"xdb_url": "https://vulncheck.com/xdb/db1e7b347773",
+			"date_added": "2023-04-26T10:49:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:PortSwigger/BChecks.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-15&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-16&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-11-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-26&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-06&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-21&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-22&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-24&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-31&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2023-12-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-14&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-21&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-01-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-03&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-05&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-13&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-14&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-16&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-25&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-28&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-12&host_type=src&vulnerability=cve-2023-36845",
+			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://twitter.com/Shadowserver/status/1696512418036486246",
+			"date_added": "2023-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-11-17T00:00:00Z",
+	"cisa_date_added": "2023-11-13T00:00:00Z",
+	"date_added": "2023-08-29T00:00:00Z"
+}

@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Arm",
+	"product": "Mali Graphics Processing Unit (GPU)",
+	"shortDescription": "Arm Mali GPU Kernel Driver contains an unspecified vulnerability that allows a non-privileged user to achieve write access to read-only memory pages.",
+	"vulnerabilityName": "Arm Mali GPU Kernel Driver Unspecified Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-22706"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
+			"date_added": "2022-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html",
+			"date_added": "2023-09-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-20T00:00:00Z",
+	"cisa_date_added": "2023-03-30T00:00:00Z",
+	"date_added": "2022-01-06T00:00:00Z"
+}

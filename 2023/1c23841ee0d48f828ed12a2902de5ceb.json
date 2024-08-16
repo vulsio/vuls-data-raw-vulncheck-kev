@@ -1,0 +1,27 @@
+{
+	"vendorProject": "PHP",
+	"product": "PHP",
+	"shortDescription": "University of Washington IMAP Toolkit 2007f on UNIX, as used in imap_open() in PHP and other products, launches an rsh command (by means of the imap_rimap function in c-client/imap4r1.c and the tcp_aopen function in osdep/unix/tcp_unix.c) without preventing argument injection, which might allow remote attackers to execute arbitrary OS commands if the IMAP server name is untrusted input (e.g., entered by a user of a web application) and if rsh has been replaced by a program with different argument semantics. For example, if rsh is a link to ssh (as seen on Debian and Ubuntu systems), then the attack can use an IMAP server name containing a \"-oProxyCommand\" argument.",
+	"vulnerabilityName": "PHP PHP Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-19518"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "efb8cd95aaa1",
+			"xdb_url": "https://vulncheck.com/xdb/efb8cd95aaa1",
+			"date_added": "2023-04-15T09:31:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:houqe/EXP_CVE-2018-19518.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-14T00:00:00Z"
+}

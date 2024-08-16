@@ -1,0 +1,147 @@
+{
+	"vendorProject": "IETF",
+	"product": "HTTP/2",
+	"shortDescription": "HTTP/2 contains a rapid reset vulnerability that allows for a distributed denial-of-service attack (DDoS).",
+	"vulnerabilityName": "HTTP/2 Rapid Reset Attack Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-44487"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a64a9ab88fd5",
+			"xdb_url": "https://vulncheck.com/xdb/a64a9ab88fd5",
+			"date_added": "2023-10-12T03:14:34Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:ByteHackr/CVE-2023-44487.git"
+		},
+		{
+			"xdb_id": "f0fe97192105",
+			"xdb_url": "https://vulncheck.com/xdb/f0fe97192105",
+			"date_added": "2023-10-25T09:11:46Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:ReToCode/golang-CVE-2023-44487.git"
+		},
+		{
+			"xdb_id": "34690740d2d3",
+			"xdb_url": "https://vulncheck.com/xdb/34690740d2d3",
+			"date_added": "2023-12-11T23:12:03Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:sigridou/CVE-2023-44487-.git"
+		},
+		{
+			"xdb_id": "9ae3b81b8bd9",
+			"xdb_url": "https://vulncheck.com/xdb/9ae3b81b8bd9",
+			"date_added": "2023-11-24T18:26:36Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:terrorist/HTTP-2-Rapid-Reset-Client.git"
+		},
+		{
+			"xdb_id": "de08f4feae4c",
+			"xdb_url": "https://vulncheck.com/xdb/de08f4feae4c",
+			"date_added": "2023-11-08T20:56:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:ndrscodes/http2-rst-stream-attacker.git"
+		},
+		{
+			"xdb_id": "1a4725458b4a",
+			"xdb_url": "https://vulncheck.com/xdb/1a4725458b4a",
+			"date_added": "2023-11-10T08:38:51Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:nxenon/cve-2023-44487.git"
+		},
+		{
+			"xdb_id": "6dd9a135b0d8",
+			"xdb_url": "https://vulncheck.com/xdb/6dd9a135b0d8",
+			"date_added": "2023-10-12T07:06:42Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:pabloec20/rapidreset.git"
+		},
+		{
+			"xdb_id": "54af2e2a4404",
+			"xdb_url": "https://vulncheck.com/xdb/54af2e2a4404",
+			"date_added": "2023-10-13T23:55:32Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:secengjeff/rapidresetclient.git"
+		},
+		{
+			"xdb_id": "95898a14699a",
+			"xdb_url": "https://vulncheck.com/xdb/95898a14699a",
+			"date_added": "2023-10-10T14:20:42Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-44487.git"
+		},
+		{
+			"xdb_id": "2a1d7187487e",
+			"xdb_url": "https://vulncheck.com/xdb/2a1d7187487e",
+			"date_added": "2023-10-11T01:59:47Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:imabee101/CVE-2023-44487.git"
+		},
+		{
+			"xdb_id": "0f9d4f2a05f8",
+			"xdb_url": "https://vulncheck.com/xdb/0f9d4f2a05f8",
+			"date_added": "2023-10-16T11:07:50Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:studiogangster/CVE-2023-44487.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2023-Oct?api-version=2020",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/technical-breakdown-http2-rapid-reset-ddos-attack",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/products/identity-security/how-it-works-the-novel-http2-rapid-reset-ddos-attack",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security/akamai-protects-customers-http2-rapid-reset-ddos-attacks",
+			"date_added": "2023-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/ddos-threat-report-2023-q3/",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qrator.net/en/the-top-4-ways-to-mitigate-http2-rapid-reset-cve-2_199/",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Professional_Services_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/2024-ddos-attack-trends",
+			"date_added": "2024-07-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-31T00:00:00Z",
+	"cisa_date_added": "2023-10-10T00:00:00Z",
+	"date_added": "2023-10-10T00:00:00Z"
+}

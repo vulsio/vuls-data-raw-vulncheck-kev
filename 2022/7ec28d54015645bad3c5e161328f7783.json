@@ -1,0 +1,19 @@
+{
+	"vendorProject": "soliton",
+	"product": "filezen",
+	"shortDescription": "FileZen (V3.0.0 to V4.2.7 and V5.0.0 to V5.0.2) allows a remote attacker with administrator rights to execute arbitrary OS commands via unspecified vectors.",
+	"vulnerabilityName": "soliton filezen Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-20655"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-22T00:00:00Z"
+}

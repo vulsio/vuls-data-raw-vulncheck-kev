@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A privilege escalation vulnerability exists when the Windows kernel fails to properly handle objects in memory. An attacker who successfully exploited this vulnerability could run arbitrary code in kernel mode.",
+	"vulnerabilityName": "Microsoft Windows Kernel Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2016-3309"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "faa8734c5358",
+			"xdb_url": "https://vulncheck.com/xdb/faa8734c5358",
+			"date_added": "2017-10-06T07:59:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:siberas/CVE-2016-3309_Reloaded.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-05T00:00:00Z",
+	"cisa_date_added": "2022-03-15T00:00:00Z",
+	"date_added": "2022-03-15T00:00:00Z"
+}

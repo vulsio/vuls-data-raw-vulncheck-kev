@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ourgame.com",
+	"product": "globallink",
+	"shortDescription": "Stack-based buffer overflow in a certain ActiveX control in GLChat.ocx 2.5.1.32 in GlobalLink 2.7.0.8, as used in Ourgame GLWorld and possibly other products, allows remote attackers to execute arbitrary code via a long first argument to the ConnectAndEnterRoom method, possibly involving the GLCHAT.GLChatCtrl.1 control, as originally exploited in the wild in October 2007.  NOTE: some of these details are obtained from third party information.  NOTE: this was originally reported as a heap-based issue by some sources.",
+	"vulnerabilityName": "ourgame.com globallink Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5722"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.infoworld.com/article/2651107/update--mass-sql-injection-attack-targets-chinese-web-sites.html",
+			"date_added": "2008-05-19T00:00:00Z"
+		}
+	],
+	"date_added": "2008-05-19T00:00:00Z"
+}

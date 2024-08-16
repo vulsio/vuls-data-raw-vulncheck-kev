@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Cisco",
+	"product": "AnyConnect Secure",
+	"shortDescription": "Cisco AnyConnect Secure Mobility Client for Windows allows for incorrect handling of directory paths. An attacker with valid credentials on Windows would be able to copy malicious files to arbitrary locations with system level privileges. This could include DLL pre-loading, DLL hijacking, and other related attacks.",
+	"vulnerabilityName": "Cisco AnyConnect Secure Mobility Client for Windows Uncontrolled Search Path Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-3153"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6f8fc16d4a3f",
+			"xdb_url": "https://vulncheck.com/xdb/6f8fc16d4a3f",
+			"date_added": "2020-05-15T11:40:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:raspberry-pie/CVE-2020-3153.git"
+		},
+		{
+			"xdb_id": "beb12bd9f715",
+			"xdb_url": "https://vulncheck.com/xdb/beb12bd9f715",
+			"date_added": "2020-05-04T18:36:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:shubham0d/CVE-2020-3153.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2022/10/oldgremlin-ransomware-targeted-over.html",
+			"date_added": "2022-10-20T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-11-14T00:00:00Z",
+	"cisa_date_added": "2022-10-24T00:00:00Z",
+	"date_added": "2022-10-20T00:00:00Z"
+}

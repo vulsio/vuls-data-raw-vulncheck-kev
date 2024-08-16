@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Word",
+	"shortDescription": "Unspecified vulnerability in Microsoft Word 2000 allows remote attackers to cause a denial of service (crash) via unknown vectors, a different vulnerability than CVE-2006-5994, CVE-2006-6456, CVE-2006-6561, and CVE-2007-0515, a variant of Exploit-MS06-027.",
+	"vulnerabilityName": "Word Document Stream Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-0870"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-024",
+			"date_added": "2007-05-08T00:00:00Z"
+		}
+	],
+	"date_added": "2007-05-08T00:00:00Z"
+}

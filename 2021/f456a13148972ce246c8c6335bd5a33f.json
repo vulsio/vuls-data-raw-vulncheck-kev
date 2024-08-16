@@ -1,0 +1,38 @@
+{
+	"vendorProject": "D-Link",
+	"product": "dcs-2530l",
+	"shortDescription": "An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.",
+	"vulnerabilityName": "D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 Admin Password Disclosure",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-25078"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "21a874a921bf",
+			"xdb_url": "https://vulncheck.com/xdb/21a874a921bf",
+			"date_added": "2021-04-14T11:17:50Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:S0por/CVE-2020-25078.git"
+		},
+		{
+			"xdb_id": "f6a0605763b5",
+			"xdb_url": "https://vulncheck.com/xdb/f6a0605763b5",
+			"date_added": "2021-03-30T06:57:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MzzdToT/CVE-2020-25078.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-february-april-2021/",
+			"date_added": "2021-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-01T00:00:00Z"
+}

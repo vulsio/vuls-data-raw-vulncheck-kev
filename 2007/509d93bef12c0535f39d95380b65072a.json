@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Integer overflow in the Vector Markup Language (VML) implementation (vgx.dll) in Microsoft Internet Explorer 5.01, 6, and 7 on Windows 2000 SP4, XP SP2, Server 2003, and Server 2003 SP1 allows remote attackers to execute arbitrary code via a crafted web page that contains unspecified integer properties that cause insufficient memory allocation and trigger a buffer overflow, aka the \"VML Buffer Overrun Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-0024"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-004",
+			"date_added": "2007-01-09T00:00:00Z"
+		}
+	],
+	"date_added": "2007-01-09T00:00:00Z"
+}

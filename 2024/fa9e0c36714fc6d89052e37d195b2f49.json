@@ -1,0 +1,19 @@
+{
+	"vendorProject": "xootix",
+	"product": "login\\/signup_popup",
+	"shortDescription": "The Login/Signup Popup ( Inline Form + Woocommerce ) plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'import_settings' function in versions 2.7.1 to 2.7.2. This makes it possible for authenticated attackers, with Subscriber-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.",
+	"vulnerabilityName": "xootix login\\/signup_popup Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-5324"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/easy-login-woocommerce/login-signup-popup-inline-form-woocommerce-2-7-2-missing-authorization-to-arbitrary-options-update",
+			"date_added": "2024-06-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-05T00:00:00Z"
+}

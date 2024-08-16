@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "jboss_enterprise_brms_platform",
+	"shortDescription": "Cross-site request forgery (CSRF) vulnerability in the JMX Console (jmx-console) in JBoss Enterprise Portal Platform before 5.2.2, BRMS Platform 5.3.0 before roll up patch1, and SOA Platform 5.3.0 allows remote authenticated users to hijack the authentication of arbitrary users for requests that perform operations on MBeans and possibly execute arbitrary code via unspecified vectors.",
+	"vulnerabilityName": "Red Hat jboss_enterprise_brms_platform Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2011-2908"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		}
+	],
+	"date_added": "2016-03-25T00:00:00Z"
+}

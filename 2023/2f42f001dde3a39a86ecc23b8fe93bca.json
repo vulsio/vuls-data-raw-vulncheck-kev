@@ -1,0 +1,19 @@
+{
+	"vendorProject": "joomunited",
+	"product": "wp_meta_seo",
+	"shortDescription": "The WP Meta SEO WordPress plugin before 4.5.3 does not authorize several ajax actions, allowing low-privilege users to make updates to certain data and leading to an arbitrary redirect vulnerability.",
+	"vulnerabilityName": "WP Meta SEO WordPress plugin AJAX actions Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0876"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-meta-seo/wp-meta-seo-452-missing-authorization-in-startprocess",
+			"date_added": "2023-02-24T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-24T00:00:00Z"
+}

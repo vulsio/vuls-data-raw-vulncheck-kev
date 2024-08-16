@@ -1,0 +1,61 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Pulse Connect Secure",
+	"shortDescription": "Pulse Connect Secure contains an unspecified vulnerability that allows an authenticated attacker to perform code execution using uncontrolled gzip extraction.",
+	"vulnerabilityName": "Ivanti Pulse Connect Secure Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-8260"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://ransomware.org/blog/initial-access-vectors-for-ransomware/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa21-110a",
+			"date_added": "2021-04-20T00:00:00Z"
+		},
+		{
+			"url": "https://cyware.com/news/chinese-cyberspies-unc2630-targeting-us-and-eu-organizations-d94ac724/?web_view=true",
+			"date_added": "2021-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa21-110a",
+			"date_added": "2021-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-04-23T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-04-20T00:00:00Z"
+}

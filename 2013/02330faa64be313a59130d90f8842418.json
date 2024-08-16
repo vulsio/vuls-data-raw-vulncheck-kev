@@ -1,0 +1,19 @@
+{
+	"vendorProject": "optimizepress",
+	"product": "optimizepress",
+	"shortDescription": "Multiple unrestricted file upload vulnerabilities in (1) media-upload.php, (2) media-upload-lncthumb.php, and (3) media-upload-sq_button.php in lib/admin/ in the OptimizePress theme before 1.61 for WordPress allow remote attackers to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in images_comingsoon, images_lncthumbs, or images_optbuttons in wp-content/uploads/optpress/, as exploited in the wild in November 2013.",
+	"vulnerabilityName": "optimizepress optimizepress Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-7102"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-7102",
+			"date_added": "2013-12-23T00:00:00Z"
+		}
+	],
+	"date_added": "2013-12-23T00:00:00Z"
+}

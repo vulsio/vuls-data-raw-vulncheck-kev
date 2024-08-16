@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "requests",
+	"shortDescription": "Requests is a HTTP library written in PHP. Requests mishandles deserialization in FilteredIterator. The issue has been patched and users of `Requests` 1.6.0, 1.6.1 and 1.7.0 should update to version 1.8.0.",
+	"vulnerabilityName": "WordPress requests Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-29476"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-553-php-object-injection-gadget?asset_slug=wordpress",
+			"date_added": "2023-08-14T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-14T00:00:00Z"
+}

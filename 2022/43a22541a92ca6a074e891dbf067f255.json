@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Atlassian",
+	"product": "Confluence Server and Data Center",
+	"shortDescription": "Affected versions of Atlassian Confluence Server allow remote attackers to view restricted resources via a pre-authorization arbitrary file read vulnerability in the /s/ endpoint.",
+	"vulnerabilityName": "Atlassian Confluence Server Pre-Authorization Arbitrary File Read Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-26085"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "611d47c6f6fb",
+			"xdb_url": "https://vulncheck.com/xdb/611d47c6f6fb",
+			"date_added": "2021-10-05T08:20:25Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ColdFusionX/CVE-2021-26085.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.csoonline.com/article/2096402/most-attacks-affecting-smbs-target-five-older-vulnerabilities.html",
+			"date_added": "2024-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.sonicwall.com/medialibrary/en/white-paper/mid-year-2024-cyber-threat-report.pdf",
+			"date_added": "2024-07-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2022-03-28T00:00:00Z"
+}

@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Sophos",
+	"product": "SFOS",
+	"shortDescription": "Sophos Firewall operating system (SFOS) firmware contains a SQL injection vulnerability when configured with either the administration (HTTPS) service or the User Portal is exposed on the WAN zone. Successful exploitation may cause remote code execution to exfiltrate usernames and hashed passwords for the local device admin(s), portal admins, and user accounts used for remote access (but not external Active Directory or LDAP passwords).",
+	"vulnerabilityName": "Sophos SFOS SQL Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-12271"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2020/05/21/asnarok2/",
+			"date_added": "2020-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.zdnet.com/article/hackers-tried-and-failed-to-install-ransomware-using-a-zero-day-in-sophos-firewalls/",
+			"date_added": "2020-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-04-22T00:00:00Z"
+}

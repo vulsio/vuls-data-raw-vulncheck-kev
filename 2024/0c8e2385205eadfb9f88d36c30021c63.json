@@ -1,0 +1,27 @@
+{
+	"vendorProject": "InstaWP",
+	"product": "Connect 1-click WP Staging & Migration Plugin for WordPress",
+	"shortDescription": "The InstaWP Connect -- 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary file uploads due to insufficient file validation in the /wp-json/instawp-connect/v1/config REST API endpoint in all versions up to, and including, 0.1.0.22. This makes it possible for unauthenticated attackers to upload arbitrary files.",
+	"vulnerabilityName": "InstaWP Connect 1-click WP Staging & Migration plugin for WordPress Arbitrary File Upload",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-2667"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "939fef797fec",
+			"xdb_url": "https://vulncheck.com/xdb/939fef797fec",
+			"date_added": "2024-04-28T17:14:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Puvipavan/CVE-2024-2667.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/instawp-connect/wordpress-instawp-connect-plugin-0-1-0-22-unauthenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2024-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-12T00:00:00Z"
+}

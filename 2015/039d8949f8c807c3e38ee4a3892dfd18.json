@@ -1,0 +1,19 @@
+{
+	"vendorProject": "angrycreative",
+	"product": "bj_lazy_load",
+	"shortDescription": "The bj-lazy-load plugin before 1.0 for WordPress has Remote File Inclusion.",
+	"vulnerabilityName": "angrycreative bj_lazy_load Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-9415"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/bj-lazy-load/bj-lazy-load-10-remote-file-inclusion-via-timthumb",
+			"date_added": "2015-09-02T00:00:00Z"
+		}
+	],
+	"date_added": "2015-09-02T00:00:00Z"
+}

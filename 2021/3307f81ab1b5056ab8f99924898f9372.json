@@ -1,0 +1,27 @@
+{
+	"vendorProject": "genetechsolutions",
+	"product": "pie_register",
+	"shortDescription": "The Registration Forms – User profile, Content Restriction, Spam Protection, Payment Gateways, Invitation Codes WordPress plugin before 3.1.7.6 has a flaw in the social login implementation, allowing unauthenticated attacker to login as any user on the site by only knowing their user ID or username",
+	"vulnerabilityName": "genetechsolutions pie_register Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24647"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "66668f877c28",
+			"xdb_url": "https://vulncheck.com/xdb/66668f877c28",
+			"date_added": "2023-06-15T09:51:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2021-24647.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/pie-register/wordpress-pie-register-plugin-3-7-1-5-unauthenticated-arbitrary-login-vulnerability",
+			"date_added": "2021-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2021-10-11T00:00:00Z"
+}

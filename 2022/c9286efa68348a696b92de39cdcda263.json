@@ -1,0 +1,93 @@
+{
+	"vendorProject": "Redis",
+	"product": "Debian-specific Redis Servers",
+	"shortDescription": "Redis is prone to a (Debian-specific) Lua sandbox escape, which could result in remote code execution.",
+	"vulnerabilityName": "Debian-specific Redis Server Lua Sandbox Escape Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0543"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1de84cdea3d8",
+			"xdb_url": "https://vulncheck.com/xdb/1de84cdea3d8",
+			"date_added": "2023-05-10T05:05:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:SiennaSkies/redisHack.git"
+		},
+		{
+			"xdb_id": "97008fd59436",
+			"xdb_url": "https://vulncheck.com/xdb/97008fd59436",
+			"date_added": "2022-09-01T16:44:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JacobEbben/CVE-2022-0543.git"
+		},
+		{
+			"xdb_id": "b3dbbfacb8c0",
+			"xdb_url": "https://vulncheck.com/xdb/b3dbbfacb8c0",
+			"date_added": "2022-03-16T06:41:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x7eTeam/CVE-2022-0543.git"
+		},
+		{
+			"xdb_id": "8837db7800be",
+			"xdb_url": "https://vulncheck.com/xdb/8837db7800be",
+			"date_added": "2022-07-06T04:35:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:z92g/CVE-2022-0543.git"
+		},
+		{
+			"xdb_id": "36bfe91e83c1",
+			"xdb_url": "https://vulncheck.com/xdb/36bfe91e83c1",
+			"date_added": "2017-04-09T10:13:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vulhub/vulhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/security/muhstik-gang-targets-redis-servers",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecuritynews.com/hackers-drops-bakcdoor-malware-redigo-redis-server/",
+			"date_added": "2022-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/peer-to-peer-worm-p2pinfect/",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cadosecurity.com/p2pinfect-new-variant-targets-mips-devices/",
+			"date_added": "2023-12-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.radware.com/getattachment/88a6c3e7-e8c5-4a7f-a53d-6fba9cdffe03/Radware_ThreatReport_Report_2024_RW-459.pdf.aspx",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.radware.com/getattachment/75cca6a9-7008-49ed-a92b-5701bd033c1e/Radware-2023_H1_ThreatReport-08_2023-RW-396-FIN.pdf.aspx",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://blog.aquasec.com/redigo-redis-backdoor-malware",
+			"date_added": "2022-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://14518100.fs1.hubspotusercontent-na1.net/hubfs/14518100/H2%202023%20Cloud%20Threat%20Findings%20Report.pdf",
+			"date_added": "2024-02-28T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2022-03-24T00:00:00Z"
+}

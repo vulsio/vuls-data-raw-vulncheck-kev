@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystems",
+	"product": "sanshiro",
+	"shortDescription": "Unspecified vulnerability in JustSystems Sanshiro 2007 before update 3, 2008 before update 5, 2009 before update 6, and 2010 before update 6, and Sanshiro Viewer before 2.0.2.0, allows remote attackers to execute arbitrary code via a crafted document.",
+	"vulnerabilityName": "JustSystems Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0810"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://threatpost.com/virus-bulletin-japanese-attacks-apt-strategygy/148859/",
+			"date_added": "2019-10-02T00:00:00Z"
+		}
+	],
+	"date_added": "2019-10-02T00:00:00Z"
+}

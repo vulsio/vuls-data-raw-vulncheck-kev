@@ -1,0 +1,19 @@
+{
+	"vendorProject": "aivahthemes",
+	"product": "business_hours_pro",
+	"shortDescription": "The Business Hours Pro WordPress plugin through 5.5.0 allows a remote attacker to upload arbitrary files using its manual update functionality, leading to an unauthenticated remote code execution vulnerability.",
+	"vulnerabilityName": "aivahthemes business_hours_pro Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24240"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/iva-business-hours-pro/business-hours-pro-550-arbitrary-file-upload",
+			"date_added": "2021-04-02T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-02T00:00:00Z"
+}

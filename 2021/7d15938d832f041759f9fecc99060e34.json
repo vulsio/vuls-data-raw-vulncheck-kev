@@ -1,0 +1,63 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, iPadOS, macOS, and watchOS IOMobileFrameBuffer contain a memory corruption vulnerability which may allow an application to execute code with kernel privileges.",
+	"vulnerabilityName": "Apple Multiple Products Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30807"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "cfe59e0ba463",
+			"xdb_url": "https://vulncheck.com/xdb/cfe59e0ba463",
+			"date_added": "2021-11-30T14:56:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:30440r/gex.git"
+		},
+		{
+			"xdb_id": "227b555675d3",
+			"xdb_url": "https://vulncheck.com/xdb/227b555675d3",
+			"date_added": "2021-07-26T21:18:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:saaramar/IOMobileFrameBuffer_LPE_POC.git"
+		},
+		{
+			"xdb_id": "3f1ddac51672",
+			"xdb_url": "https://vulncheck.com/xdb/3f1ddac51672",
+			"date_added": "2021-10-09T20:11:42Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jsherman212/iomfb-exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT212622",
+			"date_added": "2021-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212623",
+			"date_added": "2021-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT212713",
+			"date_added": "2021-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://resources.jamf.com/documents/technical-papers/Coldintro-Coldinvite-Mystery-v2.0.pdf",
+			"date_added": "2023-05-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-07-26T00:00:00Z"
+}

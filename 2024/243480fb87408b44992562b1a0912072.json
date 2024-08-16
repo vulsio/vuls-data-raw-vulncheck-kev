@@ -1,0 +1,64 @@
+{
+	"vendorProject": "Apache",
+	"product": "OFBiz",
+	"shortDescription": "Apache OFBiz contains a path traversal vulnerability that could allow for remote code execution.",
+	"vulnerabilityName": "Apache OFBiz Path Traversal Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-32113"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "928095ddd898",
+			"xdb_url": "https://vulncheck.com/xdb/928095ddd898",
+			"date_added": "2024-06-03T15:57:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-32113.git"
+		},
+		{
+			"xdb_id": "3a5fd521c416",
+			"xdb_url": "https://vulncheck.com/xdb/3a5fd521c416",
+			"date_added": "2024-08-07T07:12:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:YongYe-Security/CVE-2024-32113.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-26&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-28&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-31&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-07-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/Increased+Activity+Against+Apache+OFBiz+CVE202432113/31132",
+			"date_added": "2024-07-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-28T00:00:00Z",
+	"cisa_date_added": "2024-08-07T00:00:00Z",
+	"date_added": "2024-06-14T00:00:00Z"
+}

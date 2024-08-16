@@ -1,0 +1,41 @@
+{
+	"vendorProject": "incsub",
+	"product": "forminator",
+	"shortDescription": "The Forminator plugin for WordPress is vulnerable to arbitrary file uploads due to file type validation occurring after a file has been uploaded to the server in the upload_post_image() function in versions up to, and including, 1.24.6. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.",
+	"vulnerabilityName": "incsub forminator Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-4596"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9a04577f6260",
+			"xdb_url": "https://vulncheck.com/xdb/9a04577f6260",
+			"date_added": "2024-05-18T01:39:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:X-Projetion/CVE-2023-4596-Vulnerable-Exploit-and-Checker-Version.git"
+		},
+		{
+			"xdb_id": "2bbbb11495e2",
+			"xdb_url": "https://vulncheck.com/xdb/2bbbb11495e2",
+			"date_added": "2024-06-13T10:41:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RHYru9/CVE-2023-4596-checker.git"
+		},
+		{
+			"xdb_id": "af930aa151db",
+			"xdb_url": "https://vulncheck.com/xdb/af930aa151db",
+			"date_added": "2023-08-30T22:40:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:E1A/CVE-2023-4596.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/forminator/wordpress-forminator-plugin-1-24-6-unauthenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2023-08-29T00:00:00Z"
+		}
+	],
+	"date_added": "2023-08-29T00:00:00Z"
+}

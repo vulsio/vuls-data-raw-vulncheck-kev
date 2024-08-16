@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themegrill",
+	"product": "themegrill_demo_importer",
+	"shortDescription": "themegrill-demo-importer before 1.6.2 does not require authentication for wiping the database, because of a reset_wizard_actions hook.",
+	"vulnerabilityName": "themegrill themegrill_demo_importer Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36333"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/articles/critical-issue-in-themegrill-demo-importer/",
+			"date_added": "2020-02-16T00:00:00Z"
+		}
+	],
+	"date_added": "2020-02-16T00:00:00Z"
+}

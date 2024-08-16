@@ -1,0 +1,55 @@
+{
+	"vendorProject": "miniorange",
+	"product": "wordpress_social_login_and_register_\\(discord\\,_google\\,_twitter\\,_linkedin\\)",
+	"shortDescription": "The WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 7.6.4. This is due to insufficient encryption on the user being supplied during a login validated through the plugin. This makes it possible for unauthenticated attackers to log in as any existing user on the site, such as an administrator, if they know the email address associated with that user. This was partially patched in version 7.6.4 and fully patched in version 7.6.5.",
+	"vulnerabilityName": "WordPress Social Login and Register plugin for WordPress Authentication Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2982"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e78e92f8cc61",
+			"xdb_url": "https://vulncheck.com/xdb/e78e92f8cc61",
+			"date_added": "2023-07-07T08:25:38Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:LoaiEsam37/CVE-2023-2982.git"
+		},
+		{
+			"xdb_id": "aa7e03bbb623",
+			"xdb_url": "https://vulncheck.com/xdb/aa7e03bbb623",
+			"date_added": "2023-07-07T20:16:50Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:hansengentle/CVE-2023.git"
+		},
+		{
+			"xdb_id": "d4246bb421ee",
+			"xdb_url": "https://vulncheck.com/xdb/d4246bb421ee",
+			"date_added": "2023-06-29T14:21:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2023-2982.git"
+		},
+		{
+			"xdb_id": "313cf37c648a",
+			"xdb_url": "https://vulncheck.com/xdb/313cf37c648a",
+			"date_added": "2023-06-30T09:15:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:H4K6/CVE-2023-2982-POC.git"
+		},
+		{
+			"xdb_id": "af482cca0b29",
+			"xdb_url": "https://vulncheck.com/xdb/af482cca0b29",
+			"date_added": "2023-11-18T06:34:15Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wshinkle/CVE-2023-2982.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
+			"date_added": "2023-12-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-18T00:00:00Z"
+}

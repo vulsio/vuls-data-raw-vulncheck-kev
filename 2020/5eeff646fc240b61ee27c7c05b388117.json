@@ -1,0 +1,19 @@
+{
+	"vendorProject": "magmi_project",
+	"product": "magmi",
+	"shortDescription": "A Cross-Site Scripting (XSS) was discovered in 'Magmi 0.7.22'. The vulnerability exists due to insufficient filtration of user-supplied data (prefix) passed to the 'magmi-git-master/magmi/web/ajax_gettime.php' URL. An attacker could execute arbitrary HTML and script code in a browser in the context of the vulnerable website.",
+	"vulnerabilityName": "magmi_project magmi Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-7391"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zdnet.com/article/fbi-warns-about-attacks-on-magento-online-stores-via-old-plugin-vulnerability/",
+			"date_added": "2020-05-18T00:00:00Z"
+		}
+	],
+	"date_added": "2020-05-18T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS",
+	"shortDescription": "Buffer overflow in the Cookie parser in Fortinet FortiOS 4.x before 4.1.11, 4.2.x before 4.2.13, and 4.3.x before 4.3.9 and FortiSwitch before 3.4.3 allows remote attackers to execute arbitrary code via a crafted HTTP request, aka EGREGIOUSBLUNDER.",
+	"vulnerabilityName": "Fortinet FortiOS Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-6909"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/ncas/alerts/TA16-250A",
+			"date_added": "2016-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/08/01/recent-email-phishing-campaigns-mitigation-and-response",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		}
+	],
+	"date_added": "2016-09-28T00:00:00Z"
+}

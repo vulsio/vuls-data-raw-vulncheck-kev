@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The kernel-mode drivers in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows Server 2012, and Windows RT, and .NET Framework 3.0 SP2, 3.5, 3.5.1, 4, and 4.5, allow remote attackers to execute arbitrary code via a crafted OpenType font (OTF) file, aka \"OpenType Font Parsing Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows OpenType Font Parsing Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-3128"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://research.checkpoint.com/2021/the-story-of-jian/",
+			"date_added": "2021-02-22T00:00:00Z"
+		}
+	],
+	"date_added": "2021-02-22T00:00:00Z"
+}

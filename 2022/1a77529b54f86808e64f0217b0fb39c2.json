@@ -1,0 +1,27 @@
+{
+	"vendorProject": "brandexponents",
+	"product": "tatsu",
+	"shortDescription": "The Tatsu WordPress plugin before 3.3.12 add_custom_font action can be used without prior authentication to upload a rogue zip file which is uncompressed under the WordPress's upload directory. By adding a PHP shell with a filename starting with a dot \".\", this can bypass extension control implemented in the plugin. Moreover, there is a race condition in the zip extraction process which makes the shell file live long enough on the filesystem to be callable by an attacker.",
+	"vulnerabilityName": "brandexponents tatsu Missing Authentication for Critical Function",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25094"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "371571fb1df7",
+			"xdb_url": "https://vulncheck.com/xdb/371571fb1df7",
+			"date_added": "2023-03-18T11:26:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:experimentalcrow1/TypeHub-Exploiter.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tatsu/tatsu-3312-unauthenticated-remote-code-execution",
+			"date_added": "2022-11-18T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-18T00:00:00Z"
+}

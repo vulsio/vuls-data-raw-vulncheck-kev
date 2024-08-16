@@ -1,0 +1,25 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DWL-2600AP Access Point",
+	"shortDescription": "D-Link DWL-2600AP access point contains an authenticated command injection vulnerability via the Save Configuration functionality in the Web interface, using shell metacharacters in the admin.cgi?action=config_save configBackup or downloadServerip parameter.",
+	"vulnerabilityName": "D-Link DWL-2600AP Access Point Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-20500"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-20T00:00:00Z",
+	"cisa_date_added": "2023-06-29T00:00:00Z",
+	"date_added": "2023-06-22T00:00:00Z"
+}

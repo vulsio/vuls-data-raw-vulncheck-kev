@@ -1,0 +1,27 @@
+{
+	"vendorProject": "elementor",
+	"product": "elementor_pro",
+	"shortDescription": "The Elementor Pro plugin for WordPress is vulnerable to unauthorized data modification due to a missing capability check on the update_page_option function in versions up to, and including, 3.11.6. This makes it possible for authenticated attackers with subscriber-level capabilities to update arbitrary site options, which can lead to privilege escalation.",
+	"vulnerabilityName": "Elementor Pro plugin for WordPress update_page_option Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3124"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e444903343c6",
+			"xdb_url": "https://vulncheck.com/xdb/e444903343c6",
+			"date_added": "2023-09-05T12:32:50Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:AmirWhiteHat/CVE-2023-3124.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/elementor-pro/elementor-pro-3116-authenticatedsubscriber-privilege-escalation-via-update-page-option",
+			"date_added": "2023-06-07T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-07T00:00:00Z"
+}

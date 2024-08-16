@@ -1,0 +1,23 @@
+{
+	"vendorProject": "iteris",
+	"product": "vantage_velocity_firmware",
+	"shortDescription": "Iteris Vantage Velocity Field Unit 2.3.1, 2.4.2, and 3.0 devices allow the injection of OS commands into cgi-bin/timeconfig.py via shell metacharacters in the NTP Server field.",
+	"vulnerabilityName": "iteris vantage_velocity_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9020"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.netlab.360.com/fbot-is-now-riding-the-traffic-and-transportation-smart-devices-en/",
+			"date_added": "2021-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/satori-mirai-botnet-variant-targeting-vantage-velocity-field-unit-rce-vulnerability/",
+			"date_added": "2021-03-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-03-03T00:00:00Z"
+}

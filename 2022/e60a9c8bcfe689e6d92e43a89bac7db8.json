@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "WinVerifyTrust function",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the WinVerifyTrust function handles Windows Authenticode signature verification for PE files.",
+	"vulnerabilityName": "Microsoft WinVerifyTrust function Remote Code Execution",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-3900"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a5d3448726f4",
+			"xdb_url": "https://vulncheck.com/xdb/a5d3448726f4",
+			"date_added": "2021-08-08T15:59:19Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:med0x2e/SigFlip.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Jan?api-version=2020",
+			"date_added": "2022-01-21T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.vmware.com/security/2022/11/batloader-the-evasive-downloader-malware.html",
+			"date_added": "2022-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
+			"date_added": "2022-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/23/b/invitation-to-secret-event-uncovering-earth-yako-campaigns.html",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise",
+			"date_added": "2023-04-20T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/22/2023-activities-summary-of-sectora-groups-eng/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-10T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

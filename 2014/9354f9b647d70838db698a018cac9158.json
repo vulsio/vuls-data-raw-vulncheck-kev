@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Word",
+	"shortDescription": "Microsoft Word allows attackers to execute remote code or cause a denial-of-service (DoS) via crafted RTF data.",
+	"vulnerabilityName": "Microsoft Word Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-2539"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/2014.07.11.Pitty_Tiger/Pitty_Tiger_Final_Report.pdf",
+			"date_added": "2014-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/Anunak_APT_against_financial_institutions.pdf",
+			"date_added": "2014-12-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2014-07-11T00:00:00Z"
+}

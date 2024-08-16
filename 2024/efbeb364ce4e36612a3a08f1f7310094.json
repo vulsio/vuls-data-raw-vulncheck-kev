@@ -1,0 +1,90 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "A heap out-of-bounds write affecting Linux since v2.6.19-rc1 was discovered in net/netfilter/x_tables.c. This allows an attacker to gain privileges or cause a DoS (via heap memory corruption) through user name space",
+	"vulnerabilityName": "Linux Kernel Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22555"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1df56bc7a919",
+			"xdb_url": "https://vulncheck.com/xdb/1df56bc7a919",
+			"date_added": "2023-03-17T19:32:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LingerANR/CVE-2021-22-555.git"
+		},
+		{
+			"xdb_id": "3ab838e91745",
+			"xdb_url": "https://vulncheck.com/xdb/3ab838e91745",
+			"date_added": "2023-05-10T15:30:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:masjohncook/netsec-project.git"
+		},
+		{
+			"xdb_id": "3490863fd0a4",
+			"xdb_url": "https://vulncheck.com/xdb/3490863fd0a4",
+			"date_added": "2024-02-27T05:22:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:letsr00t/CVE-2021-22555.git"
+		},
+		{
+			"xdb_id": "03ee412dd1bc",
+			"xdb_url": "https://vulncheck.com/xdb/03ee412dd1bc",
+			"date_added": "2023-08-05T18:56:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tukru/CVE-2021-22555.git"
+		},
+		{
+			"xdb_id": "b370bb1cf76f",
+			"xdb_url": "https://vulncheck.com/xdb/b370bb1cf76f",
+			"date_added": "2022-04-05T06:35:25Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:veritas501/CVE-2021-22555-PipeVersion.git"
+		},
+		{
+			"xdb_id": "c9c506745b9d",
+			"xdb_url": "https://vulncheck.com/xdb/c9c506745b9d",
+			"date_added": "2023-08-20T14:26:28Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:pashayogi/CVE-2021-22555.git"
+		},
+		{
+			"xdb_id": "8ef3da70ba6c",
+			"xdb_url": "https://vulncheck.com/xdb/8ef3da70ba6c",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "b14c9c8213f1",
+			"xdb_url": "https://vulncheck.com/xdb/b14c9c8213f1",
+			"date_added": "2021-07-16T01:54:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xyjl-ly/CVE-2021-22555-Exploit.git"
+		},
+		{
+			"xdb_id": "927960b6eeeb",
+			"xdb_url": "https://vulncheck.com/xdb/927960b6eeeb",
+			"date_added": "2021-11-19T09:03:19+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:yunyan521/CVE-2021-22555-Exploit.git"
+		},
+		{
+			"xdb_id": "82616da9904f",
+			"xdb_url": "https://vulncheck.com/xdb/82616da9904f",
+			"date_added": "2021-09-03T23:47:13+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:VisMyLover/CVE-2021-22555-Exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html",
+			"date_added": "2024-03-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-03-18T00:00:00Z"
+}

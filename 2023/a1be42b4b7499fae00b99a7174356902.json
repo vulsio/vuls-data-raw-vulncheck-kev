@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux kernel contains a use-after-free vulnerability that allows for privilege escalation to gain ring0 access from the system user.",
+	"vulnerabilityName": "Linux Kernel Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0266"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/",
+			"date_added": "2023-03-29T00:00:00Z"
+		},
+		{
+			"url": "https://googleprojectzero.blogspot.com/2023/09/analyzing-modern-in-wild-android-exploit.html",
+			"date_added": "2023-09-21T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2024-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
+			"date_added": "2023-03-30T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-20T00:00:00Z",
+	"cisa_date_added": "2023-03-30T00:00:00Z",
+	"date_added": "2023-03-29T00:00:00Z"
+}

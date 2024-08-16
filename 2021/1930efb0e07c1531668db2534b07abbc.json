@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Citrix",
+	"product": "virtual_apps_and_desktops",
+	"shortDescription": "An authorised user on a Windows host running Citrix Universal Print Server can perform arbitrary command execution as SYSTEM in CVAD versions before 2009, 1912 LTSR CU1 hotfixes CTX285870 and CTX286120, 7.15 LTSR CU6 hotfix CTX285344 and 7.6 LTSR CU9.",
+	"vulnerabilityName": "Citrix virtual_apps_and_desktops Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-8283"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.sophos.com/en-us/2021/01/26/nefilim-ransomware-attack-uses-ghost-credentials/",
+			"date_added": "2021-01-26T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-26T00:00:00Z"
+}

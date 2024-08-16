@@ -1,0 +1,21 @@
+{
+	"vendorProject": "TIBCO",
+	"product": "JasperReports",
+	"shortDescription": "TIBCO JasperReports Server contain a vulnerability which may allow any authenticated user read-only access to the contents of the web application, including key configuration files.",
+	"vulnerabilityName": "TIBCO JasperReports Server Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-5430"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-12-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-01-19T00:00:00Z",
+	"cisa_date_added": "2022-12-29T00:00:00Z",
+	"date_added": "2022-12-29T00:00:00Z"
+}

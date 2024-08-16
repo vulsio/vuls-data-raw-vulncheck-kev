@@ -1,0 +1,19 @@
+{
+	"vendorProject": "vBulletin",
+	"product": "vBulletin",
+	"shortDescription": "SQL injection vulnerability in forumrunner/includes/moderation.php in vBulletin before 4.2.2 Patch Level 5 and 4.2.3 before Patch Level 1 allows remote attackers to execute arbitrary SQL commands via the postids parameter to forumrunner/request.php, as exploited in the wild in July 2016.",
+	"vulnerabilityName": "vBulletin vBulletin Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-6195"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2016-6195",
+			"date_added": "2016-08-30T00:00:00Z"
+		}
+	],
+	"date_added": "2016-08-30T00:00:00Z"
+}

@@ -1,0 +1,57 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The Graphics Device Interface (GDI) in Microsoft Windows allows local users to gain privileges via a crafted application.",
+	"vulnerabilityName": "Microsoft Windows Graphics Device Interface (GDI) Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0005"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0894a2e08694",
+			"xdb_url": "https://vulncheck.com/xdb/0894a2e08694",
+			"date_added": "2019-11-05T04:18:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sheri31/0005poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2017-Mar?api-version=2020",
+			"date_added": "2017-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/security/blog/2017/03/27/detecting-and-mitigating-elevation-of-privilege-exploit-for-cve-2017-0005/",
+			"date_added": "2017-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/research/bronze-vinewood-targets-supply-chains",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2021/the-story-of-jian/",
+			"date_added": "2021-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2021/a-deep-dive-into-doublefeature-equation-groups-post-exploitation-dashboard/",
+			"date_added": "2021-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://harfanglab.io/en/insidethelab/apt31-indictment-analysis/",
+			"date_added": "2024-04-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2017-03-14T00:00:00Z"
+}

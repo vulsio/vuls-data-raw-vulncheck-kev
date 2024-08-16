@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "A remote code execution vulnerability exists in Microsoft Office software when the software fails to properly handle objects in memory, aka 'Microsoft Office Memory Corruption Vulnerability'.",
+	"vulnerabilityName": "Microsoft Excel Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0652"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_Feb_2020_Edition_1.pdf",
+			"date_added": "2020-01-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-22T00:00:00Z"
+}

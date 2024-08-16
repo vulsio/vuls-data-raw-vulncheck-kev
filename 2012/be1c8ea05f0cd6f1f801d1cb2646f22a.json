@@ -1,0 +1,57 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains a use-after-free vulnerability that allows a remote attacker to execute arbitrary code via a crafted web site that triggers access to an object that (1) was not properly allocated or (2) is deleted, as demonstrated by a CDwnBindInfo object.",
+	"vulnerabilityName": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-4792"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://eromang.zataz.com/2012/12/29/attack-and-ie-0day-informations-used-against-council-on-foreign-relations/",
+			"date_added": "2012-12-29T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2013/01/15/microsoft-releases-update-internet-explorer-vulnerability-cve-2012",
+			"date_added": "2013-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://kung_foo.keybase.pub/papers_and_presentations/Unveiling_an_Indian_Cyberattack_Infrastructure.pdf",
+			"date_added": "2013-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/department-labor-strategic-web-compromise/",
+			"date_added": "2013-05-03T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf",
+			"date_added": "2014-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2014/10/threat-spotlight-group-72.html",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/us-arrests-chinese-man-involved-with-sakula-malware-used-in-opm-and-anthem-hacks/",
+			"date_added": "2014-11-24T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-13T00:00:00Z",
+	"cisa_date_added": "2024-07-23T00:00:00Z",
+	"date_added": "2012-12-29T00:00:00Z"
+}

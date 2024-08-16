@@ -1,0 +1,69 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS",
+	"shortDescription": "Fortinet FortiOS contains a default configuration vulnerability that may allow an unauthenticated attacker on the same subnet to intercept sensitive information by impersonating the Lightweight Directory Access Protocol (LDAP) server.",
+	"vulnerabilityName": "Fortinet FortiOS Default Configuration Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-5591"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/media/news/2021/210402.pdf",
+			"date_added": "2021-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/media/news/2021/210527.pdf",
+			"date_added": "2021-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-209a",
+			"date_added": "2021-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa21-321a",
+			"date_added": "2021-11-17T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa21-321a",
+			"date_added": "2021-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-257a",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-257a",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2024-21762-critical-fortinet-fortios-out-of-bound-write-ssl-vpn-vulnerability",
+			"date_added": "2024-02-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-04-02T00:00:00Z"
+}

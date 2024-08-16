@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Arm",
+	"product": "Mali Graphics Processing Unit (GPU)",
+	"shortDescription": "Arm Mali GPU Kernel Driver contains a use-after-free vulnerability that may allow a non-privileged user to gain root privilege and/or disclose information.",
+	"vulnerabilityName": "Arm Mali GPU Kernel Driver Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-29256"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-07-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-28T00:00:00Z",
+	"cisa_date_added": "2023-07-07T00:00:00Z",
+	"date_added": "2023-07-07T00:00:00Z"
+}

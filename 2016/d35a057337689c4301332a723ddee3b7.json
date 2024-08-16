@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "XMP Core Services",
+	"shortDescription": "Microsoft XML Core Services 3.0 allows remote attackers to execute arbitrary code via a crafted web site, aka \"MSXML 3.0 Remote Code Execution Vulnerability.\"",
+	"vulnerabilityName": "Microsoft XMP Core Services Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-0147"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/cve-2016-4171-adobe-flash-zero-day-used-in-targeted-attacks/75082/",
+			"date_added": "2016-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/operation-daybreak/75100/",
+			"date_added": "2016-06-17T00:00:00Z"
+		}
+	],
+	"date_added": "2016-06-14T00:00:00Z"
+}

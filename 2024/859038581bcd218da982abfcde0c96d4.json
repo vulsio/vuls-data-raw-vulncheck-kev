@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Proxy Driver Spoofing Vulnerability",
+	"vulnerabilityName": "Proxy Driver Spoofing Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-26234"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Apr?api-version=2020",
+			"date_added": "2024-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2024/04/09/smoke-and-screen-mirrors-a-strange-signed-backdoor/",
+			"date_added": "2024-04-09T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-09T00:00:00Z"
+}

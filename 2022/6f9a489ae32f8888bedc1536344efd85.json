@@ -1,0 +1,19 @@
+{
+	"vendorProject": "cerber",
+	"product": "wp_cerber_security\\,_anti-spam_\\&_malware_scan",
+	"shortDescription": "The WP Cerber Security, Anti-spam & Malware Scan WordPress plugin before 8.9.6 does not sanitise the $url variable before using it in an attribute in the Activity tab in the plugins dashboard, leading to an unauthenticated stored Cross-Site Scripting vulnerability.",
+	"vulnerabilityName": "cerber wp_cerber_security\\,_anti-spam_\\&_malware_scan Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-0429"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-cerber/wp-cerber-security-8952-unauthenticated-stored-cross-site-scripting",
+			"date_added": "2022-02-14T00:00:00Z"
+		}
+	],
+	"date_added": "2022-02-14T00:00:00Z"
+}

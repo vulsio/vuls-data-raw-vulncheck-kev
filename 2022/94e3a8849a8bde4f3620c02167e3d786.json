@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS and iPadOS",
+	"shortDescription": "Apple iOS and iPadOS kernel contain an out-of-bounds write vulnerability which can allow an application to perform code execution with kernel privileges.",
+	"vulnerabilityName": "Apple iOS and iPadOS Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-42827"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213490",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213489",
+			"date_added": "2022-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-10-25T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-11-15T00:00:00Z",
+	"cisa_date_added": "2022-10-25T00:00:00Z",
+	"date_added": "2022-10-24T00:00:00Z"
+}

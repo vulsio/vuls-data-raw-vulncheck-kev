@@ -1,0 +1,27 @@
+{
+	"vendorProject": "avm",
+	"product": "fritz\\!box",
+	"shortDescription": "AVM Fritz!Box allows remote attackers to execute arbitrary commands via shell metacharacters in the var:lang parameter to cgi-bin/webcm.",
+	"vulnerabilityName": "avm fritz\\!box Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-9727"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-02&host_type=src&vulnerability=cve-2014-9727",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://blog.radware.com/security/botnets/2020/05/whos-viktor-tracking-down-the-xtc-polaris-botnets/",
+			"date_added": "2020-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-v3g4/",
+			"date_added": "2023-02-15T00:00:00Z"
+		}
+	],
+	"date_added": "2020-05-07T00:00:00Z"
+}

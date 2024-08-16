@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wclovers",
+	"product": "wcfm_membership",
+	"shortDescription": "The WCFM Membership plugin for WordPress is vulnerable to unauthorized modification and access of data in versions up to, and including, 2.10.0 due to missing capability checks on various AJAX actions. This makes it possible for unauthenticated attackers to perform a wide variety of actions such as modifying membership details, changing renewal information, controlling membership approvals, and more.",
+	"vulnerabilityName": "WCFM Membership Plugin for WordPress AJAX Vulnerability ",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-4940"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/wc-multivendor-membership/wordpress-wcfm-membership-plugin-2-10-0-missing-authorization-vulnerability",
+			"date_added": "2023-04-06T00:00:00Z"
+		}
+	],
+	"date_added": "2023-04-06T00:00:00Z"
+}

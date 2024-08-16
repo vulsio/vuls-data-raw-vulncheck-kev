@@ -1,0 +1,19 @@
+{
+	"vendorProject": "sendgrid",
+	"product": "sendgrid",
+	"shortDescription": "The SendGrid WordPress plugin is vulnerable to authorization bypass via the get_ajax_statistics function found in the ~/lib/class-sendgrid-statistics.php file which allows authenticated users to export statistic for a WordPress multi-site main site, in versions up to and including 1.11.8.",
+	"vulnerabilityName": "SendGrid WordPress Plugin get_ajax_statistics Authorization Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-34629"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/sendgrid-email-delivery-simplified/wordpress-sendgrid-plugin-1-11-8-authenticated-authorization-bypass-vulnerability",
+			"date_added": "2021-07-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-07-21T00:00:00Z"
+}

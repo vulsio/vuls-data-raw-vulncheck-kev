@@ -1,0 +1,27 @@
+{
+	"vendorProject": "publishpress",
+	"product": "capabilities",
+	"shortDescription": "The PublishPress Capabilities WordPress plugin before 2.3.1, PublishPress Capabilities Pro WordPress plugin before 2.3.1 does not have authorisation and CSRF checks when updating the plugin's settings via the init hook, and does not ensure that the options to be updated belong to the plugin. As a result, unauthenticated attackers could update arbitrary blog options, such as the default role and make any new registered user with an administrator role.",
+	"vulnerabilityName": "publishpress capabilities Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25032"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d2073fd30796",
+			"xdb_url": "https://vulncheck.com/xdb/d2073fd30796",
+			"date_added": "2023-08-09T10:41:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2021-25032.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/capability-manager-enhanced/wordpress-publishpress-capabilities-plugin-2-3-unauthenticated-settings-change-vulnerability",
+			"date_added": "2021-12-06T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-06T00:00:00Z"
+}

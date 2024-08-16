@@ -1,0 +1,23 @@
+{
+	"vendorProject": "totolink",
+	"product": "a810r_firmware",
+	"shortDescription": "TOTOLink A810R V4.1.2cu.5182_B20201026 was discovered to contain a command injection vulnerability in the \"Main\" function. This vulnerability allows attackers to execute arbitrary commands via the QUERY_STRING parameter.",
+	"vulnerabilityName": "totolink a810r_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-25079"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
+			"date_added": "2022-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet",
+			"date_added": "2022-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-01T00:00:00Z"
+}

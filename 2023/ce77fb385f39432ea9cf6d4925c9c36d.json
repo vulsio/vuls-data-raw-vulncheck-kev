@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Mitel",
+	"product": "MiVoice Connect",
+	"shortDescription": "The Mitel Edge Gateway component of MiVoice Connect allows an authenticated attacker with internal network access to execute commands within the context of the system.",
+	"vulnerabilityName": "Mitel MiVoice Connect Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-40765"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-02-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-03-14T00:00:00Z",
+	"cisa_date_added": "2023-02-21T00:00:00Z",
+	"date_added": "2023-02-21T00:00:00Z"
+}

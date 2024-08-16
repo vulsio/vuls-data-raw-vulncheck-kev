@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Justice AV Solutions",
+	"product": "Viewer ",
+	"shortDescription": "Justice AV Solutions (JAVS) Viewer installer contains a malicious version of ffmpeg.exe, named fffmpeg.exe (SHA256: 421a4ad2615941b177b6ec4ab5e239c14e62af2ab07c6df1741e2a62223223c4). When run, this creates a backdoor connection to a malicious C2 server.",
+	"vulnerabilityName": "Justice AV Solutions (JAVS) Viewer Installer Embedded Malicious Code Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-4978"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/05/23/cve-2024-4978-backdoored-justice-av-solutions-viewer-software-used-in-apparent-supply-chain-attack/",
+			"date_added": "2024-05-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-06-19T00:00:00Z",
+	"cisa_date_added": "2024-05-29T00:00:00Z",
+	"date_added": "2024-05-23T00:00:00Z"
+}

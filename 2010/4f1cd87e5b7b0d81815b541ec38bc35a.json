@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "shockwave_player",
+	"shortDescription": "The Director module (dirapi.dll) in Adobe Shockwave Player before 11.5.9.615 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a Director movie with a crafted rcsL chunk containing a field whose value is used as a pointer offset, as exploited in the wild in October 2010. NOTE: some of these details are obtained from third party information.",
+	"vulnerabilityName": "Adobe shockwave_player Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3653"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.adobe.com/support/security/advisories/apsa10-04.html",
+			"date_added": "2010-10-21T00:00:00Z"
+		}
+	],
+	"date_added": "2010-10-21T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wedevs",
+	"product": "wp_user_frontend",
+	"shortDescription": "The WP User Frontend WordPress plugin before 3.5.26 does not validate and escape the status parameter before using it in a SQL statement in the Subscribers dashboard, leading to an SQL injection. Due to the lack of sanitisation and escaping, this could also lead to Reflected Cross-Site Scripting",
+	"vulnerabilityName": "wedevs wp_user_frontend Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25076"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/wp-user-frontend/wordpress-wp-user-frontend-plugin-3-5-25-sql-injection-sqli-to-reflected-cross-site-scripting-xss",
+			"date_added": "2021-12-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-21T00:00:00Z"
+}

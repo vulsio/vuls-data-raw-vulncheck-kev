@@ -1,0 +1,33 @@
+{
+	"vendorProject": "SAP",
+	"product": "NetWeaver",
+	"shortDescription": "The Universal Worklist Configuration in SAP NetWeaver AS JAVA 7.4 allows remote attackers to obtain sensitive user information via a crafted HTTP request.",
+	"vulnerabilityName": "SAP NetWeaver Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-2388"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c34824a10b75",
+			"xdb_url": "https://vulncheck.com/xdb/c34824a10b75",
+			"date_added": "2018-01-10T09:14:34Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:vah13/SAP_exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs",
+			"date_added": "2022-06-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-30T00:00:00Z",
+	"cisa_date_added": "2022-06-09T00:00:00Z",
+	"date_added": "2022-06-09T00:00:00Z"
+}

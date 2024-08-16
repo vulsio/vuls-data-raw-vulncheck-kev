@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Veritas",
+	"product": "Backup Exec Agent",
+	"shortDescription": "Veritas Backup Exec (BE) Agent contains a command execution vulnerability that could allow an attacker to use a data management protocol command to execute a command on the BE Agent machine.",
+	"vulnerabilityName": "Veritas Backup Exec Agent Command Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-27878"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-04-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/alphv-ransomware-backup",
+			"date_added": "2023-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.at-bay.com/articles/avoslocker-adds-veritas-vulnerabilities-to-access-arsenal/",
+			"date_added": "2023-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
+			"date_added": "2024-06-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-28T00:00:00Z",
+	"cisa_date_added": "2023-04-07T00:00:00Z",
+	"date_added": "2023-04-03T00:00:00Z"
+}

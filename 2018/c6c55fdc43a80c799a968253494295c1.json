@@ -1,0 +1,23 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "global_management_system",
+	"shortDescription": "A vulnerability in lack of validation of user-supplied parameters pass to XML-RPC calls on SonicWall Global Management System (GMS) virtual appliance's, allow remote user to execute arbitrary code. This vulnerability affected GMS version 8.1 and earlier.",
+	"vulnerabilityName": "SonicWall global_management_system Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-9866"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.lumen.com/the-resilient-satori-botnet/",
+			"date_added": "2018-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2018-10-27T00:00:00Z"
+}

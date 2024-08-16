@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "The Javascript API in Adobe Acrobat Professional 7.0.9 and possibly 8.1.1 exposes a dangerous method, which allows remote attackers to execute arbitrary commands or trigger a buffer overflow via a crafted PDF file that invokes app.checkForUpdate with a malicious callback function.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-2042"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.talosintelligence.com/acrobat-javascript-blacklist-framework/",
+			"date_added": "2010-01-20T00:00:00Z"
+		}
+	],
+	"date_added": "2010-01-20T00:00:00Z"
+}

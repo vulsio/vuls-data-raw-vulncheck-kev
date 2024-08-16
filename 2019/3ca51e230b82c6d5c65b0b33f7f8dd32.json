@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "ColdFusion versions Update 2 and earlier, Update 9 and earlier, and Update 17 and earlier have a file upload restriction bypass vulnerability. Successful exploitation could lead to arbitrary code execution.",
+	"vulnerabilityName": "Adobe ColdFusion Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-7816"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://helpx.adobe.com/security/products/coldfusion/apsb19-14.html",
+			"date_added": "2019-03-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-03-01T00:00:00Z"
+}

@@ -1,0 +1,254 @@
+{
+	"vendorProject": "OpenSSL",
+	"product": "OpenSSL",
+	"shortDescription": "The TLS and DTLS implementations in OpenSSL do not properly handle Heartbeat Extension packets, which allows remote attackers to obtain sensitive information.",
+	"vulnerabilityName": "OpenSSL Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0160"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "db71d342ecf5",
+			"xdb_url": "https://vulncheck.com/xdb/db71d342ecf5",
+			"date_added": "2023-01-05T20:09:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:undacmic/heartbleed-proof-of-concept.git"
+		},
+		{
+			"xdb_id": "772b2b2cea95",
+			"xdb_url": "https://vulncheck.com/xdb/772b2b2cea95",
+			"date_added": "2021-03-30T13:11:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:BelminD/heartbleed.git"
+		},
+		{
+			"xdb_id": "fcbef4f6ba27",
+			"xdb_url": "https://vulncheck.com/xdb/fcbef4f6ba27",
+			"date_added": "2023-07-31T01:12:02Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:timsonner/cve-2014-0160-heartbleed.git"
+		},
+		{
+			"xdb_id": "9b3591a427cb",
+			"xdb_url": "https://vulncheck.com/xdb/9b3591a427cb",
+			"date_added": "2014-04-08T09:08:52Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:cyphar/heartthreader.git"
+		},
+		{
+			"xdb_id": "e57d9c60a44c",
+			"xdb_url": "https://vulncheck.com/xdb/e57d9c60a44c",
+			"date_added": "2014-04-13T19:18:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:xlucas/heartbleed.git"
+		},
+		{
+			"xdb_id": "8311b472a11a",
+			"xdb_url": "https://vulncheck.com/xdb/8311b472a11a",
+			"date_added": "2014-04-15T14:09:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:einaros/heartbleed-tools.git"
+		},
+		{
+			"xdb_id": "16161c93e8de",
+			"xdb_url": "https://vulncheck.com/xdb/16161c93e8de",
+			"date_added": "2014-04-08T23:39:17Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:takeshixx/ssl-heartbleed.nse.git"
+		},
+		{
+			"xdb_id": "ced85a07daad",
+			"xdb_url": "https://vulncheck.com/xdb/ced85a07daad",
+			"date_added": "2014-04-12T14:13:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:hreese/heartbleed-dtls.git"
+		},
+		{
+			"xdb_id": "f3c627ddd56c",
+			"xdb_url": "https://vulncheck.com/xdb/f3c627ddd56c",
+			"date_added": "2014-04-10T02:47:43Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0x90/CVE-2014-0160.git"
+		},
+		{
+			"xdb_id": "e236a82d5676",
+			"xdb_url": "https://vulncheck.com/xdb/e236a82d5676",
+			"date_added": "2014-04-19T06:20:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:yryz/heartbleed.js.git"
+		},
+		{
+			"xdb_id": "1c0f2aa2ac17",
+			"xdb_url": "https://vulncheck.com/xdb/1c0f2aa2ac17",
+			"date_added": "2020-12-13T19:53:50Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:GuillermoEscobero/heartbleed.git"
+		},
+		{
+			"xdb_id": "878c4a2de132",
+			"xdb_url": "https://vulncheck.com/xdb/878c4a2de132",
+			"date_added": "2014-04-10T02:28:05Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:amerine/coronary.git"
+		},
+		{
+			"xdb_id": "f824571c8c19",
+			"xdb_url": "https://vulncheck.com/xdb/f824571c8c19",
+			"date_added": "2021-08-15T11:05:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:pierceoneill/bleeding-heart.git"
+		},
+		{
+			"xdb_id": "982bf0b4eb89",
+			"xdb_url": "https://vulncheck.com/xdb/982bf0b4eb89",
+			"date_added": "2014-04-09T15:59:14Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sensepost/heartbleed-poc.git"
+		},
+		{
+			"xdb_id": "886614a9cf7f",
+			"xdb_url": "https://vulncheck.com/xdb/886614a9cf7f",
+			"date_added": "2014-04-08T20:58:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:isgroup/openmagic.git"
+		},
+		{
+			"xdb_id": "f328891e9eac",
+			"xdb_url": "https://vulncheck.com/xdb/f328891e9eac",
+			"date_added": "2023-04-25T17:00:25Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:cbk914/heartbleed-checker.git"
+		},
+		{
+			"xdb_id": "180c504a4ab9",
+			"xdb_url": "https://vulncheck.com/xdb/180c504a4ab9",
+			"date_added": "2014-04-08T16:41:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Lekensteyn/pacemaker.git"
+		},
+		{
+			"xdb_id": "5caf3f40fb1d",
+			"xdb_url": "https://vulncheck.com/xdb/5caf3f40fb1d",
+			"date_added": "2014-04-09T05:29:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:zouguangxian/heartbleed.git"
+		},
+		{
+			"xdb_id": "2777a83a11fb",
+			"xdb_url": "https://vulncheck.com/xdb/2777a83a11fb",
+			"date_added": "2014-04-08T04:25:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:titanous/heartbleeder.git"
+		},
+		{
+			"xdb_id": "6fd3881a18c4",
+			"xdb_url": "https://vulncheck.com/xdb/6fd3881a18c4",
+			"date_added": "2015-03-08T19:54:33Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:mpgn/heartbleed-PoC.git"
+		},
+		{
+			"xdb_id": "e30f1c9ea953",
+			"xdb_url": "https://vulncheck.com/xdb/e30f1c9ea953",
+			"date_added": "2014-05-01T08:28:45Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:DisK0nn3cT/MaltegoHeartbleed.git"
+		},
+		{
+			"xdb_id": "8a3b36c16af2",
+			"xdb_url": "https://vulncheck.com/xdb/8a3b36c16af2",
+			"date_added": "2014-04-07T23:03:09Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:FiloSottile/Heartbleed.git"
+		},
+		{
+			"xdb_id": "051785dcdfd8",
+			"xdb_url": "https://vulncheck.com/xdb/051785dcdfd8",
+			"date_added": "2015-09-24T08:39:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:hybridus/heartbleedscanner.git"
+		},
+		{
+			"xdb_id": "3c96ba13f2b0",
+			"xdb_url": "https://vulncheck.com/xdb/3c96ba13f2b0",
+			"date_added": "2014-05-03T18:08:27Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:OffensivePython/HeartLeak.git"
+		},
+		{
+			"xdb_id": "bd1cb68e3a25",
+			"xdb_url": "https://vulncheck.com/xdb/bd1cb68e3a25",
+			"date_added": "2014-04-08T10:10:43Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:musalbas/heartbleed-masstest.git"
+		},
+		{
+			"xdb_id": "31dbd59f952b",
+			"xdb_url": "https://vulncheck.com/xdb/31dbd59f952b",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "a5f2ac732a33",
+			"xdb_url": "https://vulncheck.com/xdb/a5f2ac732a33",
+			"date_added": "2023-04-03T08:49:12+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:dasics/heartbleed.git"
+		},
+		{
+			"xdb_id": "a4ecbf735c2c",
+			"xdb_url": "https://vulncheck.com/xdb/a4ecbf735c2c",
+			"date_added": "2020-02-23T07:28:55Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:ret2eax/pacemaker.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/leafminer-espionage-middle-east",
+			"date_added": "2018-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.csoonline.com/article/2096402/most-attacks-affecting-smbs-target-five-older-vulnerabilities.html",
+			"date_added": "2024-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Professional_Services_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.sonicwall.com/medialibrary/en/white-paper/mid-year-2024-cyber-threat-report.pdf",
+			"date_added": "2024-07-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-25T00:00:00Z",
+	"cisa_date_added": "2022-05-04T00:00:00Z",
+	"date_added": "2016-09-29T00:00:00Z"
+}

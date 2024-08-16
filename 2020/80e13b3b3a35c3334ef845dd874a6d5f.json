@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "When in an endless loop, a website specifying a custom cursor using CSS could make it look like the user is interacting with the user interface, when they are not. This could lead to a perceived broken state, especially when interactions with existing browser dialogs and warnings do not work. This vulnerability affects Firefox ESR < 78.1, Firefox < 79, and Thunderbird < 78.1.",
+	"vulnerabilityName": "Mozilla Firefox Loop with Unreachable Exit Condition ('Infinite Loop')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-15654"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zdnet.com/article/firefox-gets-fix-for-evil-cursor-attack/",
+			"date_added": "2020-08-06T00:00:00Z"
+		}
+	],
+	"date_added": "2020-08-06T00:00:00Z"
+}

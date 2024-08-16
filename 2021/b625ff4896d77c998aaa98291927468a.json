@@ -1,0 +1,19 @@
+{
+	"vendorProject": "codextrous",
+	"product": "b2j_contact",
+	"shortDescription": "The Codextrous B2J Contact (aka b2j_contact) extension before 2.1.13 for Joomla! allows a rename attack that bypasses a \"safe file extension\" protection mechanism, leading to remote code execution.",
+	"vulnerabilityName": "codextrous b2j_contact Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-5215"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

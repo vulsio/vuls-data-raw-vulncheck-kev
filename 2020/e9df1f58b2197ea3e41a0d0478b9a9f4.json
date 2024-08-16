@@ -1,0 +1,19 @@
+{
+	"vendorProject": "calmar-webmedia",
+	"product": "total_donations",
+	"shortDescription": "Incorrect access control in migla_ajax_functions.php in the Calmar Webmedia Total Donations plugin through 2.0.5 for WordPress allows unauthenticated attackers to update arbitrary WordPress option values, leading to site takeover. These attackers can send requests to wp-admin/admin-ajax.php to call the miglaA_update_me action to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.",
+	"vulnerabilityName": "Calmar Webmedia Total Donations plugin through 2.0.5 for WordPress migla_ajax_functions.php Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-6703"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://quickheal.co.in/documents/technical-paper/Whitepaper_HowToPM.pdf",
+			"date_added": "2020-08-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-08-22T00:00:00Z"
+}

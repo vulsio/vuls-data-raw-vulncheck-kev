@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Unspecified vulnerability in Microsoft Word 2000 and 2002, Office Word and Word Viewer 2003, Word 2004 and 2004 v. X for Mac, and Works 2004, 2005, and 2006 allows remote attackers to execute arbitrary code via a Word document with a malformed string that triggers memory corruption, a different vulnerability than CVE-2006-6456.",
+	"vulnerabilityName": "Word Malformed String Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-5994"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-014",
+			"date_added": "2007-02-13T00:00:00Z"
+		}
+	],
+	"date_added": "2007-02-13T00:00:00Z"
+}

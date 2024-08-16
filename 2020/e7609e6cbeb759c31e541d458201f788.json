@@ -1,0 +1,31 @@
+{
+	"vendorProject": "ctekproducts",
+	"product": "skyrouter",
+	"shortDescription": "apps/a3/cfg_ethping.cgi in the Ctek SkyRouter 4200 and 4300 allows remote attackers to execute arbitrary commands via shell metacharacters in the PINGADDRESS parameter for a \"u\" action.",
+	"vulnerabilityName": "Ctek SkyRouter 4200 and 4300 apps/a3/cfg_ethping.cgi Arbitrary Command Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-5010"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-13&host_type=src&vulnerability=cve-2011-5010+",
+			"date_added": "2024-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

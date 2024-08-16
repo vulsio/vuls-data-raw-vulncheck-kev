@@ -1,0 +1,27 @@
+{
+	"vendorProject": "jpcert",
+	"product": "logontracer",
+	"shortDescription": "LogonTracer 1.2.0 and earlier allows remote attackers to execute arbitrary OS commands via unspecified vectors.",
+	"vulnerabilityName": "jpcert logontracer Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-16167"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8f05d52a8e5f",
+			"xdb_url": "https://vulncheck.com/xdb/8f05d52a8e5f",
+			"date_added": "2021-06-02T07:39:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dnr6419/CVE-2018-16167.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://veriti.ai/blog/vulnerable-villain-when-hackers-get-hacked/",
+			"date_added": "2024-04-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-15T00:00:00Z"
+}

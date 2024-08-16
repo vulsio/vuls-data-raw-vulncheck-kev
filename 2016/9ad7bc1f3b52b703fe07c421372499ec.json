@@ -1,0 +1,27 @@
+{
+	"vendorProject": "hancom",
+	"product": "hangul_word_processor",
+	"shortDescription": "hwpapp.dll in Hangul Word Processor allows remote attackers to execute arbitrary code via a crafted heap spray, and by leveraging a \"type confusion\" via an HWPX file containing a crafted para text tag.",
+	"vulnerabilityName": "hancom hangul_word_processor Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-6585"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://github.com/kbandla/APTnotes/issues/260",
+			"date_added": "2016-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/TA17-164A",
+			"date_added": "2017-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2017/06/13/hidden-cobra-north-koreas-ddos-botnet-infrastructure",
+			"date_added": "2017-08-23T00:00:00Z"
+		}
+	],
+	"date_added": "2016-05-13T00:00:00Z"
+}

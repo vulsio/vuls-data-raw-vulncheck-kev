@@ -1,0 +1,19 @@
+{
+	"vendorProject": "themepunch",
+	"product": "slider_revolution",
+	"shortDescription": "Directory traversal vulnerability in the Slider Revolution (revslider) plugin before 4.2 for WordPress allows remote attackers to read arbitrary files via a .. (dot dot) in the img parameter in a revslider_show_image action to wp-admin/admin-ajax.php.",
+	"vulnerabilityName": "themepunch slider_revolution Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-9734"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2020/06/large-scale-attack-campaign-targets-database-credentials/",
+			"date_added": "2020-06-03T00:00:00Z"
+		}
+	],
+	"date_added": "2020-06-03T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": ".NET Framework",
+	"shortDescription": "VsaVb7rt.dll in Microsoft .NET Framework 2.0 SP2 and 3.5.1 does not implement the ASLR protection mechanism, which makes it easier for remote attackers to execute arbitrary code via a crafted web site, as exploited in the wild in February 2014, aka \"VSAVB7RT ASLR Vulnerability.\"",
+	"vulnerabilityName": "VSAVB7RT ASLR Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0295"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2014/ms14-009",
+			"date_added": "2014-09-24T00:00:00Z"
+		}
+	],
+	"date_added": "2014-09-24T00:00:00Z"
+}

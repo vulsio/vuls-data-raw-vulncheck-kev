@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Joomla",
+	"product": "WP Meta SEO plugin for WordPress",
+	"shortDescription": "The WP Meta SEO plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the Referer header in all versions up to, and including, 4.5.12 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": "WP Meta SEO plugin for WordPress Stored Cross-Site Scripting",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6961"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fastly.com/blog/active-exploitation-unauthenticated-stored-xss-vulnerabilities-wordpress/",
+			"date_added": "2024-05-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-29T00:00:00Z"
+}

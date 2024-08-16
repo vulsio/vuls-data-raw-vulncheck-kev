@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "Multiple Products",
+	"shortDescription": "Zyxel firewalls (ATP, USG, VM) and AP Controllers (NXC2500 and NXC5500) contain a use of hard-coded credentials vulnerability in an undocumented account (\"zyfwp\") with an unchangeable password.",
+	"vulnerabilityName": "Zyxel Multiple Products Use of Hard-Coded Credentials Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29583"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "13164d2ee525",
+			"xdb_url": "https://vulncheck.com/xdb/13164d2ee525",
+			"date_added": "2021-01-04T00:56:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ruppde/scan_CVE-2020-29583.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-158a",
+			"date_added": "2022-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-158a",
+			"date_added": "2022-06-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

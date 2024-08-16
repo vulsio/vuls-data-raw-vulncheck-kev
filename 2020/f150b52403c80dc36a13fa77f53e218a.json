@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wificam",
+	"product": "wireless_ip_camera_\\(p2p\\)_firmware",
+	"shortDescription": "Wireless IP Camera (P2P) WIFICAM devices have a backdoor root account that can be accessed with TELNET.",
+	"vulnerabilityName": "wificam wireless_ip_camera_\\(p2p\\)_firmware Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-8224"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

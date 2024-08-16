@@ -1,0 +1,61 @@
+{
+	"vendorProject": "SugarCRM",
+	"product": "Multiple Products",
+	"shortDescription": "Multiple SugarCRM products contain a remote code execution vulnerability in the EmailTemplates. Using a specially crafted request, custom PHP code can be injected through the EmailTemplates.",
+	"vulnerabilityName": "Multiple SugarCRM Products Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-22952"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-20&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2023-12-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-09&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2024-01-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-20&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2024-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-14&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2024-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@ll/109630615353251077",
+			"date_added": "2023-01-04T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat/",
+			"date_added": "2023-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2024-unit42-incident-response-report.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.verizon.com/business/resources/T600/reports/2024-dbir-data-breach-investigations-report.pdf",
+			"date_added": "2024-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-02-23T00:00:00Z",
+	"cisa_date_added": "2023-02-02T00:00:00Z",
+	"date_added": "2023-01-04T00:00:00Z"
+}

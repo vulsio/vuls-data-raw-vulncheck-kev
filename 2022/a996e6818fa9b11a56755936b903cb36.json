@@ -1,0 +1,19 @@
+{
+	"vendorProject": "najeebmedia",
+	"product": "frontend_file_manager",
+	"shortDescription": "The Frontend File Manager Plugin WordPress plugin before 21.3 allows any authenticated users, such as subscriber, to rename a file to an arbitrary extension, like PHP, which could allow them to basically be able to upload arbitrary files on the server and achieve RCE",
+	"vulnerabilityName": "najeebmedia frontend_file_manager Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3125"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/nmedia-user-file-uploader/wordpress-frontend-file-manager-plugin-21-2-authenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2022-09-07T00:00:00Z"
+		}
+	],
+	"date_added": "2022-09-07T00:00:00Z"
+}

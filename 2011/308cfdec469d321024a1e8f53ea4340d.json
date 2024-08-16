@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The MHTML protocol handler in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly handle a MIME format in a request for content blocks in a document, which allows remote attackers to conduct cross-site scripting (XSS) attacks via a crafted web site that is visited in Internet Explorer, aka \"MHTML Mime-Formatted Request Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-0096"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2011/ms11-026",
+			"date_added": "2011-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2011-04-12T00:00:00Z"
+}

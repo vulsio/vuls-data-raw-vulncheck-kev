@@ -1,0 +1,19 @@
+{
+	"vendorProject": "oxilab",
+	"product": "accordions",
+	"shortDescription": "Unauthenticated WordPress Options Change vulnerability in Biplob Adhikari's Accordions plugin <= 2.0.2 at WordPress.",
+	"vulnerabilityName": "Biplob Adhikari's Accordions plugin Unauthenticated WordPress Options Change Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-33198"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/accordions-or-faqs/accordions-multiple-accordions-or-faqs-builder-202-unauthenticated-arbitrary-options-update",
+			"date_added": "2022-06-30T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-30T00:00:00Z"
+}

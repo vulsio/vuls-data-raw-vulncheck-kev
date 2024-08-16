@@ -1,0 +1,129 @@
+{
+	"vendorProject": "NAS",
+	"product": "Zyxel",
+	"shortDescription": "The command injection vulnerability in the 'setCookie' parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.",
+	"vulnerabilityName": "Zyxel NAS setCookie Crafted HTTP POST Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-29973"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f6609fb90315",
+			"xdb_url": "https://vulncheck.com/xdb/f6609fb90315",
+			"date_added": "2024-06-19T09:28:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:momika233/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "4e87a1cc9d12",
+			"xdb_url": "https://vulncheck.com/xdb/4e87a1cc9d12",
+			"date_added": "2024-06-21T06:38:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:p0et08/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "d9b1def057bb",
+			"xdb_url": "https://vulncheck.com/xdb/d9b1def057bb",
+			"date_added": "2024-06-19T10:34:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "34525b555a68",
+			"xdb_url": "https://vulncheck.com/xdb/34525b555a68",
+			"date_added": "2024-06-21T15:20:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "e9f896d58c7b",
+			"xdb_url": "https://vulncheck.com/xdb/e9f896d58c7b",
+			"date_added": "2024-06-30T17:54:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc.git"
+		},
+		{
+			"xdb_id": "80b55759e2df",
+			"xdb_url": "https://vulncheck.com/xdb/80b55759e2df",
+			"date_added": "2024-06-20T01:52:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k3lpi3b4nsh33/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "372a4b801c8c",
+			"xdb_url": "https://vulncheck.com/xdb/372a4b801c8c",
+			"date_added": "2024-08-03T14:40:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:lfillaz/CVE-2024-2997.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-27&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-28&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-30&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-24&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-07-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-07-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-01&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-02&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-04&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-13&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/",
+			"date_added": "2024-06-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-24T00:00:00Z"
+}

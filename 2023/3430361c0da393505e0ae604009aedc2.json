@@ -1,0 +1,19 @@
+{
+	"vendorProject": "XTemos",
+	"product": "Woodmart Core",
+	"shortDescription": "Improper Privilege Management vulnerability in XTemos Woodmart Core allows Privilege Escalation.This issue affects Woodmart Core: from n/a through 1.0.36.",
+	"vulnerabilityName": "XTemos Woodmart Core Priviledge Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-32244"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/woodmart-core/wordpress-woodmart-core-plugin-1-0-36-privilege-escalation",
+			"date_added": "2023-05-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-11T00:00:00Z"
+}

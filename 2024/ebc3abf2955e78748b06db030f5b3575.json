@@ -1,0 +1,35 @@
+{
+	"vendorProject": "PHP",
+	"product": "PHP",
+	"shortDescription": "In PHP version 8.0.* before 8.0.30,  8.1.* before 8.1.22, and 8.2.* before 8.2.8, when loading phar file, while reading PHAR directory entries, insufficient length checking may lead to a stack buffer overflow, leading potentially to memory corruption or RCE. \n\n",
+	"vulnerabilityName": "PHP PHP Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-3824"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e9567ccc6e41",
+			"xdb_url": "https://vulncheck.com/xdb/e9567ccc6e41",
+			"date_added": "2024-07-19T02:37:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:m1sn0w/CVE-2023-3824.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://8813571.fs1.hubspotusercontent-na1.net/hubfs/8813571/The%20471%20Cyber%20Threat%20Report%202024.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://intel471.com/blog/assessing-the-disruptions-of-ransomware-gangs",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q1-2024-threat-report/",
+			"date_added": "2024-05-14T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-06T00:00:00Z"
+}

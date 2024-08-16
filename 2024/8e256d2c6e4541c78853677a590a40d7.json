@@ -1,0 +1,62 @@
+{
+	"vendorProject": "Oracle",
+	"product": "weblogic_server",
+	"shortDescription": "Vulnerability in the Oracle WebLogic Server component of Oracle Fusion Middleware (subcomponent: WLS Core Components). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0 and 12.2.1.3.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server accessible data as well as unauthorized update, insert or delete access to some of Oracle WebLogic Server accessible data. CVSS 3.0 Base Score 5.5 (Confidentiality and Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:L/A:N).",
+	"vulnerabilityName": "Oracle WebLogic Server WLS Core Components Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-2618"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e11811eb532d",
+			"xdb_url": "https://vulncheck.com/xdb/e11811eb532d",
+			"date_added": "2019-04-17T12:23:24Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:jas502n/cve-2019-2618.git"
+		},
+		{
+			"xdb_id": "8693c2aa243a",
+			"xdb_url": "https://vulncheck.com/xdb/8693c2aa243a",
+			"date_added": "2019-11-19T04:12:39Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:ianxtianxt/cve-2019-2618.git"
+		},
+		{
+			"xdb_id": "3c49c9566a90",
+			"xdb_url": "https://vulncheck.com/xdb/3c49c9566a90",
+			"date_added": "2019-06-21T09:22:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dr0op/WeblogicScan.git"
+		},
+		{
+			"xdb_id": "8be04489e68e",
+			"xdb_url": "https://vulncheck.com/xdb/8be04489e68e",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
+			"xdb_id": "379f99bfaf56",
+			"xdb_url": "https://vulncheck.com/xdb/379f99bfaf56",
+			"date_added": "2020-05-25T23:17:29+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:retnullyu/WeblogicScan.git"
+		},
+		{
+			"xdb_id": "c6d38afa5807",
+			"xdb_url": "https://vulncheck.com/xdb/c6d38afa5807",
+			"date_added": "2020-12-08T16:36:23+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:omg2019/WeblogicScan-1.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-22&host_type=src&vulnerability=cve-2019-2618",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-22T00:00:00Z"
+}

@@ -1,0 +1,65 @@
+{
+	"vendorProject": "QNAP",
+	"product": "QNAP Network-Attached Storage (NAS)",
+	"shortDescription": "QNAP NAS running HBS 3 contains an improper authorization vulnerability which can allow remote attackers to log in to a device.",
+	"vulnerabilityName": "QNAP NAS Improper Authorization Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-28799"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.qnap.com/en-us/security-advisory/QSA-21-15",
+			"date_added": "2021-04-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureblink.com/threat-research/qlocker-ransomware",
+			"date_added": "2021-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/ech0raix-ransomware-variant-qnap-synology-nas-devices/168516/",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/ech0raix-ransomware-soho/",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware_index-update-q221-csw.pdf",
+			"date_added": "2021-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2022-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/sockdetour/",
+			"date_added": "2022-02-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/battling-ransomware-one-tag-at-a-time",
+			"date_added": "2024-02-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-21T00:00:00Z",
+	"cisa_date_added": "2022-03-31T00:00:00Z",
+	"date_added": "2021-04-29T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "backupbliss",
+	"product": "backup_migration",
+	"shortDescription": "The Backup Migration plugin for WordPress is vulnerable to unauthorized access of data due to insufficient path and file validation on the BMI_BACKUP case of the handle_downloading function in all versions up to, and including, 1.3.6. This makes it possible for unauthenticated attackers to download back-up files which can contain sensitive information such as user passwords, PII,  database credentials, and much more.",
+	"vulnerabilityName": "backupbliss backup_migration Files or Directories Accessible to External Parties",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6266"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/backup-backup/backup-migration-136-unauthenticated-arbitrary-file-download-to-sensitive-information-exposure",
+			"date_added": "2024-06-03T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-03T00:00:00Z"
+}

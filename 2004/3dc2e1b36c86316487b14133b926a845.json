@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Internet Explorer 5.x and 6.0 allows remote attackers to execute arbitrary programs via a modified directory traversal attack using a URL containing \"..\" (dot dot) sequences and a filename that ends in \"::\" which is treated as a .chm file even if it does not have a .chm extension.  NOTE: this bug may overlap CVE-2004-0475.",
+	"vulnerabilityName": "Microsoft ie Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2003-1041"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2004/ms04-023",
+			"date_added": "2004-07-13T00:00:00Z"
+		}
+	],
+	"date_added": "2004-07-13T00:00:00Z"
+}

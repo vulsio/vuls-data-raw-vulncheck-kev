@@ -1,0 +1,500 @@
+{
+	"vendorProject": "RARLAB",
+	"product": "WinRAR",
+	"shortDescription": "RARLAB WinRAR contains an unspecified vulnerability that allows an attacker to execute code when a user attempts to view a benign file within a ZIP archive.",
+	"vulnerabilityName": "RARLAB WinRAR Code Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-38831"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1719f870c863",
+			"xdb_url": "https://vulncheck.com/xdb/1719f870c863",
+			"date_added": "2023-08-30T10:11:16Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:nhman-python/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "2a46a549f271",
+			"xdb_url": "https://vulncheck.com/xdb/2a46a549f271",
+			"date_added": "2023-09-03T21:14:14Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:LuxCodeDev/CVE-2023-38831_WinRAR.git"
+		},
+		{
+			"xdb_id": "6208ddae83ea",
+			"xdb_url": "https://vulncheck.com/xdb/6208ddae83ea",
+			"date_added": "2023-09-03T14:53:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Fa1c0n35/CVE-2023-38831-winrar-exploit.git"
+		},
+		{
+			"xdb_id": "961810ec007a",
+			"xdb_url": "https://vulncheck.com/xdb/961810ec007a",
+			"date_added": "2023-09-03T09:18:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "d704a3a58e0d",
+			"xdb_url": "https://vulncheck.com/xdb/d704a3a58e0d",
+			"date_added": "2023-09-07T06:42:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:GOTonyGO/CVE-2023-38831-winrar.git"
+		},
+		{
+			"xdb_id": "32730f12aaa7",
+			"xdb_url": "https://vulncheck.com/xdb/32730f12aaa7",
+			"date_added": "2023-09-13T01:18:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Rezaguii/winrar-exploit-CVE-2023-38831-tool.git"
+		},
+		{
+			"xdb_id": "b9a882276a1f",
+			"xdb_url": "https://vulncheck.com/xdb/b9a882276a1f",
+			"date_added": "2023-09-15T12:58:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:IMHarman/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "ca38deed9702",
+			"xdb_url": "https://vulncheck.com/xdb/ca38deed9702",
+			"date_added": "2023-10-12T12:46:35Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ruycr4ft/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "b966bed92174",
+			"xdb_url": "https://vulncheck.com/xdb/b966bed92174",
+			"date_added": "2023-10-24T01:14:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kehrijksen/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "4902c64dcdcc",
+			"xdb_url": "https://vulncheck.com/xdb/4902c64dcdcc",
+			"date_added": "2023-11-07T04:14:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:s4m98/winrar-cve-2023-38831-poc-gen.git"
+		},
+		{
+			"xdb_id": "7dcca41be653",
+			"xdb_url": "https://vulncheck.com/xdb/7dcca41be653",
+			"date_added": "2023-12-04T11:13:43Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:MyStuffYT/CVE-2023-38831-POC.git"
+		},
+		{
+			"xdb_id": "a75f196603f7",
+			"xdb_url": "https://vulncheck.com/xdb/a75f196603f7",
+			"date_added": "2023-09-21T06:08:30Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:malvika-thakur/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "475dd98e97c6",
+			"xdb_url": "https://vulncheck.com/xdb/475dd98e97c6",
+			"date_added": "2023-11-15T07:01:05Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:xk-mt/WinRAR-Vulnerability-recurrence-tutorial.git"
+		},
+		{
+			"xdb_id": "f9dfaa39379d",
+			"xdb_url": "https://vulncheck.com/xdb/f9dfaa39379d",
+			"date_added": "2023-08-30T15:49:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BeniBeastt/CVE-2023-38831_ReverseShell_Winrar.git"
+		},
+		{
+			"xdb_id": "11b438e8125e",
+			"xdb_url": "https://vulncheck.com/xdb/11b438e8125e",
+			"date_added": "2023-09-01T16:45:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Mich-ele/CVE-2023-38831-winrar.git"
+		},
+		{
+			"xdb_id": "19a60291e736",
+			"xdb_url": "https://vulncheck.com/xdb/19a60291e736",
+			"date_added": "2023-12-26T01:36:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:r1yaz/winDED.git"
+		},
+		{
+			"xdb_id": "d05f5cb3bfb3",
+			"xdb_url": "https://vulncheck.com/xdb/d05f5cb3bfb3",
+			"date_added": "2023-09-17T05:21:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:an040702/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "2ca9a374acca",
+			"xdb_url": "https://vulncheck.com/xdb/2ca9a374acca",
+			"date_added": "2023-12-12T14:54:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:SpamixOfficial/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "740f24ebd0b8",
+			"xdb_url": "https://vulncheck.com/xdb/740f24ebd0b8",
+			"date_added": "2023-08-28T22:08:31Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:my-elliot/CVE-2023-38831-winrar-expoit-simple-Poc.git"
+		},
+		{
+			"xdb_id": "85ab2555de80",
+			"xdb_url": "https://vulncheck.com/xdb/85ab2555de80",
+			"date_added": "2023-12-10T07:13:38Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:80r1ng/CVE-2023-38831-EXP.git"
+		},
+		{
+			"xdb_id": "0c5387964f92",
+			"xdb_url": "https://vulncheck.com/xdb/0c5387964f92",
+			"date_added": "2023-08-29T06:11:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:thegr1ffyn/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "79f7f6337617",
+			"xdb_url": "https://vulncheck.com/xdb/79f7f6337617",
+			"date_added": "2024-04-06T16:55:29Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:RomainBayle08/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "09fa7b37a7b1",
+			"xdb_url": "https://vulncheck.com/xdb/09fa7b37a7b1",
+			"date_added": "2023-09-12T16:01:17Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ameerpornillos/CVE-2023-38831-WinRAR-Exploit.git"
+		},
+		{
+			"xdb_id": "d4284b00ae4f",
+			"xdb_url": "https://vulncheck.com/xdb/d4284b00ae4f",
+			"date_added": "2023-08-28T14:48:35Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:akhomlyuk/cve-2023-38831.git"
+		},
+		{
+			"xdb_id": "ed6dc92dcb52",
+			"xdb_url": "https://vulncheck.com/xdb/ed6dc92dcb52",
+			"date_added": "2024-03-25T14:05:24Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:youmulijiang/evil-winrar.git"
+		},
+		{
+			"xdb_id": "f3b016e52591",
+			"xdb_url": "https://vulncheck.com/xdb/f3b016e52591",
+			"date_added": "2023-08-24T16:03:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc.git"
+		},
+		{
+			"xdb_id": "e63676267c2b",
+			"xdb_url": "https://vulncheck.com/xdb/e63676267c2b",
+			"date_added": "2023-08-30T19:55:11Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:MorDavid/CVE-2023-38831-Winrar-Exploit-Generator-POC.git"
+		},
+		{
+			"xdb_id": "35f40b8462a2",
+			"xdb_url": "https://vulncheck.com/xdb/35f40b8462a2",
+			"date_added": "2023-09-03T21:14:05Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:xaitax/WinRAR-CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "13a6362b2a83",
+			"xdb_url": "https://vulncheck.com/xdb/13a6362b2a83",
+			"date_added": "2023-08-30T11:52:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:z3r0sw0rd/CVE-2023-38831-PoC.git"
+		},
+		{
+			"xdb_id": "e71319d3a28f",
+			"xdb_url": "https://vulncheck.com/xdb/e71319d3a28f",
+			"date_added": "2024-06-17T07:30:47Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:imbyter/imbyter-WinRAR_CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "8e66511c03f9",
+			"xdb_url": "https://vulncheck.com/xdb/8e66511c03f9",
+			"date_added": "2024-06-19T23:23:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:UnHackerEnCapital/PDFernetRemotelo.git"
+		},
+		{
+			"xdb_id": "477e160f5f9e",
+			"xdb_url": "https://vulncheck.com/xdb/477e160f5f9e",
+			"date_added": "2023-08-28T08:56:16Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE.git"
+		},
+		{
+			"xdb_id": "78c5d047fc26",
+			"xdb_url": "https://vulncheck.com/xdb/78c5d047fc26",
+			"date_added": "2023-08-27T14:08:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Garck3h/cve-2023-38831.git"
+		},
+		{
+			"xdb_id": "0d73a5eda2f5",
+			"xdb_url": "https://vulncheck.com/xdb/0d73a5eda2f5",
+			"date_added": "2023-08-28T04:56:10Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:HDCE-inc/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "d33335e6c044",
+			"xdb_url": "https://vulncheck.com/xdb/d33335e6c044",
+			"date_added": "2023-09-12T14:07:00Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Malwareman007/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "6ddb49c0b30f",
+			"xdb_url": "https://vulncheck.com/xdb/6ddb49c0b30f",
+			"date_added": "2023-08-27T21:49:37Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ignis-sec/CVE-2023-38831-RaRCE.git"
+		},
+		{
+			"xdb_id": "3e5e3d32361a",
+			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
+			"date_added": "2023-08-25T09:44:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
+		},
+		{
+			"xdb_id": "3f62c2a800fa",
+			"xdb_url": "https://vulncheck.com/xdb/3f62c2a800fa",
+			"date_added": "2023-09-03T14:03:45Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:K3rnel-Dev/WinrarExploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/",
+			"date_added": "2023-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day",
+			"date_added": "2023-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/5661411",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/1J4JNqLVUST6PsAWwoQ1CQ",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/3033",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/winrar-vulnerability-puts-illicit-content-consumers-at-risk-of-apanyan-stealer-murk-stealer-asyncrat/",
+			"date_added": "2023-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/threat-actor-deploys-mythics-athena-agent-to-target-russian-semiconductor-suppliers/",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cluster25.duskrise.com/2023/10/12/cve-2023-38831-russian-attack",
+			"date_added": "2023-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/OZgDgmUDZSML_NX_Wa_C6A",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/",
+			"date_added": "2023-11-06T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/Ic7wNUWA1OIYI1w74-K52w",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://nsfocusglobal.com/the-new-apt-group-darkcasino-and-the-global-surge-in-winrar-0-day-exploits/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-rossiyskuyu-promyshlennost/",
+			"date_added": "2023-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.rnbo.gov.ua/ua/Diialnist/6708.html",
+			"date_added": "2023-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/uzhe-ne-te-ataki-ex-cobalt-na-rossijskie-kompanii-v-2023-godu/",
+			"date_added": "2023-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.uptycs.com/blog/cve-2023-38831-winrar-zero-day",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://threatmon.io/the-anatomy-of-a-sidecopy-attack-from-rar-exploits-to-allakore-rat/",
+			"date_added": "2023-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/ta422s-dedicated-exploitation-loop-same-week-after-week",
+			"date_added": "2023-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/",
+			"date_added": "2023-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepinstinct.com/blog/threat-actor-uac-0099-continues-to-target-ukraine",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://cloudsecurityalliance.org/blog/2023/12/28/winrar-cve-2023-38831-vulnerability-draws-attention-from-apts/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.infosecurity-magazine.com/news/pawn-storms-stealthy-net-ntlmv2/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.isc.360.com/isc-cxo/2023APT_report.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+			"date_added": "2024-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/FaceBook_Ad_Spreads_Novel_Malware.pdf",
+			"date_added": "2024-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-buzzes-back-black",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/expertise/blog/mysterious-werewolf-atakuet-vpk-s-pomoshchyu-novogo-bekdora-ringspy/",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.infosecurity-magazine.com/news/ads-zeroday-exploit-sales-surge-70/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://engage.cognyte.com/s/9829b9f8/?page=1",
+			"date_added": "2024-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/phantomcore/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://archive.ph/xYFO7",
+			"date_added": "2024-03-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security/a-year-in-review-with-akamai-hunt",
+			"date_added": "2024-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf/",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/6278620",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-report-q1-2024/112554/",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/phantomdl-loader/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/14/monthly-threat-actor-group-intelligence-report-march-2024-kor/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/blog/",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/31/monthly-threat-actor-group-intelligence-report-march-2024-eng/",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorc-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-apt42/",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-09-14T00:00:00Z",
+	"cisa_date_added": "2023-08-24T00:00:00Z",
+	"date_added": "2023-07-10T00:00:00Z"
+}

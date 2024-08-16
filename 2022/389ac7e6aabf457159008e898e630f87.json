@@ -1,0 +1,43 @@
+{
+	"vendorProject": "totolink",
+	"product": "n600r_firmware",
+	"shortDescription": "TOTOLINK N600R V4.3.0cu.7570_B20200620 was discovered to contain a command injection vulnerability via the exportOvpn interface at cstecgi.cgi.",
+	"vulnerabilityName": "totolink n600r_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-26186"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
+			"date_added": "2022-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/zerobot-new-go-based-botnet-campaign-targets-multiple-vulnerabilities",
+			"date_added": "2022-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://blog.netlab.360.com/new-ddos-botnet-wszeor/",
+			"date_added": "2022-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/",
+			"date_added": "2022-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://fortiguard.fortinet.com/threat-signal-report/4926/new-zerobot-variant-exploits-additional-vulnerabilities-for-propagation",
+			"date_added": "2022-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-01T00:00:00Z"
+}

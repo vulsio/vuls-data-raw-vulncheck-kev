@@ -1,0 +1,19 @@
+{
+	"vendorProject": "elegant_themes",
+	"product": "divi",
+	"shortDescription": "An issue was discovered in the Divi Builder plugin, Divi theme, and Divi Extra theme before 4.5.3 for WordPress. Authenticated attackers, with contributor-level or above capabilities, can upload arbitrary files, including .php files. This occurs because the check for file extensions is on the client side.",
+	"vulnerabilityName": "elegant_themes divi Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-35945"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/divi/wordpress-divi-premium-theme-4-5-2-authenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2020-08-04T00:00:00Z"
+		}
+	],
+	"date_added": "2020-08-04T00:00:00Z"
+}

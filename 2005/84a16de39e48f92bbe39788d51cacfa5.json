@@ -1,0 +1,19 @@
+{
+	"vendorProject": "nortel",
+	"product": "ip_softphone_2050",
+	"shortDescription": "The DHTML Edit Control (dhtmled.ocx) allows remote attackers to inject arbitrary web script into other domains by setting a name for a window, opening a child page whose target is the window with the given name, then injecting the script from the parent into the child using execScript, as demonstrated by \"AbusiveParent\" in Internet Explorer 6.0.2900.2180.",
+	"vulnerabilityName": "DHTML Editing Component ActiveX Control Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-1319"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2005/ms05-013",
+			"date_added": "2005-02-08T00:00:00Z"
+		}
+	],
+	"date_added": "2005-02-08T00:00:00Z"
+}

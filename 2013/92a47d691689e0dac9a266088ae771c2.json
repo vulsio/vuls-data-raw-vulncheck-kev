@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Adobe",
+	"product": "ColdFusion",
+	"shortDescription": "Adobe Coldfusion contains a directory traversal vulnerability, which could permit an unauthorized user access to restricted directories.",
+	"vulnerabilityName": "Adobe ColdFusion Directory Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-0629"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.adobe.com/support/security/advisories/apsa13-01.html",
+			"date_added": "2013-12-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-09-07T00:00:00Z",
+	"cisa_date_added": "2022-03-07T00:00:00Z",
+	"date_added": "2013-12-04T00:00:00Z"
+}

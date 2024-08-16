@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Roundcube",
+	"product": "Roundcube Webmail",
+	"shortDescription": "Roundcube Webmail contains an remote code execution vulnerability that allows attackers to execute code via shell metacharacters in a configuration setting for im_convert_path or im_identify_path.",
+	"vulnerabilityName": "Roundcube Webmail Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-12641"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/4905829",
+			"date_added": "2023-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-0620.pdf",
+			"date_added": "2023-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/bluedelta-exploits-ukrainian-government-roundcube-mail-servers",
+			"date_added": "2023-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://blog.eclecticiq.com/spearphishing-campaign-targets-zimbra-webmail-portals-of-government-organizations",
+			"date_added": "2023-07-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-13T00:00:00Z",
+	"cisa_date_added": "2023-06-22T00:00:00Z",
+	"date_added": "2023-06-20T00:00:00Z"
+}

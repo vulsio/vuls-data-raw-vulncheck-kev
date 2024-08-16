@@ -1,0 +1,19 @@
+{
+	"vendorProject": "shift-tech",
+	"product": "bingo\\!cms",
+	"shortDescription": "Authentication bypass using an alternate path or channel vulnerability in bingo!CMS version1.7.4.1 and earlier allows a remote unauthenticated attacker to upload an arbitrary file. As a result, an arbitrary script may be executed and/or a file may be altered.",
+	"vulnerabilityName": "shift-tech bingo\\!cms Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-42458"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.jpcert.or.jp/english/at/2022/at220026.html",
+			"date_added": "2022-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2022-10-11T00:00:00Z"
+}

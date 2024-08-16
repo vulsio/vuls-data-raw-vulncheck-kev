@@ -1,0 +1,49 @@
+{
+	"vendorProject": "VMware",
+	"product": "Multiple Products",
+	"shortDescription": "VMware Workspace One Access, Access Connector, Identity Manager, and Identity Manager Connector contain a command injection vulnerability. An attacker with network access to the administrative configurator on port 8443 and a valid password for the configurator administrator account can execute commands with unrestricted privileges on the underlying operating system.",
+	"vulnerabilityName": "Multiple VMware Products Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-4006"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://arstechnica.com/information-technology/2020/12/nsa-says-russian-state-hackers-are-using-a-vmware-flaw-to-ransack-networks/",
+			"date_added": "2020-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2021/Apr/15/2002621240/-1/-1/0/CSA_SVR_TARGETS_US_ALLIES_UOO13234021.PDF",
+			"date_added": "2021-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.ncsc.gov.uk/files/Advisory%20Further%20TTPs%20associated%20with%20SVR%20cyber%20actors.pdf",
+			"date_added": "2021-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/01/11/understanding-and-mitigating-russian-state-sponsored-cyber-threats-us",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-011a",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-011a",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-12-03T00:00:00Z"
+}

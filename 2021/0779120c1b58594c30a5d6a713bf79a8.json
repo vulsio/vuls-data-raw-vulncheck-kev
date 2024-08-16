@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "A type confusion issue affecting multiple Apple products allows processing of maliciously crafted web content, leading to arbitrary code execution.",
+	"vulnerabilityName": "Apple Multiple Products Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-1789"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-04T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/",
+			"date_added": "2021-10-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2022/01/25/watering-hole-deploys-new-macos-malware-dazzlespy-asia/",
+			"date_added": "2022-01-25T00:00:00Z"
+		},
+		{
+			"url": "https://objective-see.org/blog/blog_0x71.html",
+			"date_added": "2023-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-25T00:00:00Z",
+	"cisa_date_added": "2022-05-04T00:00:00Z",
+	"date_added": "2021-10-11T00:00:00Z"
+}

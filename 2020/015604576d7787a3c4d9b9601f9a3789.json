@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "wordpress",
+	"shortDescription": "WordPress before 5.5.2 allows XSS associated with global variables.",
+	"vulnerabilityName": "WordPress wordpress Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-28034"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-552-reflected-cross-site-scripting-via-global-variables?asset_slug=wordpress",
+			"date_added": "2020-10-29T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-29T00:00:00Z"
+}

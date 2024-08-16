@@ -1,0 +1,35 @@
+{
+	"vendorProject": "OpenBSD",
+	"product": "openssh",
+	"shortDescription": "An issue was discovered in OpenSSH 7.9. Due to missing character encoding in the progress display, a malicious server (or Man-in-The-Middle attacker) can employ crafted object names to manipulate the client output, e.g., by using ANSI control codes to hide additional files being transferred. This affects refresh_progress_meter() in progressmeter.c.",
+	"vulnerabilityName": "OpenBSD openssh Improper Encoding or Escaping of Output",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-6109"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurityworks.com/blog/cyber-risk/how-safe-are-enterprise-data-storage-systems.html",
+			"date_added": "2020-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/cyber-hygiene-ransomware-is-causing-critical-care-disruption-in-hospitals.html",
+			"date_added": "2020-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.bd.com/bulletins-and-patches/ryuk-ransomware",
+			"date_added": "2020-10-30T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/ryuk-raising-the-temperature-in-healthcare.html",
+			"date_added": "2020-11-02T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"date_added": "2020-07-19T00:00:00Z"
+}

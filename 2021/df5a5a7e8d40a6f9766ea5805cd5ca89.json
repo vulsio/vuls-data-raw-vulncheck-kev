@@ -1,0 +1,69 @@
+{
+	"vendorProject": "Realtek",
+	"product": "Jungle Software Development Kit (SDK)",
+	"shortDescription": "RealTek Jungle SDK contains multiple memory corruption vulnerabilities which can allow an attacker to perform remote code execution.",
+	"vulnerabilityName": "Realtek Jungle SDK Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-35394"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/threat-research/realtek-cve-2021-35394-exploited-in-the-wild",
+			"date_added": "2021-08-27T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/realtek-sdk-vulnerability/",
+			"date_added": "2021-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/blog/articles/GooberBot:-New-Member-of%20Scar-Rental-Botnet/",
+			"date_added": "2023-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/moobot-strikes-again-targeting-cacti-and-realtek-vulnerabilities",
+			"date_added": "2021-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/blog/articles/Dark-IoT-Botnet-Abuses-ClouDNS-and-White-Domains-for-C2-Communication-EN/",
+			"date_added": "2023-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20230318134256/https://unit42.paloaltonetworks.com/network-security-trends-aug-oct-2022/",
+			"date_added": "2023-01-12T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-nov-jan/",
+			"date_added": "2023-05-02T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-12-24T00:00:00Z",
+	"cisa_date_added": "2021-12-10T00:00:00Z",
+	"date_added": "2021-08-27T00:00:00Z"
+}

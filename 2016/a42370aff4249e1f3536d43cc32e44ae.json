@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Hewlett Packard (HP)",
+	"product": "ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management",
+	"shortDescription": "HP ProCurve Manager (PCM), PCM+, Identity Driven Manager (IDM), and Application Lifecycle Management allow remote attackers to execute arbitrary code via a marshalled object to (1) EJBInvokerServlet or (2) JMXInvokerServlet.",
+	"vulnerabilityName": "HP Multiple Products Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-4810"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.lacework.com/blog/elf-of-the-month-new-lucky-ransomware-sample/",
+			"date_added": "2019-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2016-03-25T00:00:00Z"
+}

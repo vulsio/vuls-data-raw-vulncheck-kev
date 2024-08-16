@@ -1,0 +1,19 @@
+{
+	"vendorProject": "idxbroker",
+	"product": "impress_for_idx_broker",
+	"shortDescription": "An issue was discovered in the IMPress for IDX Broker plugin before 2.6.2 for WordPress. wrappers.php allows a logged-in user (with the Subscriber role) to permanently delete arbitrary posts and pages, create new posts with arbitrary subjects, and modify the subjects of existing posts and pages (via create_dynamic_page and delete_dynamic_page).",
+	"vulnerabilityName": "idxbroker impress_for_idx_broker Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9514"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/idx-broker-platinum/impress-for-idx-broker-261-authenticated-arbitrary-post-creation-modification-and-deletion",
+			"date_added": "2020-03-26T00:00:00Z"
+		}
+	],
+	"date_added": "2020-03-26T00:00:00Z"
+}

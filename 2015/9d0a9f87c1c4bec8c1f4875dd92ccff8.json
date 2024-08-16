@@ -1,0 +1,113 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office contains a memory corruption vulnerability due to failure to properly handle rich text format files in memory. Successful exploitation allows for remote code execution in the context of the current user.",
+	"vulnerabilityName": "Microsoft Office Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-1641"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/",
+			"date_added": "2016-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-new-sofacy-attacks-against-us-government-agency/",
+			"date_added": "2016-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=09308982-77bd-41e0-8269-f2cc9ce3266e&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+			"date_added": "2016-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.forcepoint.com/sites/default/files/resources/files/forcepoint-security-labs-monsoon-analysis-report.pdf",
+			"date_added": "2016-08-08T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-dragonok-updates-toolset-targets-multiple-geographic-regions/",
+			"date_added": "2017-01-05T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+			"date_added": "2017-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.forcepoint.com/de/blog/x-labs/trojanized-adobe-installer-used-install-dragonok-s-new-custom-backdoor",
+			"date_added": "2017-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/microsoft-word-intruder-integrates-cve-2017-0199-utilized-cobalt-group-target",
+			"date_added": "2017-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Cobalt-2017-eng.pdf",
+			"date_added": "2017-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/a-simple-example-of-a-complex-cyberattack/82636/",
+			"date_added": "2017-09-25T00:00:00Z"
+		},
+		{
+			"url": "https://documents.trendmicro.com/assets/tech-brief-untangling-the-patchwork-cyberespionage-group.pdf",
+			"date_added": "2017-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://nciipc.gov.in/documents/NCIIPC_Newsletter_July18.pdf",
+			"date_added": "2018-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/",
+			"date_added": "2018-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.securityweek.com/sophisticated-cyberattack-targets-pakistani-military",
+			"date_added": "2018-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://content.fireeye.com/apt-41/rpt-apt41",
+			"date_added": "2019-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-133a",
+			"date_added": "2020-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/sites/default/files/2022-02/rt-apt41-dual-operation.pdf",
+			"date_added": "2022-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/",
+			"date_added": "2022-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2015-04-14T00:00:00Z"
+}

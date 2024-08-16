@@ -1,0 +1,19 @@
+{
+	"vendorProject": "opera",
+	"product": "opera_browser",
+	"shortDescription": "Opera before 12.10 follows Internet shortcuts that are referenced by a (1) IMG element or (2) other inline element, which makes it easier for remote attackers to conduct phishing attacks via a crafted web site, as exploited in the wild in November 2012.",
+	"vulnerabilityName": "Opera before 12.10 Internet Shortcut Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-6467"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2012-6467",
+			"date_added": "2013-01-02T00:00:00Z"
+		}
+	],
+	"date_added": "2013-01-02T00:00:00Z"
+}

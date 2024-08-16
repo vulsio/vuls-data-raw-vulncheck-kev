@@ -1,0 +1,19 @@
+{
+	"vendorProject": "simpel-reserveren_project",
+	"product": "simpel-reserveren",
+	"shortDescription": "Reflected XSS in wordpress plugin simpel-reserveren v3.5.2",
+	"vulnerabilityName": "simpel-reserveren_project simpel-reserveren Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-1000149"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

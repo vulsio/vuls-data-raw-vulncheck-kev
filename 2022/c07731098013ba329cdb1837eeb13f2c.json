@@ -1,0 +1,19 @@
+{
+	"vendorProject": "userproplugin",
+	"product": "userpro",
+	"shortDescription": "The UserPro plugin before 4.9.17.1 for WordPress, when used on a site with the \"admin\" username, allows remote attackers to bypass authentication and obtain administrative access via a \"true\" value for the up_auto_log parameter in the QUERY_STRING to the default URI.",
+	"vulnerabilityName": "userproplugin userpro Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-16562"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/userpro/userpro-4917-authentication-bypass",
+			"date_added": "2022-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

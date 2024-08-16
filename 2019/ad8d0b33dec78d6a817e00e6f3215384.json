@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Internet Explorer in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8.1 and Windows RT 8.1, Windows Server 2012 R2, and Microsoft Edge and Internet Explorer in Windows 10 Gold, 1511, 1607, 1703, and Windows Server 2016 allow an attacker to execute arbitrary code in the context of the current user due to the way that Microsoft browsers access objects in memory, aka \"Microsoft Browser Memory Corruption Vulnerability\".",
+	"vulnerabilityName": "Microsoft Internet Explorer Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-8750"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.recordedfuture.com/blog/top-vulnerabilities-2018",
+			"date_added": "2019-03-19T00:00:00Z"
+		}
+	],
+	"date_added": "2019-03-19T00:00:00Z"
+}

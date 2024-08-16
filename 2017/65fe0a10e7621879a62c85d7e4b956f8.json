@@ -1,0 +1,71 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Shell in multiple versions of Microsoft Windows allows local users or remote attackers to execute arbitrary code via a crafted .LNK file",
+	"vulnerabilityName": "Microsoft Windows Shell (.lnk) Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-8464"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4680b98695eb",
+			"xdb_url": "https://vulncheck.com/xdb/4680b98695eb",
+			"date_added": "2017-10-03T18:18:28Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:X-Vector/usbhijacking.git"
+		},
+		{
+			"xdb_id": "67cc18b45dde",
+			"xdb_url": "https://vulncheck.com/xdb/67cc18b45dde",
+			"date_added": "2017-08-07T11:56:11Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Securitykid/CVE-2017-8464-exp-generator.git"
+		},
+		{
+			"xdb_id": "6bd690a6cb72",
+			"xdb_url": "https://vulncheck.com/xdb/6bd690a6cb72",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2017-Jun?api-version=2020",
+			"date_added": "2017-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/",
+			"date_added": "2020-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.antiy.cn/research/notice&report/research_report/20230310.html",
+			"date_added": "2023-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.quarkslab.com/how-malware-authors-play-with-the-lnk-file-format.html",
+			"date_added": "2024-05-30T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-10T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2017-06-13T00:00:00Z"
+}

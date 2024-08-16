@@ -1,0 +1,23 @@
+{
+	"vendorProject": "sepal",
+	"product": "spboard",
+	"shortDescription": "board.cgi in Sepal SPBOARD 4.5 allows remote attackers to execute arbitrary commands via shell metacharacters in the file parameter during a down_file action.",
+	"vulnerabilityName": "sepal spboard Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-4873"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securityintelligence.com/posts/botnet-attack-mozi-mozied-into-town/",
+			"date_added": "2020-09-20T00:00:00Z"
+		},
+		{
+			"url": "https://sequretek.com/wp-content/uploads/2018/10/Sequretek-Advisory-Mozi-Botnet.pdf",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-09-20T00:00:00Z"
+}

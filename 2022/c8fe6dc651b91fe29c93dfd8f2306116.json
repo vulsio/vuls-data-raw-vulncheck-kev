@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS, iPadOS, and macOS",
+	"shortDescription": "Apple kernel, which is included in iOS, iPadOS, and macOS, contains an unspecified vulnerability where an application may be able to execute code with kernel privileges.",
+	"vulnerabilityName": "Apple iOS, iPadOS, and macOS Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-32917"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213443",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213445",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213444",
+			"date_added": "2022-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-10-05T00:00:00Z",
+	"cisa_date_added": "2022-09-14T00:00:00Z",
+	"date_added": "2022-09-12T00:00:00Z"
+}

@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer and Edge",
+	"shortDescription": "An information disclosure vulnerability exists in the way that certain functions in Internet Explorer and Edge handle objects in memory. The vulnerability could allow an attacker to detect specific files on the user's computer.",
+	"vulnerabilityName": "Microsoft Internet Explorer and Edge Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2016-3351"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2016-Sep?api-version=2020",
+			"date_added": "2016-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/Microsoft-Patches-Zero-Day-Exploited-By-AdGholas-GooNky-Malvertising",
+			"date_added": "2016-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/microsoft-patches-CVE-2016-3298-second-information-disclosure-zero-day",
+			"date_added": "2016-10-11T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2016-09-13T00:00:00Z"
+}

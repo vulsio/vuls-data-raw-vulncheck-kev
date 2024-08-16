@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The XMLHTTP ActiveX controls in XML Core Services 3.0 in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 allow remote attackers to bypass the Same Origin Policy via a web page that is visited in Internet Explorer, aka \"MSXML Information Disclosure Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0266"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2014/ms14-005",
+			"date_added": "2014-02-28T00:00:00Z"
+		}
+	],
+	"date_added": "2014-02-28T00:00:00Z"
+}

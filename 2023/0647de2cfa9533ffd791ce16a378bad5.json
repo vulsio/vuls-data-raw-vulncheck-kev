@@ -1,0 +1,376 @@
+{
+	"vendorProject": "Grafana Labs",
+	"product": "Grafana",
+	"shortDescription": "Grafana is an open-source platform for monitoring and observability. Grafana versions 8.0.0-beta1 through 8.3.0 (except for patched versions) iss vulnerable to directory traversal, allowing access to local files. The vulnerable URL path is: `<grafana_host_url>/public/plugins//`, where is the plugin ID for any installed plugin. At no time has Grafana Cloud been vulnerable. Users are advised to upgrade to patched versions 8.0.7, 8.1.8, 8.2.7, or 8.3.1. The GitHub Security Advisory contains more information about vulnerable URL paths, mitigation, and the disclosure timeline.",
+	"vulnerabilityName": "Grafana Labs Grafana Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-43798"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d93ebfa49e3f",
+			"xdb_url": "https://vulncheck.com/xdb/d93ebfa49e3f",
+			"date_added": "2023-01-28T11:12:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mauricelambert/LabAutomationCVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "0179b38de8b1",
+			"xdb_url": "https://vulncheck.com/xdb/0179b38de8b1",
+			"date_added": "2022-12-14T05:11:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:YourKeeper/SunScope.git"
+		},
+		{
+			"xdb_id": "47360e2fa8a7",
+			"xdb_url": "https://vulncheck.com/xdb/47360e2fa8a7",
+			"date_added": "2023-05-12T04:10:09Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:FAOG99/GrafanaDirectoryScanner.git"
+		},
+		{
+			"xdb_id": "dcbb42eac115",
+			"xdb_url": "https://vulncheck.com/xdb/dcbb42eac115",
+			"date_added": "2023-07-19T04:16:39Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:nuker/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "43679b863e14",
+			"xdb_url": "https://vulncheck.com/xdb/43679b863e14",
+			"date_added": "2023-01-09T05:53:30Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:G01d3nW01f/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "236e72e66850",
+			"xdb_url": "https://vulncheck.com/xdb/236e72e66850",
+			"date_added": "2023-09-03T04:11:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:victorhorowitz/grafana-exploit-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "76da90988455",
+			"xdb_url": "https://vulncheck.com/xdb/76da90988455",
+			"date_added": "2023-10-26T14:21:49Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:katseyres2/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "28282a16a3eb",
+			"xdb_url": "https://vulncheck.com/xdb/28282a16a3eb",
+			"date_added": "2023-11-21T11:24:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Iris288/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "cfb186619041",
+			"xdb_url": "https://vulncheck.com/xdb/cfb186619041",
+			"date_added": "2023-12-21T14:24:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wagneralves/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "5963aa3ef062",
+			"xdb_url": "https://vulncheck.com/xdb/5963aa3ef062",
+			"date_added": "2021-12-08T07:06:58Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:JiuBanSec/Grafana-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "f73a10b5f83e",
+			"xdb_url": "https://vulncheck.com/xdb/f73a10b5f83e",
+			"date_added": "2021-12-17T07:03:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:k3rwin/CVE-2021-43798-Grafana-.git"
+		},
+		{
+			"xdb_id": "c7d6a0367ea8",
+			"xdb_url": "https://vulncheck.com/xdb/c7d6a0367ea8",
+			"date_added": "2022-01-18T21:04:39Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:aymenbouferroum/CVE-2021-43798_exploit.git"
+		},
+		{
+			"xdb_id": "845c7456e143",
+			"xdb_url": "https://vulncheck.com/xdb/845c7456e143",
+			"date_added": "2022-02-25T09:26:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Jroo1053/GrafanaDirInclusion.git"
+		},
+		{
+			"xdb_id": "fe083a078074",
+			"xdb_url": "https://vulncheck.com/xdb/fe083a078074",
+			"date_added": "2021-12-07T08:59:11Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:zer0yu/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "3637711ddf71",
+			"xdb_url": "https://vulncheck.com/xdb/3637711ddf71",
+			"date_added": "2024-03-27T21:47:06Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ticofookfook/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "3580302b2997",
+			"xdb_url": "https://vulncheck.com/xdb/3580302b2997",
+			"date_added": "2024-04-24T20:47:29Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:topyagyuu/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "494429e61d1c",
+			"xdb_url": "https://vulncheck.com/xdb/494429e61d1c",
+			"date_added": "2024-03-28T19:45:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:xchg-rax-rax/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "0ed14962e0b7",
+			"xdb_url": "https://vulncheck.com/xdb/0ed14962e0b7",
+			"date_added": "2024-06-19T23:27:01Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MalekAlthubiany/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "f6ae44bade08",
+			"xdb_url": "https://vulncheck.com/xdb/f6ae44bade08",
+			"date_added": "2024-07-02T08:43:45Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Sic4rio/Grafana-Decryptor-for-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "558378a73ba5",
+			"xdb_url": "https://vulncheck.com/xdb/558378a73ba5",
+			"date_added": "2021-12-06T20:10:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:taythebot/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "8773828620b6",
+			"xdb_url": "https://vulncheck.com/xdb/8773828620b6",
+			"date_added": "2024-03-04T18:32:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-43798-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "ff14ea986b7e",
+			"xdb_url": "https://vulncheck.com/xdb/ff14ea986b7e",
+			"date_added": "2021-12-07T12:47:58Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "aaf92101142b",
+			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
+			"date_added": "2021-12-07T15:11:34Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
+		},
+		{
+			"xdb_id": "d9658825dfe1",
+			"xdb_url": "https://vulncheck.com/xdb/d9658825dfe1",
+			"date_added": "2021-12-08T00:47:00Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:scopion/CVE-2021-43799.git"
+		},
+		{
+			"xdb_id": "5ef2f8e69303",
+			"xdb_url": "https://vulncheck.com/xdb/5ef2f8e69303",
+			"date_added": "2021-12-07T09:02:16Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jas502n/Grafana-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "5489d7843c65",
+			"xdb_url": "https://vulncheck.com/xdb/5489d7843c65",
+			"date_added": "2022-01-14T17:33:00+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-43798-mass_scanner.git"
+		},
+		{
+			"xdb_id": "c0cccaf08786",
+			"xdb_url": "https://vulncheck.com/xdb/c0cccaf08786",
+			"date_added": "2021-12-10T06:05:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitlab.com:bybsecs/Grafana_POC-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "2a0d639ed860",
+			"xdb_url": "https://vulncheck.com/xdb/2a0d639ed860",
+			"date_added": "2021-12-10T06:10:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitlab.com:bybsecs/CVE-2021-43798-Grafana-Exp.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-02&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2023-12-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-24&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2023-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-22&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-24&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-28&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-01-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-30&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-03&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-08&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-14&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-15&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-16&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-19&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-20&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-27&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-29&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-11&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-16&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-22&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-26&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-03-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-02&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-06&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-11&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-08&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-05-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-12&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-19&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-05-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-18&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-19&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-03&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-20&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-07-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-21&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-02T00:00:00Z"
+}

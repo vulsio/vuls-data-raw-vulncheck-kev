@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "psexec",
+	"shortDescription": "Sysinternals PsExec Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft psexec Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-1733"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://medium.com/s2wblog/detailed-analysis-of-darkgate-investigating-new-top-trend-backdoor-malware-0545ecf5f606",
+			"date_added": "2024-01-16T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-16T00:00:00Z"
+}

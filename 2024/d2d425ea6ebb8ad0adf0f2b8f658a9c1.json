@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Citrix",
+	"product": "netscaler_gateway_11.0",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in vpn/js/gateway_login_form_view.js in Citrix NetScaler Gateway 11.0 before Build 66.11 allows remote attackers to inject arbitrary web script or HTML via the NSC_TMAC cookie.",
+	"vulnerabilityName": "Citrix netscaler_gateway_11.0 Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-4945"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/2024-ddos-attack-trends",
+			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-16T00:00:00Z"
+}

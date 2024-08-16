@@ -1,0 +1,199 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office contains a memory corruption vulnerability due to the way objects are handled in memory. Successful exploitation allows for remote code execution in the context of the current user. This vulnerability is known to be chained with CVE-2018-0798.",
+	"vulnerabilityName": "Microsoft Office Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-0802"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9de5d4bf2056",
+			"xdb_url": "https://vulncheck.com/xdb/9de5d4bf2056",
+			"date_added": "2021-02-20T02:34:16Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:roninAPT/CVE-2018-0802.git"
+		},
+		{
+			"xdb_id": "587274489c45",
+			"xdb_url": "https://vulncheck.com/xdb/587274489c45",
+			"date_added": "2018-01-16T05:49:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:likescam/CVE-2018-0802_CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "3eb61ae72bb4",
+			"xdb_url": "https://vulncheck.com/xdb/3eb61ae72bb4",
+			"date_added": "2018-01-12T11:38:33Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/RTF_11882_0802.git"
+		},
+		{
+			"xdb_id": "79b5c2826fcb",
+			"xdb_url": "https://vulncheck.com/xdb/79b5c2826fcb",
+			"date_added": "2018-01-11T09:43:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rxwx/CVE-2018-0802.git"
+		},
+		{
+			"xdb_id": "d2e01d805674",
+			"xdb_url": "https://vulncheck.com/xdb/d2e01d805674",
+			"date_added": "2018-01-11T09:16:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:zldww2011/CVE-2018-0802_POC.git"
+		},
+		{
+			"xdb_id": "e0e7653da293",
+			"xdb_url": "https://vulncheck.com/xdb/e0e7653da293",
+			"date_added": "2021-02-22T21:50:35+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:Solitude-Echo/cve-2018-0802.git"
+		},
+		{
+			"xdb_id": "2b50b68aab89",
+			"xdb_url": "https://vulncheck.com/xdb/2b50b68aab89",
+			"date_added": "2020-05-17T05:38:47Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:daedalus1/CVE-2018-0802.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2018-01-09T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2018-Jan?api-version=2020",
+			"date_added": "2018-01-09T00:00:00Z"
+		},
+		{
+			"url": "https://resources.malwarebytes.com/files/2020/04/200407-MWB-COVID-White-Paper_Final.pdf",
+			"date_added": "2015-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.freebuf.com/column/159865.html",
+			"date_added": "2018-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html",
+			"date_added": "2018-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/18/c/tropic-trooper-new-strategy.html",
+			"date_added": "2018-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2018-0626.pdf",
+			"date_added": "2018-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/two-birds-one-stone-panda/",
+			"date_added": "2018-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_moving-into-the-darkside.pdf",
+			"date_added": "2018-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.africacybersecurityconference.com/document/CrowdStrike_GTR_2019.pdf",
+			"date_added": "2018-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://documents.trendmicro.com/assets/pdf/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf",
+			"date_added": "2019-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_2.0.going_global.pdf",
+			"date_added": "2019-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/recent-cloud-atlas-activity/92016/",
+			"date_added": "2019-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cycldek-bridging-the-air-gap/97157/",
+			"date_added": "2020-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://nao-sec.org/2021/01/royal-road-redive.html",
+			"date_added": "2021-01-04T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/the-leap-of-a-cycldek-related-threat-actor/101243/",
+			"date_added": "2021-04-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybereason.com/blog/research/portdoor-new-chinese-apt-backdoor-attack-targets-russian-defense-sector",
+			"date_added": "2021-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2021/08/unc215-chinese-espionage-campaign-in-israel.html",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2022/05/bitter-apt-adds-bangladesh-to-their.html",
+			"date_added": "2022-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2022-0922.pdf",
+			"date_added": "2022-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2022/cloud-atlas-targets-entities-in-russia-and-belarus-amid-the-ongoing-war-in-ukraine/",
+			"date_added": "2022-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/tonto-team/",
+			"date_added": "2023-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bitdefender.com/blog/hotforsecurity/bitdefender-labs-warns-of-agent-tesla-phishing-campaign/",
+			"date_added": "2023-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q2-2023-non-mobile-statistics/110413/",
+			"date_added": "2023-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document",
+			"date_added": "2023-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/maldocs-of-word-and-excel-vigor-of-the-ages/",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/spam-phishing-report-2023/112015/",
+			"date_added": "2024-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorb-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2015-04-15T00:00:00Z"
+}

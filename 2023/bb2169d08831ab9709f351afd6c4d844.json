@@ -1,0 +1,19 @@
+{
+	"vendorProject": "cozmoslabs",
+	"product": "profile_builder",
+	"shortDescription": "The User Registration & User Profile – Profile Builder WordPress plugin before 3.4.9 has a bug allowing any user to reset the password of the admin of the blog, and gain unauthorised access, due to a bypass in the way the reset key is checked. Furthermore, the admin will not be notified of such change by email for example.",
+	"vulnerabilityName": "cozmoslabs profile_builder Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24527"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/profile-builder/profile-builder-348-admin-access-via-password-reset",
+			"date_added": "2023-01-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-11T00:00:00Z"
+}

@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Samsung",
+	"product": "Mobile Devices",
+	"shortDescription": "Samsung devices with selected Exynos chipsets contain a use-after-free vulnerability that allows malicious memory write and code execution.",
+	"vulnerabilityName": "Samsung Mobile Devices Use-After-Free Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-22265"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2022/CVE-2022-22265.html",
+			"date_added": "2022-01-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-09T00:00:00Z",
+	"cisa_date_added": "2023-09-18T00:00:00Z",
+	"date_added": "2022-01-01T00:00:00Z"
+}

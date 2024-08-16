@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Streaming Service",
+	"shortDescription": "Microsoft Streaming Service contains an untrusted pointer dereference vulnerability that allows for privilege escalation, enabling a local attacker to gain SYSTEM privileges.",
+	"vulnerabilityName": "Microsoft Streaming Service Untrusted Pointer Dereference Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-29360"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c4506a525065",
+			"xdb_url": "https://vulncheck.com/xdb/c4506a525065",
+			"date_added": "2023-10-19T19:56:57Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:exotikcheat/cve-2023-29360.git"
+		},
+		{
+			"xdb_id": "f4d98c781e76",
+			"xdb_url": "https://vulncheck.com/xdb/f4d98c781e76",
+			"date_added": "2023-09-24T21:59:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-29360.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/raspberry-robin-keeps-riding-the-wave-of-endless-1-days/",
+			"date_added": "2024-02-07T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-03-21T00:00:00Z",
+	"cisa_date_added": "2024-02-29T00:00:00Z",
+	"date_added": "2024-02-07T00:00:00Z"
+}

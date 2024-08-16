@@ -1,0 +1,19 @@
+{
+	"vendorProject": "dnnsoftware",
+	"product": "dotnetnuke",
+	"shortDescription": "DNN (aka DotNetNuke) before 9.2.0 suffers from a Server-Side Request Forgery (SSRF) vulnerability in the DnnImageHandler class. Attackers may be able to access information about internal network resources.",
+	"vulnerabilityName": "dnnsoftware dotnetnuke Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0929"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

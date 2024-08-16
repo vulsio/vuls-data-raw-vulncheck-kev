@@ -1,0 +1,19 @@
+{
+	"vendorProject": "maianscriptworld",
+	"product": "maian_cart",
+	"shortDescription": "Maian Cart v3.8 contains a preauthorization remote code execution (RCE) exploit via a broken access control issue in the Elfinder plugin.",
+	"vulnerabilityName": "maianscriptworld maian_cart Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-32172"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

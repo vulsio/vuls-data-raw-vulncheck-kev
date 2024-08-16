@@ -1,0 +1,157 @@
+{
+	"vendorProject": "Microsoft",
+	"product": ".NET Framework",
+	"shortDescription": "Microsoft .NET Framework contains a remote code execution vulnerability when processing untrusted input that could allow an attacker to take control of an affected system.",
+	"vulnerabilityName": "Microsoft .NET Framework Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-8759"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c10cc081a401",
+			"xdb_url": "https://vulncheck.com/xdb/c10cc081a401",
+			"date_added": "2020-01-02T07:43:19Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:zhengkook/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "8334ffed12fa",
+			"xdb_url": "https://vulncheck.com/xdb/8334ffed12fa",
+			"date_added": "2017-09-17T22:05:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:JonasUliana/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "78581acb6157",
+			"xdb_url": "https://vulncheck.com/xdb/78581acb6157",
+			"date_added": "2019-06-25T02:17:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:adeljck/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "4b60da5761a0",
+			"xdb_url": "https://vulncheck.com/xdb/4b60da5761a0",
+			"date_added": "2019-05-24T06:29:45Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:smashinu/CVE-2017-8759Expoit.git"
+		},
+		{
+			"xdb_id": "9b87d37fcb73",
+			"xdb_url": "https://vulncheck.com/xdb/9b87d37fcb73",
+			"date_added": "2017-09-13T20:27:29Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BasuCert/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "95e9d2508a2b",
+			"xdb_url": "https://vulncheck.com/xdb/95e9d2508a2b",
+			"date_added": "2017-09-15T00:36:17Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Lz1y/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "4107da43504a",
+			"xdb_url": "https://vulncheck.com/xdb/4107da43504a",
+			"date_added": "2017-09-13T15:24:10Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:nccgroup/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "ed1021bf7878",
+			"xdb_url": "https://vulncheck.com/xdb/ed1021bf7878",
+			"date_added": "2017-09-19T06:12:10Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ashr/CVE-2017-8759-exploits.git"
+		},
+		{
+			"xdb_id": "e28825904312",
+			"xdb_url": "https://vulncheck.com/xdb/e28825904312",
+			"date_added": "2017-09-13T09:50:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Voulnet/CVE-2017-8759-Exploit-sample.git"
+		},
+		{
+			"xdb_id": "0187c7bde1e5",
+			"xdb_url": "https://vulncheck.com/xdb/0187c7bde1e5",
+			"date_added": "2017-09-14T10:04:39Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "2c3cc4e5f0ef",
+			"xdb_url": "https://vulncheck.com/xdb/2c3cc4e5f0ef",
+			"date_added": "2017-09-13T17:10:18Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vysecurity/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "074916446e1c",
+			"xdb_url": "https://vulncheck.com/xdb/074916446e1c",
+			"date_added": "2022-01-11T22:20:06+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_Voulnet/CVE-2017-8759-Exploit-sample.git"
+		},
+		{
+			"xdb_id": "229e0e29b71b",
+			"xdb_url": "https://vulncheck.com/xdb/229e0e29b71b",
+			"date_added": "2022-01-11T20:33:10+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_bhdresh/CVE-2017-8759.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2017-Sep?api-version=2020",
+			"date_added": "2017-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2017/09/zero-day-used-to-distribute-finspy.html",
+			"date_added": "2017-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/",
+			"date_added": "2017-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets",
+			"date_added": "2017-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/17/k/cobalt-spam-runs-use-macros-cve-2017-8759-exploit.html",
+			"date_added": "2017-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html",
+			"date_added": "2019-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2019/07/sweed-agent-tesla.html",
+			"date_added": "2019-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-133a",
+			"date_added": "2020-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/hi1YgUUHnFDGf26cUXJkQQ",
+			"date_added": "2023-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/threat-actor-profiles/threat-actor-profile-leviathan/",
+			"date_added": "2024-08-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2017-09-12T00:00:00Z"
+}

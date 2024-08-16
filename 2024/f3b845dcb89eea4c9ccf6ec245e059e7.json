@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Android",
+	"product": "Pixel",
+	"shortDescription": "Android Pixel contains a privilege escalation vulnerability that allows an attacker to interrupt a factory reset triggered by a device admin app.",
+	"vulnerabilityName": "Android Pixel Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-29748"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://source.android.com/docs/security/bulletin/pixel/2024-04-01",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://x.com/GrapheneOS/status/1775305179581018286",
+			"date_added": "2024-04-02T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-04-25T00:00:00Z",
+	"cisa_date_added": "2024-04-04T00:00:00Z",
+	"date_added": "2024-04-02T00:00:00Z"
+}

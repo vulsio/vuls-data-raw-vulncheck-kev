@@ -1,0 +1,19 @@
+{
+	"vendorProject": "roundupwp",
+	"product": "registrations_for_the_events_calendar",
+	"shortDescription": "The Registrations for the Events Calendar WordPress plugin before 2.7.6 does not sanitise and escape the event_id in the rtec_send_unregister_link AJAX action (available to both unauthenticated and authenticated users) before using it in a SQL statement, leading to an unauthenticated SQL injection.",
+	"vulnerabilityName": "roundupwp registrations_for_the_events_calendar Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24943"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/registrations-for-the-events-calendar/wordpress-registrations-for-the-events-calendar-plugin-2-7-5-sql-injection-sqli-vulnerability",
+			"date_added": "2021-11-08T00:00:00Z"
+		}
+	],
+	"date_added": "2021-11-08T00:00:00Z"
+}

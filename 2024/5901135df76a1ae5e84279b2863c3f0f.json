@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Cisco",
+	"product": "NX-OS",
+	"shortDescription": "Cisco NX-OS contains a command injection vulnerability in the command line interface (CLI) that could allow an authenticated, local attacker to execute commands as root on the underlying operating system of an affected device.",
+	"vulnerabilityName": "Cisco NX-OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-20399"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.zero-day.cz/database/894/",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.sygnia.co/threat-reports-and-advisories/china-nexus-threat-group-velvet-ant-exploits-cisco-0-day/",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-cmd-injection-xD9OhyOP",
+			"date_added": "2024-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/resources-tools/resources/secure-design-alert-eliminating-os-command-injection-vulnerabilities",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cybersecurity-snapshot-cisa-tells-tech-vendors-to-squash-command-injection-bugs-as-openssf",
+			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://eclypsium.com/wp-content/uploads/Eclypsium-Threat-Report-Summer-2024.pdf",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2024/08/06/2024-midyear-threat-landscape-review",
+			"date_added": "2024-08-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-23T00:00:00Z",
+	"cisa_date_added": "2024-07-02T00:00:00Z",
+	"date_added": "2024-07-01T00:00:00Z"
+}

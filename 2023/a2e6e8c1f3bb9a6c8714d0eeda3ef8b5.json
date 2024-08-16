@@ -1,0 +1,19 @@
+{
+	"vendorProject": "iubenda",
+	"product": "iubenda-cookie-law-solution",
+	"shortDescription": "The iubenda WordPress plugin before 3.3.3 does does not have authorisation and CSRF in an AJAX action, and does not ensure that the options to be updated belong to the plugin as long as they are arrays. As a result, any authenticated users, such as subscriber can grant themselves any privileges, such as edit_plugins etc",
+	"vulnerabilityName": "iubenda iubenda-cookie-law-solution Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3911"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/iubenda-cookie-law-solution/iubenda-332-authenticated-subscriber-privilege-escalation",
+			"date_added": "2023-02-02T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-02T00:00:00Z"
+}

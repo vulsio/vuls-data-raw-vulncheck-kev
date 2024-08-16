@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Cisco",
+	"product": "linksys_firmware",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in debug.cgi in Linksys WAP54Gv3 firmware 3.05.03 and 3.04.03 allows remote attackers to inject arbitrary web script or HTML via the data1 parameter.",
+	"vulnerabilityName": "Cisco linksys_firmware Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-2506"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-22T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "MacOS X",
+	"shortDescription": "This issue was addressed with improved iframe sandbox enforcement. This issue is fixed in macOS Big Sur 11.2, Security Update 2021-001 Catalina, Security Update 2021-001 Mojave. Maliciously crafted web content may violate iframe sandboxing policy.",
+	"vulnerabilityName": "Apple macOS iframe Sandbox Enforcement Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-1765"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.confiant.com/malvertising-threat-actor-yosec-exploits-browser-bugs-to-push-malware-cve-2021-1765-3040dd3c4af1",
+			"date_added": "2021-08-16T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-16T00:00:00Z"
+}

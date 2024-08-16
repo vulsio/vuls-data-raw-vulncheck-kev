@@ -1,0 +1,34 @@
+{
+	"vendorProject": "weblizar",
+	"product": "school_management",
+	"shortDescription": "The School Management WordPress plugin before 9.9.7 contains an obfuscated backdoor injected in it's license checking code that registers a REST API handler, allowing an unauthenticated attacker to execute arbitrary PHP code on the site.",
+	"vulnerabilityName": "weblizar school_management Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-1609"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c32c76ba709f",
+			"xdb_url": "https://vulncheck.com/xdb/c32c76ba709f",
+			"date_added": "2022-05-27T13:15:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-1609.git"
+		},
+		{
+			"xdb_id": "a1cbbf0cfbad",
+			"xdb_url": "https://vulncheck.com/xdb/a1cbbf0cfbad",
+			"date_added": "2023-04-22T12:51:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:w4r3s/cve-2022-1609-exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/school-management-pro/wordpress-school-management-pro-premium-plugin-9-9-7-unauthenticated-remote-code-execution-rce-via-rest-api",
+			"date_added": "2022-05-20T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-20T00:00:00Z"
+}

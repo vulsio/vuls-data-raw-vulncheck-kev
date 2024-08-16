@@ -1,0 +1,98 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Commerce and Magento Open Source",
+	"shortDescription": "Adobe Commerce and Magento Open Source contain an improper input validation vulnerability which can allow for arbitrary code execution.",
+	"vulnerabilityName": "Adobe Commerce and Magento Open Source Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-24086"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7d60b3d01025",
+			"xdb_url": "https://vulncheck.com/xdb/7d60b3d01025",
+			"date_added": "2023-09-03T17:27:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BurpRoot/CVE-2022-24086.git"
+		},
+		{
+			"xdb_id": "44b62a8bb94b",
+			"xdb_url": "https://vulncheck.com/xdb/44b62a8bb94b",
+			"date_added": "2022-02-20T13:52:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2022-24086.git"
+		},
+		{
+			"xdb_id": "b307483bd289",
+			"xdb_url": "https://vulncheck.com/xdb/b307483bd289",
+			"date_added": "2022-12-20T13:44:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pescepilota/CVE-2022-24086.git"
+		},
+		{
+			"xdb_id": "a001349657ca",
+			"xdb_url": "https://vulncheck.com/xdb/a001349657ca",
+			"date_added": "2022-02-28T05:24:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nanaao/CVE-2022-24086-RCE.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-14&host_type=src&vulnerability=cve-2022-24086",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-15&host_type=src&vulnerability=cve-2022-24086",
+			"date_added": "2024-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-16&host_type=src&vulnerability=cve-2022-24086",
+			"date_added": "2024-02-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-17&host_type=src&vulnerability=cve-2022-24086",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/emergency-magento-update-fixes-zero-day-bug-exploited-in-attacks/",
+			"date_added": "2022-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://sansec.io/research/vendors-defeat-magento-security-patch-simple-check",
+			"date_added": "2023-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell",
+			"date_added": "2023-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/magnet-goblin-targets-publicly-facing-servers-using-1-day-vulnerabilities/",
+			"date_added": "2024-03-08T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-01T00:00:00Z",
+	"cisa_date_added": "2022-02-15T00:00:00Z",
+	"date_added": "2022-02-14T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "jboss_enterprise_soa_platform",
+	"shortDescription": "The default configuration of the deployment descriptor (aka web.xml) in picketlink-sts.war in (1) the security_saml quickstart, (2) the webservice_proxy_security quickstart, (3) the web-console application, (4) the http-invoker application, (5) the gpd-deployer application, (6) the jbpm-console application, (7) the contract application, and (8) the uddi-console application in JBoss Enterprise SOA Platform before 5.0.2 contains GET and POST http-method elements, which allows remote attackers to bypass intended access restrictions via a crafted HTTP request.",
+	"vulnerabilityName": "JBoss Enterprise SOA Platform before 5.0.2 contains GET and POST http-method Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2010-2493"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		}
+	],
+	"date_added": "2016-03-25T00:00:00Z"
+}

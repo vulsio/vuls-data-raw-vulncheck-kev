@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Roundcube",
+	"product": "Roundcube Webmail",
+	"shortDescription": "Roundcube Webmail contains a cross-site scripting (XSS) vulnerability that allows a remote attacker to manipulate data via a malicious XML attachment.",
+	"vulnerabilityName": "Roundcube Webmail Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-13965"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-06-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-07-17T00:00:00Z",
+	"cisa_date_added": "2024-06-26T00:00:00Z",
+	"date_added": "2024-06-26T00:00:00Z"
+}

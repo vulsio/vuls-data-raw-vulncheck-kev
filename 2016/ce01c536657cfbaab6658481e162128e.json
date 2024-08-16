@@ -1,0 +1,27 @@
+{
+	"vendorProject": "WatchGuard",
+	"product": "rapidstream",
+	"shortDescription": "WatchGuard RapidStream appliances allow local users to gain privileges and execute arbitrary commands via a crafted ifconfig command, aka ESCALATEPLOWMAN.",
+	"vulnerabilityName": "WatchGuard RapidStream Appliances Command Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-7089"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/ncas/alerts/TA16-250A",
+			"date_added": "2016-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/08/01/recent-email-phishing-campaigns-mitigation-and-response",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		}
+	],
+	"date_added": "2016-09-28T00:00:00Z"
+}

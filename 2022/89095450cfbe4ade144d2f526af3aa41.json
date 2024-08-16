@@ -1,0 +1,33 @@
+{
+	"vendorProject": "WatchGuard",
+	"product": "Firebox and XTM Appliances",
+	"shortDescription": "WatchGuard Firebox and XTM appliances allow a remote attacker with unprivileged credentials to access the system with a privileged management session via exposed management access.",
+	"vulnerabilityName": "WatchGuard Firebox and XTM Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-23176"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-11T00:00:00Z"
+		},
+		{
+			"url": "https://arstechnica.com/information-technology/2022/04/watchguard-failed-to-disclose-critical-flaw-exploited-by-russian-hackers/",
+			"date_added": "2022-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.prio-n.com/a-year-in-review-2022-100-vulnerabilities-you-should-prioritize/",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://hub.dragos.com/hubfs/312-Year-in-Review/2022/Dragos_Year-In-Review-Report-2022.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-02T00:00:00Z",
+	"cisa_date_added": "2022-04-11T00:00:00Z",
+	"date_added": "2022-03-17T00:00:00Z"
+}

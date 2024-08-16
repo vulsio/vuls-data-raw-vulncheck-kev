@@ -1,0 +1,19 @@
+{
+	"vendorProject": "stylemixthemes",
+	"product": "motors_-_car_dealer\\,_classifieds_\\&_listing",
+	"shortDescription": "includes/options.php in the motors-car-dealership-classified-listings (aka Motors - Car Dealer & Classified Ads) plugin through 1.4.0 for WordPress allows unauthenticated options changes.",
+	"vulnerabilityName": "stylemixthemes motors_-_car_dealer\\,_classifieds_\\&_listing Insufficient Verification of Data Authenticity",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-17228"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/motors-car-dealership-classified-listings/motors-car-dealer-classified-ads-140-unauthenticated-settings-importexport",
+			"date_added": "2022-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

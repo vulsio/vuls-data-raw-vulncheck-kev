@@ -1,0 +1,27 @@
+{
+	"vendorProject": "wpchill",
+	"product": "download_monitor",
+	"shortDescription": "Exposure of Sensitive Information to an Unauthorized Actor vulnerability in WPChill Download Monitor.This issue affects Download Monitor: from n/a through 4.7.60.\n\n",
+	"vulnerabilityName": "WPChill Download Monitor Information Disclosure",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45354"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4df5b4759634",
+			"xdb_url": "https://vulncheck.com/xdb/4df5b4759634",
+			"date_added": "2023-07-11T09:51:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2022-45354.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/download-monitor/wordpress-download-monitor-plugin-4-7-60-sensitive-data-exposure-vulnerability",
+			"date_added": "2023-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-10T00:00:00Z"
+}

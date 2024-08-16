@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Oracle",
+	"product": "jdk",
+	"shortDescription": "Unspecified vulnerability in the Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 6 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Beans, a different vulnerability than CVE-2012-3136.  NOTE: Oracle has not commented on claims from a downstream vendor that this issue is related to \"XMLDecoder security issue via ClassFinder.\"",
+	"vulnerabilityName": "Oracle Java SE 7 Update 6 and earlier Java Runtime Environment (JRE) Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-1682"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/adobe-flash-player-0-day-and-hackingteams-remote-control-system/64215/",
+			"date_added": "2013-02-12T00:00:00Z"
+		}
+	],
+	"date_added": "2013-02-12T00:00:00Z"
+}

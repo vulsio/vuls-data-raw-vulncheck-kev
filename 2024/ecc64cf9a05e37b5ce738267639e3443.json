@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Citrix",
+	"product": "NetScaler ADC and NetScaler Gateway",
+	"shortDescription": "Citrix NetScaler ADC and NetScaler Gateway contain a code injection vulnerability that allows for authenticated remote code execution on the management interface with access to NSIP, CLIP, or SNIP.",
+	"vulnerabilityName": "Citrix NetScaler ADC and NetScaler Gateway Code Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6548"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://support.citrix.com/article/CTX584986/netscaler-adc-and-netscaler-gateway-security-bulletin-for-cve20236548-and-cve20236549",
+			"date_added": "2024-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2023-6548-cve-2023-6549-zero-day-vulnerabilities-netscaler-adc-gateway-exploited",
+			"date_added": "2024-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://redsense.com/publications/yearly-intel-trend-review-2023/",
+			"date_added": "2024-01-30T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-24T00:00:00Z",
+	"cisa_date_added": "2024-01-17T00:00:00Z",
+	"date_added": "2024-01-16T00:00:00Z"
+}

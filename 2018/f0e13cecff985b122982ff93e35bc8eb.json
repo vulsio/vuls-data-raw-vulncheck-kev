@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-645 Router",
+	"shortDescription": "Stack-based buffer overflow in the DIR-645 Wired/Wireless Router Rev. Ax with firmware 1.04b12 and earlier allows remote attackers to execute arbitrary code via a long string in a GetDeviceSettings action to the HNAP interface.",
+	"vulnerabilityName": "D-Link DIR-645 Router Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-2052"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.newskysecurity.com/masuta-satori-creators-second-botnet-weaponizes-a-new-router-exploit-2ddc51cc52a7",
+			"date_added": "2018-01-23T00:00:00Z"
+		}
+	],
+	"date_added": "2018-01-23T00:00:00Z"
+}

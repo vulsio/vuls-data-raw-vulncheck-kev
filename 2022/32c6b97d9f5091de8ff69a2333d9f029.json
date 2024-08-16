@@ -1,0 +1,72 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server contains an unspecified vulnerability that allows for privilege escalation. This vulnerability is chainable with CVE-2022-41082, which allows for remote code execution.",
+	"vulnerabilityName": "Microsoft Exchange Server Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-41080"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "3e1c1c7ad5b2",
+			"xdb_url": "https://vulncheck.com/xdb/3e1c1c7ad5b2",
+			"date_added": "2022-12-23T23:46:36Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:ohnonoyesyes/CVE-2022-41080.git"
+		},
+		{
+			"xdb_id": "96274752561d",
+			"xdb_url": "https://vulncheck.com/xdb/96274752561d",
+			"date_added": "2022-12-22T09:35:26Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:balki97/OWASSRF-CVE-2022-41082-POC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/owassrf-exploit-analysis-and-recommendations/",
+			"date_added": "2022-12-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/microsoft-cuba-ransomware-hacking-exchange-servers-via-owassrf-flaw/",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.dragos.com/blog/ransomware-attack-analysis-q1-2023/",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2023-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf",
+			"date_added": "2023-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-01-31T00:00:00Z",
+	"cisa_date_added": "2023-01-10T00:00:00Z",
+	"date_added": "2022-12-20T00:00:00Z"
+}

@@ -1,0 +1,40 @@
+{
+	"vendorProject": "MinIO",
+	"product": "MinIO",
+	"shortDescription": "MinIO contains a security feature bypass vulnerability that allows an attacker to use crafted requests to bypass metadata bucket name checking and put an object into any bucket while processing `PostPolicyBucket` to conduct privilege escalation. To carry out this attack, the attacker requires credentials with `arn:aws:s3:::*` permission, as well as enabled Console API access.",
+	"vulnerabilityName": "MinIO Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28434"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ed33127b0327",
+			"xdb_url": "https://vulncheck.com/xdb/ed33127b0327",
+			"date_added": "2023-03-23T14:44:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28434.git"
+		},
+		{
+			"xdb_id": "ba8d8634a7d1",
+			"xdb_url": "https://vulncheck.com/xdb/ba8d8634a7d1",
+			"date_added": "2023-03-27T08:53:04Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:AbelChe/evil_minio.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.securityjoes.com/post/new-attack-vector-in-the-cloud-attackers-caught-exploiting-object-storage-services",
+			"date_added": "2023-09-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-10T00:00:00Z",
+	"cisa_date_added": "2023-09-19T00:00:00Z",
+	"date_added": "2023-09-04T00:00:00Z"
+}

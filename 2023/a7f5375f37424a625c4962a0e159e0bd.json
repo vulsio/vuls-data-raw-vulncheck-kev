@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Google",
+	"product": "Chrome",
+	"shortDescription": "Type confusion in V8 in Google Chrome prior to 103.0.5060.114 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.",
+	"vulnerabilityName": "Google Chrome Access of Resource Using Incompatible Type ('Type Confusion')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-2295"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://socradar.io/dark-web-profile-medusa-ransomware-medusalocker/",
+			"date_added": "2023-09-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-05T00:00:00Z"
+}

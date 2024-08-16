@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "A use-after-free vulnerability in Apple iOS, macOS, tvOS, and watchOS could allow a malicious application to execute code with system privileges.",
+	"vulnerabilityName": "Apple Multiple Products Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8605"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e1003c53cc92",
+			"xdb_url": "https://vulncheck.com/xdb/e1003c53cc92",
+			"date_added": "2021-01-15T06:12:14Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:1nteger-c/CVE-2019-8605.git"
+		},
+		{
+			"xdb_id": "05dcb535155a",
+			"xdb_url": "https://vulncheck.com/xdb/05dcb535155a",
+			"date_added": "2020-01-20T00:33:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jsherman212/used_sock.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-27T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-18T00:00:00Z",
+	"cisa_date_added": "2022-06-27T00:00:00Z",
+	"date_added": "2022-06-27T00:00:00Z"
+}

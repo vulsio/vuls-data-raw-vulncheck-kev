@@ -1,0 +1,27 @@
+{
+	"vendorProject": "thimpress",
+	"product": "learnpress",
+	"shortDescription": "Local File Inclusion vulnerability in LearnPress – WordPress LMS Plugin <= 4.1.7.3.2 versions.",
+	"vulnerabilityName": "thimpress learnpress Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-47615"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b85e21cb0c8e",
+			"xdb_url": "https://vulncheck.com/xdb/b85e21cb0c8e",
+			"date_added": "2023-08-18T15:04:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2022-47615.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/learnpress/wordpress-learnpress-plugin-4-1-7-3-2-local-file-inclusion",
+			"date_added": "2023-01-20T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-20T00:00:00Z"
+}

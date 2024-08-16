@@ -1,0 +1,19 @@
+{
+	"vendorProject": "sun",
+	"product": "jdk",
+	"shortDescription": "The Java Runtime Environment (JRE) for Sun JDK and JRE 6 Update 10 and earlier; JDK and JRE 5.0 Update 16 and earlier; and SDK and JRE 1.4.2_18 and earlier does not properly enforce context of ZoneInfo objects during deserialization, which allows remote attackers to run untrusted applets and applications in a privileged context, as demonstrated by \"deserializing Calendar objects\".",
+	"vulnerabilityName": "Java Runtime Environment (JRE) ZoneInfo Objects Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-5353"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Report+of+Java+Object+Serialization+exploit+in+use+in+web+driveby+attacks/7879/",
+			"date_added": "2010-01-05T00:00:00Z"
+		}
+	],
+	"date_added": "2010-01-05T00:00:00Z"
+}

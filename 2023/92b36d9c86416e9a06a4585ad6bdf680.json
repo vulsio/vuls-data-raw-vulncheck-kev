@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "Navigations through the Android-specific `intent` URL scheme could have been misused to escape iframe sandbox. Note: This issue only affected Firefox for Android. Other operating systems are unaffected. This vulnerability affects Firefox < 85.",
+	"vulnerabilityName": "Firefox for Android iframe Sandbox Bypass via intent: url Scheme Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-23957"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.confiant.com/hubfs/ScamClub-Threat-Report-Q1Q2-2023.pdf",
+			"date_added": "2023-09-27T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-27T00:00:00Z"
+}

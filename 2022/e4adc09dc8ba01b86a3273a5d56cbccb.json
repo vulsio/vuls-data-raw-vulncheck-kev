@@ -1,0 +1,29 @@
+{
+	"vendorProject": "October CMS",
+	"product": "October CMS",
+	"shortDescription": "In affected versions of the october/system package an attacker can request an account password reset and then gain access to the account using a specially crafted request.",
+	"vulnerabilityName": "October CMS Improper Authentication",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-32648"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9efd406c8865",
+			"xdb_url": "https://vulncheck.com/xdb/9efd406c8865",
+			"date_added": "2022-01-14T15:50:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Immersive-Labs-Sec/CVE-2021-32648.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-02-01T00:00:00Z",
+	"cisa_date_added": "2022-01-18T00:00:00Z",
+	"date_added": "2022-01-18T00:00:00Z"
+}

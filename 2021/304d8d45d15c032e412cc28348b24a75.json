@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ncr",
+	"product": "command_center_agent",
+	"shortDescription": "CMCAgent in NCR Command Center Agent 16.3 on Aloha POS/BOH servers permits the submission of a runCommand parameter (within an XML document sent to port 8089) that enables the remote, unauthenticated execution of an arbitrary command as SYSTEM, as exploited in the wild in 2020 and/or 2021. NOTE: the vendor's position is that exploitation occurs only on devices with a certain \"misconfiguration.\"",
+	"vulnerabilityName": "ncr command_center_agent Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-3122"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sentinelone.com/blog/cve-2021-3122-how-we-caught-a-threat-actor-exploiting-ncr-pos-zero-day/",
+			"date_added": "2021-07-22T00:00:00Z"
+		}
+	],
+	"date_added": "2021-07-22T00:00:00Z"
+}

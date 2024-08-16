@@ -1,0 +1,34 @@
+{
+	"vendorProject": "strapi",
+	"product": "strapi",
+	"shortDescription": "The Strapi framework before 3.0.0-beta.17.8 is vulnerable to Remote Code Execution in the Install and Uninstall Plugin components of the Admin panel, because it does not sanitize the plugin name, and attackers can inject arbitrary shell commands to be executed by the execa function.",
+	"vulnerabilityName": "strapi strapi Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-19609"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e1bc6a4c6994",
+			"xdb_url": "https://vulncheck.com/xdb/e1bc6a4c6994",
+			"date_added": "2024-07-01T10:23:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Hackhoven/Strapi-RCE.git"
+		},
+		{
+			"xdb_id": "8c772fa0f6d4",
+			"xdb_url": "https://vulncheck.com/xdb/8c772fa0f6d4",
+			"date_added": "2021-12-08T15:38:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RamPanic/CVE-2019-19609-EXPLOIT.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-10T00:00:00Z"
+}

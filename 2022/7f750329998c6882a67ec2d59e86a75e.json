@@ -1,0 +1,27 @@
+{
+	"vendorProject": "commscope",
+	"product": "ruckus_vriot",
+	"shortDescription": "Ruckus vRioT through 1.5.1.0.21 has an API backdoor that is hardcoded into validate_token.py. An unauthenticated attacker can interact with the service API by using a backdoor value as the Authorization header.",
+	"vulnerabilityName": "commscope ruckus_vriot Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-26879"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c21bdb3911aa",
+			"xdb_url": "https://vulncheck.com/xdb/c21bdb3911aa",
+			"date_added": "2020-11-26T12:32:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:beyefendi/exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/",
+			"date_added": "2022-06-28T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-28T00:00:00Z"
+}

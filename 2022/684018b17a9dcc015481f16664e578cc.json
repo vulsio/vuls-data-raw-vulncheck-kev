@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Active Directory",
+	"shortDescription": "An authenticated user could manipulate attributes on computer accounts they own or manage, and acquire a certificate from Active Directory Certificate Services that would allow for privilege escalation to SYSTEM.",
+	"vulnerabilityName": "Microsoft Active Directory Domain Services Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-26923"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f701cb67018d",
+			"xdb_url": "https://vulncheck.com/xdb/f701cb67018d",
+			"date_added": "2023-10-17T06:29:44Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:evilashz/PIGADVulnScanner.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.ibm.com/downloads/cas/L0GKXDWJ",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-09-08T00:00:00Z",
+	"cisa_date_added": "2022-08-18T00:00:00Z",
+	"date_added": "2022-08-18T00:00:00Z"
+}

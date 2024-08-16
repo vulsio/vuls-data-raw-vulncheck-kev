@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Roundcube",
+	"product": "Roundcube Webmail",
+	"shortDescription": "Roundcube Webmail contains a persistent cross-site scripting (XSS) vulnerability that allows a remote attacker to run malicious JavaScript code.",
+	"vulnerabilityName": "Roundcube Webmail Persistent Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-5631"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/winter-vivern-exploits-zero-day-vulnerability-roundcube-webmail-servers/",
+			"date_added": "2023-10-25T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0217.pdf",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-russia-linked-winter-vivern-apt-leverages-roundcube-vulnerabilities-to-target-over-80-organizations-active-iocs/",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://dd80b675424c132b90b3-e48385e382d2e5d17821a5e1d8e4c86b.ssl.cf1.rackcdn.com/external/strategic-analysis-svg-files-abused-in-emerging-campaigns-1.pdf",
+			"date_added": "2024-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://cofense.com/blog/svg-files-abused-in-emerging-campaigns/",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q4-2023-q1-2024.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2024-06-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-11-16T00:00:00Z",
+	"cisa_date_added": "2023-10-26T00:00:00Z",
+	"date_added": "2023-10-25T00:00:00Z"
+}

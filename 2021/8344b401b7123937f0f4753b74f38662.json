@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Oracle",
+	"product": "customer_intelligence",
+	"shortDescription": "Unspecified vulnerability in the Oracle Customer Intelligence component in Oracle E-Business Suite 11.5.10.2, 12.1.1, 12.1.2, 12.1.3, 12.2.3, 12.2.4, and 12.2.5 allows remote attackers to affect confidentiality and integrity via unknown vectors, a different vulnerability than CVE-2016-0551, CVE-2016-0552, CVE-2016-0559, and CVE-2016-0560.",
+	"vulnerabilityName": "Oracle E-Business Suite Customer Intelligence Remote Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-0545"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/",
+			"date_added": "2021-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/research/threat-profiles/gold-melody",
+			"date_added": "2023-09-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-04T00:00:00Z"
+}

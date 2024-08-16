@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Apache",
+	"product": "Tomcat",
+	"shortDescription": "Apache Tomcat contains an unspecified vulnerability that allows for remote code execution if JmxRemoteLifecycleListener is used and an attacker can reach Java Management Extension (JMX) ports. This CVE exists because this listener wasn't updated for consistency with the Oracle patched issues for CVE-2016-3427 which affected credential types.",
+	"vulnerabilityName": "Apache Tomcat Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-8735"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
+			"date_added": "2023-12-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-02T00:00:00Z",
+	"cisa_date_added": "2023-05-12T00:00:00Z",
+	"date_added": "2023-05-12T00:00:00Z"
+}

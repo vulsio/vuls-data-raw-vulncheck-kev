@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Information Services (IIS)",
+	"shortDescription": "IIS 5.0 uses relative paths to find system files that will run in-process, which allows local users to gain privileges via a Trojan horse file, aka the \"System file listing privilege elevation\" vulnerability.",
+	"vulnerabilityName": "Microsoft IIS 5.0 System file listing Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2001-0507"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://f.hubspotusercontent30.net/hubfs/8776530/Sygnia-%20Elephant%20Beetle_Jan2022.pdf",
+			"date_added": "2021-01-05T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-05T00:00:00Z"
+}

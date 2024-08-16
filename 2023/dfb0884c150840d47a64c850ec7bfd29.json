@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Spreadsheet::ParseExcel",
+	"product": "Spreadsheet::ParseExcel",
+	"shortDescription": "Spreadsheet::ParseExcel contains a remote code execution vulnerability due to passing unvalidated input from a file into a string-type “eval”. Specifically, the issue stems from the evaluation of Number format strings within the Excel parsing logic.",
+	"vulnerabilityName": "Spreadsheet::ParseExcel Remote Code Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-7101"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/barracuda-email-security-gateway-esg-malicious-activity-additional-indicators-compromise-released",
+			"date_added": "2023-12-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-23T00:00:00Z",
+	"cisa_date_added": "2024-01-02T00:00:00Z",
+	"date_added": "2023-12-25T00:00:00Z"
+}

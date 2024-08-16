@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "github",
+	"shortDescription": "A exposure of sensitive information vulnerability exists in Jenkins GitHub Plugin 1.29.1 and earlier in GitHubTokenCredentialsCreator.java that allows attackers to an attacker-specified URL using attacker-specified credentials IDs obtained through another method, capturing credentials stored in Jenkins.",
+	"vulnerabilityName": "Jenkins github Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-1000600"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

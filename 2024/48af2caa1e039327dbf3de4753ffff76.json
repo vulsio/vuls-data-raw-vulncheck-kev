@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "go-rt-ac750_firmware",
+	"shortDescription": "D-Link Go-RT-AC750 GORTAC750_revA_v101b03 and GO-RT-AC750_revB_FWv200b02 are vulnerable to Buffer Overflow via cgibin, hnap_main,",
+	"vulnerabilityName": "D-Link go-rt-ac750_firmware Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-37055"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/d-link-multiple-devices-attack",
+			"date_added": "2024-05-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-24T00:00:00Z"
+}

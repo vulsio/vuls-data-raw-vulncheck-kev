@@ -1,0 +1,33 @@
+{
+	"vendorProject": "NETGEAR",
+	"product": "JGS516PE Devices",
+	"shortDescription": "Netgear JGS516PE devices contain a missing function level access control vulnerability.",
+	"vulnerabilityName": "Netgear JGS516PE Devices Missing Function Level Access Control Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-26919"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-iot-vulnerabilities/",
+			"date_added": "2021-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.radware.com/getmedia/18d24c2d-c092-4a61-9ad6-ebb92b7a49b8/Alert_Realtek_SDK.aspx",
+			"date_added": "2021-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-february-april-2021/",
+			"date_added": "2021-06-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-03-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "unidocs",
+	"product": "ezpdfreader",
+	"shortDescription": "An improper input validation vulnerability in the service of ezPDFReader allows attacker to execute arbitrary command. This issue occurred when the ezPDF launcher received and executed crafted input values through JSON-RPC communication.",
+	"vulnerabilityName": "unidocs ezpdfreader Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-26605"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/apt-trends-report-q3-2021/104708/",
+			"date_added": "2021-10-26T00:00:00Z"
+		}
+	],
+	"date_added": "2021-10-26T00:00:00Z"
+}

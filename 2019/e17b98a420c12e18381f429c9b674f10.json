@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the ActiveX Data objects (ADO) handles objects in memory, aka 'Windows ActiveX Remote Code Execution Vulnerability'.",
+	"vulnerabilityName": "Microsoft Windows Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-0784"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_April_edition_1_digest_pdf.pdf",
+			"date_added": "2019-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-04-01T00:00:00Z"
+}

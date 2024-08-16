@@ -1,0 +1,19 @@
+{
+	"vendorProject": "webempoweredchurch",
+	"product": "wec_discussion",
+	"shortDescription": "Multiple SQL injection vulnerabilities in WEC Discussion Forum (wec_discussion) extension 2.1.0 and earlier for TYPO3 allow remote attackers to execute arbitrary SQL commands via unspecified vectors, as exploited in the wild in April 2011.",
+	"vulnerabilityName": "webempoweredchurch wec_discussion Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-1722"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://typo3.org/security/advisory/typo3-sa-2011-003",
+			"date_added": "2011-04-07T00:00:00Z"
+		}
+	],
+	"date_added": "2011-04-07T00:00:00Z"
+}

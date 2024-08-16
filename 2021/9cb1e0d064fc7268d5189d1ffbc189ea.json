@@ -1,0 +1,19 @@
+{
+	"vendorProject": "sangoma",
+	"product": "restapps",
+	"shortDescription": "FreePBX, when restapps (aka Rest Phone Apps) 15.0.19.87, 15.0.19.88, 16.0.18.40, or 16.0.18.41 is installed, allows remote attackers to execute arbitrary code, as exploited in the wild in December 2021. The fixed versions are 15.0.20 and 16.0.19.",
+	"vulnerabilityName": "FreePBX restapps (aka Rest Phone Apps) 15.0.19.87, 15.0.19.88, 16.0.18.40, or 16.0.18.41 Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-45461"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://community.freepbx.org/t/security-issue-potential-rest-phone-apps-rce/80109",
+			"date_added": "2021-12-22T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-22T00:00:00Z"
+}

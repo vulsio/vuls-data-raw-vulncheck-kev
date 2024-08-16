@@ -1,0 +1,57 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Use-after-free vulnerability in the DisplayObject class in the ActionScript 3 (AS3) implementation in Adobe Flash Player allows remote attackers to execute code or cause a denial-of-service (DoS).",
+	"vulnerabilityName": "Adobe Flash Player Use-After-Free Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-5122"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f32e362c2ef9",
+			"xdb_url": "https://vulncheck.com/xdb/f32e362c2ef9",
+			"date_added": "2021-09-19T17:49:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Xattam1/Adobe-Flash-Exploits_17-18.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/15/g/hacking-team-leak-uncovers-another-windows-zero-day-ms-releases-patch.html",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/Aug.10.The_Italian_Connection_An_analysis_of_exploit_supply_chains_and_digital_quartermasters/HTExploitTelemetry.pdf",
+			"date_added": "2015-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://freebeacon.com/wp-content/uploads/2016/02/Report_lowres.pdf",
+			"date_added": "2016-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-04T00:00:00Z",
+	"cisa_date_added": "2022-04-13T00:00:00Z",
+	"date_added": "2015-07-05T00:00:00Z"
+}

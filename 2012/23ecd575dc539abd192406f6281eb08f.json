@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft PowerPoint 2002 SP3, 2003 SP3, and 2007 SP2; Office 2004 and 2008 for Mac; Open XML File Format Converter for Mac; and Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats SP2 make unspecified function calls during file parsing without proper handling of memory, which allows remote attackers to execute arbitrary code via a crafted PowerPoint document, aka \"Presentation Memory Corruption RCE Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Office Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-1269"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20120907091804/http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the_taidoor_campaign.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "2012-01-01T00:00:00Z"
+}

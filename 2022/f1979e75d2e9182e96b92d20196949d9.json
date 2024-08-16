@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Anti Rootkit",
+	"product": "Avast",
+	"shortDescription": "Avast Anti Rootkit kernel driver user controlled length in aswArPot+0xc4a3",
+	"vulnerabilityName": "Avast Anti Rootkit kernel driver user controlled length",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-26522"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/crimeware-report-ransomware-tactics-vulnerable-drivers/108197/",
+			"date_added": "2022-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/new-ransomware-trends-in-2023/109660/",
+			"date_added": "2022-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cuba-ransomware/110533/",
+			"date_added": "2023-09-11T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-05T00:00:00Z"
+}

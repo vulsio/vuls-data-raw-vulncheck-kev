@@ -1,0 +1,19 @@
+{
+	"vendorProject": "radykal",
+	"product": "fancy_product_designer",
+	"shortDescription": "The Fancy Product Designer WordPress plugin before 4.6.9 allows unauthenticated attackers to upload arbitrary files, resulting in remote code execution.",
+	"vulnerabilityName": "radykal fancy_product_designer Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24370"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2021/06/critical-0-day-in-fancy-product-designer-under-active-attack/",
+			"date_added": "2021-06-01T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-01T00:00:00Z"
+}

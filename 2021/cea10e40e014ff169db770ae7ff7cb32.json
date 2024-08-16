@@ -1,0 +1,47 @@
+{
+	"vendorProject": "getlaminas",
+	"product": "laminas-http",
+	"shortDescription": "Laminas Project laminas-http before 2.14.2, and Zend Framework 3.0.0, has a deserialization vulnerability that can lead to remote code execution if the content is controllable, related to the __destruct method of the Zend\\Http\\Response\\Stream class in Stream.php. NOTE: Zend Framework is no longer supported by the maintainer. NOTE: the laminas-http vendor considers this a \"vulnerability in the PHP language itself\" but has added certain type checking as a way to prevent exploitation in (unrecommended) use cases where attacker-supplied data can be deserialized",
+	"vulnerabilityName": "getlaminas laminas-http Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-3007"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "697fc8c15292",
+			"xdb_url": "https://vulncheck.com/xdb/697fc8c15292",
+			"date_added": "2021-05-18T14:16:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Vulnmachines/ZF3_CVE-2021-3007.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.imperva.com/blog/python-cryptominer-botnet-quickly-adopts-latest-vulnerabilities/",
+			"date_added": "2021-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/2021/01/19/linux-users-should-patch-now-to-block-new-freakout-malware-which-exploits-new-vulnerabilities/",
+			"date_added": "2021-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://blog.netlab.360.com/not-really-new-pyhton-ddos-bot-n3cr0m0rph-necromorph/",
+			"date_added": "2021-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2021/freakout-leveraging-newest-vulnerabilities-for-creating-a-botnet/",
+			"date_added": "2021-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",
+			"date_added": "2021-03-18T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",
+			"date_added": "2021-06-03T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-14T00:00:00Z"
+}

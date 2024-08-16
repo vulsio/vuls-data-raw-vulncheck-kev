@@ -1,0 +1,19 @@
+{
+	"vendorProject": "suricata-ids",
+	"product": "suricata",
+	"shortDescription": "The ProcessMimeEntity function in util-decode-mime.c in Suricata 4.x before 4.0.6 allows remote attackers to cause a denial of service (segfault and daemon crash) via crafted input to the SMTP parser, as exploited in the wild in November 2018.",
+	"vulnerabilityName": "suricata-ids suricata Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-18956"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18956",
+			"date_added": "2018-11-05T00:00:00Z"
+		}
+	],
+	"date_added": "2018-11-05T00:00:00Z"
+}

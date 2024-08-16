@@ -1,0 +1,164 @@
+{
+	"vendorProject": "OSGeo",
+	"product": "GeoServer",
+	"shortDescription": "OSGeo GeoServer GeoTools contains an improper neutralization of directives in dynamically evaluated code vulnerability due to unsafely evaluating property names as XPath expressions. This allows unauthenticated attackers to conduct remote code execution via specially crafted input.",
+	"vulnerabilityName": "OSGeo GeoServer GeoTools Eval Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-36401"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c70f778604cc",
+			"xdb_url": "https://vulncheck.com/xdb/c70f778604cc",
+			"date_added": "2024-07-06T06:04:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zgimszhd61/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "f9a8056df591",
+			"xdb_url": "https://vulncheck.com/xdb/f9a8056df591",
+			"date_added": "2024-07-08T01:53:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zjaycyy/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "83b62ab68571",
+			"xdb_url": "https://vulncheck.com/xdb/83b62ab68571",
+			"date_added": "2024-07-12T07:01:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-36401-GeoServer-RCE.git"
+		},
+		{
+			"xdb_id": "e908c49bab48",
+			"xdb_url": "https://vulncheck.com/xdb/e908c49bab48",
+			"date_added": "2024-07-04T13:19:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "0a69e625f39a",
+			"xdb_url": "https://vulncheck.com/xdb/0a69e625f39a",
+			"date_added": "2024-07-05T15:24:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "82eba5264bfb",
+			"xdb_url": "https://vulncheck.com/xdb/82eba5264bfb",
+			"date_added": "2024-08-01T21:22:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:yisas93/CVE-2024-36401-PoC.git"
+		},
+		{
+			"xdb_id": "f4801e6b28d5",
+			"xdb_url": "https://vulncheck.com/xdb/f4801e6b28d5",
+			"date_added": "2024-07-17T02:25:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
+		},
+		{
+			"xdb_id": "07cf7a5d5e1b",
+			"xdb_url": "https://vulncheck.com/xdb/07cf7a5d5e1b",
+			"date_added": "2024-07-05T03:02:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Niuwoo/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "46abf92ec267",
+			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
+			"date_added": "2024-07-06T01:10:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "1dbce5a4766b",
+			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
+			"date_added": "2024-07-30T18:43:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-28&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-30&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-31&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-07-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-01&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-03&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-04&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-05&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-09&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-10&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-11&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-12&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-13&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sonicwall.com/en-us/2024/07/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild/",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/A%20Survey%20of%20Scans%20for%20GeoServer%20Vulnerabilities/31148",
+			"date_added": "2024-08-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-08-05T00:00:00Z",
+	"cisa_date_added": "2024-07-15T00:00:00Z",
+	"date_added": "2024-07-15T00:00:00Z"
+}

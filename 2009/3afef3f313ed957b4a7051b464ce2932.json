@@ -1,0 +1,19 @@
+{
+	"vendorProject": "baofeng",
+	"product": "storm",
+	"shortDescription": "Unspecified vulnerability in Config.dll in Baofeng products 3.09.04.17 and earlier allows remote attackers to execute arbitrary code by calling the SetAttributeValue method, as exploited in the wild in April and May 2009.",
+	"vulnerabilityName": "Baofeng products 3.09.04.17 and earlier Config.dll Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-1807"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2009-1807",
+			"date_added": "2009-05-28T00:00:00Z"
+		}
+	],
+	"date_added": "2009-05-28T00:00:00Z"
+}

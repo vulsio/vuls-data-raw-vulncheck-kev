@@ -1,0 +1,23 @@
+{
+	"vendorProject": "hyland",
+	"product": "perceptive_content_server",
+	"shortDescription": "A Denial of Service vulnerability in the ImageNow Server service in Hyland Perceptive Content Server before 7.1.5 allows an attacker to crash the service via a TCP connection.",
+	"vulnerabilityName": "hyland perceptive_content_server Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-19629"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
+			"date_added": "2024-08-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-07T00:00:00Z"
+}

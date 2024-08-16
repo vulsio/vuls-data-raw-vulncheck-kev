@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A vulnerability in PKI Security Solution of Dream Security could allow arbitrary command execution. This vulnerability is due to insufficient validation of the authorization certificate. An attacker could exploit this vulnerability by sending a crafted HTTP request an affected program. A successful exploit could allow the attacker to remotely execute arbitrary code on a target system.",
+	"vulnerabilityName": "Microsoft Windows Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-26606"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://asec.ahnlab.com/ko/40495/",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/40830/",
+			"date_added": "2022-10-31T00:00:00Z"
+		}
+	],
+	"date_added": "2022-10-24T00:00:00Z"
+}

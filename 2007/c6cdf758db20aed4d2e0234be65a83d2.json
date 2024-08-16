@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Microsoft Internet Explorer 5.01 through 7 allows remote attackers to execute arbitrary code via \"unexpected method calls to HTML objects,\" aka \"DHTML Object Memory Corruption Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Internet Explorer 5.01 through 7 DHTML Object Memory Corruption Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5347"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-069",
+			"date_added": "2007-12-20T00:00:00Z"
+		}
+	],
+	"date_added": "2007-12-20T00:00:00Z"
+}

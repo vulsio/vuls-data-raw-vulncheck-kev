@@ -1,0 +1,88 @@
+{
+	"vendorProject": "osgeo",
+	"product": "geoserver",
+	"shortDescription": "GeoServer is an open source software server written in Java that allows users to share and edit geospatial data. GeoServer includes support for the OGC Filter expression language and the OGC Common Query Language (CQL) as part of the Web Feature Service (WFS) and Web Map Service (WMS) protocols.  CQL is also supported through the Web Coverage Service (WCS) protocol for ImageMosaic coverages. Users are advised to upgrade to either version 2.21.4, or version 2.22.2 to resolve this issue. Users unable to upgrade should disable the PostGIS Datastore *encode functions* setting to mitigate ``strEndsWith``, ``strStartsWith`` and ``PropertyIsLike `` misuse and enable the PostGIS DataStore *preparedStatements* setting to mitigate the ``FeatureId`` misuse.",
+	"vulnerabilityName": "osgeo geoserver Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-25157"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "036129b2f070",
+			"xdb_url": "https://vulncheck.com/xdb/036129b2f070",
+			"date_added": "2023-06-10T00:47:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:drfabiocastro/geoserver.git"
+		},
+		{
+			"xdb_id": "c68c49b562c2",
+			"xdb_url": "https://vulncheck.com/xdb/c68c49b562c2",
+			"date_added": "2023-07-31T03:10:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:EmmanuelCruzL/CVE-2023-25157.git"
+		},
+		{
+			"xdb_id": "94494148cb01",
+			"xdb_url": "https://vulncheck.com/xdb/94494148cb01",
+			"date_added": "2023-06-10T09:00:16Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0x2458bughunt/CVE-2023-25157.git"
+		},
+		{
+			"xdb_id": "b785e145c5f6",
+			"xdb_url": "https://vulncheck.com/xdb/b785e145c5f6",
+			"date_added": "2023-06-12T14:34:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:7imbitz/CVE-2023-25157-checker.git"
+		},
+		{
+			"xdb_id": "44aac331bc8b",
+			"xdb_url": "https://vulncheck.com/xdb/44aac331bc8b",
+			"date_added": "2023-11-28T07:23:00Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dr-cable-tv/Geoserver-CVE-2023-25157.git"
+		},
+		{
+			"xdb_id": "9cf6c74ddc0a",
+			"xdb_url": "https://vulncheck.com/xdb/9cf6c74ddc0a",
+			"date_added": "2023-06-11T18:57:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:murataydemir/CVE-2023-25157-and-CVE-2023-25158.git"
+		},
+		{
+			"xdb_id": "281183e04222",
+			"xdb_url": "https://vulncheck.com/xdb/281183e04222",
+			"date_added": "2023-06-06T14:05:09Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:win3zz/CVE-2023-25157.git"
+		},
+		{
+			"xdb_id": "5da0c67872da",
+			"xdb_url": "https://vulncheck.com/xdb/5da0c67872da",
+			"date_added": "2024-01-23T09:09:11+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:dachuaner/CVE-2023-25157.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-18T00:00:00Z"
+}

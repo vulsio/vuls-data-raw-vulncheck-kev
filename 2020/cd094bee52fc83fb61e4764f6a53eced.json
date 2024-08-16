@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Pulse Secure",
+	"product": "Pulse Connect Secure",
+	"shortDescription": "A code injection vulnerability exists in Pulse Connect Secure that allows an attacker to crafted a URI to perform an arbitrary code execution via the admin web interface.",
+	"vulnerabilityName": "Pulse Connect Secure Code Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8218"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5617ca2523fa",
+			"xdb_url": "https://vulncheck.com/xdb/5617ca2523fa",
+			"date_added": "2020-08-29T16:40:35Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:withdk/pulse-gosecure-rce-poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.avira.com/en/blog/a-gafgyt-variant-that-exploits-pulse-secure-cve-2020-8218",
+			"date_added": "2020-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement",
+			"date_added": "2024-04-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-09-07T00:00:00Z",
+	"cisa_date_added": "2022-03-07T00:00:00Z",
+	"date_added": "2020-12-07T00:00:00Z"
+}

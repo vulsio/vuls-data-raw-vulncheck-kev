@@ -1,0 +1,37 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, iPadOS, macOS, and watchOS FontParser contain a memory corruption vulnerability which may allow for code execution when processing maliciously crafted front.",
+	"vulnerabilityName": "Apple Multiple Products Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-27930"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ba050b6e89d5",
+			"xdb_url": "https://vulncheck.com/xdb/ba050b6e89d5",
+			"date_added": "2021-02-07T11:28:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2020/CVE-2020-16009.html",
+			"date_added": "2021-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-10-26T00:00:00Z"
+}

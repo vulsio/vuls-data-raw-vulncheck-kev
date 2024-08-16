@@ -1,0 +1,23 @@
+{
+	"vendorProject": "electronjs",
+	"product": "electron",
+	"shortDescription": "Electron version 1.7 up to 1.7.12; 1.8 up to 1.8.3 and 2.0.0 up to 2.0.0-beta.3 contains an improper handling of values vulnerability in Webviews that can result in remote code execution. This attack appear to be exploitable via an app which allows execution of 3rd party code AND disallows node integration AND has not specified if webview is enabled/disabled. This vulnerability appears to have been fixed in 1.7.13, 1.8.4, 2.0.0-beta.4.",
+	"vulnerabilityName": "electronjs electron Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-1000136"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",
+			"date_added": "2020-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		}
+	],
+	"date_added": "2020-02-25T00:00:00Z"
+}

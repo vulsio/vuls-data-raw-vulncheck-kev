@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Exchange Server Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-21410"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Feb?api-version=2020",
+			"date_added": "2024-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-21410",
+			"date_added": "2024-02-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-03-07T00:00:00Z",
+	"cisa_date_added": "2024-02-15T00:00:00Z",
+	"date_added": "2024-02-14T00:00:00Z"
+}

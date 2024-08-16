@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Desktop Window Manager (DWM) Core Library contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Desktop Window Manager (DWM) Core Library Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-33739"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "afe35658a490",
+			"xdb_url": "https://vulncheck.com/xdb/afe35658a490",
+			"date_added": "2021-09-24T03:33:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:giwon9977/CVE-2021-33739_PoC_Analysis.git"
+		},
+		{
+			"xdb_id": "31ac107a9305",
+			"xdb_url": "https://vulncheck.com/xdb/31ac107a9305",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Jun?api-version=2020",
+			"date_added": "2021-06-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-06-08T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Samba",
+	"product": "Samba",
+	"shortDescription": "The Samba vfs_fruit module uses extended file attributes (EA, xattr) to provide \"...enhanced compatibility with Apple SMB clients and interoperability with a Netatalk 3 AFP fileserver.\" Samba versions prior to 4.13.17, 4.14.12 and 4.15.5 with vfs_fruit configured allow out-of-bounds heap read and write via specially crafted extended file attributes. A remote attacker with write access to extended file attributes can execute arbitrary code with the privileges of smbd, typically root.",
+	"vulnerabilityName": "Samba Samba Out-of-bounds Read",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-44142"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c065f7d2d9fd",
+			"xdb_url": "https://vulncheck.com/xdb/c065f7d2d9fd",
+			"date_added": "2022-03-29T19:03:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2021-44142.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

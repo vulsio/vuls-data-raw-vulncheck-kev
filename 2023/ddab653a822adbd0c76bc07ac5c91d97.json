@@ -1,0 +1,169 @@
+{
+	"vendorProject": "Barracuda Networks",
+	"product": "Email Security Gateway (ESG) Appliance",
+	"shortDescription": "Barracuda Email Security Gateway (ESG) appliance contains an improper input validation vulnerability of a user-supplied .tar file, leading to remote command injection.",
+	"vulnerabilityName": "Barracuda Networks ESG Appliance Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2868"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "eb964d29bc36",
+			"xdb_url": "https://vulncheck.com/xdb/eb964d29bc36",
+			"date_added": "2023-06-20T18:43:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cfielding-r7/poc-cve-2023-2868.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-05-18T00:00:00Z"
+		},
+		{
+			"url": "https://status.barracuda.com/incidents/34kx82j5n4q9",
+			"date_added": "2023-05-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/barracuda-esg-exploited-globally",
+			"date_added": "2023-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2023/06/15/barracuda-networks-releases-update-address-esg-vulnerability",
+			"date_added": "2023-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://cybergeeks.tech/a-technical-analysis-of-the-saltwater-backdoor-used-in-barracuda-0-day-vulnerability-cve-2023-2868-exploitation/",
+			"date_added": "2023-06-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/chinese-espionage-tactics",
+			"date_added": "2023-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors",
+			"date_added": "2023-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/analysis-reports/ar23-209a",
+			"date_added": "2023-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/analysis-reports/ar23-209b",
+			"date_added": "2023-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/analysis-reports/ar23-209c",
+			"date_added": "2023-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/analysis-reports/ar23-221a",
+			"date_added": "2023-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.darkreading.com/threat-intelligence/cisa-whirlpool-backdoor-barracuda-esg-security",
+			"date_added": "2023-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/analysis-reports/ar23-230a",
+			"date_added": "2023-08-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.ic3.gov/Media/News/2023/230823.pdf",
+			"date_added": "2023-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/unc4841-post-barracuda-zero-day-remediation",
+			"date_added": "2023-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2023/08/29/cisa-releases-iocs-associated-malicious-barracuda-activity",
+			"date_added": "2023-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/analysis-reports/ar23-250a-0",
+			"date_added": "2023-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.trellix.com/advanced-research-center/threat-reports/november-2023/",
+			"date_added": "2023-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2023-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://engage.cognyte.com/s/9829b9f8/?page=1",
+			"date_added": "2024-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/2023-zero-day-trends",
+			"date_added": "2024-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf",
+			"date_added": "2024-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://4793768.fs1.hubspotusercontent-na1.net/hubfs/4793768/CyberCX_Report_DFIR%202023%20Year%20in%20Review_Online.pdf",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://services.google.com/fh/files/misc/m-trends-2024.pdf",
+			"date_added": "2023-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.verizon.com/business/resources/T600/reports/2024-dbir-data-breach-investigations-report.pdf",
+			"date_added": "2023-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorb-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-06-16T00:00:00Z",
+	"cisa_date_added": "2023-05-26T00:00:00Z",
+	"date_added": "2023-05-18T00:00:00Z"
+}

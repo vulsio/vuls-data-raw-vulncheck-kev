@@ -1,0 +1,19 @@
+{
+	"vendorProject": "openx",
+	"product": "openx",
+	"shortDescription": "SQL injection vulnerability in www/delivery/axmlrpc.php (aka the XML-RPC delivery invocation script) in Revive Adserver before 3.0.2, and OpenX Source 2.8.11 and earlier, allows remote attackers to execute arbitrary SQL commands via the what parameter to an XML-RPC method.",
+	"vulnerabilityName": "openx openx Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-7149"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.revive-adserver.com/security/revive-sa-2013-001/",
+			"date_added": "2013-12-20T00:00:00Z"
+		}
+	],
+	"date_added": "2013-12-20T00:00:00Z"
+}

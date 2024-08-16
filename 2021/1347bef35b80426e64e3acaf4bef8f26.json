@@ -1,0 +1,27 @@
+{
+	"vendorProject": "WordPress",
+	"product": "wordpress",
+	"shortDescription": "WordPress before 4.9.9 and 5.x before 5.0.1 allows remote code execution because an _wp_attached_file Post Meta entry can be changed to an arbitrary string, such as one ending with a .jpg?file.php substring. An attacker with author privileges can execute arbitrary code by uploading a crafted image containing PHP code in the Exif metadata. Exploitation can leverage CVE-2019-8943.",
+	"vulnerabilityName": "WordPress wordpress Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8942"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8bf043a44c24",
+			"xdb_url": "https://vulncheck.com/xdb/8bf043a44c24",
+			"date_added": "2019-05-02T08:41:11Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:synacktiv/CVE-2019-8942.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

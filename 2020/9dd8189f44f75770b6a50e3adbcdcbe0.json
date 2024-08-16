@@ -1,0 +1,19 @@
+{
+	"vendorProject": "elementor",
+	"product": "website_builder",
+	"shortDescription": "Elementor 2.9.5 and below WordPress plugin allows authenticated users to activate its safe mode feature. This can be exploited to disable all security plugins on the blog.",
+	"vulnerabilityName": "Elementor 2.9.5 and below WordPress plugin Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-20634"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/elementor/elementor-website-builder-295-authorization-bypass",
+			"date_added": "2020-03-31T00:00:00Z"
+		}
+	],
+	"date_added": "2020-03-31T00:00:00Z"
+}

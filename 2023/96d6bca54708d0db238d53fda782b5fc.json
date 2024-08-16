@@ -1,0 +1,27 @@
+{
+	"vendorProject": "thimpress",
+	"product": "learnpress",
+	"shortDescription": "SQL Injection vulnerability in LearnPress – WordPress LMS Plugin <= 4.1.7.3.2 versions.",
+	"vulnerabilityName": "thimpress learnpress Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-45808"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0976f2dec404",
+			"xdb_url": "https://vulncheck.com/xdb/0976f2dec404",
+			"date_added": "2023-08-18T15:43:50Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2022-45808.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/learnpress/learnpress-41732-unauthenticated-sql-injection",
+			"date_added": "2023-01-20T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-20T00:00:00Z"
+}

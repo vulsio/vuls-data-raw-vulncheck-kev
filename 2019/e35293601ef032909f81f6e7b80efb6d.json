@@ -1,0 +1,23 @@
+{
+	"vendorProject": "cerio",
+	"product": "dt-300n_firmware",
+	"shortDescription": "Cerio DT-300N 1.1.6 through 1.1.12 devices allow OS command injection because of improper input validation of the web-interface PING feature's use of Save.cgi to execute a ping command, as exploited in the wild in October 2018.",
+	"vulnerabilityName": "cerio dt-300n_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-18852"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2018-18852",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18852",
+			"date_added": "2019-06-18T00:00:00Z"
+		}
+	],
+	"date_added": "2019-06-18T00:00:00Z"
+}

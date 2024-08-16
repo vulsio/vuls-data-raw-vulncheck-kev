@@ -1,0 +1,35 @@
+{
+	"vendorProject": "x3000_firmware",
+	"product": "Linksys",
+	"shortDescription": "Linksys x3000 firmware is vulnerable to a command injection vulnerability via the ping_ip parameter.",
+	"vulnerabilityName": "Linksys x3000 firmware ping_ip command injection",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-3307"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits",
+			"date_added": "2021-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/botenago-strike-again-malware-source-code-uploaded-to-github",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/threat-signal-report/4389/botenago-malware-targets-multiple-iot-devices",
+			"date_added": "2022-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2021-11-11T00:00:00Z"
+}

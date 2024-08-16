@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Veeam",
+	"product": "veeam_backup_\\&_replication",
+	"shortDescription": "Improper authentication in Veeam Backup & Replication 9.5U3, 9.5U4,10.x and 11.x component used for Microsoft System Center Virtual Machine Manager (SCVMM) allows attackers execute arbitrary code via Veeam.Backup.PSManager.exe",
+	"vulnerabilityName": "Veeam veeam_backup_\\&_replication Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-26504"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cloudsek.com/threatintelligence/multiple-rce-vulnerabilities-affecting-veeam-backup-replication/",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cuba-ransomware/110533/",
+			"date_added": "2022-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		}
+	],
+	"date_added": "2022-10-24T00:00:00Z"
+}

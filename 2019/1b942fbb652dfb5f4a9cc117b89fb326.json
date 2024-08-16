@@ -1,0 +1,481 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Remote Desktop Services",
+	"shortDescription": "Microsoft Remote Desktop Services, formerly known as Terminal Service, contains an unspecified vulnerability that allows an unauthenticated attacker to connect to the target system using RDP and send specially crafted requests. Successful exploitation allows for remote code execution. The vulnerability is also known under the moniker of BlueKeep.",
+	"vulnerabilityName": "Microsoft Remote Desktop Services Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-0708"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0543fd1784c2",
+			"xdb_url": "https://vulncheck.com/xdb/0543fd1784c2",
+			"date_added": "2023-03-02T12:55:02Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:davidfortytwo/bluekeep.git"
+		},
+		{
+			"xdb_id": "844cd4ddb46f",
+			"xdb_url": "https://vulncheck.com/xdb/844cd4ddb46f",
+			"date_added": "2021-12-05T21:30:57Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:5l1v3r1/CVE-2019-0708-DOS.git"
+		},
+		{
+			"xdb_id": "bb428db8e94d",
+			"xdb_url": "https://vulncheck.com/xdb/bb428db8e94d",
+			"date_added": "2019-09-07T14:02:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:qing-root/CVE-2019-0708-EXP-MSF-.git"
+		},
+		{
+			"xdb_id": "9b644acc642d",
+			"xdb_url": "https://vulncheck.com/xdb/9b644acc642d",
+			"date_added": "2019-12-20T17:32:41Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Ameg-yag/Wincrash.git"
+		},
+		{
+			"xdb_id": "87091cafec0a",
+			"xdb_url": "https://vulncheck.com/xdb/87091cafec0a",
+			"date_added": "2021-11-25T04:53:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:lisinan988/CVE-2019-0708-scan.git"
+		},
+		{
+			"xdb_id": "d18cbf862a1b",
+			"xdb_url": "https://vulncheck.com/xdb/d18cbf862a1b",
+			"date_added": "2021-06-21T03:57:15Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:pywc/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "a34013074716",
+			"xdb_url": "https://vulncheck.com/xdb/a34013074716",
+			"date_added": "2021-12-20T14:57:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:offensity/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "9d68385aa1c1",
+			"xdb_url": "https://vulncheck.com/xdb/9d68385aa1c1",
+			"date_added": "2019-12-07T10:13:11Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:worawit/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "bf63479c559b",
+			"xdb_url": "https://vulncheck.com/xdb/bf63479c559b",
+			"date_added": "2019-09-11T02:19:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:distance-vector/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "3003205270ed",
+			"xdb_url": "https://vulncheck.com/xdb/3003205270ed",
+			"date_added": "2019-09-06T21:39:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NAXG/cve_2019_0708_bluekeep_rce.git"
+		},
+		{
+			"xdb_id": "0a6b5b0cbd12",
+			"xdb_url": "https://vulncheck.com/xdb/0a6b5b0cbd12",
+			"date_added": "2020-03-15T19:33:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RICSecLab/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "fd998d08aecc",
+			"xdb_url": "https://vulncheck.com/xdb/fd998d08aecc",
+			"date_added": "2019-05-21T13:16:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zjw88282740/CVE-2019-0708-win7.git"
+		},
+		{
+			"xdb_id": "1959a82c2e55",
+			"xdb_url": "https://vulncheck.com/xdb/1959a82c2e55",
+			"date_added": "2019-07-14T18:43:48Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:mekhalleh/cve-2019-0708.git"
+		},
+		{
+			"xdb_id": "4447344e0e57",
+			"xdb_url": "https://vulncheck.com/xdb/4447344e0e57",
+			"date_added": "2020-02-19T05:40:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:eastmountyxz/CVE-2019-0708-Windows.git"
+		},
+		{
+			"xdb_id": "8b5d56b910c5",
+			"xdb_url": "https://vulncheck.com/xdb/8b5d56b910c5",
+			"date_added": "2019-11-22T04:00:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ulisesrc/-2-CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "b78833c5a34c",
+			"xdb_url": "https://vulncheck.com/xdb/b78833c5a34c",
+			"date_added": "2020-03-17T05:05:14Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:JSec1337/Scanner-CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "c9d000a1a180",
+			"xdb_url": "https://vulncheck.com/xdb/c9d000a1a180",
+			"date_added": "2019-05-22T02:16:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:victor0013/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "f0d631a0e09b",
+			"xdb_url": "https://vulncheck.com/xdb/f0d631a0e09b",
+			"date_added": "2019-09-07T07:32:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:FrostsaberX/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "92597113b854",
+			"xdb_url": "https://vulncheck.com/xdb/92597113b854",
+			"date_added": "2019-05-29T16:53:54Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Ekultek/BlueKeep.git"
+		},
+		{
+			"xdb_id": "54ea167ea153",
+			"xdb_url": "https://vulncheck.com/xdb/54ea167ea153",
+			"date_added": "2019-06-03T07:49:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:HynekPetrak/detect_bluekeep.py.git"
+		},
+		{
+			"xdb_id": "681cd783600b",
+			"xdb_url": "https://vulncheck.com/xdb/681cd783600b",
+			"date_added": "2019-06-11T09:38:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:at0mik/CVE-2019-0708-PoC.git"
+		},
+		{
+			"xdb_id": "ab5a3e05eeeb",
+			"xdb_url": "https://vulncheck.com/xdb/ab5a3e05eeeb",
+			"date_added": "2019-05-31T00:04:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:algo7/bluekeep_CVE-2019-0708_poc_to_exploit.git"
+		},
+		{
+			"xdb_id": "9a50cc3bc409",
+			"xdb_url": "https://vulncheck.com/xdb/9a50cc3bc409",
+			"date_added": "2019-07-23T03:15:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xeb-bp/bluekeep.git"
+		},
+		{
+			"xdb_id": "2426c24787e9",
+			"xdb_url": "https://vulncheck.com/xdb/2426c24787e9",
+			"date_added": "2019-08-17T17:23:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-.git"
+		},
+		{
+			"xdb_id": "17163e8dffc6",
+			"xdb_url": "https://vulncheck.com/xdb/17163e8dffc6",
+			"date_added": "2019-07-18T20:53:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:andripwn/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "d7b3d9b80819",
+			"xdb_url": "https://vulncheck.com/xdb/d7b3d9b80819",
+			"date_added": "2019-09-06T19:46:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RickGeex/msf-module-CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "5c1169f4925c",
+			"xdb_url": "https://vulncheck.com/xdb/5c1169f4925c",
+			"date_added": "2019-05-15T17:56:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:blacksunwen/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "212d4dc490b0",
+			"xdb_url": "https://vulncheck.com/xdb/212d4dc490b0",
+			"date_added": "2019-05-19T23:32:34Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:skyshell20082008/CVE-2019-0708-PoC-Hitting-Path.git"
+		},
+		{
+			"xdb_id": "83dd1b8c1868",
+			"xdb_url": "https://vulncheck.com/xdb/83dd1b8c1868",
+			"date_added": "2019-05-31T17:37:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:umarfarook882/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "387c8e6971fe",
+			"xdb_url": "https://vulncheck.com/xdb/387c8e6971fe",
+			"date_added": "2019-09-17T05:15:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1aa87148377/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "11d36b021267",
+			"xdb_url": "https://vulncheck.com/xdb/11d36b021267",
+			"date_added": "2019-09-03T10:25:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:skommando/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "d607d811c122",
+			"xdb_url": "https://vulncheck.com/xdb/d607d811c122",
+			"date_added": "2019-05-15T15:01:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k8gege/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "2116a08dcafd",
+			"xdb_url": "https://vulncheck.com/xdb/2116a08dcafd",
+			"date_added": "2020-09-04T09:41:05+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:isdc_admin/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "d0813d668813",
+			"xdb_url": "https://vulncheck.com/xdb/d0813d668813",
+			"date_added": "2020-05-27T11:12:10+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "3785316d7fc5",
+			"xdb_url": "https://vulncheck.com/xdb/3785316d7fc5",
+			"date_added": "2019-05-31T22:11:08+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors/BlueKeep.git"
+		},
+		{
+			"xdb_id": "495f5c9a61a0",
+			"xdb_url": "https://vulncheck.com/xdb/495f5c9a61a0",
+			"date_added": "2022-01-11T21:46:22+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors_k8gege/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "92468824377e",
+			"xdb_url": "https://vulncheck.com/xdb/92468824377e",
+			"date_added": "2021-02-15T20:46:01+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:tancehello/Check-vuln-CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "181fc435a9f1",
+			"xdb_url": "https://vulncheck.com/xdb/181fc435a9f1",
+			"date_added": "2019-10-15T20:39:03+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:bxqtee/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "f783965878ba",
+			"xdb_url": "https://vulncheck.com/xdb/f783965878ba",
+			"date_added": "2020-05-26T23:42:14+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:cysec/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "1bd6e3d7edf2",
+			"xdb_url": "https://vulncheck.com/xdb/1bd6e3d7edf2",
+			"date_added": "2019-11-05T17:51:24+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mibrony/BlueKeep.git"
+		},
+		{
+			"xdb_id": "c67a96a54a2f",
+			"xdb_url": "https://vulncheck.com/xdb/c67a96a54a2f",
+			"date_added": "2020-05-27T11:35:59+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708-1.git"
+		},
+		{
+			"xdb_id": "3a02e0152437",
+			"xdb_url": "https://vulncheck.com/xdb/3a02e0152437",
+			"date_added": "2020-03-17T17:24:17+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "7536b79e5849",
+			"xdb_url": "https://vulncheck.com/xdb/7536b79e5849",
+			"date_added": "2021-09-27T14:39:21+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:e4ting/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "9565e85eb46c",
+			"xdb_url": "https://vulncheck.com/xdb/9565e85eb46c",
+			"date_added": "2021-02-15T21:01:38+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:tancehello/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "fee7134123f4",
+			"xdb_url": "https://vulncheck.com/xdb/fee7134123f4",
+			"date_added": "2022-01-11T23:39:49+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_n1xbyte/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "9523c9b3ece9",
+			"xdb_url": "https://vulncheck.com/xdb/9523c9b3ece9",
+			"date_added": "2020-11-22T14:00:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:nmaps/cve-2019-0708-exp-msf.git"
+		},
+		{
+			"xdb_id": "48acdd34a61b",
+			"xdb_url": "https://vulncheck.com/xdb/48acdd34a61b",
+			"date_added": "2020-03-17T17:43:28+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708-1.git"
+		},
+		{
+			"xdb_id": "b63c341a0817",
+			"xdb_url": "https://vulncheck.com/xdb/b63c341a0817",
+			"date_added": "2019-11-12T16:53:40+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:Cross6/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "b0cd57c5988d",
+			"xdb_url": "https://vulncheck.com/xdb/b0cd57c5988d",
+			"date_added": "2019-11-24T08:30:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:ntkernel/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",
+			"date_added": "2022-04-21T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/prometei-botnet-improves/",
+			"date_added": "2023-03-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.antiy.cn/research/notice&report/research_report/20230310.html",
+			"date_added": "2023-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://go.group-ib.com/rs/689-LRE-818/images/Group-IB_Ransomware_Uncovered_whitepaper_eng.pdf",
+			"date_added": "2020-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/evolution-ransomware-gangs-pdf-9-w-6821.pdf",
+			"date_added": "2020-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.f-secure.com/en/consulting/our-thinking/advisory-cve-2019-0708-bluekeep",
+			"date_added": "2021-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/lockbit-most-prevalent-ransomware",
+			"date_added": "2023-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q2-2019/91897/",
+			"date_added": "2019-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sonicwall.com/en-us/2019/12/top-cves-exploited-in-the-wild-in-the-year-2019/",
+			"date_added": "2019-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf",
+			"date_added": "2020-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa20-275a",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-165a",
+			"date_added": "2023-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/2023/07/eset_threat_report_h12023.pdf",
+			"date_added": "2023-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-215a",
+			"date_added": "2023-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf",
+			"date_added": "2023-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/ko/58231/",
+			"date_added": "2023-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22023.pdf",
+			"date_added": "2023-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.horizon3.ai/wp-content/uploads/2024/03/Proactive_Cybersecurity_Unleashed.pdf",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h12024.pdf",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2019-08-01T00:00:00Z"
+}

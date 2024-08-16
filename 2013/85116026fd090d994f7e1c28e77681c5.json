@@ -1,0 +1,47 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux kernel fails to check all 64 bits of attr.config passed by user space, resulting to out-of-bounds access of the perf_swevent_enabled array in sw_perf_event_destroy(). Explotation allows for privilege escalation.",
+	"vulnerabilityName": "Linux Kernel Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-2094"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1b5a2f6d40ca",
+			"xdb_url": "https://vulncheck.com/xdb/1b5a2f6d40ca",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "553d40d9c74c",
+			"xdb_url": "https://vulncheck.com/xdb/553d40d9c74c",
+			"date_added": "2013-05-20T04:23:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:realtalk/cve-2013-2094.git"
+		},
+		{
+			"xdb_id": "9dbfce6b00bc",
+			"xdb_url": "https://vulncheck.com/xdb/9dbfce6b00bc",
+			"date_added": "2013-06-05T10:59:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hiikezoe/libperf_event_exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.linuxglobal.com/cve-2013-2094-root-privilege-escalation-attack/",
+			"date_added": "2013-05-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-10-06T00:00:00Z",
+	"cisa_date_added": "2022-09-15T00:00:00Z",
+	"date_added": "2013-05-17T00:00:00Z"
+}

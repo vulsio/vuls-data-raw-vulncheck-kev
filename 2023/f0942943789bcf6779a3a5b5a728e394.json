@@ -1,0 +1,19 @@
+{
+	"vendorProject": "linksys",
+	"product": "wap54g_firmware",
+	"shortDescription": "Linksys WAP54Gv3 firmware 3.04.03 and earlier uses a hard-coded username (Gemtek) and password (gemtekswd) for a debug interface for certain web pages, which allows remote attackers to execute arbitrary commands via the (1) data1, (2) data2, or (3) data3 parameters to (a) Debug_command_page.asp and (b) debug.cgi.",
+	"vulnerabilityName": "linksys wap54g_firmware Use of Hard-coded Credentials",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-1573"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-05T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "advancedcustomfields",
+	"product": "advanced_custom_fields",
+	"shortDescription": "Unauth. Reflected Cross-Site Scripting (XSS) vulnerability in WP Engine Advanced Custom Fields Pro, WP Engine Advanced Custom Fields plugins <= 6.1.5 versions.",
+	"vulnerabilityName": "advancedcustomfields advanced_custom_fields Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-30777"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dcd6d015659b",
+			"xdb_url": "https://vulncheck.com/xdb/dcd6d015659b",
+			"date_added": "2023-06-17T12:43:51Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Alucard0x1/CVE-2023-30777.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.akamai.com/blog/security-research/attackers-leverage-sample-exploit-wordpress-plugin",
+			"date_added": "2023-05-11T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-11T00:00:00Z"
+}

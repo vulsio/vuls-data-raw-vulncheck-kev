@@ -1,0 +1,19 @@
+{
+	"vendorProject": "motorola",
+	"product": "motorola_firmware",
+	"shortDescription": "Some Motorola devices include the SIMalliance Toolbox Browser (aka S@T Browser) on the UICC, which might allow remote attackers to retrieve location and IMEI information, or retrieve other data or execute certain commands, via SIM Toolkit (STK) instructions in an SMS message, aka Simjacker.",
+	"vulnerabilityName": "Motorola SIMalliance Toolbox Browser Simjacker Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-16257"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.enea.com/insights/simjacker-next-generation-spying-over-mobile/",
+			"date_added": "2019-09-11T00:00:00Z"
+		}
+	],
+	"date_added": "2019-09-11T00:00:00Z"
+}

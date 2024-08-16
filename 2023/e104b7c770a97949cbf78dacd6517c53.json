@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a security feature bypass vulnerability resulting in a limited loss of integrity and availability of security features.",
+	"vulnerabilityName": "Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36584"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-16T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/new-cve-2023-36584-discovered-in-attack-chain-used-by-russian-apt/",
+			"date_added": "2023-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://assets.beyondtrust.com/assets/documents/BT_whitepaper_Microsoft-Vulnerabilities-Report-2024.pdf",
+			"date_added": "2024-04-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-12-07T00:00:00Z",
+	"cisa_date_added": "2023-11-16T00:00:00Z",
+	"date_added": "2023-11-13T00:00:00Z"
+}

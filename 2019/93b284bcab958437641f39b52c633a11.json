@@ -1,0 +1,19 @@
+{
+	"vendorProject": "phpcms",
+	"product": "phpcms",
+	"shortDescription": "A code injection vulnerability in /type.php in PHPCMS 2008 allows attackers to write arbitrary content to a website cache file with a controllable filename, leading to arbitrary code execution. The PHP code is sent via the template parameter, and is written to a data/cache_template/*.tpl.php file along with a \"<?php function \" substring.",
+	"vulnerabilityName": "phpcms phpcms Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-19127"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/New+Waves+of+Scans+Detected+by+an+Old+Rule/24812",
+			"date_added": "2019-04-04T00:00:00Z"
+		}
+	],
+	"date_added": "2019-04-04T00:00:00Z"
+}

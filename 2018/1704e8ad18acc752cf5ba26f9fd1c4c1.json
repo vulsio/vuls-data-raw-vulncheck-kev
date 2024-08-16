@@ -1,0 +1,19 @@
+{
+	"vendorProject": "smartmesh",
+	"product": "smartmesh",
+	"shortDescription": "An integer overflow in the transferProxy function of a smart contract implementation for SmartMesh (aka SMT), an Ethereum ERC20 token, allows attackers to accomplish an unauthorized increase of digital assets via crafted _fee and _value parameters, as exploited in the wild in April 2018, aka the \"proxyOverflow\" issue.",
+	"vulnerabilityName": "smartmesh smartmesh Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-10376"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-10376",
+			"date_added": "2018-04-25T00:00:00Z"
+		}
+	],
+	"date_added": "2018-04-25T00:00:00Z"
+}

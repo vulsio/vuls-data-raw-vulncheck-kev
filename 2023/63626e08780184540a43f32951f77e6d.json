@@ -1,0 +1,61 @@
+{
+	"vendorProject": "Juniper",
+	"product": "Junos OS",
+	"shortDescription": "Juniper Junos OS on SRX Series contains a missing authentication for critical function vulnerability that allows an unauthenticated, network-based attacker to cause limited impact to the file system integrity. With a specific request to user.php that doesn't require authentication, an attacker is able to upload arbitrary files via J-Web, leading to a loss of integrity for a certain part of the file system, which may allow chaining to other vulnerabilities.",
+	"vulnerabilityName": "Juniper Junos OS SRX Series Missing Authentication for Critical Function Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-36846"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "cab4dfb3731e",
+			"xdb_url": "https://vulncheck.com/xdb/cab4dfb3731e",
+			"date_added": "2023-09-21T14:15:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Dreamy-elfland/CVE-2023-36846.git"
+		},
+		{
+			"xdb_id": "2b08c3ae7d02",
+			"xdb_url": "https://vulncheck.com/xdb/2b08c3ae7d02",
+			"date_added": "2023-09-24T13:30:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r3dcl1ff/CVE-2023-36844_Juniper_RCE.git"
+		},
+		{
+			"xdb_id": "83a248c63cdc",
+			"xdb_url": "https://vulncheck.com/xdb/83a248c63cdc",
+			"date_added": "2024-02-13T14:59:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:iveresk/CVE-2023-36845-6-.git"
+		},
+		{
+			"xdb_id": "869a78bb22b0",
+			"xdb_url": "https://vulncheck.com/xdb/869a78bb22b0",
+			"date_added": "2023-08-29T18:50:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-36846.git"
+		},
+		{
+			"xdb_id": "4826ed6161ea",
+			"xdb_url": "https://vulncheck.com/xdb/4826ed6161ea",
+			"date_added": "2023-08-25T07:28:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/juniper-rce_cve-2023-36844.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://twitter.com/Shadowserver/status/1696512418036486246",
+			"date_added": "2023-08-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-11-17T00:00:00Z",
+	"cisa_date_added": "2023-11-13T00:00:00Z",
+	"date_added": "2023-08-29T00:00:00Z"
+}

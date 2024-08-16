@@ -1,0 +1,23 @@
+{
+	"vendorProject": "avertx",
+	"product": "hd838_firmware",
+	"shortDescription": "An issue was discovered in AvertX Auto focus Night Vision HD Indoor/Outdoor IP Dome Camera HD838 and Night Vision HD Indoor/Outdoor Mini IP Bullet Camera HD438. Failed web UI login attempts elicit different responses depending on whether a user account exists. Because the responses indicate whether a submitted username is valid or not, they make it easier to identify legitimate usernames. If a login request is sent to ISAPI/Security/sessionLogin/capabilities using a username that exists, it will return the value of the salt given to that username, even if the password is incorrect. However, if a login request is sent using a username that is not present in the database, it will return an empty salt value. This allows attackers to enumerate legitimate usernames, facilitating brute-force attacks. NOTE: this is different from CVE-2020-7057.",
+	"vulnerabilityName": "avertx hd838_firmware Observable Discrepancy",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-11625"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/2024-ddos-attack-trends",
+			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-16T00:00:00Z"
+}

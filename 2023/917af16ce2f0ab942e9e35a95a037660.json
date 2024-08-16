@@ -1,0 +1,19 @@
+{
+	"vendorProject": "aioseo",
+	"product": "all_in_one_seo",
+	"shortDescription": "The All in One SEO Pack plugin for WordPress is vulnerable to Stored Cross-Site Scripting via multiple parameters in versions up to, and including, 4.2.9 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers with Contributor+ role to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": " All in One SEO Pack plugin for WordPress Stored Cross-Site Scripting Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0586"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/all-in-one-seo-pack/all-in-one-seo-pack-429-authenticated-contributor-stored-cross-site-scripting",
+			"date_added": "2023-02-24T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-24T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "10web",
+	"product": "10web_booster",
+	"shortDescription": "The 10Web Booster WordPress plugin before 2.24.18 does not validate the option name given to some AJAX actions, allowing unauthenticated users to delete arbitrary options from the database, leading to denial of service.",
+	"vulnerabilityName": "10Web Booster WordPress plugin AJAX actions Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-5559"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/tenweb-speed-optimizer/10web-booster-22414-unauthenticated-arbitrary-option-deletion",
+			"date_added": "2023-10-29T00:00:00Z"
+		}
+	],
+	"date_added": "2023-10-29T00:00:00Z"
+}

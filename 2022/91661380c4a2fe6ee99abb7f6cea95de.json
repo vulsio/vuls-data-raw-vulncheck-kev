@@ -1,0 +1,182 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "If a Volume Shadow Copy (VSS) shadow copy of the system drive is available, users can read the SAM file which would allow any user to escalate privileges to SYSTEM level.",
+	"vulnerabilityName": "Microsoft Windows SAM Local Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-36934"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "591431919857",
+			"xdb_url": "https://vulncheck.com/xdb/591431919857",
+			"date_added": "2021-07-22T00:55:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Wh04m1001/VSSCopy.git"
+		},
+		{
+			"xdb_id": "078d6f06bd90",
+			"xdb_url": "https://vulncheck.com/xdb/078d6f06bd90",
+			"date_added": "2021-07-22T12:24:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tda90/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "123ee9082813",
+			"xdb_url": "https://vulncheck.com/xdb/123ee9082813",
+			"date_added": "2021-07-21T17:24:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:n3tsurge/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "96e9eacb05d6",
+			"xdb_url": "https://vulncheck.com/xdb/96e9eacb05d6",
+			"date_added": "2021-07-29T20:35:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:irissentinel/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "0dfa67c40229",
+			"xdb_url": "https://vulncheck.com/xdb/0dfa67c40229",
+			"date_added": "2021-08-02T13:47:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:grishinpv/poc_CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "50f81231aee5",
+			"xdb_url": "https://vulncheck.com/xdb/50f81231aee5",
+			"date_added": "2021-07-22T21:54:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:bytesizedalex/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "f37385744f45",
+			"xdb_url": "https://vulncheck.com/xdb/f37385744f45",
+			"date_added": "2021-07-22T14:53:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:VertigoRay/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "a07f876412e5",
+			"xdb_url": "https://vulncheck.com/xdb/a07f876412e5",
+			"date_added": "2021-07-26T06:51:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:CrackerCat/HiveNightmare.git"
+		},
+		{
+			"xdb_id": "ed07468efcaa",
+			"xdb_url": "https://vulncheck.com/xdb/ed07468efcaa",
+			"date_added": "2021-08-10T19:39:28Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:OlivierLaflamme/CVE-2021-36934_export_shadow_volume.git"
+		},
+		{
+			"xdb_id": "7e94de290340",
+			"xdb_url": "https://vulncheck.com/xdb/7e94de290340",
+			"date_added": "2021-07-25T00:31:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Sp00p64/PyNightmare.git"
+		},
+		{
+			"xdb_id": "b8a3eb621c11",
+			"xdb_url": "https://vulncheck.com/xdb/b8a3eb621c11",
+			"date_added": "2021-07-26T08:01:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0x0D1n/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "545fd96d1ad3",
+			"xdb_url": "https://vulncheck.com/xdb/545fd96d1ad3",
+			"date_added": "2021-07-24T14:58:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Preventions/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "9be67e72e04a",
+			"xdb_url": "https://vulncheck.com/xdb/9be67e72e04a",
+			"date_added": "2021-07-25T18:00:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jmaddington/Serious-Sam---CVE-2021-36934-Mitigation-for-Datto-RMM.git"
+		},
+		{
+			"xdb_id": "9f954d278217",
+			"xdb_url": "https://vulncheck.com/xdb/9f954d278217",
+			"date_added": "2021-08-12T18:01:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chron1k/oxide_hive.git"
+		},
+		{
+			"xdb_id": "f943b266eccd",
+			"xdb_url": "https://vulncheck.com/xdb/f943b266eccd",
+			"date_added": "2021-07-20T22:16:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:HuskyHacks/ShadowSteal.git"
+		},
+		{
+			"xdb_id": "4ec8f950a8af",
+			"xdb_url": "https://vulncheck.com/xdb/4ec8f950a8af",
+			"date_added": "2021-07-22T03:07:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:WiredPulse/Invoke-HiveNightmare.git"
+		},
+		{
+			"xdb_id": "9a45af3ec16c",
+			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
+			"date_added": "2021-07-20T11:35:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
+		},
+		{
+			"xdb_id": "7a9d2a3f2520",
+			"xdb_url": "https://vulncheck.com/xdb/7a9d2a3f2520",
+			"date_added": "2021-08-01T19:54:31Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:websecnl/CVE-2021-36934.git"
+		},
+		{
+			"xdb_id": "3995834c206a",
+			"xdb_url": "https://vulncheck.com/xdb/3995834c206a",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "80999bdcfa69",
+			"xdb_url": "https://vulncheck.com/xdb/80999bdcfa69",
+			"date_added": "2021-07-24T00:08:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:gvillegas/vsssam.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2022/02/eset_threat_report_t32021.pdf",
+			"date_added": "2022-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/sidewinder-apt/",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-02-24T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2022-02-09T00:00:00Z"
+}

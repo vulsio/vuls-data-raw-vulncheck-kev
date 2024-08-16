@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Arm",
+	"product": "Mali Graphics Processing Unit (GPU)",
+	"shortDescription": "Arm Mali GPU Kernel Driver contains a use-after-free vulnerability that may allow a non-privileged user to gain root privilege and/or disclose information.",
+	"vulnerabilityName": "Arm Mali GPU Kernel Driver Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-38181"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "36b7eb9b6e72",
+			"xdb_url": "https://vulncheck.com/xdb/36b7eb9b6e72",
+			"date_added": "2023-04-13T13:25:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Pro-me3us/CVE_2022_38181_Gazelle.git"
+		},
+		{
+			"xdb_id": "0ea5523595cc",
+			"xdb_url": "https://vulncheck.com/xdb/0ea5523595cc",
+			"date_added": "2023-04-13T13:19:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Pro-me3us/CVE_2022_38181_Raven.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/",
+			"date_added": "2023-03-29T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-20T00:00:00Z",
+	"cisa_date_added": "2023-03-30T00:00:00Z",
+	"date_added": "2023-03-29T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office 2013 and 2013 RT allows remote attackers to discover authentication tokens via a crafted response to a file-open request for an Office file on a web site, as exploited in the wild in 2013, aka \"Token Hijacking Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Office Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-5054"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2013/ms13-104",
+			"date_added": "2013-12-10T00:00:00Z"
+		}
+	],
+	"date_added": "2013-12-10T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Buffer overflow in Microsoft Office 2000 SP3, XP SP3, and other versions and packages, allows user-assisted attackers to execute arbitrary code via a routing slip that is longer than specified by the provided length field, as exploited by malware such as TROJ_MDROPPER.BH and Trojan.PPDropper.E in attacks against PowerPoint.",
+	"vulnerabilityName": "Microsoft Office Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-0009"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2006-0009",
+			"date_added": "2006-03-14T00:00:00Z"
+		}
+	],
+	"date_added": "2006-03-14T00:00:00Z"
+}

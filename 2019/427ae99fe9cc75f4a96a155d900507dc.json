@@ -1,0 +1,31 @@
+{
+	"vendorProject": "mitsubishielectric",
+	"product": "smartrtu_firmware",
+	"shortDescription": "An issue was discovered on Mitsubishi Electric ME-RTU devices through 2.02 and INEA ME-RTU devices through 3.0. An unauthenticated remote OS Command Injection vulnerability allows an attacker to execute arbitrary commands on the RTU due to the passing of unsafe user supplied data to the RTU's system shell. Functionality in mobile.php provides users with the ability to ping sites or IP addresses via Mobile Connection Test. When the Mobile Connection Test is submitted, action.php is called to execute the test. An attacker can use a shell command separator (;) in the host variable to execute operating system commands upon submitting the test data.",
+	"vulnerabilityName": "mitsubishielectric smartrtu_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-14931"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-echobot-resurfaces-with-13-previously-unexploited-vulnerabilities/",
+			"date_added": "2019-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.securityweek.com/echobot-malware-drives-significant-increase-ot-attacks",
+			"date_added": "2020-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/iot-vulnerabilities-mirai-payloads/",
+			"date_added": "2020-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-12-13T00:00:00Z"
+}

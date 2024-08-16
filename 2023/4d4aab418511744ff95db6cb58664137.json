@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Zimbra",
+	"product": "Collaboration Suite (ZCS)",
+	"shortDescription": "Zimbra Collaboration Suite (ZCS) contains a cross-site scripting vulnerability by allowing an endpoint URL to accept parameters without sanitizing.",
+	"vulnerabilityName": "Zimbra Collaboration (ZCS) Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-27926"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2023/05/eset_apt_activity_report_q42022_q12023.pdf",
+			"date_added": "2023-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/",
+			"date_added": "2023-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0217.pdf",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.verizon.com/business/resources/T600/reports/2024-dbir-data-breach-investigations-report.pdf",
+			"date_added": "2024-05-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-24T00:00:00Z",
+	"cisa_date_added": "2023-04-03T00:00:00Z",
+	"date_added": "2023-03-30T00:00:00Z"
+}

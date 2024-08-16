@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The Windows kernel in Windows 7 SP1 and Windows Server 2008 R2 SP1 allows an elevation of privilege vulnerability due to the way it handles objects in memory, aka \"Windows Kernel Elevation of Privilege Vulnerability.\"",
+	"vulnerabilityName": "Windows Kernel Elevation of Privilege",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-1038"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cyber.gov.au/sites/default/files/2023-03/report_manic_menagerie.pdf",
+			"date_added": "2018-06-01T00:00:00Z"
+		}
+	],
+	"date_added": "2018-06-01T00:00:00Z"
+}

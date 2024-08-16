@@ -1,0 +1,19 @@
+{
+	"vendorProject": "barni",
+	"product": "master_ip_camera01_firmware",
+	"shortDescription": "MASTER IPCAMERA01 3.3.4.2103 devices allow Remote Command Execution, related to the thttpd component.",
+	"vulnerabilityName": "MASTER IPCAMERA01 3.3.4.2103 Remote Command Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8387"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-13&host_type=src&vulnerability=cve-2019-8387",
+			"date_added": "2023-12-13T00:00:00Z"
+		}
+	],
+	"date_added": "2023-12-13T00:00:00Z"
+}

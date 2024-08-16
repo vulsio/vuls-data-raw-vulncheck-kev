@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wickedplugins",
+	"product": "wicked_folders",
+	"shortDescription": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_clone_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform actions intended for administrators such as modifying the folder structure maintained by the plugin.",
+	"vulnerabilityName": "Wicked Folders plugin for WordPress ajax_clone_folder Authorization Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0715"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/wicked-folders/wordpress-wicked-folders-plugin-2-18-16-missing-authorization-on-ajax-clone-folder-vulnerability",
+			"date_added": "2023-02-08T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-08T00:00:00Z"
+}

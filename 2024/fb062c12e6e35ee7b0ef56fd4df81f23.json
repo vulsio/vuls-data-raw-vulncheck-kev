@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Zoho",
+	"product": "manageengine_admanager_plus",
+	"shortDescription": "Zoho ManageEngine ADManager Plus before Build 7200 allows admin users to execute commands on the host machine.",
+	"vulnerabilityName": "Zoho ManageEngine ADManager Plus Authenticated Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38743"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f2242a03843e",
+			"xdb_url": "https://vulncheck.com/xdb/f2242a03843e",
+			"date_added": "2023-10-02T02:14:23Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:PetrusViet/CVE-2023-38743.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://thorcert.notion.site/TTPs-11-Operation-An-Octopus-d875862055ca4b7b815b5e496b219671",
+			"date_added": "2024-07-01T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-01T00:00:00Z"
+}

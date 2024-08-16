@@ -1,0 +1,19 @@
+{
+	"vendorProject": "justsystems",
+	"product": "ichitaro",
+	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro and Ichitaro Government allows remote attackers to execute arbitrary code via a crafted document, a different vulnerability than CVE-2010-3916.",
+	"vulnerabilityName": "JustSystems Ichitaro and Ichitaro Government Crafted Document Remote Code Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3915"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.softpedia.com/news/Vulnerability-in-Japanese-Word-Processor-Exploited-to-Infected-Computers-164963.shtml",
+			"date_added": "2010-11-05T00:00:00Z"
+		}
+	],
+	"date_added": "2010-11-05T00:00:00Z"
+}

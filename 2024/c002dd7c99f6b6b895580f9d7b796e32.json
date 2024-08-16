@@ -1,0 +1,19 @@
+{
+	"vendorProject": "CyberChimps",
+	"product": "Responsive theme for WordPress",
+	"shortDescription": "The Responsive theme for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the save_footer_text_callback function in all versions up to, and including, 5.0.2. This makes it possible for unauthenticated attackers to inject arbitrary HTML content into the site's footer.",
+	"vulnerabilityName": "Responsive theme for WordPress save_footer_text_callback Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-2848"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/responsive/wordpress-responsive-theme-5-0-2-missing-authorization-to-hmtl-injection-vulnerability",
+			"date_added": "2024-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-01T00:00:00Z"
+}

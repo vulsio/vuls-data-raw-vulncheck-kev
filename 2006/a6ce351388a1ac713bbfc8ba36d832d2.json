@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Unspecified vulnerability in Microsoft Word 2000, 2002, and Office 2003 allows remote user-assisted attackers to execute arbitrary code via unspecified vectors involving a crafted file resulting in a malformed stack, as exploited by malware with names including Trojan.Mdropper.Q, Mofei, and Femo.",
+	"vulnerabilityName": "Microsoft Word Malformed Stack Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-4534"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-060",
+			"date_added": "2006-10-10T00:00:00Z"
+		}
+	],
+	"date_added": "2006-10-10T00:00:00Z"
+}

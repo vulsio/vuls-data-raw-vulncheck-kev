@@ -1,0 +1,19 @@
+{
+	"vendorProject": "cleantalk",
+	"product": "spam_protection\\,_antispam\\,_firewall",
+	"shortDescription": "It was possible to exploit an Unauthenticated Time-Based Blind SQL Injection vulnerability in the Spam protection, AntiSpam, FireWall by CleanTalk WordPress Plugin before 5.153.4. The update_log function in lib/Cleantalk/ApbctWP/Firewall/SFW.php included a vulnerable query that could be injected via the User-Agent Header by manipulating the cookies set by the Spam protection, AntiSpam, FireWall by CleanTalk WordPress plugin before 5.153.4, sending an initial request to obtain a ct_sfw_pass_key cookie and then manually setting a separate ct_sfw_passed cookie and disallowing it from being reset.",
+	"vulnerabilityName": "cleantalk spam_protection\\,_antispam\\,_firewall Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24295"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/cleantalk-spam-protect/wordpress-spam-protection-antispam-firewall-by-cleantalk-plugin-5-153-3-unauthenticated-time-based-blind-sql-injection-sqli-vulnerability",
+			"date_added": "2021-05-03T00:00:00Z"
+		}
+	],
+	"date_added": "2021-05-03T00:00:00Z"
+}

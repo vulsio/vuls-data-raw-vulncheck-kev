@@ -1,0 +1,38 @@
+{
+	"vendorProject": "QNAP",
+	"product": "QTS, QuTS hero",
+	"shortDescription": "A buffer copy without checking size of input vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute code via a network.",
+	"vulnerabilityName": "QNAP Operating System Authenticated Network Buffer Overflow",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-27130"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fd3ef1157d3d",
+			"xdb_url": "https://vulncheck.com/xdb/fd3ef1157d3d",
+			"date_added": "2024-05-21T11:14:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:d0rb/CVE-2024-27130.git"
+		},
+		{
+			"xdb_id": "b140a4e5c640",
+			"xdb_url": "https://vulncheck.com/xdb/b140a4e5c640",
+			"date_added": "2024-05-17T07:58:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-27130.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-27&host_type=src&vulnerability=cve-2024-27130",
+			"date_added": "2024-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2024-27130",
+			"date_added": "2024-08-07T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-27T00:00:00Z"
+}

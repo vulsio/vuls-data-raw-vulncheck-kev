@@ -1,0 +1,25 @@
+{
+	"vendorProject": "VMware",
+	"product": "vCenter Server",
+	"shortDescription": "Rhttproxy as used in vCenter Server contains a vulnerability due to improper implementation of URI normalization.",
+	"vulnerabilityName": "VMware vCenter Server Improper Access Control",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22017"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/battling-ransomware-one-tag-at-a-time",
+			"date_added": "2024-02-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-01-24T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "sibsoft",
+	"product": "xfilesharing",
+	"shortDescription": "SibSoft Xfilesharing through 2.5.1 allows cgi-bin/up.cgi arbitrary file upload. This can be combined with CVE-2019-18951 to achieve remote code execution via a .html file, containing short codes, that is served over HTTP.",
+	"vulnerabilityName": "sibsoft xfilesharing Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-18952"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-09T00:00:00Z"
+}

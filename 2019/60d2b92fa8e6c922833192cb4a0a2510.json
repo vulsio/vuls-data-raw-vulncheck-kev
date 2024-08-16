@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the VBScript engine handles objects in memory, aka 'Windows VBScript Engine Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2019-0665, CVE-2019-0666, CVE-2019-0772.",
+	"vulnerabilityName": "Microsoft Internet Explorer Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-0667"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.niiconsulting.com/Security_Advisories/Security_Advisory_Digest_April_edition_1_digest_pdf.pdf",
+			"date_added": "2019-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2019-04-01T00:00:00Z"
+}

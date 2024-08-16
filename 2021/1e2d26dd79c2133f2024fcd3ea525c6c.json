@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Drupal",
+	"product": "Drupal Core",
+	"shortDescription": "Improper sanitization in the extension file names is present in Drupal core.",
+	"vulnerabilityName": "Drupal core Un-restricted Upload of File",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-13671"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
+			"date_added": "2024-05-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-18T00:00:00Z",
+	"cisa_date_added": "2022-01-18T00:00:00Z",
+	"date_added": "2021-04-12T00:00:00Z"
+}

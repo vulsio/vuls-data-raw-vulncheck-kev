@@ -1,0 +1,23 @@
+{
+	"vendorProject": "7-zip",
+	"product": "7-zip",
+	"shortDescription": "Incorrect initialization logic of RAR decoder objects in 7-Zip 18.03 and before can lead to usage of uninitialized memory, allowing remote attackers to cause a denial of service (segmentation fault) or execute arbitrary code via a crafted RAR archive.",
+	"vulnerabilityName": "7-zip 7-zip Improper Initialization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-10115"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",
+			"date_added": "2020-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		}
+	],
+	"date_added": "2020-02-25T00:00:00Z"
+}

@@ -1,0 +1,99 @@
+{
+	"vendorProject": "mvpower",
+	"product": "tv-7104he_firmware",
+	"shortDescription": "MVPower CCTV DVR models, including TV-7104HE 1.8.4 115215B9 and TV7108HE, contain a web shell that is accessible via a /shell URI. A remote unauthenticated attacker can execute arbitrary operating system commands as root. This vulnerability has also been referred to as the \"JAWS webserver RCE\" because of the easily identifying HTTP response server field. Other firmware versions, at least from 2014 through 2019, can be affected. This was exploited in the wild in 2017 through 2022.",
+	"vulnerabilityName": "MVPower CCTV DVR models, including TV-7104HE 1.8.4 115215B9 and TV7108HE Remote Command Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-20016"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "37a19fcc6142",
+			"xdb_url": "https://vulncheck.com/xdb/37a19fcc6142",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.netlab.360.com/mozi-another-botnet-using-dht/",
+			"date_added": "2019-12-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/fr/security/news/internet-of-things/mirai-updates-new-variant-mukashi-targets-nas-devices-new-vulnerability-exploited-in-gpon-routers-upx-packed-fbot",
+			"date_added": "2020-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://blog.lumen.com/new-mozi-malware-family-quietly-amasses-iot-bots/",
+			"date_added": "2020-04-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/05/eset_threat_report_t12021.pdf",
+			"date_added": "2020-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/20/g/new-mirai-variant-expands-arsenal-exploits-cve-2020-10173.html",
+			"date_added": "2020-07-08T00:00:00Z"
+		},
+		{
+			"url": "https://securityintelligence.com/posts/botnet-attack-mozi-mozied-into-town/",
+			"date_added": "2020-09-20T00:00:00Z"
+		},
+		{
+			"url": "https://sequretek.com/wp-content/uploads/2018/10/Sequretek-Advisory-Mozi-Botnet.pdf",
+			"date_added": "2020-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2022/06/eset_threat_report_t12022.pdf",
+			"date_added": "2022-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2022/10/eset_threat_report_t22022.pdf",
+			"date_added": "2022-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/2022-iot-threat-review",
+			"date_added": "2023-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2023/02/eset_threat_report_t32022.pdf",
+			"date_added": "2023-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/a-deep-dive-into-the-zergeca-botnet/",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services",
+			"date_added": "2024-06-25T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"date_added": "2019-12-23T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "minerstat",
+	"product": "msos",
+	"shortDescription": "minerstat msOS before 2019-10-23 does not have a unique SSH key for each instance of the product.",
+	"vulnerabilityName": "Minerstat msOS SSH Host Key Reuse",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-19750"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://rsaxvc.net/blog/2020/4/10/Widespread_re-use_of_SSH_Host_Keys_in_Ethereum_Mining_Rig_Operating_Systems.html",
+			"date_added": "2020-04-10T00:00:00Z"
+		}
+	],
+	"date_added": "2020-04-10T00:00:00Z"
+}

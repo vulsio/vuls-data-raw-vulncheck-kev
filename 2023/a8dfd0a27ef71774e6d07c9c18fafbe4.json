@@ -1,0 +1,25 @@
+{
+	"vendorProject": "FXC",
+	"product": "AE1021, AE1021PE",
+	"shortDescription": "FXC AE1021 and AE1021PE contain an OS command injection vulnerability that allows authenticated users to execute commands via a network.",
+	"vulnerabilityName": "FXC AE1021, AE1021PE OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-49897"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/zero-day-vulnerability-spreading-mirai-patched",
+			"date_added": "2023-12-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-11T00:00:00Z",
+	"cisa_date_added": "2023-12-21T00:00:00Z",
+	"date_added": "2023-12-06T00:00:00Z"
+}

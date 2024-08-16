@@ -1,0 +1,53 @@
+{
+	"vendorProject": "VMware",
+	"product": "vCenter Server",
+	"shortDescription": "VMware vCenter Server contains an out-of-bounds write vulnerability in the implementation of the DCERPC protocol that allows an attacker to conduct remote code execution.",
+	"vulnerabilityName": "VMware vCenter Server Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-34048"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.vmware.com/security/advisories/VMSA-2023-0023.html",
+			"date_added": "2024-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/resources/blog/chinese-vmware-exploitation-since-2021",
+			"date_added": "2024-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/",
+			"date_added": "2024-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/cve-2023-34048-vmware-vcenter/",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Year_in_Review_of_ZeroDays.pdf",
+			"date_added": "2024-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/uncovering-unc3886-espionage-operations",
+			"date_added": "2024-06-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-02-12T00:00:00Z",
+	"cisa_date_added": "2024-01-22T00:00:00Z",
+	"date_added": "2024-01-17T00:00:00Z"
+}

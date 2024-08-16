@@ -1,0 +1,19 @@
+{
+	"vendorProject": "comodo",
+	"product": "unified_threat_management_firewall",
+	"shortDescription": "Web Console in Comodo UTM Firewall before 2.7.0 allows remote attackers to execute arbitrary code without authentication via a crafted URL.",
+	"vulnerabilityName": "comodo unified_threat_management_firewall Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-17431"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://veriti.ai/blog/vulnerable-villain-when-hackers-get-hacked/",
+			"date_added": "2024-04-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-04-15T00:00:00Z"
+}

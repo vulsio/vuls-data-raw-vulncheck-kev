@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "iphone_os",
+	"shortDescription": "An issue was discovered in certain Apple products. iOS before 10.3 is affected. The issue involves the \"Quick Look\" component. It allows remote attackers to trigger telephone calls to arbitrary numbers via a tel: URL in a PDF document, as exploited in the wild in October 2016.",
+	"vulnerabilityName": "Apple iOS before 10.3 \"Quick Look\" Call Trigger",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-2404"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2017-2404",
+			"date_added": "2017-04-01T00:00:00Z"
+		}
+	],
+	"date_added": "2017-04-01T00:00:00Z"
+}

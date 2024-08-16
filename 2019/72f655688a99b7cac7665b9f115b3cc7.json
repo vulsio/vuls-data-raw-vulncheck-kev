@@ -1,0 +1,72 @@
+{
+	"vendorProject": "VMware",
+	"product": "VMware ESXi and Horizon DaaS",
+	"shortDescription": "VMware ESXi and Horizon Desktop as a Service (DaaS) OpenSLP contains a heap-based buffer overflow vulnerability that allows an attacker with network access to port 427 to overwrite the heap of the OpenSLP service to perform remote code execution.",
+	"vulnerabilityName": "VMware ESXi and Horizon DaaS OpenSLP Heap-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-5544"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "51f10d5e647f",
+			"xdb_url": "https://vulncheck.com/xdb/51f10d5e647f",
+			"date_added": "2021-02-04T15:15:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:dgh05t/VMware_ESXI_OpenSLP_PoCs.git"
+		},
+		{
+			"xdb_id": "8a8375ae7774",
+			"xdb_url": "https://vulncheck.com/xdb/8a8375ae7774",
+			"date_added": "2020-12-01T13:49:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:HynekPetrak/CVE-2019-5544_CVE-2020-3992.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyber.nj.gov/alerts-advisories/ransomware-groups-exploit-vmware-esxi-vulnerabilities",
+			"date_added": "2021-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/darkside-the-ransomware-that-brought-a-us-pipeline-to-a-halt.html",
+			"date_added": "2021-05-18T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware",
+			"date_added": "2021-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/darkside-ransomware-threat-associations-unearthed.html",
+			"date_added": "2021-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q1-2021/102382/",
+			"date_added": "2019-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2020/11/11/vmware-esxi-openslp-remote-code-execution-vulnerability-cve-2020-3992-and-cve-2019-5544-what-you-need-to-know/",
+			"date_added": "2020-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/threat-research/a-custom-python-backdoor-for-vmware-esxi-servers",
+			"date_added": "2022-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/hypervisor-jackpotting-lack-of-antivirus-support-opens-the-door-to-adversaries/",
+			"date_added": "2023-05-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2019-04-01T00:00:00Z"
+}

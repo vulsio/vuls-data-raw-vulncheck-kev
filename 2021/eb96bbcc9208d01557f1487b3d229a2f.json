@@ -1,0 +1,19 @@
+{
+	"vendorProject": "mycred",
+	"product": "mycred",
+	"shortDescription": "The myCred WordPress plugin before 2.3 does not validate or escape the fields parameter before using it in a SQL statement, leading to an SQL injection exploitable by any authenticated user",
+	"vulnerabilityName": "mycred mycred Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24755"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/mycred/wordpress-mycred-plugin-2-2-sql-injection-sqli-vulnerability",
+			"date_added": "2021-11-01T00:00:00Z"
+		}
+	],
+	"date_added": "2021-11-01T00:00:00Z"
+}

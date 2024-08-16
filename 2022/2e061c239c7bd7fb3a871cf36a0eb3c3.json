@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Apache",
+	"product": "Struts 2",
+	"shortDescription": "The ExceptionDelegator component in Apache Struts 2 before 2.2.3.1 contains an improper input validation vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Apache Struts 2 Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-0391"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-21T00:00:00Z",
+	"cisa_date_added": "2022-01-21T00:00:00Z",
+	"date_added": "2022-01-21T00:00:00Z"
+}

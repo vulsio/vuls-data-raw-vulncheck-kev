@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Connect Secure and Policy Secure",
+	"shortDescription": "In Pulse Secure Pulse Connect Secure (PCS) 8.3.x before 8.3R7.1 and 9.0.x before 9.0R3, an XSS issue has been found on the Application Launcher page.",
+	"vulnerabilityName": "Ivanti Connect Secure and Policy Secure Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-11507"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://research.checkpoint.com/2020/8th-june-threat-intelligence-bulletin/",
+			"date_added": "2020-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/patchwatch/patch-watch-csw-analysis-of-pulse-secure-vulnerabilities.html",
+			"date_added": "2020-06-08T00:00:00Z"
+		}
+	],
+	"date_added": "2020-06-08T00:00:00Z"
+}

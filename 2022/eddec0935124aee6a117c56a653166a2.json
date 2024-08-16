@@ -1,0 +1,21 @@
+{
+	"vendorProject": "WebKitGTK",
+	"product": "WebKitGTK",
+	"shortDescription": "WebKitGTK contains a memory corruption vulnerability which can allow an attacker to perform remote code execution.",
+	"vulnerabilityName": "WebKitGTK Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-8720"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2022-05-23T00:00:00Z"
+}

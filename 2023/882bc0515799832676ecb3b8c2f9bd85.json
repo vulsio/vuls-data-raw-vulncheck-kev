@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows CNG Key Isolation Service",
+	"shortDescription": "Microsoft Windows Cryptographic Next Generation (CNG) Key Isolation Service contains an unspecified vulnerability that allows an attacker to gain specific limited SYSTEM privileges.",
+	"vulnerabilityName": "Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28229"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a68c6a952775",
+			"xdb_url": "https://vulncheck.com/xdb/a68c6a952775",
+			"date_added": "2024-03-27T20:57:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:pxcs/CrackKeyIso.git"
+		},
+		{
+			"xdb_id": "389ef9618afd",
+			"xdb_url": "https://vulncheck.com/xdb/389ef9618afd",
+			"date_added": "2023-09-04T07:48:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Y3A/CVE-2023-28229.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-10-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-10-25T00:00:00Z",
+	"cisa_date_added": "2023-10-04T00:00:00Z",
+	"date_added": "2023-10-04T00:00:00Z"
+}

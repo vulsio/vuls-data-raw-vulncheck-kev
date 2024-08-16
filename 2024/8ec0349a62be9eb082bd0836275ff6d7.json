@@ -1,0 +1,110 @@
+{
+	"vendorProject": "Apache",
+	"product": "Superset",
+	"shortDescription": "Apache Superset contains an insecure default initialization of a resource vulnerability that allows an attacker to authenticate and access unauthorized resources on installations that have not altered the default configured SECRET_KEY according to installation instructions.",
+	"vulnerabilityName": "Apache Superset Insecure Default Initialization of Resource Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-27524"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6c5afecd773f",
+			"xdb_url": "https://vulncheck.com/xdb/6c5afecd773f",
+			"date_added": "2023-04-27T07:31:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:antx-code/CVE-2023-27524.git"
+		},
+		{
+			"xdb_id": "3f3b3474bcd8",
+			"xdb_url": "https://vulncheck.com/xdb/3f3b3474bcd8",
+			"date_added": "2023-05-04T13:29:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MaanVader/CVE-2023-27524-POC.git"
+		},
+		{
+			"xdb_id": "a2f39ee2e959",
+			"xdb_url": "https://vulncheck.com/xdb/a2f39ee2e959",
+			"date_added": "2023-08-30T20:59:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:necroteddy/CVE-2023-27524.git"
+		},
+		{
+			"xdb_id": "49026b01a9e8",
+			"xdb_url": "https://vulncheck.com/xdb/49026b01a9e8",
+			"date_added": "2023-10-10T08:23:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:CN016/Apache-Superset-SECRET_KEY-CVE-2023-27524-.git"
+		},
+		{
+			"xdb_id": "96ea12e77e80",
+			"xdb_url": "https://vulncheck.com/xdb/96ea12e77e80",
+			"date_added": "2023-05-08T16:50:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TardC/CVE-2023-27524.git"
+		},
+		{
+			"xdb_id": "a4304932f8c7",
+			"xdb_url": "https://vulncheck.com/xdb/a4304932f8c7",
+			"date_added": "2023-04-27T06:21:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Okaytc/Superset_auth_bypass_check.git"
+		},
+		{
+			"xdb_id": "d23c099d5d89",
+			"xdb_url": "https://vulncheck.com/xdb/d23c099d5d89",
+			"date_added": "2023-12-25T06:24:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:summerainX/vul_poc.git"
+		},
+		{
+			"xdb_id": "d258b47e2ea9",
+			"xdb_url": "https://vulncheck.com/xdb/d258b47e2ea9",
+			"date_added": "2024-05-11T12:29:08Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Cappricio-Securities/CVE-2023-2752.git"
+		},
+		{
+			"xdb_id": "7b3694a59dcc",
+			"xdb_url": "https://vulncheck.com/xdb/7b3694a59dcc",
+			"date_added": "2024-05-11T12:19:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:karthi-the-hacker/CVE-2023-27524.git"
+		},
+		{
+			"xdb_id": "925cc8f34b1d",
+			"xdb_url": "https://vulncheck.com/xdb/925cc8f34b1d",
+			"date_added": "2023-04-25T04:59:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2023-27524.git"
+		},
+		{
+			"xdb_id": "4abf848aca22",
+			"xdb_url": "https://vulncheck.com/xdb/4abf848aca22",
+			"date_added": "2023-09-08T06:15:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2023-27524-Apache-Superset-Auth-Bypass-and-RCE.git"
+		},
+		{
+			"xdb_id": "3a6a4fb601a4",
+			"xdb_url": "https://vulncheck.com/xdb/3a6a4fb601a4",
+			"date_added": "2023-05-04T21:43:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2023-27524.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/",
+			"date_added": "2024-02-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-01-29T00:00:00Z",
+	"cisa_date_added": "2024-01-08T00:00:00Z",
+	"date_added": "2024-01-08T00:00:00Z"
+}

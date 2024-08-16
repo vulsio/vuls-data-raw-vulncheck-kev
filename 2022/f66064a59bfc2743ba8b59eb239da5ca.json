@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Apple",
+	"product": "iOS and macOS",
+	"shortDescription": "Apple iOS and macOS contain an out-of-bounds write vulnerability that could allow for remote code execution when processing malicious crafted web content.",
+	"vulnerabilityName": "Apple iOS and macOS Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-32893"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213412",
+			"date_added": "2022-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213413",
+			"date_added": "2022-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213414",
+			"date_added": "2022-08-18T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213428",
+			"date_added": "2022-08-31T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/kb/HT213486",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-18T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://intel471.com/blog/macos-is-increasingly-targeted-by-threat-actors",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-09-08T00:00:00Z",
+	"cisa_date_added": "2022-08-18T00:00:00Z",
+	"date_added": "2022-08-17T00:00:00Z"
+}

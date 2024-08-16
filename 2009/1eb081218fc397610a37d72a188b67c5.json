@@ -1,0 +1,19 @@
+{
+	"vendorProject": "spip",
+	"product": "spip",
+	"shortDescription": "SPIP 1.9 before 1.9.2i and 2.0.x through 2.0.8 does not use proper access control for (1) ecrire/exec/install.php and (2) ecrire/index.php, which allows remote attackers to conduct unauthorized activities related to installation and backups, as exploited in the wild in August 2009.",
+	"vulnerabilityName": "SPIP 1.9 before 1.9.2i and 2.0.x through 2.0.8 Installation and Backup Unauthorized Activity Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-3041"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://contrib.spip.net/SPIP-Security-Alert-new-version",
+			"date_added": "2009-08-06T00:00:00Z"
+		}
+	],
+	"date_added": "2009-08-06T00:00:00Z"
+}
