@@ -325,13 +325,6 @@
 			"clone_ssh_url": "git@github.com:iilegacyyii/PoC-CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "bb58b7001b1f",
-			"xdb_url": "https://vulncheck.com/xdb/bb58b7001b1f",
-			"date_added": "2021-10-06T07:17:05Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:blasty/CVE-2021-41773.git"
-		},
-		{
 			"xdb_id": "c46ab2084dd8",
 			"xdb_url": "https://vulncheck.com/xdb/c46ab2084dd8",
 			"date_added": "2021-10-07T12:30:13Z",
@@ -423,11 +416,18 @@
 			"clone_ssh_url": "git@github.com:MrCl0wnLab/SimplesApachePathTraversal.git"
 		},
 		{
-			"xdb_id": "e53c96b7f8c4",
-			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
-			"date_added": "2023-09-17T13:57:58+08:00",
+			"xdb_id": "bb58b7001b1f",
+			"xdb_url": "https://vulncheck.com/xdb/bb58b7001b1f",
+			"date_added": "2021-10-06T07:17:05Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
+			"clone_ssh_url": "git@github.com:blasty/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "56fc1e32325a",
+			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
+			"date_added": "2021-11-19T02:09:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "846a361d532a",
@@ -437,11 +437,11 @@
 			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "56fc1e32325a",
-			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
-			"date_added": "2021-11-19T02:09:08+08:00",
+			"xdb_id": "e53c96b7f8c4",
+			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
+			"date_added": "2023-09-17T13:57:58+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
+			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "d0972a06acee",

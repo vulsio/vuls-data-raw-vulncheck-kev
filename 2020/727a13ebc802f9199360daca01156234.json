@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:amlweems/gringotts.git"
 		},
 		{
-			"xdb_id": "2269fe47fe2f",
-			"xdb_url": "https://vulncheck.com/xdb/2269fe47fe2f",
-			"date_added": "2020-01-28T21:24:54Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:ioncodes/Curveball.git"
-		},
-		{
 			"xdb_id": "496d3fc0b8d0",
 			"xdb_url": "https://vulncheck.com/xdb/496d3fc0b8d0",
 			"date_added": "2020-02-03T13:58:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:yanghaoi/CVE-2020-0601.git"
+		},
+		{
+			"xdb_id": "2269fe47fe2f",
+			"xdb_url": "https://vulncheck.com/xdb/2269fe47fe2f",
+			"date_added": "2020-01-28T21:24:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ioncodes/Curveball.git"
 		},
 		{
 			"xdb_id": "1ab56e688532",

@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:bambooqj/CVE-2021-40444_EXP_JS.git"
 		},
 		{
-			"xdb_id": "8898a986e5b4",
-			"xdb_url": "https://vulncheck.com/xdb/8898a986e5b4",
-			"date_added": "2021-09-10T16:55:53Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:lockedbyte/CVE-2021-40444.git"
-		},
-		{
 			"xdb_id": "7ab0ea4d6122",
 			"xdb_url": "https://vulncheck.com/xdb/7ab0ea4d6122",
 			"date_added": "2021-09-12T18:05:53Z",
@@ -113,6 +106,13 @@
 			"date_added": "2021-12-19T08:16:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:34zY/Microsoft-Office-Word-MSHTML-Remote-Code-Execution-Exploit.git"
+		},
+		{
+			"xdb_id": "8898a986e5b4",
+			"xdb_url": "https://vulncheck.com/xdb/8898a986e5b4",
+			"date_added": "2021-09-10T16:55:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lockedbyte/CVE-2021-40444.git"
 		},
 		{
 			"xdb_id": "488dd6b83a3a",

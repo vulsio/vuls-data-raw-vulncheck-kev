@@ -59,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:CharonDefalt/WordPress--CVE-2022-21661.git"
 		},
 		{
-			"xdb_id": "16b9eaa609f7",
-			"xdb_url": "https://vulncheck.com/xdb/16b9eaa609f7",
-			"date_added": "2022-05-28T10:46:48Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:0x4E0x650x6F/Wordpress-cve-CVE-2022-21661.git"
-		},
-		{
 			"xdb_id": "8e9a64e08153",
 			"xdb_url": "https://vulncheck.com/xdb/8e9a64e08153",
 			"date_added": "2023-04-27T00:36:16Z",
@@ -78,6 +71,13 @@
 			"date_added": "2022-07-28T13:12:51Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:z92g/CVE-2022-21661.git"
+		},
+		{
+			"xdb_id": "16b9eaa609f7",
+			"xdb_url": "https://vulncheck.com/xdb/16b9eaa609f7",
+			"date_added": "2022-05-28T10:46:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0x4E0x650x6F/Wordpress-cve-CVE-2022-21661.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

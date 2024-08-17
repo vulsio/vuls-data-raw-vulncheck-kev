@@ -2,7 +2,7 @@
 	"vendorProject": "homebrew",
 	"product": "jan",
 	"shortDescription": "Jan v0.4.12 was discovered to contain an arbitrary file read vulnerability via the /v1/app/readFileSync interface.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Jan API Interface readFileSync Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
