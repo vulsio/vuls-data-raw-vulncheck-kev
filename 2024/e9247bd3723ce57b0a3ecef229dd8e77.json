@@ -746,8 +746,16 @@
 			"date_added": "2024-07-18T00:00:00Z"
 		},
 		{
+			"url": "https://www.cloudsek.com/blog/born-group-supply-chain-breach-in-depth-analysis-of-intelbrokers-jenkins-exploitation",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
 			"url": "https://www.cloudsek.com/blog/xposing-the-exploitation-how-cve-2024-23897-led-to-the-compromise-of-github-repos-via-jenkins-lfi-vulnerability",
 			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cloudsek.com/blog/major-payment-disruption-ransomware-strikes-indian-banking-infrastructure",
+			"date_added": "2024-08-01T00:00:00Z"
 		},
 		{
 			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2024/08/06/2024-midyear-threat-landscape-review",

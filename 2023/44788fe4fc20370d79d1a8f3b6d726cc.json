@@ -262,18 +262,18 @@
 			"clone_ssh_url": "git@github.com:ignis-sec/CVE-2023-38831-RaRCE.git"
 		},
 		{
-			"xdb_id": "3e5e3d32361a",
-			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
-			"date_added": "2023-08-25T09:44:08Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
-		},
-		{
 			"xdb_id": "3f62c2a800fa",
 			"xdb_url": "https://vulncheck.com/xdb/3f62c2a800fa",
 			"date_added": "2023-09-03T14:03:45Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:K3rnel-Dev/WinrarExploit.git"
+		},
+		{
+			"xdb_id": "3e5e3d32361a",
+			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
+			"date_added": "2023-08-25T09:44:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

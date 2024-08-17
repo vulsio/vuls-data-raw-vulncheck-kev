@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:Wra7h/SharpPN.git"
 		},
 		{
-			"xdb_id": "6365096d731b",
-			"xdb_url": "https://vulncheck.com/xdb/6365096d731b",
-			"date_added": "2022-04-14T08:21:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:auduongxuan/CVE-2022-26809.git"
-		},
-		{
 			"xdb_id": "3d814c23dd9d",
 			"xdb_url": "https://vulncheck.com/xdb/3d814c23dd9d",
 			"date_added": "2021-07-05T14:17:03Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:sailay1996/PrintNightmare-LPE.git"
+		},
+		{
+			"xdb_id": "6365096d731b",
+			"xdb_url": "https://vulncheck.com/xdb/6365096d731b",
+			"date_added": "2022-04-14T08:21:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:auduongxuan/CVE-2022-26809.git"
 		},
 		{
 			"xdb_id": "a45b8faa5940",
@@ -122,6 +122,13 @@
 			"clone_ssh_url": "git@github.com:ly4k/PrintNightmare.git"
 		},
 		{
+			"xdb_id": "22ddb70101f9",
+			"xdb_url": "https://vulncheck.com/xdb/22ddb70101f9",
+			"date_added": "2021-07-01T13:58:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cybersecurityworks553/CVE-2021-1675_PrintNightMare.git"
+		},
+		{
 			"xdb_id": "d01d428e5b4c",
 			"xdb_url": "https://vulncheck.com/xdb/d01d428e5b4c",
 			"date_added": "2021-07-05T12:10:43Z",
@@ -134,13 +141,6 @@
 			"date_added": "2021-07-22T10:49:30Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:hahaleyile/my-CVE-2021-1675.git"
-		},
-		{
-			"xdb_id": "22ddb70101f9",
-			"xdb_url": "https://vulncheck.com/xdb/22ddb70101f9",
-			"date_added": "2021-07-01T13:58:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:cybersecurityworks553/CVE-2021-1675_PrintNightMare.git"
 		},
 		{
 			"xdb_id": "29f9009b9be9",

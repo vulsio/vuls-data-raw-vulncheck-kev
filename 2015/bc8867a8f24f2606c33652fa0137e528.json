@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:n1shant-sinha/CVE-2017-0199.git"
 		},
 		{
-			"xdb_id": "532c2574ee56",
-			"xdb_url": "https://vulncheck.com/xdb/532c2574ee56",
-			"date_added": "2022-08-15T07:15:55Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2017-0199-reprofuction.git"
-		},
-		{
 			"xdb_id": "970b6cfbc7fb",
 			"xdb_url": "https://vulncheck.com/xdb/970b6cfbc7fb",
 			"date_added": "2017-04-17T08:10:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-0199.git"
+		},
+		{
+			"xdb_id": "532c2574ee56",
+			"xdb_url": "https://vulncheck.com/xdb/532c2574ee56",
+			"date_added": "2022-08-15T07:15:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2017-0199-reprofuction.git"
 		},
 		{
 			"xdb_id": "6318b2a065f3",
@@ -420,6 +420,10 @@
 			"date_added": "2024-05-23T00:00:00Z"
 		},
 		{
+			"url": "https://www.fortinet.com/blog/threat-research/an-inside-look-at-cve-2017-0199-hta-and-scriptlet-file-handler-vulnerability",
+			"date_added": "2024-06-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/new-agent-tesla-campaign-targeting-spanish-speaking-people",
 			"date_added": "2024-06-07T00:00:00Z"
 		},
@@ -434,6 +438,10 @@
 		{
 			"url": "https://cyble.com/threat-actor-profiles/threat-actor-profile-leviathan/",
 			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.broadcom.com/support/security-center/protection-bulletin/new-malspam-campaigns-delivering-multiple-trojans",
+			"date_added": "2024-08-08T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

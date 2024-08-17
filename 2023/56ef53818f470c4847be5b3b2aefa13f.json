@@ -57,6 +57,10 @@
 		{
 			"url": "https://www.zerodayinitiative.com/blog/2024/8/14/cve-2024-38213-copy2pwn-exploit-evades-windows-web-protections",
 			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/unmasking-styx-stealer-how-a-hackers-slip-led-to-an-intelligence-treasure-trove/",
+			"date_added": "2024-08-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-12-05T00:00:00Z",

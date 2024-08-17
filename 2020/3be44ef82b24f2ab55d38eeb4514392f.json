@@ -115,18 +115,18 @@
 			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-19781.git"
 		},
 		{
-			"xdb_id": "5daef00ab695",
-			"xdb_url": "https://vulncheck.com/xdb/5daef00ab695",
-			"date_added": "2020-01-10T22:56:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:projectzeroindia/CVE-2019-19781.git"
-		},
-		{
 			"xdb_id": "1b40df6017f7",
 			"xdb_url": "https://vulncheck.com/xdb/1b40df6017f7",
 			"date_added": "2020-01-11T13:05:28Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:oways/CVE-2019-19781.git"
+		},
+		{
+			"xdb_id": "5daef00ab695",
+			"xdb_url": "https://vulncheck.com/xdb/5daef00ab695",
+			"date_added": "2020-01-10T22:56:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:projectzeroindia/CVE-2019-19781.git"
 		},
 		{
 			"xdb_id": "f3b2f3994c60",
