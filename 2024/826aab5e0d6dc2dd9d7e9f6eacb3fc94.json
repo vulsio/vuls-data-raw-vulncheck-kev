@@ -655,6 +655,10 @@
 			"date_added": "2024-08-15T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-16&host_type=src&vulnerability=cve-2024-24919",
+			"date_added": "2024-08-16T00:00:00Z"
+		},
+		{
 			"url": "https://blog.checkpoint.com/security/enhance-your-vpn-security-posture",
 			"date_added": "2024-05-27T00:00:00Z"
 		},

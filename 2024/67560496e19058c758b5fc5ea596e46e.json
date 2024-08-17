@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-21338_PoC.git"
 		},
 		{
-			"xdb_id": "b1beae9b4cef",
-			"xdb_url": "https://vulncheck.com/xdb/b1beae9b4cef",
-			"date_added": "2024-04-13T05:53:02Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:hakaioffsec/CVE-2024-21338.git"
-		},
-		{
 			"xdb_id": "d4686f78dfae",
 			"xdb_url": "https://vulncheck.com/xdb/d4686f78dfae",
 			"date_added": "2024-07-29T13:18:06Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Crowdfense/CVE-2024-21338.git"
+		},
+		{
+			"xdb_id": "b1beae9b4cef",
+			"xdb_url": "https://vulncheck.com/xdb/b1beae9b4cef",
+			"date_added": "2024-04-13T05:53:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hakaioffsec/CVE-2024-21338.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

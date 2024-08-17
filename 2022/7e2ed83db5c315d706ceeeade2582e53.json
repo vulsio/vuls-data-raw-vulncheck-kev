@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:DrLinuxOfficial/CVE-2022-33891.git"
 		},
 		{
-			"xdb_id": "b69bedfcaf5e",
-			"xdb_url": "https://vulncheck.com/xdb/b69bedfcaf5e",
-			"date_added": "2024-02-26T14:14:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Shelter1234/VulneraLab.git"
-		},
-		{
 			"xdb_id": "6cbb30123977",
 			"xdb_url": "https://vulncheck.com/xdb/6cbb30123977",
 			"date_added": "2024-02-22T15:05:00Z",
@@ -57,6 +50,13 @@
 			"date_added": "2022-07-19T23:16:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:west-wind/CVE-2022-33891.git"
+		},
+		{
+			"xdb_id": "b69bedfcaf5e",
+			"xdb_url": "https://vulncheck.com/xdb/b69bedfcaf5e",
+			"date_added": "2024-02-26T14:14:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Shelter1234/VulneraLab.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
