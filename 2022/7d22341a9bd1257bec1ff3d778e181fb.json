@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2022-41040-POC.git"
 		},
 		{
-			"xdb_id": "843adb0cff04",
-			"xdb_url": "https://vulncheck.com/xdb/843adb0cff04",
-			"date_added": "2022-11-17T02:25:51Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:testanull/ProxyNotShell-PoC.git"
-		},
-		{
 			"xdb_id": "db559cb540cd",
 			"xdb_url": "https://vulncheck.com/xdb/db559cb540cd",
 			"date_added": "2022-10-20T03:11:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell.git"
+		},
+		{
+			"xdb_id": "843adb0cff04",
+			"xdb_url": "https://vulncheck.com/xdb/843adb0cff04",
+			"date_added": "2022-11-17T02:25:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:testanull/ProxyNotShell-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

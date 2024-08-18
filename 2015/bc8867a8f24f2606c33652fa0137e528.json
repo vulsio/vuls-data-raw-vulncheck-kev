@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:n1shant-sinha/CVE-2017-0199.git"
 		},
 		{
-			"xdb_id": "970b6cfbc7fb",
-			"xdb_url": "https://vulncheck.com/xdb/970b6cfbc7fb",
-			"date_added": "2017-04-17T08:10:07Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-0199.git"
-		},
-		{
 			"xdb_id": "532c2574ee56",
 			"xdb_url": "https://vulncheck.com/xdb/532c2574ee56",
 			"date_added": "2022-08-15T07:15:55Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2017-0199-reprofuction.git"
+		},
+		{
+			"xdb_id": "970b6cfbc7fb",
+			"xdb_url": "https://vulncheck.com/xdb/970b6cfbc7fb",
+			"date_added": "2017-04-17T08:10:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-0199.git"
 		},
 		{
 			"xdb_id": "6318b2a065f3",
