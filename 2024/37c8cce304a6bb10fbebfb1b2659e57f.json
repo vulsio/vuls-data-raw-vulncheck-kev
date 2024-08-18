@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:Manh130902/CVE-2023-22527-POC.git"
 		},
 		{
-			"xdb_id": "7f5b35a2c887",
-			"xdb_url": "https://vulncheck.com/xdb/7f5b35a2c887",
-			"date_added": "2024-02-11T16:46:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Boogipop/CVE-2023-22527-Godzilla-MEMSHELL.git"
-		},
-		{
 			"xdb_id": "a3677d9bae7f",
 			"xdb_url": "https://vulncheck.com/xdb/a3677d9bae7f",
 			"date_added": "2024-01-23T07:10:55Z",
@@ -148,6 +141,13 @@
 			"date_added": "2024-05-29T03:20:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
+		},
+		{
+			"xdb_id": "7f5b35a2c887",
+			"xdb_url": "https://vulncheck.com/xdb/7f5b35a2c887",
+			"date_added": "2024-02-11T16:46:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Boogipop/CVE-2023-22527-Godzilla-MEMSHELL.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -986,6 +986,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-16&host_type=src&vulnerability=cve-2023-22527",
 			"date_added": "2024-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-17&host_type=src&vulnerability=cve-2023-22527",
+			"date_added": "2024-08-17T00:00:00Z"
 		},
 		{
 			"url": "https://www.imperva.com/blog/new-sysrv-botnet-variant-makes-use-of-google-subdomain-to-spread-xmrig-miner/",
