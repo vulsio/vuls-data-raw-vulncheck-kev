@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:0xm4ud/noSAMBAnoCRY-CVE-2017-7494.git"
 		},
 		{
-			"xdb_id": "6b2fdeea9b0e",
-			"xdb_url": "https://vulncheck.com/xdb/6b2fdeea9b0e",
-			"date_added": "2017-05-25T13:20:56Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:betab0t/cve-2017-7494.git"
-		},
-		{
 			"xdb_id": "d60f0bdd37ca",
 			"xdb_url": "https://vulncheck.com/xdb/d60f0bdd37ca",
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "6b2fdeea9b0e",
+			"xdb_url": "https://vulncheck.com/xdb/6b2fdeea9b0e",
+			"date_added": "2017-05-25T13:20:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:betab0t/cve-2017-7494.git"
 		},
 		{
 			"xdb_id": "5febf3930e17",

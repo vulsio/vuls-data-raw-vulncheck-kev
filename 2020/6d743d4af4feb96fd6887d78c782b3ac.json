@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:Pai-Po/CVE-2021-1732.git"
 		},
 		{
-			"xdb_id": "61d86c73450a",
-			"xdb_url": "https://vulncheck.com/xdb/61d86c73450a",
-			"date_added": "2021-03-08T05:07:15Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:k-k-k-k-k/CVE-2021-1732.git"
-		},
-		{
 			"xdb_id": "bd64b5ebe182",
 			"xdb_url": "https://vulncheck.com/xdb/bd64b5ebe182",
 			"date_added": "2021-04-25T12:55:15Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "61d86c73450a",
+			"xdb_url": "https://vulncheck.com/xdb/61d86c73450a",
+			"date_added": "2021-03-08T05:07:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:k-k-k-k-k/CVE-2021-1732.git"
 		},
 		{
 			"xdb_id": "09740e97aa0d",

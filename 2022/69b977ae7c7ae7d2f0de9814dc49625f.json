@@ -304,18 +304,18 @@
 			"clone_ssh_url": "git@github.com:thatonesecguy/CVE-2022-1388-Exploit.git"
 		},
 		{
-			"xdb_id": "7819f0e28fc2",
-			"xdb_url": "https://vulncheck.com/xdb/7819f0e28fc2",
-			"date_added": "2022-05-13T10:18:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:justakazh/CVE-2022-1388.git"
-		},
-		{
 			"xdb_id": "55c8c0c71985",
 			"xdb_url": "https://vulncheck.com/xdb/55c8c0c71985",
 			"date_added": "2022-05-11T21:55:43Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:pauloink/CVE-2022-1388.git"
+		},
+		{
+			"xdb_id": "7819f0e28fc2",
+			"xdb_url": "https://vulncheck.com/xdb/7819f0e28fc2",
+			"date_added": "2022-05-13T10:18:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:justakazh/CVE-2022-1388.git"
 		},
 		{
 			"xdb_id": "9574cfe06a5c",
