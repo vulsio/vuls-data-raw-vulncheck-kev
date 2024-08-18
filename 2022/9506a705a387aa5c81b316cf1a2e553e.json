@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:theMiddleBlue/CVE-2019-11043.git"
 		},
 		{
-			"xdb_id": "7661c1eea5ee",
-			"xdb_url": "https://vulncheck.com/xdb/7661c1eea5ee",
-			"date_added": "2019-10-29T11:16:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:huowen/CVE-2019-11043.git"
-		},
-		{
 			"xdb_id": "3430044ed268",
 			"xdb_url": "https://vulncheck.com/xdb/3430044ed268",
 			"date_added": "2019-10-23T23:26:57Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11043.git"
+		},
+		{
+			"xdb_id": "7661c1eea5ee",
+			"xdb_url": "https://vulncheck.com/xdb/7661c1eea5ee",
+			"date_added": "2019-10-29T11:16:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:huowen/CVE-2019-11043.git"
 		},
 		{
 			"xdb_id": "b77e1a4b74e5",

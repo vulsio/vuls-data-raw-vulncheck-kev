@@ -94,13 +94,6 @@
 			"clone_ssh_url": "git@github.com:Privia-Security/CVE-2023-22527.git"
 		},
 		{
-			"xdb_id": "6165cec850cd",
-			"xdb_url": "https://vulncheck.com/xdb/6165cec850cd",
-			"date_added": "2024-05-29T03:20:22Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
-		},
-		{
 			"xdb_id": "e16ed61a4005",
 			"xdb_url": "https://vulncheck.com/xdb/e16ed61a4005",
 			"date_added": "2024-01-23T02:17:36Z",
@@ -122,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:VNCERT-CC/CVE-2023-22527-confluence.git"
 		},
 		{
-			"xdb_id": "f3c6ccae29ce",
-			"xdb_url": "https://vulncheck.com/xdb/f3c6ccae29ce",
-			"date_added": "2024-02-26T02:34:44Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:M0untainShley/CVE-2023-22527-MEMSHELL.git"
-		},
-		{
 			"xdb_id": "528b0751eadd",
 			"xdb_url": "https://vulncheck.com/xdb/528b0751eadd",
 			"date_added": "2024-03-04T19:09:57Z",
@@ -148,6 +134,20 @@
 			"date_added": "2024-01-24T04:44:59Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:yoryio/CVE-2023-22527.git"
+		},
+		{
+			"xdb_id": "f3c6ccae29ce",
+			"xdb_url": "https://vulncheck.com/xdb/f3c6ccae29ce",
+			"date_added": "2024-02-26T02:34:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:M0untainShley/CVE-2023-22527-MEMSHELL.git"
+		},
+		{
+			"xdb_id": "6165cec850cd",
+			"xdb_url": "https://vulncheck.com/xdb/6165cec850cd",
+			"date_added": "2024-05-29T03:20:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

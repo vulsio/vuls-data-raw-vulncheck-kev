@@ -269,13 +269,6 @@
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		},
 		{
-			"xdb_id": "46be9d6ea639",
-			"xdb_url": "https://vulncheck.com/xdb/46be9d6ea639",
-			"date_added": "2022-06-04T08:31:32Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:greenhandatsjtu/CVE-2022-0847.git"
-		},
-		{
 			"xdb_id": "df0bacb0b7bc",
 			"xdb_url": "https://vulncheck.com/xdb/df0bacb0b7bc",
 			"date_added": "2022-03-07T18:36:50Z",
@@ -323,6 +316,13 @@
 			"date_added": "2022-03-08T09:10:51Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:antx-code/CVE-2022-0847.git"
+		},
+		{
+			"xdb_id": "46be9d6ea639",
+			"xdb_url": "https://vulncheck.com/xdb/46be9d6ea639",
+			"date_added": "2022-06-04T08:31:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:greenhandatsjtu/CVE-2022-0847.git"
 		},
 		{
 			"xdb_id": "e4ea692dc95e",
