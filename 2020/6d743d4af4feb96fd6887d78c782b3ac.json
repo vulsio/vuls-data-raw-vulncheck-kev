@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "18e0b48f69bd",
-			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
-			"date_added": "2021-05-02T18:10:21+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
-		},
-		{
 			"xdb_id": "de8ed17d1f87",
 			"xdb_url": "https://vulncheck.com/xdb/de8ed17d1f87",
 			"date_added": "2021-04-21T19:12:32+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:paipo/cve-2021-1732.git"
+		},
+		{
+			"xdb_id": "18e0b48f69bd",
+			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
+			"date_added": "2021-05-02T18:10:21+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

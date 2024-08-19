@@ -150,25 +150,18 @@
 			"clone_ssh_url": "git@github.com:Vulnmachines/Confluence_CVE-2021-26084.git"
 		},
 		{
-			"xdb_id": "fc81f3df4a7f",
-			"xdb_url": "https://vulncheck.com/xdb/fc81f3df4a7f",
-			"date_added": "2021-09-01T09:50:26Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xf4n9x/CVE-2021-26084.git"
-		},
-		{
-			"xdb_id": "da4f3471f7d5",
-			"xdb_url": "https://vulncheck.com/xdb/da4f3471f7d5",
-			"date_added": "2021-09-01T07:15:17Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:hev0x/CVE-2021-26084_Confluence.git"
-		},
-		{
 			"xdb_id": "9c5a5da647e7",
 			"xdb_url": "https://vulncheck.com/xdb/9c5a5da647e7",
 			"date_added": "2021-08-31T23:33:44Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26084_PoC.git"
+		},
+		{
+			"xdb_id": "fc81f3df4a7f",
+			"xdb_url": "https://vulncheck.com/xdb/fc81f3df4a7f",
+			"date_added": "2021-09-01T09:50:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xf4n9x/CVE-2021-26084.git"
 		},
 		{
 			"xdb_id": "696013bbdde1",
@@ -197,6 +190,13 @@
 			"date_added": "2024-05-29T03:20:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
+		},
+		{
+			"xdb_id": "da4f3471f7d5",
+			"xdb_url": "https://vulncheck.com/xdb/da4f3471f7d5",
+			"date_added": "2021-09-01T07:15:17Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hev0x/CVE-2021-26084_Confluence.git"
 		},
 		{
 			"xdb_id": "0c50354d6f93",
@@ -1162,6 +1162,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-17&host_type=src&vulnerability=cve-2021-26084",
 			"date_added": "2024-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-18&host_type=src&vulnerability=cve-2021-26084",
+			"date_added": "2024-08-18T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/muhstik-takes-aim-at-confluence-cve-2021-26084/",

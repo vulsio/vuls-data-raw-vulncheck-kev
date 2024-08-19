@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "db3e9c03cb04",
-			"xdb_url": "https://vulncheck.com/xdb/db3e9c03cb04",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "164746dd6f6b",
 			"xdb_url": "https://vulncheck.com/xdb/164746dd6f6b",
 			"date_added": "2020-02-19T03:49:51Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ruthlezs/CVE-2019-2729-Exploit.git"
+		},
+		{
+			"xdb_id": "db3e9c03cb04",
+			"xdb_url": "https://vulncheck.com/xdb/db3e9c03cb04",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
