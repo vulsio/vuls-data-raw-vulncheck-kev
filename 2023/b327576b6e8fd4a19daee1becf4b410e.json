@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:h1bAna/CVE-2023-21768.git"
 		},
 		{
-			"xdb_id": "a2215d69e357",
-			"xdb_url": "https://vulncheck.com/xdb/a2215d69e357",
-			"date_added": "2023-03-07T23:00:27Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:chompie1337/Windows_LPE_AFD_CVE-2023-21768.git"
-		},
-		{
 			"xdb_id": "fd03247f1aa9",
 			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
 			"date_added": "2024-05-15T17:42:10Z",
@@ -64,6 +57,13 @@
 			"date_added": "2023-03-10T19:08:28Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:SamuelTulach/nullmap.git"
+		},
+		{
+			"xdb_id": "a2215d69e357",
+			"xdb_url": "https://vulncheck.com/xdb/a2215d69e357",
+			"date_added": "2023-03-07T23:00:27Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chompie1337/Windows_LPE_AFD_CVE-2023-21768.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
