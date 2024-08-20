@@ -101,6 +101,13 @@
 			"clone_ssh_url": "git@github.com:Almorabea/SMBGhost-LPE-Metasploit-Module.git"
 		},
 		{
+			"xdb_id": "33e62c3dd628",
+			"xdb_url": "https://vulncheck.com/xdb/33e62c3dd628",
+			"date_added": "2021-10-09T04:52:55Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:orangmuda/CVE-2020-0796.git"
+		},
+		{
 			"xdb_id": "189b546ce23d",
 			"xdb_url": "https://vulncheck.com/xdb/189b546ce23d",
 			"date_added": "2020-09-17T01:48:37Z",
@@ -113,13 +120,6 @@
 			"date_added": "2020-04-07T22:35:57Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0xeb-bp/cve-2020-0796.git"
-		},
-		{
-			"xdb_id": "33e62c3dd628",
-			"xdb_url": "https://vulncheck.com/xdb/33e62c3dd628",
-			"date_added": "2021-10-09T04:52:55Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:orangmuda/CVE-2020-0796.git"
 		},
 		{
 			"xdb_id": "db287bfd1300",

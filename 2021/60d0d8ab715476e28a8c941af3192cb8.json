@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:rwincey/CVE-2021-22005.git"
 		},
 		{
-			"xdb_id": "893ecfaa7d37",
-			"xdb_url": "https://vulncheck.com/xdb/893ecfaa7d37",
-			"date_added": "2021-09-25T07:19:42Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:5gstudent/CVE-2021-22005-.git"
-		},
-		{
 			"xdb_id": "422d2b1bd22d",
 			"xdb_url": "https://vulncheck.com/xdb/422d2b1bd22d",
 			"date_added": "2021-09-26T01:02:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:CrackerCat/CVE-2021-22006.git"
+		},
+		{
+			"xdb_id": "893ecfaa7d37",
+			"xdb_url": "https://vulncheck.com/xdb/893ecfaa7d37",
+			"date_added": "2021-09-25T07:19:42Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:5gstudent/CVE-2021-22005-.git"
 		},
 		{
 			"xdb_id": "d369b492a41d",
