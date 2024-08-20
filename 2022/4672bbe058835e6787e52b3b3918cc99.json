@@ -220,13 +220,6 @@
 			"clone_ssh_url": "git@github.com:cai-niao98/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "afb357664032",
-			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "0e38e7f0c998",
 			"xdb_url": "https://vulncheck.com/xdb/0e38e7f0c998",
 			"date_added": "2022-06-07T09:19:02Z",
@@ -239,6 +232,13 @@
 			"date_added": "2024-05-29T03:20:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
+		},
+		{
+			"xdb_id": "afb357664032",
+			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
 			"xdb_id": "66716e60c64a",

@@ -143,13 +143,6 @@
 			"clone_ssh_url": "git@github.com:calebstewart/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "ded60e94a061",
-			"xdb_url": "https://vulncheck.com/xdb/ded60e94a061",
-			"date_added": "2021-07-07T00:32:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BeetleChunks/SpoolSploit.git"
-		},
-		{
 			"xdb_id": "b93501b21b35",
 			"xdb_url": "https://vulncheck.com/xdb/b93501b21b35",
 			"date_added": "2021-06-29T17:24:14Z",
@@ -164,18 +157,11 @@
 			"clone_ssh_url": "git@github.com:eversinc33/NimNightmare.git"
 		},
 		{
-			"xdb_id": "a80f7a9e25f2",
-			"xdb_url": "https://vulncheck.com/xdb/a80f7a9e25f2",
-			"date_added": "2023-02-20T19:58:37+08:00",
+			"xdb_id": "ded60e94a061",
+			"xdb_url": "https://vulncheck.com/xdb/ded60e94a061",
+			"date_added": "2021-07-07T00:32:28Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:trfpatriotic/CVE-2021-1675.git"
-		},
-		{
-			"xdb_id": "613d6b9bd25f",
-			"xdb_url": "https://vulncheck.com/xdb/613d6b9bd25f",
-			"date_added": "2021-07-13T05:01:39+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-1675_1.git"
+			"clone_ssh_url": "git@github.com:BeetleChunks/SpoolSploit.git"
 		},
 		{
 			"xdb_id": "0300146c83c2",
@@ -204,6 +190,20 @@
 			"date_added": "2021-07-01T23:56:20+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "a80f7a9e25f2",
+			"xdb_url": "https://vulncheck.com/xdb/a80f7a9e25f2",
+			"date_added": "2023-02-20T19:58:37+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:trfpatriotic/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "613d6b9bd25f",
+			"xdb_url": "https://vulncheck.com/xdb/613d6b9bd25f",
+			"date_added": "2021-07-13T05:01:39+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-1675_1.git"
 		},
 		{
 			"xdb_id": "462712fb0096",

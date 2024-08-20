@@ -332,18 +332,18 @@
 			"clone_ssh_url": "git@github.com:noflowpls/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "8818ad910e2f",
-			"xdb_url": "https://vulncheck.com/xdb/8818ad910e2f",
-			"date_added": "2021-10-07T15:13:18Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:justakazh/mass_cve-2021-41773.git"
-		},
-		{
 			"xdb_id": "d0086a5bdeec",
 			"xdb_url": "https://vulncheck.com/xdb/d0086a5bdeec",
 			"date_added": "2021-10-06T14:36:05Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:ranggaggngntt/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "8818ad910e2f",
+			"xdb_url": "https://vulncheck.com/xdb/8818ad910e2f",
+			"date_added": "2021-10-07T15:13:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:justakazh/mass_cve-2021-41773.git"
 		},
 		{
 			"xdb_id": "bce26bf9a7db",
@@ -353,18 +353,18 @@
 			"clone_ssh_url": "git@github.com:itsecurityco/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "4641bb9539f4",
-			"xdb_url": "https://vulncheck.com/xdb/4641bb9539f4",
-			"date_added": "2021-10-05T16:13:38Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Vulnmachines/cve-2021-41773.git"
-		},
-		{
 			"xdb_id": "19daa216be3e",
 			"xdb_url": "https://vulncheck.com/xdb/19daa216be3e",
 			"date_added": "2022-03-12T21:24:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:thehackersbrain/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "4641bb9539f4",
+			"xdb_url": "https://vulncheck.com/xdb/4641bb9539f4",
+			"date_added": "2021-10-05T16:13:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Vulnmachines/cve-2021-41773.git"
 		},
 		{
 			"xdb_id": "b8ddde495298",
@@ -423,18 +423,18 @@
 			"clone_ssh_url": "git@github.com:blasty/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "846a361d532a",
-			"xdb_url": "https://vulncheck.com/xdb/846a361d532a",
-			"date_added": "2021-10-09T15:36:32+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
-		},
-		{
 			"xdb_id": "56fc1e32325a",
 			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
 			"date_added": "2021-11-19T02:09:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "846a361d532a",
+			"xdb_url": "https://vulncheck.com/xdb/846a361d532a",
+			"date_added": "2021-10-09T15:36:32+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "e53c96b7f8c4",

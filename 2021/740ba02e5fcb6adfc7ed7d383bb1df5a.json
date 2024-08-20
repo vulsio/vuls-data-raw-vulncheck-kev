@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:rabidwh0re/REALITY_SMASHER.git"
 		},
 		{
-			"xdb_id": "4474f6f9d4f9",
-			"xdb_url": "https://vulncheck.com/xdb/4474f6f9d4f9",
-			"date_added": "2021-04-01T01:14:20Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:TheTh1nk3r/exp_hub.git"
-		},
-		{
 			"xdb_id": "dd0990807e10",
 			"xdb_url": "https://vulncheck.com/xdb/dd0990807e10",
 			"date_added": "2021-04-02T21:14:06Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2021-21975.git"
+		},
+		{
+			"xdb_id": "4474f6f9d4f9",
+			"xdb_url": "https://vulncheck.com/xdb/4474f6f9d4f9",
+			"date_added": "2021-04-01T01:14:20Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:TheTh1nk3r/exp_hub.git"
 		},
 		{
 			"xdb_id": "302c3f6e7bc3",
