@@ -4,7 +4,7 @@
 	"shortDescription": "Jenkins Command Line Interface (CLI) contains a path traversal vulnerability that allows attackers limited read access to certain files, which can lead to code execution.",
 	"vulnerabilityName": "Jenkins Command Line Interface (CLI) Path Traversal Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2024-23897"
 	],

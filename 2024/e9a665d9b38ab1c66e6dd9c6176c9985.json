@@ -21,6 +21,10 @@
 		{
 			"url": "https://developer.arm.com/Arm%20Security%20Center/Mali%20GPU%20Driver%20Vulnerabilities",
 			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/08/19/2274f632f6a1d8acd2f1801c24887edb.pdf",
+			"date_added": "2024-08-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-07-03T00:00:00Z",
