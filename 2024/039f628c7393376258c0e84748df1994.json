@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Linux",
 	"product": "Kernel",
-	"shortDescription": "A heap-based buffer overflow flaw was found in the way the legacy_parse_param function in the Filesystem Context functionality of the Linux kernel verified the supplied parameters length. An unprivileged (in case of unprivileged user namespaces enabled, otherwise needs namespaced CAP_SYS_ADMIN privilege) local user able to open a filesystem that does not support the Filesystem Context API (and thus fallbacks to legacy handling) could use this flaw to escalate their privileges on the system.",
-	"vulnerabilityName": "Linux Kernel Integer Underflow (Wrap or Wraparound)",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "Linux kernel contains a heap-based buffer overflow vulnerability in the legacy_parse_param function in the Filesystem Context functionality. This allows an attacker to open a filesystem that does not support the Filesystem Context API and ultimately escalate privileges.",
+	"vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow",
+	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2022-0185"
@@ -51,5 +51,7 @@
 			"date_added": "2024-03-21T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-09-11T00:00:00Z",
+	"cisa_date_added": "2024-08-21T00:00:00Z",
 	"date_added": "2024-03-21T00:00:00Z"
 }

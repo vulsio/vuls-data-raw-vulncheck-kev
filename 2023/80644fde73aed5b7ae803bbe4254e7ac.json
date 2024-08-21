@@ -1,9 +1,9 @@
 {
-	"vendorProject": "dahuasecurity",
-	"product": "ipc-hum7xxx_firmware",
-	"shortDescription": "The identity authentication bypass vulnerability found in some Dahua products during the login process. Attackers can bypass device identity authentication by constructing malicious data packets.",
-	"vulnerabilityName": "dahuasecurity ipc-hum7xxx_firmware Improper Authentication",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"vendorProject": "Dahua",
+	"product": "IP Camera Firmware",
+	"shortDescription": "Dahua IP cameras and related products contain an authentication bypass vulnerability when the NetKeyboard type argument is specified by the client during authentication.",
+	"vulnerabilityName": "Dahua IP Camera Authentication Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2021-33044"
@@ -25,6 +25,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-05&host_type=src&vulnerability=cve-2021-33044",
 			"date_added": "2023-12-05T00:00:00Z"
@@ -334,5 +338,7 @@
 			"date_added": "2024-08-19T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-09-11T00:00:00Z",
+	"cisa_date_added": "2024-08-21T00:00:00Z",
 	"date_added": "2023-12-05T00:00:00Z"
 }
