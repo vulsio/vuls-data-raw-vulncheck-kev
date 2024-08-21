@@ -143,20 +143,6 @@
 			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
 		},
 		{
-			"xdb_id": "b33af3e3d9b8",
-			"xdb_url": "https://vulncheck.com/xdb/b33af3e3d9b8",
-			"date_added": "2019-11-19T09:30:30+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882-metasploit.git"
-		},
-		{
-			"xdb_id": "047b151c3f07",
-			"xdb_url": "https://vulncheck.com/xdb/047b151c3f07",
-			"date_added": "2020-05-18T19:22:22+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:aston_mation/CVE-2017-11882.git"
-		},
-		{
 			"xdb_id": "1ac59b46e457",
 			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
 			"date_added": "2022-01-11T22:45:31+08:00",
@@ -183,6 +169,20 @@
 			"date_added": "2020-08-08T10:14:29+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "b33af3e3d9b8",
+			"xdb_url": "https://vulncheck.com/xdb/b33af3e3d9b8",
+			"date_added": "2019-11-19T09:30:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "047b151c3f07",
+			"xdb_url": "https://vulncheck.com/xdb/047b151c3f07",
+			"date_added": "2020-05-18T19:22:22+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:aston_mation/CVE-2017-11882.git"
 		},
 		{
 			"xdb_id": "ea0b976f167f",
