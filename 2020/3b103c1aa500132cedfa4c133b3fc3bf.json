@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "51b1a2bf598f",
-			"xdb_url": "https://vulncheck.com/xdb/51b1a2bf598f",
-			"date_added": "2020-07-15T23:00:00Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:maxpl0it/CVE-2020-1350-DoS.git"
-		},
-		{
 			"xdb_id": "352dbf3a9e75",
 			"xdb_url": "https://vulncheck.com/xdb/352dbf3a9e75",
 			"date_added": "2020-07-16T16:46:48Z",
@@ -36,6 +29,13 @@
 			"date_added": "2021-02-27T20:31:39Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:chompie1337/SIGRed_RCE_PoC.git"
+		},
+		{
+			"xdb_id": "51b1a2bf598f",
+			"xdb_url": "https://vulncheck.com/xdb/51b1a2bf598f",
+			"date_added": "2020-07-15T23:00:00Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:maxpl0it/CVE-2020-1350-DoS.git"
 		},
 		{
 			"xdb_id": "76424953d73e",
