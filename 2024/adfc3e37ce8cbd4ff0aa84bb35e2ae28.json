@@ -269,11 +269,11 @@
 			"clone_ssh_url": "git@github.com:huseyinstif/CVE-2024-4577-Nuclei-Template.git"
 		},
 		{
-			"xdb_id": "5d24a3878ae0",
-			"xdb_url": "https://vulncheck.com/xdb/5d24a3878ae0",
-			"date_added": "2024-06-09T14:18:21Z",
+			"xdb_id": "5467e9a9f0fa",
+			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
+			"date_added": "2024-08-20T02:56:03Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-4577.git"
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
 		},
 		{
 			"xdb_id": "cc11323372a3",
@@ -297,11 +297,11 @@
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "5467e9a9f0fa",
-			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
-			"date_added": "2024-08-20T02:56:03Z",
+			"xdb_id": "5d24a3878ae0",
+			"xdb_url": "https://vulncheck.com/xdb/5d24a3878ae0",
+			"date_added": "2024-06-09T14:18:21Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-4577.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -563,6 +563,10 @@
 		},
 		{
 			"url": "https://www.imperva.com/blog/imperva-protects-against-critical-php-vulnerability-cve-2024-4577/",
+			"date_added": "2024-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://x.com/Shadowserver/status/1799053497490698548",
 			"date_added": "2024-06-07T00:00:00Z"
 		},
 		{
