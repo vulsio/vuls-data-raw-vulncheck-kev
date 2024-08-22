@@ -138,6 +138,10 @@
 			"date_added": "2024-08-07T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-21&host_type=src&vulnerability=cve-2018-20062",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
 			"date_added": "2020-06-24T00:00:00Z"
 		},

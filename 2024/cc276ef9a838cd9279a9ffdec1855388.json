@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Wpmet",
+	"product": "ElementsKit Elementor addons",
+	"shortDescription": "The ElementsKit Elementor addons plugin for WordPress is vulnerable to Information Exposure in all versions up to, and including, 3.2.0 due to a missing capability checks on ekit_widgetarea_content function. This makes it possible for unauthenticated attackers to view any item created in Elementor, such as posts, pages and templates including drafts, pending and private items",
+	"vulnerabilityName": "ElementsKit Elementor addons plugin for WordPress ekit_widgetarea_content Function Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

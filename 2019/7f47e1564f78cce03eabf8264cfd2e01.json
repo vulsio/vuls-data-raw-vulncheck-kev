@@ -127,6 +127,10 @@
 			"date_added": "2024-08-07T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-21&host_type=src&vulnerability=cve-2019-9082",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
 			"url": "https://www.alibabacloud.com/blog/threat-alert-multiple-cryptocurrency-miner-botnets-start-to-exploit-the-new-thinkphp-vulnerability_594369",
 			"date_added": "2019-01-13T00:00:00Z"
 		},

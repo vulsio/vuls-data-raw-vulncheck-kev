@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "WHMpress",
+	"product": "WordPress WHMpress Plugin",
+	"shortDescription": "Improper Neutralization of Input During Web Page Generation (XSS or 'Cross-site Scripting') vulnerability in creativeon WHMpress allows Reflected XSS.This issue affects WHMpress: from n/a through 6.2-revision-5.",
+	"vulnerabilityName": "WordPress WHMpress Plugin Reflected XSS Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
