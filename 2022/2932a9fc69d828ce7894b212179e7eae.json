@@ -178,13 +178,6 @@
 			"clone_ssh_url": "git@github.com:mariomamo/CVE-2022-22965.git"
 		},
 		{
-			"xdb_id": "3532ae2b1db3",
-			"xdb_url": "https://vulncheck.com/xdb/3532ae2b1db3",
-			"date_added": "2022-03-31T00:24:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:reznok/Spring4Shell-POC.git"
-		},
-		{
 			"xdb_id": "44a4aa67f46d",
 			"xdb_url": "https://vulncheck.com/xdb/44a4aa67f46d",
 			"date_added": "2022-03-31T00:37:00Z",
@@ -283,18 +276,18 @@
 			"clone_ssh_url": "git@github.com:TheGejr/SpringShell.git"
 		},
 		{
-			"xdb_id": "f1130a964b4f",
-			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "e538f647f0f7",
 			"xdb_url": "https://vulncheck.com/xdb/e538f647f0f7",
 			"date_added": "2022-03-31T17:23:44Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:cybersecurityworks553/spring4shell-exploit.git"
+		},
+		{
+			"xdb_id": "3532ae2b1db3",
+			"xdb_url": "https://vulncheck.com/xdb/3532ae2b1db3",
+			"date_added": "2022-03-31T00:24:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:reznok/Spring4Shell-POC.git"
 		},
 		{
 			"xdb_id": "5978e9609a96",
@@ -304,18 +297,25 @@
 			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
 		},
 		{
-			"xdb_id": "30d6ff807f1f",
-			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
-			"date_added": "2023-10-05T11:00:32Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
-		},
-		{
 			"xdb_id": "cdc0fd2e25dc",
 			"xdb_url": "https://vulncheck.com/xdb/cdc0fd2e25dc",
 			"date_added": "2022-04-09T08:40:49Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jrgdiaz/Spring4Shell-CVE-2022-22965.py.git"
+		},
+		{
+			"xdb_id": "f1130a964b4f",
+			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
+		},
+		{
+			"xdb_id": "30d6ff807f1f",
+			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
+			"date_added": "2023-10-05T11:00:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
 		},
 		{
 			"xdb_id": "43e4620d8285",
@@ -1238,6 +1238,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-21&host_type=src&vulnerability=cve-2022-22965",
 			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2022-22965",
+			"date_added": "2024-08-22T00:00:00Z"
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html",

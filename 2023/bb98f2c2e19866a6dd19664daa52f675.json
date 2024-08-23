@@ -40,7 +40,7 @@
 		{
 			"xdb_id": "cd2f75e7d0eb",
 			"xdb_url": "https://vulncheck.com/xdb/cd2f75e7d0eb",
-			"date_added": "2023-09-06T10:50:59+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:y-main/CVE-2023-21839.git"
 		}

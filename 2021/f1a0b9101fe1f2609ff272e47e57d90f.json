@@ -320,6 +320,10 @@
 			"date_added": "2024-08-21T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2021-42013",
+			"date_added": "2024-08-22T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet",
 			"date_added": "2022-04-12T00:00:00Z"
 		},

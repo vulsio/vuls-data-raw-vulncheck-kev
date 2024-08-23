@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:c3r34lk1ll3r/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "2efb36bee06f",
-			"xdb_url": "https://vulncheck.com/xdb/2efb36bee06f",
-			"date_added": "2023-11-05T14:32:11Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "48c20484fa71",
 			"xdb_url": "https://vulncheck.com/xdb/48c20484fa71",
 			"date_added": "2024-05-20T10:58:53Z",
@@ -141,6 +134,13 @@
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "2efb36bee06f",
+			"xdb_url": "https://vulncheck.com/xdb/2efb36bee06f",
+			"date_added": "2023-11-05T14:32:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

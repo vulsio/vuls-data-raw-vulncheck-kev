@@ -767,6 +767,10 @@
 			"date_added": "2024-08-15T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2019-17270",
+			"date_added": "2024-08-22T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/mirai-variant-echobot-resurfaces-with-13-previously-unexploited-vulnerabilities/",
 			"date_added": "2019-12-13T00:00:00Z"
 		},
