@@ -199,18 +199,18 @@
 			"clone_ssh_url": "git@github.com:binganao/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "5f45754388ab",
-			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
-			"date_added": "2024-01-29T19:47:17+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
-		},
-		{
 			"xdb_id": "0450095821bb",
 			"xdb_url": "https://vulncheck.com/xdb/0450095821bb",
 			"date_added": "2024-01-29T19:45:24+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:river3587/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "5f45754388ab",
+			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
+			"date_added": "2024-01-29T19:47:17+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
 		},
 		{
 			"xdb_id": "f520f4462657",
@@ -768,6 +768,10 @@
 		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/cve-2024-23897-enabled-ransomware-attack-on-indian-banks",
 			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/jenkins-rce",
+			"date_added": "2024-08-20T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-09T00:00:00Z",
