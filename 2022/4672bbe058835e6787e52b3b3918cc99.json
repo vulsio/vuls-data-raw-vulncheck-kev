@@ -1397,6 +1397,10 @@
 			"date_added": "2024-08-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-23&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2024-08-23T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
 			"date_added": "2022-06-02T00:00:00Z"
 		},

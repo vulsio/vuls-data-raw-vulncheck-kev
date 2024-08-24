@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2024-38856.git"
 		},
 		{
-			"xdb_id": "d832bf48d567",
-			"xdb_url": "https://vulncheck.com/xdb/d832bf48d567",
-			"date_added": "2024-08-22T04:05:02Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-38856-EXP.git"
-		},
-		{
 			"xdb_id": "cd8eee41112d",
 			"xdb_url": "https://vulncheck.com/xdb/cd8eee41112d",
 			"date_added": "2024-08-08T02:40:56Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:securelayer7/CVE-2024-38856_Scanner.git"
+		},
+		{
+			"xdb_id": "d832bf48d567",
+			"xdb_url": "https://vulncheck.com/xdb/d832bf48d567",
+			"date_added": "2024-08-22T04:05:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-38856-EXP.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

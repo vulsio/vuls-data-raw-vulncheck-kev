@@ -129,13 +129,6 @@
 			"clone_ssh_url": "git@github.com:pwn3z/CVE-2020-14882-WebLogic.git"
 		},
 		{
-			"xdb_id": "7abe5b874cdf",
-			"xdb_url": "https://vulncheck.com/xdb/7abe5b874cdf",
-			"date_added": "2020-11-03T10:49:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:GGyao/CVE-2020-14882_ALL.git"
-		},
-		{
 			"xdb_id": "5adef887fb7e",
 			"xdb_url": "https://vulncheck.com/xdb/5adef887fb7e",
 			"date_added": "2021-05-10T21:32:36Z",
@@ -206,6 +199,13 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
+			"xdb_id": "7abe5b874cdf",
+			"xdb_url": "https://vulncheck.com/xdb/7abe5b874cdf",
+			"date_added": "2020-11-03T10:49:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:GGyao/CVE-2020-14882_ALL.git"
+		},
+		{
 			"xdb_id": "b539b7bd0520",
 			"xdb_url": "https://vulncheck.com/xdb/b539b7bd0520",
 			"date_added": "2021-10-16T23:59:36+08:00",
@@ -220,13 +220,6 @@
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-14882_ALL.git"
 		},
 		{
-			"xdb_id": "8035aa262c64",
-			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
-			"date_added": "2021-07-27T11:11:27+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
-		},
-		{
 			"xdb_id": "a13fcf8de8fc",
 			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
 			"date_added": "2021-05-09T23:24:54+08:00",
@@ -239,6 +232,13 @@
 			"date_added": "2021-01-24T19:00:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
+		},
+		{
+			"xdb_id": "8035aa262c64",
+			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
+			"date_added": "2021-07-27T11:11:27+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1041,6 +1041,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2020-14882",
 			"date_added": "2024-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-23&host_type=src&vulnerability=cve-2020-14882",
+			"date_added": "2024-08-23T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",

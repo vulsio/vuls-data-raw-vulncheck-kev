@@ -26,7 +26,7 @@
 		{
 			"xdb_id": "3c19d2cac82d",
 			"xdb_url": "https://vulncheck.com/xdb/3c19d2cac82d",
-			"date_added": "2022-01-11T21:45:56+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:mirrors_koczkatamas/CVE-2016-0051.git"
 		}

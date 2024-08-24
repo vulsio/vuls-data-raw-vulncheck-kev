@@ -794,6 +794,10 @@
 			"date_added": "2024-08-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-23&host_type=src&vulnerability=cve-2023-23333",
+			"date_added": "2024-08-23T00:00:00Z"
+		},
+		{
 			"url": "https://vulncheck.com/blog/solarview-exploitation",
 			"date_added": "2023-07-05T00:00:00Z"
 		},

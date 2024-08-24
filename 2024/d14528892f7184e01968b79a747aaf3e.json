@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-28000"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "386df3d14c76",
+			"xdb_url": "https://vulncheck.com/xdb/386df3d14c76",
+			"date_added": "2024-08-24T05:12:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Alucard0x1/CVE-2024-28000.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/litespeed-cache/litespeed-cache-6301-unauthenticated-privilege-escalation",

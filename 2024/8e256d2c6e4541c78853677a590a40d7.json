@@ -40,7 +40,7 @@
 		{
 			"xdb_id": "379f99bfaf56",
 			"xdb_url": "https://vulncheck.com/xdb/379f99bfaf56",
-			"date_added": "2020-05-25T23:17:29+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:retnullyu/WeblogicScan.git"
 		},
