@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Versa",
+	"product": "Director",
+	"shortDescription": "The Versa Director GUI contains an unrestricted upload of file with dangerous type vulnerability that allows administrators with Provider-Data-Center-Admin or Provider-Data-Center-System-Admin privileges to customize the user interface. The “Change Favicon” (Favorite Icon) enables the upload of a .png file, which can be exploited to upload a malicious file with a .png extension disguised as an image.",
+	"vulnerabilityName": "Versa Director Dangerous File Type Upload Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-39717"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-09-13T00:00:00Z",
+	"cisa_date_added": "2024-08-23T00:00:00Z",
+	"date_added": "2024-08-23T00:00:00Z"
+}

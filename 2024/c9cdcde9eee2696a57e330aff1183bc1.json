@@ -1,0 +1,90 @@
+{
+	"vendorProject": "canonical",
+	"product": "ubuntu_linux",
+	"shortDescription": "On Ubuntu kernels carrying both c914c0e27eb0 and \"UBUNTU: SAUCE: overlayfs: Skip permission checking for trusted.overlayfs.* xattrs\", an unprivileged user may set privileged extended attributes on the mounted files, leading them to be set on the upper files without the appropriate security checks.",
+	"vulnerabilityName": "canonical ubuntu_linux Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2640"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7b070d5d2d1e",
+			"xdb_url": "https://vulncheck.com/xdb/7b070d5d2d1e",
+			"date_added": "2023-11-14T08:37:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC.git"
+		},
+		{
+			"xdb_id": "394a6f854f06",
+			"xdb_url": "https://vulncheck.com/xdb/394a6f854f06",
+			"date_added": "2024-02-29T16:04:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:SanjayRagavendar/Ubuntu-GameOver-Lay.git"
+		},
+		{
+			"xdb_id": "1db18c71756c",
+			"xdb_url": "https://vulncheck.com/xdb/1db18c71756c",
+			"date_added": "2024-03-19T22:56:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Nkipohcs/CVE-2023-2640-CVE-2023-32629.git"
+		},
+		{
+			"xdb_id": "b0e74c253f25",
+			"xdb_url": "https://vulncheck.com/xdb/b0e74c253f25",
+			"date_added": "2023-11-02T20:19:57Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:musorblyat/CVE-2023-2640-CVE-2023-32629.git"
+		},
+		{
+			"xdb_id": "388d1cda03e1",
+			"xdb_url": "https://vulncheck.com/xdb/388d1cda03e1",
+			"date_added": "2023-12-13T19:33:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC.git"
+		},
+		{
+			"xdb_id": "16afc028b0b7",
+			"xdb_url": "https://vulncheck.com/xdb/16afc028b0b7",
+			"date_added": "2023-09-17T23:17:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:luanoliveira350/GameOverlayFS.git"
+		},
+		{
+			"xdb_id": "e23a0ab892f7",
+			"xdb_url": "https://vulncheck.com/xdb/e23a0ab892f7",
+			"date_added": "2023-11-11T14:33:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:k4but0/Ubuntu-LPE.git"
+		},
+		{
+			"xdb_id": "504d2e538afb",
+			"xdb_url": "https://vulncheck.com/xdb/504d2e538afb",
+			"date_added": "2024-05-21T23:39:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:K5LK/CVE-2023-2640-32629.git"
+		},
+		{
+			"xdb_id": "128ea6c187b0",
+			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
+			"date_added": "2023-11-09T09:19:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation.git"
+		},
+		{
+			"xdb_id": "8c496ca56767",
+			"xdb_url": "https://vulncheck.com/xdb/8c496ca56767",
+			"date_added": "2023-08-15T19:07:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:OllaPapito/gameoverlay.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
+			"date_added": "2024-08-21T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-21T00:00:00Z"
+}

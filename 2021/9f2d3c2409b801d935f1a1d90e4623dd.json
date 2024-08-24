@@ -288,6 +288,10 @@
 		{
 			"url": "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
 			"date_added": "2024-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
+			"date_added": "2024-08-21T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",
