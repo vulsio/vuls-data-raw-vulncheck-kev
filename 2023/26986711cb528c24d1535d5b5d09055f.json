@@ -405,6 +405,10 @@
 			"date_added": "2024-08-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-24&host_type=src&vulnerability=cve-2023-34960",
+			"date_added": "2024-08-24T00:00:00Z"
+		},
+		{
 			"url": "https://github.com/chamilo/chamilo-lms/issues/4813",
 			"date_added": "2023-07-16T00:00:00Z"
 		},

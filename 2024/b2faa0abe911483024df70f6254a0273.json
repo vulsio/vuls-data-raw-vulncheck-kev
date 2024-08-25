@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102-Python.git"
 		},
 		{
-			"xdb_id": "b9a5654f364d",
-			"xdb_url": "https://vulncheck.com/xdb/b9a5654f364d",
-			"date_added": "2024-07-13T10:25:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102.git"
-		},
-		{
 			"xdb_id": "eaa84997ad8a",
 			"xdb_url": "https://vulncheck.com/xdb/eaa84997ad8a",
 			"date_added": "2024-07-03T21:47:28Z",
@@ -99,6 +92,13 @@
 			"date_added": "2024-06-27T21:57:24Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "b9a5654f364d",
+			"xdb_url": "https://vulncheck.com/xdb/b9a5654f364d",
+			"date_added": "2024-07-13T10:25:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

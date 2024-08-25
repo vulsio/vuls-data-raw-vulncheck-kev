@@ -752,6 +752,10 @@
 			"date_added": "2024-08-23T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-24&host_type=src&vulnerability=cve-2019-11580",
+			"date_added": "2024-08-24T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
 			"date_added": "2020-10-20T00:00:00Z"
 		},

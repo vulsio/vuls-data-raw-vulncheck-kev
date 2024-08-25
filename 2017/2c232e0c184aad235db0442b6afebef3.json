@@ -751,6 +751,10 @@
 			"date_added": "2024-08-23T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-24&host_type=src&vulnerability=cve-2017-5638",
+			"date_added": "2024-08-24T00:00:00Z"
+		},
+		{
 			"url": "https://blog.lumen.com/the-resilient-satori-botnet/",
 			"date_added": "2018-10-27T00:00:00Z"
 		},

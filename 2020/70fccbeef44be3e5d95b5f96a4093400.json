@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:KotSec/CVE-2021-26855-Scanner.git"
 		},
 		{
-			"xdb_id": "d5ace7521e90",
-			"xdb_url": "https://vulncheck.com/xdb/d5ace7521e90",
-			"date_added": "2021-03-18T10:45:54Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:shacojx/CVE-2021-26855-exploit-Exchange.git"
-		},
-		{
 			"xdb_id": "a369a563695a",
 			"xdb_url": "https://vulncheck.com/xdb/a369a563695a",
 			"date_added": "2021-03-09T14:27:06Z",
@@ -178,13 +171,6 @@
 			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2021-26855_SSRF.git"
 		},
 		{
-			"xdb_id": "a0bdc897dbad",
-			"xdb_url": "https://vulncheck.com/xdb/a0bdc897dbad",
-			"date_added": "2021-03-10T05:21:19Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26855_PoC.git"
-		},
-		{
 			"xdb_id": "d311705d5c0f",
 			"xdb_url": "https://vulncheck.com/xdb/d311705d5c0f",
 			"date_added": "2021-03-11T20:51:48Z",
@@ -211,6 +197,20 @@
 			"date_added": "2021-03-17T03:56:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
+		},
+		{
+			"xdb_id": "d5ace7521e90",
+			"xdb_url": "https://vulncheck.com/xdb/d5ace7521e90",
+			"date_added": "2021-03-18T10:45:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:shacojx/CVE-2021-26855-exploit-Exchange.git"
+		},
+		{
+			"xdb_id": "a0bdc897dbad",
+			"xdb_url": "https://vulncheck.com/xdb/a0bdc897dbad",
+			"date_added": "2021-03-10T05:21:19Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26855_PoC.git"
 		},
 		{
 			"xdb_id": "2036c9063358",
@@ -1363,6 +1363,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-23&host_type=src&vulnerability=cve-2021-26855",
 			"date_added": "2024-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-24&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2024-08-24T00:00:00Z"
 		},
 		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",

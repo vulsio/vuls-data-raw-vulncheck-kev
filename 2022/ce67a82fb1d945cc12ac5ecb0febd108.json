@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:ihack4falafel/Dell-Driver-EoP-CVE-2021-21551.git"
 		},
 		{
-			"xdb_id": "efad29dc55a9",
-			"xdb_url": "https://vulncheck.com/xdb/efad29dc55a9",
-			"date_added": "2021-10-27T15:07:49Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:jbaines-r7/dellicious.git"
-		},
-		{
 			"xdb_id": "ad79da994145",
 			"xdb_url": "https://vulncheck.com/xdb/ad79da994145",
 			"date_added": "2023-01-07T02:42:59Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:nanabingies/CVE-2021-21551.git"
+		},
+		{
+			"xdb_id": "efad29dc55a9",
+			"xdb_url": "https://vulncheck.com/xdb/efad29dc55a9",
+			"date_added": "2021-10-27T15:07:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jbaines-r7/dellicious.git"
 		},
 		{
 			"xdb_id": "00d3994af95f",

@@ -108,13 +108,6 @@
 			"clone_ssh_url": "git@github.com:chron1k/oxide_hive.git"
 		},
 		{
-			"xdb_id": "f943b266eccd",
-			"xdb_url": "https://vulncheck.com/xdb/f943b266eccd",
-			"date_added": "2021-07-20T22:16:49Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:HuskyHacks/ShadowSteal.git"
-		},
-		{
 			"xdb_id": "4ec8f950a8af",
 			"xdb_url": "https://vulncheck.com/xdb/4ec8f950a8af",
 			"date_added": "2021-07-22T03:07:56Z",
@@ -129,6 +122,13 @@
 			"clone_ssh_url": "git@github.com:websecnl/CVE-2021-36934.git"
 		},
 		{
+			"xdb_id": "9a45af3ec16c",
+			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
+			"date_added": "2021-07-20T11:35:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
+		},
+		{
 			"xdb_id": "3995834c206a",
 			"xdb_url": "https://vulncheck.com/xdb/3995834c206a",
 			"date_added": "2020-08-09T05:48:10Z",
@@ -136,11 +136,11 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "9a45af3ec16c",
-			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
-			"date_added": "2021-07-20T11:35:43Z",
+			"xdb_id": "f943b266eccd",
+			"xdb_url": "https://vulncheck.com/xdb/f943b266eccd",
+			"date_added": "2021-07-20T22:16:49Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
+			"clone_ssh_url": "git@github.com:HuskyHacks/ShadowSteal.git"
 		},
 		{
 			"xdb_id": "80999bdcfa69",
