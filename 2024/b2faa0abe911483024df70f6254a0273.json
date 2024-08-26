@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-34102.git"
 		},
 		{
-			"xdb_id": "b5758629a4e6",
-			"xdb_url": "https://vulncheck.com/xdb/b5758629a4e6",
-			"date_added": "2024-08-19T19:25:48Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Jhonsonwannaa/CVE-2024-34102.git"
-		},
-		{
 			"xdb_id": "68297a933a3c",
 			"xdb_url": "https://vulncheck.com/xdb/68297a933a3c",
 			"date_added": "2024-06-27T18:10:13Z",
@@ -99,6 +92,13 @@
 			"date_added": "2024-07-13T10:25:23Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "b5758629a4e6",
+			"xdb_url": "https://vulncheck.com/xdb/b5758629a4e6",
+			"date_added": "2024-08-19T19:25:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Jhonsonwannaa/CVE-2024-34102.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

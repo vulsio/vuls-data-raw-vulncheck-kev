@@ -22,6 +22,13 @@
 			"date_added": "2023-08-02T11:55:30Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2023-2033.git"
+		},
+		{
+			"xdb_id": "c1a7e545bc7d",
+			"xdb_url": "https://vulncheck.com/xdb/c1a7e545bc7d",
+			"date_added": "2023-11-24T08:32:51Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rycbar77/V8Exploits.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

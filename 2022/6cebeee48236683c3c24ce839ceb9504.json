@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "1ecc40849d27",
-			"xdb_url": "https://vulncheck.com/xdb/1ecc40849d27",
-			"date_added": "2021-06-29T04:38:24Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:stong/CVE-2020-15368.git"
-		},
-		{
 			"xdb_id": "ea0d53dd94e0",
 			"xdb_url": "https://vulncheck.com/xdb/ea0d53dd94e0",
 			"date_added": "2024-08-10T23:51:38Z",
@@ -29,6 +22,13 @@
 			"date_added": "2020-02-02T05:28:35Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:hfiref0x/KDU.git"
+		},
+		{
+			"xdb_id": "1ecc40849d27",
+			"xdb_url": "https://vulncheck.com/xdb/1ecc40849d27",
+			"date_added": "2021-06-29T04:38:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:stong/CVE-2020-15368.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

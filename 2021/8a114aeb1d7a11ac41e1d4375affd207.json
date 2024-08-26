@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:pyn3rd/CVE-2019-0232.git"
 		},
 		{
-			"xdb_id": "775149bbfff6",
-			"xdb_url": "https://vulncheck.com/xdb/775149bbfff6",
-			"date_added": "2019-04-16T14:32:03Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-0232.git"
-		},
-		{
 			"xdb_id": "67571ae1c53c",
 			"xdb_url": "https://vulncheck.com/xdb/67571ae1c53c",
 			"date_added": "2021-03-25T20:09:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jaiguptanick/CVE-2019-0232.git"
+		},
+		{
+			"xdb_id": "775149bbfff6",
+			"xdb_url": "https://vulncheck.com/xdb/775149bbfff6",
+			"date_added": "2019-04-16T14:32:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-0232.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
