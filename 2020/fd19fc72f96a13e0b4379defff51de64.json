@@ -136,13 +136,6 @@
 			"clone_ssh_url": "git@gitee.com:jijingchenai/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
-			"xdb_id": "07eb5a6f90b8",
-			"xdb_url": "https://vulncheck.com/xdb/07eb5a6f90b8",
-			"date_added": "2020-10-06T20:52:32+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mengqingyu100/CVE-2018-9995_dvr_credentials.git"
-		},
-		{
 			"xdb_id": "68e84da49d7d",
 			"xdb_url": "https://vulncheck.com/xdb/68e84da49d7d",
 			"date_added": "2021-08-20T23:48:11+08:00",
@@ -155,6 +148,13 @@
 			"date_added": "2022-01-11T19:49:27+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:mirrors_ezelf/CVE-2018-9995_dvr_credentials.git"
+		},
+		{
+			"xdb_id": "07eb5a6f90b8",
+			"xdb_url": "https://vulncheck.com/xdb/07eb5a6f90b8",
+			"date_added": "2020-10-06T20:52:32+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mengqingyu100/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
 			"xdb_id": "41fff1110aee",
