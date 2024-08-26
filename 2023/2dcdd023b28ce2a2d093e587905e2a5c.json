@@ -699,6 +699,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2022-39986",
 			"date_added": "2024-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-25&host_type=src&vulnerability=cve-2022-39986",
+			"date_added": "2024-08-25T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-13T00:00:00Z"

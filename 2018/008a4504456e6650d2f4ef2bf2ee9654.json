@@ -846,6 +846,10 @@
 			"date_added": "2024-08-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-25&host_type=src&vulnerability=cve-2016-3088",
+			"date_added": "2024-08-25T00:00:00Z"
+		},
+		{
 			"url": "https://www.tenable.com/blog/xbash-malware-targets-windows-and-linux-with-ransomware-and-cryptomining",
 			"date_added": "2018-09-19T00:00:00Z"
 		},

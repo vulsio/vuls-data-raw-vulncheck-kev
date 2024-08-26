@@ -57,6 +57,13 @@
 			"date_added": "2022-09-30T16:43:28Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:cosad3s/CVE-2022-35914-poc.git"
+		},
+		{
+			"xdb_id": "b18a1f9302c3",
+			"xdb_url": "https://vulncheck.com/xdb/b18a1f9302c3",
+			"date_added": "2024-08-25T19:32:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:noxlumens/CVE-2022-35914_poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -791,6 +798,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-23&host_type=src&vulnerability=cve-2022-35914",
 			"date_added": "2024-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-25&host_type=src&vulnerability=cve-2022-35914",
+			"date_added": "2024-08-25T00:00:00Z"
 		},
 		{
 			"url": "https://glpi-project.org/security-update-10-0-3-and-9-5-9/",
