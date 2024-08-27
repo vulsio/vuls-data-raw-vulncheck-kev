@@ -29,6 +29,10 @@
 		{
 			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
 			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Jeffrey%20Hofmann%20Colby%20Morgan%20-%20Discovering%20and%20exploiting%20local%20attacks%20against%20the%201Password%20MacOS%20desktop%20application.pdf",
+			"date_added": "2024-08-01T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-06T00:00:00Z",

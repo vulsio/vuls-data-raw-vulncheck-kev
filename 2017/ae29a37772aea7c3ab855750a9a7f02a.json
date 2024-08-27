@@ -122,18 +122,18 @@
 			"clone_ssh_url": "git@github.com:1337g/CVE-2017-10271.git"
 		},
 		{
-			"xdb_id": "3f317861c109",
-			"xdb_url": "https://vulncheck.com/xdb/3f317861c109",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "14ab6f8b9982",
 			"xdb_url": "https://vulncheck.com/xdb/14ab6f8b9982",
 			"date_added": "2019-03-15T01:50:01Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:XHSecurity/Oracle-WebLogic-CVE-2017-10271.git"
+		},
+		{
+			"xdb_id": "3f317861c109",
+			"xdb_url": "https://vulncheck.com/xdb/3f317861c109",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
 			"xdb_id": "e9e5a0e896a8",
