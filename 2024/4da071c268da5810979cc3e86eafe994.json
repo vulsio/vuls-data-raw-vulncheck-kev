@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://versa-networks.com/blog/versa-security-bulletin-update-on-cve-2024-39717-versa-director-dangerous-file-type-upload-vulnerability/",
+			"date_added": "2024-08-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-13T00:00:00Z",

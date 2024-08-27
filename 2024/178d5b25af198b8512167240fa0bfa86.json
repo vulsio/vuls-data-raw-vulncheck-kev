@@ -105,6 +105,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/aktualnye-kiberugrozy-ii-kvartal-2024-goda/",
+			"date_added": "2024-08-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-05-22T00:00:00Z",
