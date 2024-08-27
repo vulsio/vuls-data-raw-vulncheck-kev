@@ -695,6 +695,10 @@
 			"date_added": "2024-08-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-26&host_type=src&vulnerability=cve-2024-1709",
+			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
 			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
 			"date_added": "2024-05-09T00:00:00Z"
 		},

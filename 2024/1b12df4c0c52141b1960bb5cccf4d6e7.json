@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
 		},
 		{
-			"xdb_id": "1dbce5a4766b",
-			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
-			"date_added": "2024-07-30T18:43:40Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "e908c49bab48",
 			"xdb_url": "https://vulncheck.com/xdb/e908c49bab48",
 			"date_added": "2024-07-04T13:19:47Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "1dbce5a4766b",
+			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
+			"date_added": "2024-07-30T18:43:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -184,6 +184,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-25&host_type=src&vulnerability=cve-2024-36401",
 			"date_added": "2024-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-26&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-08-26T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sonicwall.com/en-us/2024/07/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild/",

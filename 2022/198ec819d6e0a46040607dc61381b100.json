@@ -136,13 +136,6 @@
 			"clone_ssh_url": "git@github.com:ethicalblue/Follina-CVE-2022-30190-Sample.git"
 		},
 		{
-			"xdb_id": "70970cd2ac26",
-			"xdb_url": "https://vulncheck.com/xdb/70970cd2ac26",
-			"date_added": "2022-06-09T09:32:10Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Hrishikesh7665/Follina_Exploiter_CLI.git"
-		},
-		{
 			"xdb_id": "cdbdee6a1fd2",
 			"xdb_url": "https://vulncheck.com/xdb/cdbdee6a1fd2",
 			"date_added": "2022-06-29T08:48:12Z",
@@ -197,6 +190,13 @@
 			"date_added": "2022-06-01T23:27:14Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:sudoaza/CVE-2022-30190.git"
+		},
+		{
+			"xdb_id": "70970cd2ac26",
+			"xdb_url": "https://vulncheck.com/xdb/70970cd2ac26",
+			"date_added": "2022-06-09T09:32:10Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Hrishikesh7665/Follina_Exploiter_CLI.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

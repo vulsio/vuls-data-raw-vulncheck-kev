@@ -796,6 +796,10 @@
 			"date_added": "2024-08-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-26&host_type=src&vulnerability=cve-2022-24112",
+			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
 			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-279a",
 			"date_added": "2022-10-06T00:00:00Z"
 		}
