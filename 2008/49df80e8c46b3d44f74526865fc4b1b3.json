@@ -1,0 +1,19 @@
+{
+	"vendorProject": "OpenBSD",
+	"product": "openssh",
+	"shortDescription": "ssh in OpenSSH before 4.7 does not properly handle when an untrusted cookie cannot be created and uses a trusted X11 cookie instead, which allows attackers to violate intended policy and gain privileges by causing an X client to be treated as trusted.",
+	"vulnerabilityName": "OpenBSD openssh Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-4752"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://access.redhat.com/errata/RHSA-2008:0855.html",
+			"date_added": "2008-08-22T00:00:00Z"
+		}
+	],
+	"date_added": "2008-08-22T00:00:00Z"
+}

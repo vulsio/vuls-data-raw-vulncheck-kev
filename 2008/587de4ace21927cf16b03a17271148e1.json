@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Joomla!",
+	"product": "com_user",
+	"shortDescription": "components/com_user/models/reset.php in Joomla! 1.5 through 1.5.5 does not properly validate reset tokens, which allows remote attackers to reset the \"first enabled user (lowest id)\" password, typically for the administrator.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-3681"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Joomla+user+password+reset+vulnerability+being+actively+exploited/4894/",
+			"date_added": "2008-08-15T00:00:00Z"
+		}
+	],
+	"date_added": "2008-08-15T00:00:00Z"
+}

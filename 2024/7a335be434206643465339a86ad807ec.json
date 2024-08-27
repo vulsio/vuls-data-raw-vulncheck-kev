@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Apache",
 	"product": "OFBiz",
-	"shortDescription": "Incorrect Authorization vulnerability in Apache OFBiz. This issue affects Apache OFBiz: through 18.12.14. Users are recommended to upgrade to version 18.12.15, which fixes the issue. Unauthenticated endpoints could allow execution of screen rendering code of screens if some preconditions are met (such as when the screen definitions don't explicitly check user's permissions because they rely on the configuration of their endpoints).",
+	"shortDescription": "Apache OFBiz contains an incorrect authorization vulnerability that could allow remote code execution via a Groovy payload in the context of the OFBiz user process by an unauthenticated attacker.",
 	"vulnerabilityName": "Apache OFBiz Incorrect Authorization Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-38856"
@@ -58,5 +58,7 @@
 			"date_added": "2024-08-19T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-09-17T00:00:00Z",
+	"cisa_date_added": "2024-08-27T00:00:00Z",
 	"date_added": "2024-08-19T00:00:00Z"
 }

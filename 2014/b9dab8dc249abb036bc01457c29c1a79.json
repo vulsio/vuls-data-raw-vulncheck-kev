@@ -11,9 +11,13 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://blog.sucuri.net/2014/09/slider-revolution-plugin-critical-vulnerability-being-exploited.html",
+			"date_added": "2014-09-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.wordfence.com/blog/2020/06/large-scale-attack-campaign-targets-database-credentials/",
 			"date_added": "2020-06-03T00:00:00Z"
 		}
 	],
-	"date_added": "2020-06-03T00:00:00Z"
+	"date_added": "2014-09-03T00:00:00Z"
 }

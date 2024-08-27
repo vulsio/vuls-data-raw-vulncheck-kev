@@ -1,0 +1,19 @@
+{
+	"vendorProject": "xpressengine",
+	"product": "zeroboard",
+	"shortDescription": "lib.php in Zeroboard 4.1 pl7 allows remote attackers to execute arbitrary PHP code via a crafted parameter name, possibly related to now_connect.php.",
+	"vulnerabilityName": "xpressengine zeroboard Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-4834"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-alert-zeroboard-now_connect-remote-code-execution-attacks/",
+			"date_added": "2012-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2012-04-12T00:00:00Z"
+}

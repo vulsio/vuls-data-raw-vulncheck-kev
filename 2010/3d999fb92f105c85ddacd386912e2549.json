@@ -1,0 +1,19 @@
+{
+	"vendorProject": "e107",
+	"product": "e107",
+	"shortDescription": "bbcode/php.bb in e107 0.7.20 and earlier does not perform access control checks for all inputs that could contain the php bbcode tag, which allows remote attackers to execute arbitrary PHP code, as demonstrated using the toEmail method in contact.php, related to invocations of the toHTML method.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-2099"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Casper+the+unfriendly+ghost/9430/",
+			"date_added": "2010-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2010-08-19T00:00:00Z"
+}

@@ -11,9 +11,13 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://blog.sucuri.net/2016/10/joomla-mass-exploits-privilege-vulnerability.html",
+			"date_added": "2016-10-28T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
 			"date_added": "2021-04-12T00:00:00Z"
 		}
 	],
-	"date_added": "2021-04-12T00:00:00Z"
+	"date_added": "2016-10-28T00:00:00Z"
 }

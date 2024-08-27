@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Heap-based buffer overflow in the Windows Internet Name Service (WINS) component for Microsoft Windows 2000 SP4 and Server 2003 SP2 allows remote attackers to execute arbitrary code via a crafted WINS replication packet that triggers an incorrect buffer-length calculation, aka \"WINS Heap Overflow Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-1923"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/MS09039+exploit+in+the+wild/6976/",
+			"date_added": "2009-08-18T00:00:00Z"
+		}
+	],
+	"date_added": "2009-08-18T00:00:00Z"
+}

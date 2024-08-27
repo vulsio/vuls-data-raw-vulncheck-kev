@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpsymposiumpro",
+	"product": "wp_symposium",
+	"shortDescription": "Unrestricted file upload vulnerability in UploadHandler.php in the WP Symposium plugin 14.11 for WordPress allows remote attackers to execute arbitrary code by uploading a file with an executable extension, then accessing it via a direct request to the file in server/php/.",
+	"vulnerabilityName": "wpsymposiumpro wp_symposium Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-10021"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-alert-wordpress-wp-symposium-14.11-unauthenticated-shell-upload-exploit-attempt/",
+			"date_added": "2014-12-30T00:00:00Z"
+		}
+	],
+	"date_added": "2014-12-30T00:00:00Z"
+}

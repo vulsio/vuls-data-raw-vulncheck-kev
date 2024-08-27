@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Joomla!",
+	"product": "Joomla!",
+	"shortDescription": "The register method in the UsersModelRegistration class in controllers/user.php in the Users component in Joomla! before 3.6.4, when registration has been disabled, allows remote attackers to create user accounts by leveraging failure to check the Allow User Registration configuration setting.",
+	"vulnerabilityName": "Joomla! Joomla! Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-8870"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.sucuri.net/2016/10/joomla-mass-exploits-privilege-vulnerability.html",
+			"date_added": "2016-10-28T00:00:00Z"
+		}
+	],
+	"date_added": "2016-10-28T00:00:00Z"
+}

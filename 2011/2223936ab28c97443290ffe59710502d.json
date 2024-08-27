@@ -11,9 +11,13 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.hkcert.org/blog/large-scale-injection-incidents-targeting-oscommerce-websites",
+			"date_added": "2011-07-26T00:00:00Z"
+		},
+		{
 			"url": "https://s7d2.scene7.com/is/content/cylance/prod/cylance-web/en-us/resources/knowledge-center/resource-library/reports/Op_Dust_Storm_Report.pdf",
 			"date_added": "2016-02-23T00:00:00Z"
 		}
 	],
-	"date_added": "2016-02-23T00:00:00Z"
+	"date_added": "2011-07-26T00:00:00Z"
 }

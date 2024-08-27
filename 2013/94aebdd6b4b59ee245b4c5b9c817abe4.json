@@ -25,6 +25,10 @@
 		{
 			"url": "https://www.fireeye.com/blog/threat-research/2013/05/ready-for-summer-the-sunshop-campaign.html",
 			"date_added": "2013-05-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/sites/default/files/2021-09/rpt-java-vulnerabilities.pdf",
+			"date_added": "2021-09-01T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-15T00:00:00Z",

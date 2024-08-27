@@ -1,0 +1,19 @@
+{
+	"vendorProject": "nullsoft",
+	"product": "winamp",
+	"shortDescription": "Winamp before 5.0.4 allows remote attackers to execute arbitrary script in the Local computer zone via script in HTML files that are referenced from XML files contained in a .wsz skin file.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2004-0820"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20040831025623/http://secunia.com/advisories/12381/",
+			"date_added": "2004-08-25T00:00:00Z"
+		}
+	],
+	"date_added": "2004-08-25T00:00:00Z"
+}

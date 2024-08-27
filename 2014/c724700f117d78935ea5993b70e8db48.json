@@ -37,6 +37,10 @@
 		{
 			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
 			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.mandiant.com/sites/default/files/2021-09/rpt-java-vulnerabilities.pdf",
+			"date_added": "2021-09-01T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-18T00:00:00Z",

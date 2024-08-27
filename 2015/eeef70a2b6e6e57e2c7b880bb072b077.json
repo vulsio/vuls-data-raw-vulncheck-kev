@@ -31,6 +31,10 @@
 			"date_added": "2019-09-01T00:00:00Z"
 		},
 		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rig-exploit-kit-diving-deeper-into-the-infrastructure/",
+			"date_added": "2015-02-23T00:00:00Z"
+		},
+		{
 			"url": "https://wikileaks.org/vault7/document/2015-08-20150814-256-CSIR-15005-Stalker-Panda/2015-08-20150814-256-CSIR-15005-Stalker-Panda.pdf",
 			"date_added": "2015-08-14T00:00:00Z"
 		},
@@ -61,5 +65,5 @@
 	],
 	"dueDate": "2022-04-15T00:00:00Z",
 	"cisa_date_added": "2022-03-25T00:00:00Z",
-	"date_added": "2015-08-14T00:00:00Z"
+	"date_added": "2015-02-23T00:00:00Z"
 }
