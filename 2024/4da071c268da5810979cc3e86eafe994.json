@@ -17,6 +17,10 @@
 		{
 			"url": "https://versa-networks.com/blog/versa-security-bulletin-update-on-cve-2024-39717-versa-director-dangerous-file-type-upload-vulnerability/",
 			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.lumen.com/taking-the-crossroads-the-versa-director-zero-day-exploitation/",
+			"date_added": "2024-08-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-13T00:00:00Z",

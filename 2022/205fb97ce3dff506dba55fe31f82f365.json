@@ -1,0 +1,19 @@
+{
+	"vendorProject": "dasanzhone",
+	"product": "znid_2426a_firmware",
+	"shortDescription": "The web administrative portal in Zhone zNID 2426A before S3.0.501 allows remote authenticated users to bypass intended access restrictions via a modified server response, related to an insecure direct object reference.",
+	"vulnerabilityName": "dasanzhone znid_2426a_firmware Authorization Bypass Through User-Controlled Key",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-8356"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.netlab.360.com/men-sheng-fa-da-cai-fodchajiang-shi-wang-luo/",
+			"date_added": "2022-04-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-04-13T00:00:00Z"
+}

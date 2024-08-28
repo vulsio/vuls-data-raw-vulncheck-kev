@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/wham-bam-the-cutwailblackhole-combo/",
+			"date_added": "2012-07-02T00:00:00Z"
+		},
+		{
 			"url": "https://www.hkcert.org/blog/large-scale-injection-incidents-targeting-oscommerce-websites",
 			"date_added": "2011-07-26T00:00:00Z"
 		},
