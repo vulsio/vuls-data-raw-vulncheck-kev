@@ -20,7 +20,7 @@
 			"xdb_id": "7f9ab9f4fabb",
 			"xdb_url": "https://vulncheck.com/xdb/7f9ab9f4fabb",
 			"date_added": "2023-07-25T23:11:51Z",
-			"exploit_type": "remote-with-credentials",
+			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4.git"
 		}
 	],

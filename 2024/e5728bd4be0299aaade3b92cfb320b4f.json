@@ -52,13 +52,6 @@
 			"clone_ssh_url": "git@github.com:cdxiaodong/CVE-2024-21626.git"
 		},
 		{
-			"xdb_id": "fccc92afb59d",
-			"xdb_url": "https://vulncheck.com/xdb/fccc92afb59d",
-			"date_added": "2024-02-02T02:51:29Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Wall1e/CVE-2024-21626-POC.git"
-		},
-		{
 			"xdb_id": "3e18ecb55558",
 			"xdb_url": "https://vulncheck.com/xdb/3e18ecb55558",
 			"date_added": "2024-04-03T11:45:19Z",
@@ -66,18 +59,25 @@
 			"clone_ssh_url": "git@github.com:KubernetesBachelor/CVE-2024-21626.git"
 		},
 		{
-			"xdb_id": "f63cbffeb196",
-			"xdb_url": "https://vulncheck.com/xdb/f63cbffeb196",
-			"date_added": "2024-02-01T15:28:37Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:NitroCao/CVE-2024-21626.git"
-		},
-		{
 			"xdb_id": "26a4729455e2",
 			"xdb_url": "https://vulncheck.com/xdb/26a4729455e2",
 			"date_added": "2024-03-15T10:38:27Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Sk3pper/CVE-2024-21626.git"
+		},
+		{
+			"xdb_id": "fccc92afb59d",
+			"xdb_url": "https://vulncheck.com/xdb/fccc92afb59d",
+			"date_added": "2024-02-02T02:51:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Wall1e/CVE-2024-21626-POC.git"
+		},
+		{
+			"xdb_id": "f63cbffeb196",
+			"xdb_url": "https://vulncheck.com/xdb/f63cbffeb196",
+			"date_added": "2024-02-01T15:28:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NitroCao/CVE-2024-21626.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
