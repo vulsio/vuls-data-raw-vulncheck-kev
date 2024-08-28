@@ -185,18 +185,18 @@
 			"clone_ssh_url": "git@github.com:hev0x/CVE-2021-26084_Confluence.git"
 		},
 		{
-			"xdb_id": "8b9e22d2ce4a",
-			"xdb_url": "https://vulncheck.com/xdb/8b9e22d2ce4a",
-			"date_added": "2021-05-22T05:06:33Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
-		},
-		{
 			"xdb_id": "527ea731c62f",
 			"xdb_url": "https://vulncheck.com/xdb/527ea731c62f",
 			"date_added": "2024-05-29T03:20:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
+		},
+		{
+			"xdb_id": "8b9e22d2ce4a",
+			"xdb_url": "https://vulncheck.com/xdb/8b9e22d2ce4a",
+			"date_added": "2021-05-22T05:06:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
 		},
 		{
 			"xdb_id": "0c50354d6f93",

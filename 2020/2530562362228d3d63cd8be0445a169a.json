@@ -782,6 +782,10 @@
 			"date_added": "2024-08-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-27&host_type=src&vulnerability=cve-2019-16920",
+			"date_added": "2024-08-27T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/iot-vulnerabilities-mirai-payloads/",
 			"date_added": "2020-10-14T00:00:00Z"
 		},

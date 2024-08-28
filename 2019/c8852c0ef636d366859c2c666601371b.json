@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:enceka/cve-2019-2215-3.18.git"
 		},
 		{
-			"xdb_id": "7c94a8838bcd",
-			"xdb_url": "https://vulncheck.com/xdb/7c94a8838bcd",
-			"date_added": "2024-04-15T06:40:04Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:mutur4/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "5a63ca2255f9",
 			"xdb_url": "https://vulncheck.com/xdb/5a63ca2255f9",
 			"date_added": "2019-10-21T01:46:26Z",
@@ -94,25 +87,11 @@
 			"clone_ssh_url": "git@github.com:raymontag/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "b769e46ca29c",
-			"xdb_url": "https://vulncheck.com/xdb/b769e46ca29c",
-			"date_added": "2020-10-27T14:43:17Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:c3r34lk1ll3r/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "48c20484fa71",
 			"xdb_url": "https://vulncheck.com/xdb/48c20484fa71",
 			"date_added": "2024-05-20T10:58:53Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:R0rt1z2/huawei-unlock.git"
-		},
-		{
-			"xdb_id": "034793af86bc",
-			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
-			"date_added": "2019-10-14T17:27:37Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
 		},
 		{
 			"xdb_id": "efc0233357b1",
@@ -141,6 +120,27 @@
 			"date_added": "2023-11-05T14:32:11Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
+		},
+		{
+			"xdb_id": "034793af86bc",
+			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
+			"date_added": "2019-10-14T17:27:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
+		},
+		{
+			"xdb_id": "b769e46ca29c",
+			"xdb_url": "https://vulncheck.com/xdb/b769e46ca29c",
+			"date_added": "2020-10-27T14:43:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:c3r34lk1ll3r/CVE-2019-2215.git"
+		},
+		{
+			"xdb_id": "7c94a8838bcd",
+			"xdb_url": "https://vulncheck.com/xdb/7c94a8838bcd",
+			"date_added": "2024-04-15T06:40:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:mutur4/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

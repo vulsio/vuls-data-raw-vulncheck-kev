@@ -171,6 +171,13 @@
 			"clone_ssh_url": "git@github.com:CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit.git"
 		},
 		{
+			"xdb_id": "e543e9003746",
+			"xdb_url": "https://vulncheck.com/xdb/e543e9003746",
+			"date_added": "2024-08-26T01:54:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zyx2440/Apache-HTTP-Server-2.4.50-RCE.git"
+		},
+		{
 			"xdb_id": "28d7e8231b1f",
 			"xdb_url": "https://vulncheck.com/xdb/28d7e8231b1f",
 			"date_added": "2022-05-26T07:01:04Z",
@@ -338,6 +345,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-26&host_type=src&vulnerability=cve-2021-42013",
 			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-27&host_type=src&vulnerability=cve-2021-42013",
+			"date_added": "2024-08-27T00:00:00Z"
 		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet",
