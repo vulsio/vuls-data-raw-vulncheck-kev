@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 contains an inappropriate implementation vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Inappropriate Implementation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-7965"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html",
+			"date_added": "2024-08-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-09-18T00:00:00Z",
+	"cisa_date_added": "2024-08-28T00:00:00Z",
+	"date_added": "2024-08-26T00:00:00Z"
+}
