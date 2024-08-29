@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:aljavier/exploit_laravel_cve-2018-15133.git"
 		},
 		{
-			"xdb_id": "be7a45b53d16",
-			"xdb_url": "https://vulncheck.com/xdb/be7a45b53d16",
-			"date_added": "2020-12-21T22:02:08Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:pwnedshell/Larascript.git"
-		},
-		{
 			"xdb_id": "b31ca993356f",
 			"xdb_url": "https://vulncheck.com/xdb/b31ca993356f",
 			"date_added": "2023-05-10T06:01:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Cr4zyD14m0nd137/Lab-for-cve-2018-15133.git"
+		},
+		{
+			"xdb_id": "be7a45b53d16",
+			"xdb_url": "https://vulncheck.com/xdb/be7a45b53d16",
+			"date_added": "2020-12-21T22:02:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pwnedshell/Larascript.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

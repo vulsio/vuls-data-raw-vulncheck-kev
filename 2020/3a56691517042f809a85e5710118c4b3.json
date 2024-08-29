@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:Y4er/WebLogic-Shiro-shell.git"
 		},
 		{
-			"xdb_id": "f0337df1320b",
-			"xdb_url": "https://vulncheck.com/xdb/f0337df1320b",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "d55ddb5fac32",
 			"xdb_url": "https://vulncheck.com/xdb/d55ddb5fac32",
 			"date_added": "2020-05-16T03:01:32Z",
@@ -45,9 +38,16 @@
 			"clone_ssh_url": "git@github.com:zzwlpx/weblogicPoc.git"
 		},
 		{
+			"xdb_id": "f0337df1320b",
+			"xdb_url": "https://vulncheck.com/xdb/f0337df1320b",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
 			"xdb_id": "9ab580b3f80b",
 			"xdb_url": "https://vulncheck.com/xdb/9ab580b3f80b",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-06-30T08:54:13+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:akira09/exphub.git"
 		}
