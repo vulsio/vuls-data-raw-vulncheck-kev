@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-7029"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.akamai.com/blog/security-research/2024-corona-mirai-botnet-infects-zero-day-sirt",
+			"date_added": "2024-08-28T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-28T00:00:00Z"
+}

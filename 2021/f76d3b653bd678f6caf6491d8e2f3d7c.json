@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2020-14882.git"
 		},
 		{
-			"xdb_id": "c13d71ba7622",
-			"xdb_url": "https://vulncheck.com/xdb/c13d71ba7622",
-			"date_added": "2020-11-01T13:12:27Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ludy-dev/Weblogic_Unauthorized-bypass-RCE.git"
-		},
-		{
 			"xdb_id": "65ab3b9c2eba",
 			"xdb_url": "https://vulncheck.com/xdb/65ab3b9c2eba",
 			"date_added": "2020-10-29T13:53:31Z",
@@ -178,25 +171,11 @@
 			"clone_ssh_url": "git@github.com:Danny-LLi/CVE-2020-14882.git"
 		},
 		{
-			"xdb_id": "e962ac877371",
-			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
-			"date_added": "2019-07-18T14:25:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
-		},
-		{
 			"xdb_id": "7abe5b874cdf",
 			"xdb_url": "https://vulncheck.com/xdb/7abe5b874cdf",
 			"date_added": "2020-11-03T10:49:35Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:GGyao/CVE-2020-14882_ALL.git"
-		},
-		{
-			"xdb_id": "c05a01763211",
-			"xdb_url": "https://vulncheck.com/xdb/c05a01763211",
-			"date_added": "2020-04-01T09:33:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
 		},
 		{
 			"xdb_id": "59c38bcb5664",
@@ -206,11 +185,25 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "8035aa262c64",
-			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
-			"date_added": "2021-07-27T11:11:27+08:00",
+			"xdb_id": "e962ac877371",
+			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
+			"date_added": "2019-07-18T14:25:37Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
+			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
+		},
+		{
+			"xdb_id": "c05a01763211",
+			"xdb_url": "https://vulncheck.com/xdb/c05a01763211",
+			"date_added": "2020-04-01T09:33:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
+		},
+		{
+			"xdb_id": "c13d71ba7622",
+			"xdb_url": "https://vulncheck.com/xdb/c13d71ba7622",
+			"date_added": "2020-11-01T13:12:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ludy-dev/Weblogic_Unauthorized-bypass-RCE.git"
 		},
 		{
 			"xdb_id": "a13fcf8de8fc",
@@ -225,6 +218,13 @@
 			"date_added": "2021-01-24T19:00:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
+		},
+		{
+			"xdb_id": "8035aa262c64",
+			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
+			"date_added": "2021-07-27T11:11:27+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
 		},
 		{
 			"xdb_id": "b539b7bd0520",
