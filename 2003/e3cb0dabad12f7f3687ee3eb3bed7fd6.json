@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "data_engine",
+	"shortDescription": "Multiple buffer overflows in the Resolution Service for Microsoft SQL Server 2000 and Microsoft Desktop Engine 2000 (MSDE) allow remote attackers to cause a denial of service or execute arbitrary code via UDP packets to port 1434 in which (1) a 0x04 byte that causes the SQL Monitor thread to generate a long registry key name, or (2) a 0x08 byte with a long string causes heap corruption, as exploited by the Slammer/Sapphire worm.",
+	"vulnerabilityName": "Microsoft data_engine Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2002-0649"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cseweb.ucsd.edu/~savage/papers/IEEESP03.pdf",
+			"date_added": "2003-08-01T00:00:00Z"
+		}
+	],
+	"date_added": "2003-08-01T00:00:00Z"
+}

@@ -1102,6 +1102,10 @@
 		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
 			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/h/cve-2023-22527-cryptomining.html",
+			"date_added": "2024-08-28T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-02-14T00:00:00Z",

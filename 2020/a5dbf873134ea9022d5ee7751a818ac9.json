@@ -423,6 +423,20 @@
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/zerologon.git"
 		},
 		{
+			"xdb_id": "ec3302cc4035",
+			"xdb_url": "https://vulncheck.com/xdb/ec3302cc4035",
+			"date_added": "2022-01-11T19:08:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_dirkjanm/CVE-2020-1472.git"
+		},
+		{
+			"xdb_id": "85bb14853591",
+			"xdb_url": "https://vulncheck.com/xdb/85bb14853591",
+			"date_added": "2022-01-11T12:56:14+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_SecuraBV/CVE-2020-1472.git"
+		},
+		{
 			"xdb_id": "869e2256552c",
 			"xdb_url": "https://vulncheck.com/xdb/869e2256552c",
 			"date_added": "2023-12-12T15:22:21+08:00",
@@ -444,27 +458,6 @@
 			"clone_ssh_url": "git@gitee.com:trfpatriotic/CVE-2020-1472.git"
 		},
 		{
-			"xdb_id": "1561d5b8edd9",
-			"xdb_url": "https://vulncheck.com/xdb/1561d5b8edd9",
-			"date_added": "2022-01-18T01:59:35+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2020-1472.git"
-		},
-		{
-			"xdb_id": "ec3302cc4035",
-			"xdb_url": "https://vulncheck.com/xdb/ec3302cc4035",
-			"date_added": "2022-01-11T19:08:48+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_dirkjanm/CVE-2020-1472.git"
-		},
-		{
-			"xdb_id": "85bb14853591",
-			"xdb_url": "https://vulncheck.com/xdb/85bb14853591",
-			"date_added": "2022-01-11T12:56:14+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_SecuraBV/CVE-2020-1472.git"
-		},
-		{
 			"xdb_id": "7a9717baaae0",
 			"xdb_url": "https://vulncheck.com/xdb/7a9717baaae0",
 			"date_added": "2021-07-07T20:29:26+08:00",
@@ -484,6 +477,13 @@
 			"date_added": "2021-07-25T15:13:43+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2020-1472.git"
+		},
+		{
+			"xdb_id": "1561d5b8edd9",
+			"xdb_url": "https://vulncheck.com/xdb/1561d5b8edd9",
+			"date_added": "2022-01-18T01:59:35+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2020-1472.git"
 		},
 		{
 			"xdb_id": "4cc91a55dad4",
@@ -621,6 +621,10 @@
 		{
 			"url": "https://www.tenable.com/blog/cybersecurity-snapshot-data-breach-costs-rise-as-ransomware-attacks-fall",
 			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://blog.polyswarm.io/recent-ransomware-attacks-on-the-healthcare-vertical",
+			"date_added": "2024-08-19T00:00:00Z"
 		},
 		{
 			"url": "https://redalert.nshc.net/2024/08/21/summary-of-ransomware-threat-actor-activity-in-2023-eng/",

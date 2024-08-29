@@ -721,6 +721,10 @@
 		{
 			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2024/08/06/2024-midyear-threat-landscape-review",
 			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a",
+			"date_added": "2024-08-28T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-06-20T00:00:00Z",
