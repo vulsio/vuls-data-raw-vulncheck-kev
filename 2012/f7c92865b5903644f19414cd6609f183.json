@@ -2,7 +2,7 @@
 	"vendorProject": "elitecore",
 	"product": "cyberoam_unified_threat_management",
 	"shortDescription": "The default configuration of Cyberoam UTM appliances uses the same Certification Authority certificate and same private key across different customers' installations, which makes it easier for man-in-the-middle attackers to spoof SSL servers by leveraging the presence of the Cyberoam_SSL_CA certificate in a list of trusted root certification authorities.  NOTE: the vendor disputes the significance of this issue because the appliance \"does not allow import or export of the foresaid private key.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Cyberoam UTM Cyberoam_SSL_CA Certificate Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

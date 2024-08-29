@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-825 R1 Devices",
+	"shortDescription": "An issue was discovered on D-Link DIR-825 Rev.B 2.10 devices. They allow remote attackers to execute arbitrary commands via the dns_query_name parameter in a dns_query.cgi POST request. TRENDnet TEW-632BRP 1.010B32 is also affected.",
+	"vulnerabilityName": "D-Link DIR-825 R1 Devices Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-10215"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-28&host_type=src&vulnerability=cve-2020-10215",
+			"date_added": "2024-08-28T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-28T00:00:00Z"
+}

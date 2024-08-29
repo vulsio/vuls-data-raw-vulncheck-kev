@@ -1,0 +1,19 @@
+{
+	"vendorProject": "verizon",
+	"product": "fios_quantum_gateway_g1100",
+	"shortDescription": "Remote command injection vulnerability in Verizon Fios Quantum Gateway (G1100) firmware version 02.01.00.05 allows a remote, authenticated attacker to execute arbitrary commands on the target device by adding an access control rule for a network object with a crafted hostname.",
+	"vulnerabilityName": "verizon fios_quantum_gateway_g1100 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-3914"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-28&host_type=src&vulnerability=cve-2019-3914",
+			"date_added": "2024-08-28T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-28T00:00:00Z"
+}

@@ -826,6 +826,10 @@
 			"date_added": "2024-08-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-28&host_type=src&vulnerability=cve-2015-1427",
+			"date_added": "2024-08-28T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/19/g/multistage-attack-delivers-billgates-setag-backdoor-can-turn-elasticsearch-databases-into-ddos-botnet-zombies.html",
 			"date_added": "2019-07-23T00:00:00Z"
 		},

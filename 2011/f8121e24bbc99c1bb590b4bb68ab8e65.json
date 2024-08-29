@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "data_access_components",
 	"shortDescription": "Unspecified vulnerability in the RDS.Dataspace ActiveX control, which is contained in ActiveX Data Objects (ADO) and distributed in Microsoft Data Access Components (MDAC) 2.7 and 2.8, allows remote attackers to execute arbitrary code via unknown attack vectors.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Microsoft Data Access Components (MDAC) RDS.Dataspace ActiveX Control Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
