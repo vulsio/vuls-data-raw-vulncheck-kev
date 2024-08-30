@@ -915,6 +915,10 @@
 			"date_added": "2024-08-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-29&host_type=src&vulnerability=cve-2020-35665",
+			"date_added": "2024-08-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.imperva.com/blog/python-cryptominer-botnet-quickly-adopts-latest-vulnerabilities/",
 			"date_added": "2021-01-14T00:00:00Z"
 		},

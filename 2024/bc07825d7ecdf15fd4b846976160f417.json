@@ -1,0 +1,41 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-7928"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "655e37e868c5",
+			"xdb_url": "https://vulncheck.com/xdb/655e37e868c5",
+			"date_added": "2024-08-22T14:39:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wh6amiGit/CVE-2024-7928.git"
+		},
+		{
+			"xdb_id": "5f304a0fe91f",
+			"xdb_url": "https://vulncheck.com/xdb/5f304a0fe91f",
+			"date_added": "2024-08-23T15:50:30Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:th3gokul/CVE-2024-7928.git"
+		},
+		{
+			"xdb_id": "8e92809b5e40",
+			"xdb_url": "https://vulncheck.com/xdb/8e92809b5e40",
+			"date_added": "2024-08-20T03:09:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-7928.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-29&host_type=src&vulnerability=cve-2024-7928",
+			"date_added": "2024-08-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-29T00:00:00Z"
+}

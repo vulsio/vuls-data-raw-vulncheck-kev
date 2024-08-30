@@ -22,6 +22,13 @@
 			"date_added": "2024-03-18T16:58:46Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Matrexdz/CVE-2024-1071.git"
+		},
+		{
+			"xdb_id": "ef234f6faa56",
+			"xdb_url": "https://vulncheck.com/xdb/ef234f6faa56",
+			"date_added": "2024-08-30T04:23:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-1071-SQL-Injection.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

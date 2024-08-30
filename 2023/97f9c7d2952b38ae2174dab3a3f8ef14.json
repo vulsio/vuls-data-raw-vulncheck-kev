@@ -846,6 +846,10 @@
 			"date_added": "2024-08-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-29&host_type=src&vulnerability=cve-2023-1389",
+			"date_added": "2024-08-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal",
 			"date_added": "2023-04-24T00:00:00Z"
 		},
