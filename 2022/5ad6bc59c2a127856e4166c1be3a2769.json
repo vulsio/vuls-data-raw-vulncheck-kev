@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "Windows",
 	"shortDescription": "Windows Credential Roaming Service Elevation of Privilege Vulnerability",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Windows Credential Roaming Service Elevation of Privilege Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -2,7 +2,7 @@
 	"vendorProject": "bitcoin",
 	"product": "bitcoin_core",
 	"shortDescription": "In Bitcoin Core through 26.0 and Bitcoin Knots before 25.1.knots20231115, datacarrier size limits can be bypassed by obfuscating data as code (e.g., with OP_FALSE OP_IF), as exploited in the wild by Inscriptions in 2022 and 2023. NOTE: although this is a vulnerability from the perspective of the Bitcoin Knots project, some others consider it \"not a bug.\"",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Bitcoin Core and Bitcoin Knots Datacarrier Size Limit Bypass Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

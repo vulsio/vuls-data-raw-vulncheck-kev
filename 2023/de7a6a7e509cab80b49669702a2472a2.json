@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Sunlogin",
+	"product": "Sunloginclient",
+	"shortDescription": "A vulnerability is present in Sunloginclient that can lead to execution of arbitrary code. ",
+	"vulnerabilityName": "Sunlogin Remote Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
