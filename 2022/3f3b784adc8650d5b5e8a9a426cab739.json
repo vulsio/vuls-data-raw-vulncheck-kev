@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Credential Roaming Service Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-30170"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/apt29-windows-credential-roaming/",
+			"date_added": "2022-11-08T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-08T00:00:00Z"
+}

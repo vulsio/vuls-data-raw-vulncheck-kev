@@ -1,0 +1,19 @@
+{
+	"vendorProject": "bitcoin",
+	"product": "bitcoin_core",
+	"shortDescription": "Bitcoin Core before 24.1, when debug mode is not used, allows attackers to cause a denial of service (e.g., CPU consumption) because draining the inventory-to-send queue is inefficient, as exploited in the wild in May 2023.",
+	"vulnerabilityName": "bitcoin bitcoin_core Uncontrolled Resource Consumption",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-33297"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://x.com/123456/status/1711601593399828530",
+			"date_added": "2023-10-10T00:00:00Z"
+		}
+	],
+	"date_added": "2023-10-10T00:00:00Z"
+}

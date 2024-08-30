@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-5274"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e42c2ff2de33",
+			"xdb_url": "https://vulncheck.com/xdb/e42c2ff2de33",
+			"date_added": "2024-08-29T11:58:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2024-5274.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

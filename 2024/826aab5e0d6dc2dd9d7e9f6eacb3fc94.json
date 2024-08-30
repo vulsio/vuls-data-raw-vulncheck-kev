@@ -346,6 +346,13 @@
 			"clone_ssh_url": "git@github.com:seed1337/CVE-2024-24919-POC.git"
 		},
 		{
+			"xdb_id": "8ee8515985ca",
+			"xdb_url": "https://vulncheck.com/xdb/8ee8515985ca",
+			"date_added": "2024-08-29T12:59:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:LuisMateo1/Arbitrary-File-Read-CVE-2024-24919.git"
+		},
+		{
 			"xdb_id": "3e1daa797bf9",
 			"xdb_url": "https://vulncheck.com/xdb/3e1daa797bf9",
 			"date_added": "2024-06-01T14:46:36Z",
