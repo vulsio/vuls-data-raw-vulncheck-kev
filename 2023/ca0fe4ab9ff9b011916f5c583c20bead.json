@@ -4,7 +4,7 @@
 	"shortDescription": "Fortinet FortiOS and FortiProxy SSL-VPN contain a heap-based buffer overflow vulnerability which can allow an unauthenticated, remote attacker to execute code or commands via specifically crafted requests.",
 	"vulnerabilityName": "Fortinet FortiOS and FortiProxy SSL-VPN Heap-Based Buffer Overflow Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2023-27997"
 	],

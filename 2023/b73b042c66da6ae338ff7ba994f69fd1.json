@@ -105,6 +105,10 @@
 		{
 			"url": "https://intel471.com/blog/macos-is-increasingly-targeted-by-threat-actors",
 			"date_added": "2024-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/",
+			"date_added": "2024-08-29T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-16T00:00:00Z",

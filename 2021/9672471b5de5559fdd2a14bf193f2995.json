@@ -37,6 +37,10 @@
 		{
 			"url": "https://blog.google/threat-analysis-group/how-we-protect-users-0-day-attacks/",
 			"date_added": "2021-03-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/",
+			"date_added": "2024-08-29T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",
