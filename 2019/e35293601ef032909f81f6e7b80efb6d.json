@@ -35,6 +35,10 @@
 			"date_added": "2024-08-29T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-30&host_type=src&vulnerability=cve-2018-18852",
+			"date_added": "2024-08-30T00:00:00Z"
+		},
+		{
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18852",
 			"date_added": "2019-06-18T00:00:00Z"
 		}

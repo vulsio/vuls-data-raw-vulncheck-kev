@@ -722,6 +722,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-29&host_type=src&vulnerability=cve-2021-40870",
 			"date_added": "2024-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-30&host_type=src&vulnerability=cve-2021-40870",
+			"date_added": "2024-08-30T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-02-01T00:00:00Z",
