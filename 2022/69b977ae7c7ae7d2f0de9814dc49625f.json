@@ -402,6 +402,13 @@
 			"clone_ssh_url": "git@github.com:Al1ex/CVE-2022-1388.git"
 		},
 		{
+			"xdb_id": "de351a9eaa73",
+			"xdb_url": "https://vulncheck.com/xdb/de351a9eaa73",
+			"date_added": "2022-06-20T01:58:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-1388.git"
+		},
+		{
 			"xdb_id": "317ac291487c",
 			"xdb_url": "https://vulncheck.com/xdb/317ac291487c",
 			"date_added": "2022-05-09T17:42:31Z",

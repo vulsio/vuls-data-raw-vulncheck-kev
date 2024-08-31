@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:jam620/primefaces.git"
 		},
 		{
-			"xdb_id": "4b7fcab98a2b",
-			"xdb_url": "https://vulncheck.com/xdb/4b7fcab98a2b",
-			"date_added": "2022-09-09T23:09:40Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:oppsec/pwnfaces.git"
-		},
-		{
 			"xdb_id": "b6e923cbdccc",
 			"xdb_url": "https://vulncheck.com/xdb/b6e923cbdccc",
 			"date_added": "2018-09-03T03:11:24Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:pimps/CVE-2017-1000486.git"
+		},
+		{
+			"xdb_id": "4b7fcab98a2b",
+			"xdb_url": "https://vulncheck.com/xdb/4b7fcab98a2b",
+			"date_added": "2022-09-09T23:09:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:oppsec/pwnfaces.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -113,6 +113,10 @@
 		{
 			"url": "https://sansec.io/research/cosmicsting-hitting-major-stores",
 			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://sansec.io/research/cosmicsting-cnext-persistent-backdoor",
+			"date_added": "2024-08-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-08-07T00:00:00Z",

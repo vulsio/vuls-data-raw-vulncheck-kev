@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:MixColumns/CVE-2023-49103.git"
 		},
 		{
-			"xdb_id": "86bc597345c5",
-			"xdb_url": "https://vulncheck.com/xdb/86bc597345c5",
-			"date_added": "2023-11-22T17:00:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:creacitysec/CVE-2023-49103.git"
-		},
-		{
 			"xdb_id": "832500fb0a96",
 			"xdb_url": "https://vulncheck.com/xdb/832500fb0a96",
 			"date_added": "2024-06-27T13:46:46Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:d0rb/CVE-2023-49103.git"
+		},
+		{
+			"xdb_id": "86bc597345c5",
+			"xdb_url": "https://vulncheck.com/xdb/86bc597345c5",
+			"date_added": "2023-11-22T17:00:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:creacitysec/CVE-2023-49103.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

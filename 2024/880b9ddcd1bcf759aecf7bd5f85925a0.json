@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-7029"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8198b25db31f",
+			"xdb_url": "https://vulncheck.com/xdb/8198b25db31f",
+			"date_added": "2024-08-30T07:58:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bigherocenter/CVE-2024-7029-EXPLOIT.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.akamai.com/blog/security-research/2024-corona-mirai-botnet-infects-zero-day-sirt",
