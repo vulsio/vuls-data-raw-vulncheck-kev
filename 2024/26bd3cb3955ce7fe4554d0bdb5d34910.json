@@ -21,6 +21,10 @@
 		{
 			"url": "https://chromereleases.googleblog.com/2024/08/stable-channel-update-for-desktop_21.html",
 			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/",
+			"date_added": "2024-08-30T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-16T00:00:00Z",
