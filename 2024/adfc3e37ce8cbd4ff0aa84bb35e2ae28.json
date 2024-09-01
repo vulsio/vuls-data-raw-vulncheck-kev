@@ -199,13 +199,6 @@
 			"clone_ssh_url": "git@github.com:bibo318/CVE-2024-4577-RCE-ATTACK.git"
 		},
 		{
-			"xdb_id": "834ffcdb7324",
-			"xdb_url": "https://vulncheck.com/xdb/834ffcdb7324",
-			"date_added": "2024-06-12T04:50:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:aaddmin1122345/CVE-2024-4577-POC.git"
-		},
-		{
 			"xdb_id": "ff0f9bccbf68",
 			"xdb_url": "https://vulncheck.com/xdb/ff0f9bccbf68",
 			"date_added": "2024-07-15T21:31:14Z",
@@ -283,13 +276,6 @@
 			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
 		},
 		{
-			"xdb_id": "7ee6ed2bc73f",
-			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
-			"date_added": "2024-06-07T09:52:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "cc11323372a3",
 			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
 			"date_added": "2024-06-08T13:04:45Z",
@@ -302,6 +288,20 @@
 			"date_added": "2024-08-20T02:56:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
+		},
+		{
+			"xdb_id": "834ffcdb7324",
+			"xdb_url": "https://vulncheck.com/xdb/834ffcdb7324",
+			"date_added": "2024-06-12T04:50:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:aaddmin1122345/CVE-2024-4577-POC.git"
+		},
+		{
+			"xdb_id": "7ee6ed2bc73f",
+			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
+			"date_added": "2024-06-07T09:52:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
