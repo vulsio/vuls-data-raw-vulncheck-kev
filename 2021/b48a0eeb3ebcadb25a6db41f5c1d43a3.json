@@ -787,6 +787,10 @@
 			"date_added": "2024-08-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-31&host_type=src&vulnerability=cve-2021-1497",
+			"date_added": "2024-08-31T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild",
 			"date_added": "2021-08-06T00:00:00Z"
 		},

@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:nanabingies/CVE-2021-21551.git"
 		},
 		{
-			"xdb_id": "36f3363281a7",
-			"xdb_url": "https://vulncheck.com/xdb/36f3363281a7",
-			"date_added": "2022-06-25T11:13:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:tijme/kernel-mii.git"
-		},
-		{
 			"xdb_id": "efad29dc55a9",
 			"xdb_url": "https://vulncheck.com/xdb/efad29dc55a9",
 			"date_added": "2021-10-27T15:07:49Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:jbaines-r7/dellicious.git"
+		},
+		{
+			"xdb_id": "36f3363281a7",
+			"xdb_url": "https://vulncheck.com/xdb/36f3363281a7",
+			"date_added": "2022-06-25T11:13:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tijme/kernel-mii.git"
 		},
 		{
 			"xdb_id": "00d3994af95f",

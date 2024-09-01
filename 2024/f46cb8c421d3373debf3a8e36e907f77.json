@@ -107,6 +107,10 @@
 			"date_added": "2024-08-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-31&host_type=src&vulnerability=cve-2024-21899",
+			"date_added": "2024-08-31T00:00:00Z"
+		},
+		{
 			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
 			"date_added": "2024-05-14T00:00:00Z"
 		}

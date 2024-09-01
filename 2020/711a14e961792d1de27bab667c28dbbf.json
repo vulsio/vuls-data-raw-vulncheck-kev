@@ -101,6 +101,20 @@
 			"clone_ssh_url": "git@github.com:00theway/Ghostcat-CNVD-2020-10487.git"
 		},
 		{
+			"xdb_id": "f69eb1a05f7d",
+			"xdb_url": "https://vulncheck.com/xdb/f69eb1a05f7d",
+			"date_added": "2021-04-08T15:15:21+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:heartsk/CVE-2020-1938.git"
+		},
+		{
+			"xdb_id": "d0c6a25f782c",
+			"xdb_url": "https://vulncheck.com/xdb/d0c6a25f782c",
+			"date_added": "2020-08-07T22:00:28+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:lord__dian/Ghostcat-CNVD-2020-10487.git"
+		},
+		{
 			"xdb_id": "f17ae55010e2",
 			"xdb_url": "https://vulncheck.com/xdb/f17ae55010e2",
 			"date_added": "2020-04-14T17:56:44+08:00",
@@ -113,13 +127,6 @@
 			"date_added": "2021-07-20T16:31:02+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-1938-Tomact-file_include-file_read.git"
-		},
-		{
-			"xdb_id": "2b72da94f9cb",
-			"xdb_url": "https://vulncheck.com/xdb/2b72da94f9cb",
-			"date_added": "2020-03-17T17:05:41+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CNVD-2020-10487-Tomcat-ajp-POC.git"
 		},
 		{
 			"xdb_id": "6c2db5dec526",
@@ -136,18 +143,11 @@
 			"clone_ssh_url": "git@gitee.com:isdc_admin/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
 		},
 		{
-			"xdb_id": "f69eb1a05f7d",
-			"xdb_url": "https://vulncheck.com/xdb/f69eb1a05f7d",
-			"date_added": "2021-04-08T15:15:21+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:heartsk/CVE-2020-1938.git"
-		},
-		{
-			"xdb_id": "d0c6a25f782c",
-			"xdb_url": "https://vulncheck.com/xdb/d0c6a25f782c",
-			"date_added": "2020-08-07T22:00:28+08:00",
+			"xdb_id": "2b72da94f9cb",
+			"xdb_url": "https://vulncheck.com/xdb/2b72da94f9cb",
+			"date_added": "2020-03-17T17:05:41+08:00",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:lord__dian/Ghostcat-CNVD-2020-10487.git"
+			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CNVD-2020-10487-Tomcat-ajp-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

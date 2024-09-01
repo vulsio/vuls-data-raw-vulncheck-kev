@@ -269,18 +269,18 @@
 			"clone_ssh_url": "git@github.com:UnHackerEnCapital/PDFernetRemotelo.git"
 		},
 		{
-			"xdb_id": "78c5d047fc26",
-			"xdb_url": "https://vulncheck.com/xdb/78c5d047fc26",
-			"date_added": "2023-08-27T14:08:36Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Garck3h/cve-2023-38831.git"
-		},
-		{
 			"xdb_id": "068a817a11af",
 			"xdb_url": "https://vulncheck.com/xdb/068a817a11af",
 			"date_added": "2024-08-30T14:48:26Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:FirFirdaus/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "78c5d047fc26",
+			"xdb_url": "https://vulncheck.com/xdb/78c5d047fc26",
+			"date_added": "2023-08-27T14:08:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Garck3h/cve-2023-38831.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

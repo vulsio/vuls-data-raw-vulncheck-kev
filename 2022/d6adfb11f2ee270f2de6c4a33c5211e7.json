@@ -143,18 +143,18 @@
 			"clone_ssh_url": "git@github.com:ClickCyber/cve-2022-40684.git"
 		},
 		{
-			"xdb_id": "37fe630b4cc1",
-			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
-			"date_added": "2022-10-13T14:24:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
-		},
-		{
 			"xdb_id": "b1bf53fd758d",
 			"xdb_url": "https://vulncheck.com/xdb/b1bf53fd758d",
 			"date_added": "2022-10-28T03:46:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:hughink/CVE-2022-40684.git"
+		},
+		{
+			"xdb_id": "37fe630b4cc1",
+			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
+			"date_added": "2022-10-13T14:24:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

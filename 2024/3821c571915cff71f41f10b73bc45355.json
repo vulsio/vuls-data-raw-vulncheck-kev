@@ -113,6 +113,13 @@
 			"date_added": "2024-02-16T15:17:59Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability.git"
+		},
+		{
+			"xdb_id": "9d498f414ca6",
+			"xdb_url": "https://vulncheck.com/xdb/9d498f414ca6",
+			"date_added": "2024-08-31T13:18:43Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ThemeHackers/CVE-2024-21413.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

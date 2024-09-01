@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "65fdd8d3d854",
-			"xdb_url": "https://vulncheck.com/xdb/65fdd8d3d854",
-			"date_added": "2024-05-17T13:43:59Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:0x3f3c/CVE-2024-32640-SQLI-MuraCMS.git"
-		},
-		{
 			"xdb_id": "a8650a988da7",
 			"xdb_url": "https://vulncheck.com/xdb/a8650a988da7",
 			"date_added": "2024-06-06T08:56:34Z",
@@ -29,6 +22,13 @@
 			"date_added": "2024-05-16T01:02:32Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-32640-SQLI-MuraCMS.git"
+		},
+		{
+			"xdb_id": "984944bdf011",
+			"xdb_url": "https://vulncheck.com/xdb/984944bdf011",
+			"date_added": "2024-05-17T13:43:59Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0xYumeko/CVE-2024-32640-SQLI-MuraCMS.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

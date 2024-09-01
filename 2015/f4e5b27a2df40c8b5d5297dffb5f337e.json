@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:lieanu/CVE-2014-3153.git"
 		},
 		{
-			"xdb_id": "5a9f900eacd4",
-			"xdb_url": "https://vulncheck.com/xdb/5a9f900eacd4",
-			"date_added": "2018-09-27T03:16:15Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:dangtunguyen/TowelRoot.git"
-		},
-		{
 			"xdb_id": "406d42ee9247",
 			"xdb_url": "https://vulncheck.com/xdb/406d42ee9247",
 			"date_added": "2014-07-24T13:28:00Z",
@@ -50,6 +43,13 @@
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "5a9f900eacd4",
+			"xdb_url": "https://vulncheck.com/xdb/5a9f900eacd4",
+			"date_added": "2018-09-27T03:16:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:dangtunguyen/TowelRoot.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
