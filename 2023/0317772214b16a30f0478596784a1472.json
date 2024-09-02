@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-34621-EXPLOIT.git"
 		},
 		{
-			"xdb_id": "4c6226fb314e",
-			"xdb_url": "https://vulncheck.com/xdb/4c6226fb314e",
-			"date_added": "2023-09-30T14:36:58Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:navreet1425/CVE-2021-34621.git"
-		},
-		{
 			"xdb_id": "09724f17fb90",
 			"xdb_url": "https://vulncheck.com/xdb/09724f17fb90",
 			"date_added": "2023-08-09T11:41:56Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2021-34621.git"
+		},
+		{
+			"xdb_id": "4c6226fb314e",
+			"xdb_url": "https://vulncheck.com/xdb/4c6226fb314e",
+			"date_added": "2023-09-30T14:36:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:navreet1425/CVE-2021-34621.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
