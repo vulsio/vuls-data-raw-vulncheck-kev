@@ -319,6 +319,10 @@
 			"date_added": "2024-08-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-01&host_type=src&vulnerability=cve-2023-6634",
+			"date_added": "2024-09-01T00:00:00Z"
+		},
+		{
 			"url": "https://patchstack.com/database/vulnerability/learnpress/wordpress-learnpress-plugin-4-2-5-7-command-injection-vulnerability",
 			"date_added": "2024-01-04T00:00:00Z"
 		}

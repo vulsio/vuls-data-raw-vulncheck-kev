@@ -19,6 +19,10 @@
 			"date_added": "2024-08-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-01&host_type=src&vulnerability=cve-2013-5948",
+			"date_added": "2024-09-01T00:00:00Z"
+		},
+		{
 			"url": "https://www.bleepingcomputer.com/news/security/reverse-shell-botnet-gitpaste-12-spreads-via-github-and-pastebin/#google_vignette",
 			"date_added": "2020-11-06T00:00:00Z"
 		},

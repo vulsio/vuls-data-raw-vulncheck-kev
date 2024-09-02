@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:PR3R00T/CVE-2020-8193-Citrix-Scanner.git"
 		},
 		{
-			"xdb_id": "cf51c19c0f4e",
-			"xdb_url": "https://vulncheck.com/xdb/cf51c19c0f4e",
-			"date_added": "2020-07-10T20:00:17Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2020-8193.git"
-		},
-		{
 			"xdb_id": "2f0df8b5e020",
 			"xdb_url": "https://vulncheck.com/xdb/2f0df8b5e020",
 			"date_added": "2020-07-12T13:37:53Z",
@@ -36,6 +29,13 @@
 			"date_added": "2020-07-12T13:05:40Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Airboi/Citrix-ADC-RCE-CVE-2020-8193.git"
+		},
+		{
+			"xdb_id": "cf51c19c0f4e",
+			"xdb_url": "https://vulncheck.com/xdb/cf51c19c0f4e",
+			"date_added": "2020-07-10T20:00:17Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2020-8193.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -742,6 +742,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-29&host_type=src&vulnerability=cve-2020-8193",
 			"date_added": "2024-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-01&host_type=src&vulnerability=cve-2020-8193",
+			"date_added": "2024-09-01T00:00:00Z"
 		},
 		{
 			"url": "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-259a",

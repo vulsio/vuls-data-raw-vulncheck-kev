@@ -52,13 +52,6 @@
 			"clone_ssh_url": "git@github.com:idssgmcc/CVE-2021-36260.git"
 		},
 		{
-			"xdb_id": "c7787c78e609",
-			"xdb_url": "https://vulncheck.com/xdb/c7787c78e609",
-			"date_added": "2022-08-03T17:27:59Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Cuerz/CVE-2021-36260.git"
-		},
-		{
 			"xdb_id": "6e02def98dc1",
 			"xdb_url": "https://vulncheck.com/xdb/6e02def98dc1",
 			"date_added": "2021-11-03T08:11:49Z",
@@ -80,6 +73,13 @@
 			"clone_ssh_url": "git@github.com:Aiminsun/CVE-2021-36260.git"
 		},
 		{
+			"xdb_id": "c7787c78e609",
+			"xdb_url": "https://vulncheck.com/xdb/c7787c78e609",
+			"date_added": "2022-08-03T17:27:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Cuerz/CVE-2021-36260.git"
+		},
+		{
 			"xdb_id": "9622e9da156e",
 			"xdb_url": "https://vulncheck.com/xdb/9622e9da156e",
 			"date_added": "2021-12-08T02:51:54+08:00",
@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-36260.git"
 		},
 		{
-			"xdb_id": "df0fc9bf195c",
-			"xdb_url": "https://vulncheck.com/xdb/df0fc9bf195c",
-			"date_added": "2022-08-04T12:23:33+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
-		},
-		{
 			"xdb_id": "b03efde8723d",
 			"xdb_url": "https://vulncheck.com/xdb/b03efde8723d",
 			"date_added": "2021-12-25T11:34:20+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-36260-metasploit.git"
+		},
+		{
+			"xdb_id": "df0fc9bf195c",
+			"xdb_url": "https://vulncheck.com/xdb/df0fc9bf195c",
+			"date_added": "2022-08-04T12:23:33+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
 		},
 		{
 			"xdb_id": "bff72b5d73fa",
@@ -1092,6 +1092,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-30&host_type=src&vulnerability=cve-2021-36260",
 			"date_added": "2024-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-01&host_type=src&vulnerability=cve-2021-36260",
+			"date_added": "2024-09-01T00:00:00Z"
 		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/mirai-based-botnet-moobot-targets-hikvision-vulnerability",

@@ -59,11 +59,11 @@
 			"clone_ssh_url": "git@github.com:LongWayHomie/CVE-2017-12617.git"
 		},
 		{
-			"xdb_id": "7804de914c0c",
-			"xdb_url": "https://vulncheck.com/xdb/7804de914c0c",
-			"date_added": "2022-01-11T23:48:35+08:00",
+			"xdb_id": "0cbcf731ead7",
+			"xdb_url": "https://vulncheck.com/xdb/0cbcf731ead7",
+			"date_added": "2021-04-16T21:31:45+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_cyberheartmi9/CVE-2017-12617.git"
+			"clone_ssh_url": "git@gitee.com:xuyeyou/CVE-2017-12617.git"
 		},
 		{
 			"xdb_id": "c733f0b8ba46",
@@ -73,11 +73,11 @@
 			"clone_ssh_url": "git@gitee.com:yaogodv/CVE-2017-12617.git"
 		},
 		{
-			"xdb_id": "0cbcf731ead7",
-			"xdb_url": "https://vulncheck.com/xdb/0cbcf731ead7",
-			"date_added": "2021-04-16T21:31:45+08:00",
+			"xdb_id": "7804de914c0c",
+			"xdb_url": "https://vulncheck.com/xdb/7804de914c0c",
+			"date_added": "2022-01-11T23:48:35+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xuyeyou/CVE-2017-12617.git"
+			"clone_ssh_url": "git@gitee.com:mirrors_cyberheartmi9/CVE-2017-12617.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

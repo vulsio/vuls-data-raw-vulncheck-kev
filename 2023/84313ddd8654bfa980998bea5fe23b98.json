@@ -115,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:BronzeBee/cve-2023-23397.git"
 		},
 		{
-			"xdb_id": "205fe7e2ef61",
-			"xdb_url": "https://vulncheck.com/xdb/205fe7e2ef61",
-			"date_added": "2023-03-15T17:03:38Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY.git"
-		},
-		{
 			"xdb_id": "d81f13d3b637",
 			"xdb_url": "https://vulncheck.com/xdb/d81f13d3b637",
 			"date_added": "2023-03-16T19:43:39Z",
@@ -141,6 +134,13 @@
 			"date_added": "2023-03-20T16:31:54Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Trackflaw/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "205fe7e2ef61",
+			"xdb_url": "https://vulncheck.com/xdb/205fe7e2ef61",
+			"date_added": "2023-03-15T17:03:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY.git"
 		},
 		{
 			"xdb_id": "fe69ab5a1930",
