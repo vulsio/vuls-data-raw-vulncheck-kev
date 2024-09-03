@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Kingsoft",
+	"product": "WPS Office",
+	"shortDescription": "Kingsoft WPS Office contains a path traversal vulnerability in promecefpluginhost.exe on Windows that allows an attacker to load an arbitrary Windows library.",
+	"vulnerabilityName": "Kingsoft WPS Office Path Traversal Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-7262"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/",
+			"date_added": "2024-08-28T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-09-24T00:00:00Z",
+	"cisa_date_added": "2024-09-03T00:00:00Z",
+	"date_added": "2024-08-28T00:00:00Z"
+}

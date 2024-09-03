@@ -49,6 +49,10 @@
 		{
 			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
 			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/2024h1-threat-review/",
+			"date_added": "2024-08-29T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-08-13T00:00:00Z",

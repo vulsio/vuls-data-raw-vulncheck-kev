@@ -2,7 +2,7 @@
 	"vendorProject": "Linux",
 	"product": "Kernel",
 	"shortDescription": "Linux kernel contains a heap-based buffer overflow vulnerability in the legacy_parse_param function in the Filesystem Context functionality. This allows an attacker to open a filesystem that does not support the Filesystem Context API and ultimately escalate privileges.",
-	"vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow",
+	"vulnerabilityName": "Linux Kernel Heap-Based Buffer Overflow Vulnerability",
 	"required_action": "Apply updates per vendor instructions or discontinue use of the product if updates are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
