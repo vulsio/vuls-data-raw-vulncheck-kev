@@ -269,6 +269,10 @@
 			"date_added": "2024-08-21T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-02&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
 			"url": "https://www.reddit.com/r/crowdstrike/comments/1c88788/situational_awareness_20240419_crushftp_virtual/",
 			"date_added": "2024-04-19T00:00:00Z"
 		},

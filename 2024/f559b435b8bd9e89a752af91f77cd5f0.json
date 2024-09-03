@@ -742,6 +742,10 @@
 			"date_added": "2024-08-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-02&host_type=src&vulnerability=cve-2024-23897",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/24/c/cve-2024-23897.html",
 			"date_added": "2024-03-19T00:00:00Z"
 		},

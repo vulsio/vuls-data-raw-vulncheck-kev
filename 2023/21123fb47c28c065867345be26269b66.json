@@ -375,6 +375,10 @@
 			"date_added": "2024-08-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-02&host_type=src&vulnerability=cve-2023-34133",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
 			"date_added": "2024-05-06T00:00:00Z"
 		}
