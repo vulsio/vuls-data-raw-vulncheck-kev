@@ -199,13 +199,6 @@
 			"clone_ssh_url": "git@github.com:xaitax/WinRAR-CVE-2023-38831.git"
 		},
 		{
-			"xdb_id": "13a6362b2a83",
-			"xdb_url": "https://vulncheck.com/xdb/13a6362b2a83",
-			"date_added": "2023-08-30T11:52:23Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:z3r0sw0rd/CVE-2023-38831-PoC.git"
-		},
-		{
 			"xdb_id": "e71319d3a28f",
 			"xdb_url": "https://vulncheck.com/xdb/e71319d3a28f",
 			"date_added": "2024-06-17T07:30:47Z",
@@ -281,6 +274,13 @@
 			"date_added": "2023-09-03T14:03:45Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:K3rnel-Dev/WinrarExploit.git"
+		},
+		{
+			"xdb_id": "13a6362b2a83",
+			"xdb_url": "https://vulncheck.com/xdb/13a6362b2a83",
+			"date_added": "2023-08-30T11:52:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:z3r0sw0rd/CVE-2023-38831-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -503,6 +503,10 @@
 		{
 			"url": "https://ti.qianxin.com/uploads/2024/08/19/2274f632f6a1d8acd2f1801c24887edb.pdf",
 			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/head-mare-hacktivists/113555/",
+			"date_added": "2024-09-02T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-09-14T00:00:00Z",

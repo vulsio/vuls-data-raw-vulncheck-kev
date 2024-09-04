@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:C1ph3rX13/CVE-2023-22527.git"
 		},
 		{
-			"xdb_id": "0d89d6d2a198",
-			"xdb_url": "https://vulncheck.com/xdb/0d89d6d2a198",
-			"date_added": "2024-01-23T08:06:15Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Vozec/CVE-2023-22527.git"
-		},
-		{
 			"xdb_id": "2868521052d3",
 			"xdb_url": "https://vulncheck.com/xdb/2868521052d3",
 			"date_added": "2024-01-25T10:52:39Z",
@@ -92,13 +85,6 @@
 			"date_added": "2024-01-24T21:29:59Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Privia-Security/CVE-2023-22527.git"
-		},
-		{
-			"xdb_id": "e16ed61a4005",
-			"xdb_url": "https://vulncheck.com/xdb/e16ed61a4005",
-			"date_added": "2024-01-23T02:17:36Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Manh130902/CVE-2023-22527-POC.git"
 		},
 		{
 			"xdb_id": "a3677d9bae7f",
@@ -148,6 +134,20 @@
 			"date_added": "2024-02-11T16:46:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Boogipop/CVE-2023-22527-Godzilla-MEMSHELL.git"
+		},
+		{
+			"xdb_id": "0d89d6d2a198",
+			"xdb_url": "https://vulncheck.com/xdb/0d89d6d2a198",
+			"date_added": "2024-01-23T08:06:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Vozec/CVE-2023-22527.git"
+		},
+		{
+			"xdb_id": "e16ed61a4005",
+			"xdb_url": "https://vulncheck.com/xdb/e16ed61a4005",
+			"date_added": "2024-01-23T02:17:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Manh130902/CVE-2023-22527-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
