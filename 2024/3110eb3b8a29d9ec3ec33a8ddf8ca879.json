@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-51467.git"
 		},
 		{
-			"xdb_id": "355ce5e718a7",
-			"xdb_url": "https://vulncheck.com/xdb/355ce5e718a7",
-			"date_added": "2023-12-29T15:01:46Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-51467.git"
-		},
-		{
 			"xdb_id": "a3f78da54b9a",
 			"xdb_url": "https://vulncheck.com/xdb/a3f78da54b9a",
 			"date_added": "2023-12-29T17:47:54Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2023-51467-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "355ce5e718a7",
+			"xdb_url": "https://vulncheck.com/xdb/355ce5e718a7",
+			"date_added": "2023-12-29T15:01:46Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-51467.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

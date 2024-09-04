@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:Lucaskrell/go_follina.git"
 		},
 		{
-			"xdb_id": "1b8342efad20",
-			"xdb_url": "https://vulncheck.com/xdb/1b8342efad20",
-			"date_added": "2023-11-28T03:47:32Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Jump-Wang-111/AmzWord.git"
-		},
-		{
 			"xdb_id": "15bf7cdea333",
 			"xdb_url": "https://vulncheck.com/xdb/15bf7cdea333",
 			"date_added": "2022-06-02T16:14:13Z",
@@ -197,6 +190,13 @@
 			"date_added": "2022-06-02T12:33:18Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:komomon/CVE-2022-30190-follina-Office-MSDT-Fixed.git"
+		},
+		{
+			"xdb_id": "1b8342efad20",
+			"xdb_url": "https://vulncheck.com/xdb/1b8342efad20",
+			"date_added": "2023-11-28T03:47:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Jump-Wang-111/AmzWord.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
