@@ -1015,6 +1015,10 @@
 			"date_added": "2024-09-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-03&host_type=src&vulnerability=cve-2023-35081",
+			"date_added": "2024-09-03T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/alerts/2023/07/28/ivanti-releases-security-updates-epmm-address-cve-2023-35081",
 			"date_added": "2023-07-28T00:00:00Z"
 		},
