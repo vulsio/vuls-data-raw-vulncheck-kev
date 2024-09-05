@@ -33,6 +33,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.zscaler.com/blogs/security-research/dreambus-botnet-technical-analysis",
+			"date_added": "2021-01-22T00:00:00Z"
+		},
+		{
 			"url": "https://cujo.com/the-sysrv-botnet-and-how-it-evolved/",
 			"date_added": "2021-09-22T00:00:00Z"
 		},
@@ -45,5 +49,5 @@
 			"date_added": "2024-05-14T00:00:00Z"
 		}
 	],
-	"date_added": "2021-09-22T00:00:00Z"
+	"date_added": "2021-01-22T00:00:00Z"
 }
