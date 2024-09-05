@@ -136,13 +136,6 @@
 			"clone_ssh_url": "git@github.com:charis3306/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "1287f9a713c6",
-			"xdb_url": "https://vulncheck.com/xdb/1287f9a713c6",
-			"date_added": "2024-06-08T05:27:44Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:manuelinfosec/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "aa3899b675a4",
 			"xdb_url": "https://vulncheck.com/xdb/aa3899b675a4",
 			"date_added": "2024-06-07T20:10:49Z",
@@ -241,13 +234,6 @@
 			"clone_ssh_url": "git@github.com:VictorShem/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "acfef3dab7ab",
-			"xdb_url": "https://vulncheck.com/xdb/acfef3dab7ab",
-			"date_added": "2024-06-08T12:23:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
-		},
-		{
 			"xdb_id": "5467e9a9f0fa",
 			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
 			"date_added": "2024-08-20T02:56:03Z",
@@ -267,13 +253,6 @@
 			"date_added": "2023-01-13T08:18:15Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0xPugal/my-nuclei-templates.git"
-		},
-		{
-			"xdb_id": "7ee6ed2bc73f",
-			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
-			"date_added": "2024-06-07T09:52:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		},
 		{
 			"xdb_id": "5d24a3878ae0",
@@ -302,6 +281,27 @@
 			"date_added": "2024-06-08T13:04:45Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
+		},
+		{
+			"xdb_id": "7ee6ed2bc73f",
+			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
+			"date_added": "2024-06-07T09:52:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "1287f9a713c6",
+			"xdb_url": "https://vulncheck.com/xdb/1287f9a713c6",
+			"date_added": "2024-06-08T05:27:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:manuelinfosec/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "acfef3dab7ab",
+			"xdb_url": "https://vulncheck.com/xdb/acfef3dab7ab",
+			"date_added": "2024-06-08T12:23:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

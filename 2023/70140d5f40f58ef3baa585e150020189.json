@@ -633,6 +633,10 @@
 			"date_added": "2024-08-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2023-38035",
+			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.bitdefender.com/blog/businessinsights/cactus-analyzing-a-coordinated-ransomware-attack-on-corporate-networks/",
 			"date_added": "2024-02-28T00:00:00Z"
 		},

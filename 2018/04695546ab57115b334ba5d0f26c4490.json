@@ -1139,6 +1139,10 @@
 			"date_added": "2024-09-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2016-6277",
+			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/18/g/vpnfilter-affected-devices-still-riddled-with-19-vulnerabilities.html",
 			"date_added": "2018-07-13T00:00:00Z"
 		},

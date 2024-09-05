@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-09-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2021-20123",
+			"date_added": "2024-09-04T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-24T00:00:00Z",

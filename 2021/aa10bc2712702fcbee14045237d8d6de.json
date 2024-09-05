@@ -930,6 +930,10 @@
 			"date_added": "2024-09-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2020-3452",
+			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
 			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
 			"date_added": "2023-12-07T00:00:00Z"
 		},

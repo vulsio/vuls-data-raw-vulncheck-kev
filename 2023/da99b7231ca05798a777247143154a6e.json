@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:jakabakos/Apache-OFBiz-Authentication-Bypass.git"
 		},
 		{
-			"xdb_id": "6548bd971583",
-			"xdb_url": "https://vulncheck.com/xdb/6548bd971583",
-			"date_added": "2024-01-06T04:07:07Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:JaneMandy/CVE-2023-51467-Exploit.git"
-		},
-		{
 			"xdb_id": "344e23f32c76",
 			"xdb_url": "https://vulncheck.com/xdb/344e23f32c76",
 			"date_added": "2023-12-14T09:32:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC.git"
+		},
+		{
+			"xdb_id": "6548bd971583",
+			"xdb_url": "https://vulncheck.com/xdb/6548bd971583",
+			"date_added": "2024-01-06T04:07:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JaneMandy/CVE-2023-51467-Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
