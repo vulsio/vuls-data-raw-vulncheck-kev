@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:SirBugs/CVE-2023-24488-PoC.git"
 		},
 		{
-			"xdb_id": "17a6c973be2b",
-			"xdb_url": "https://vulncheck.com/xdb/17a6c973be2b",
-			"date_added": "2023-07-01T23:36:08Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:k00kx/CVE-2023-24488.git"
-		},
-		{
 			"xdb_id": "8612b657873d",
 			"xdb_url": "https://vulncheck.com/xdb/8612b657873d",
 			"date_added": "2021-02-12T14:43:41Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:xalgord/My-Methodologies.git"
+		},
+		{
+			"xdb_id": "17a6c973be2b",
+			"xdb_url": "https://vulncheck.com/xdb/17a6c973be2b",
+			"date_added": "2023-07-01T23:36:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:k00kx/CVE-2023-24488.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
