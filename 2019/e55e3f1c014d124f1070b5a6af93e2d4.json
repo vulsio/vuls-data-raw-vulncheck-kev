@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "06ea94b0dfdc",
-			"xdb_url": "https://vulncheck.com/xdb/06ea94b0dfdc",
-			"date_added": "2019-09-29T07:08:52Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2019-11708.git"
-		},
-		{
 			"xdb_id": "5cf17684b0a0",
 			"xdb_url": "https://vulncheck.com/xdb/5cf17684b0a0",
 			"date_added": "2021-09-08T14:38:42Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Sp0pielar/CVE-2019-9791.git"
+		},
+		{
+			"xdb_id": "06ea94b0dfdc",
+			"xdb_url": "https://vulncheck.com/xdb/06ea94b0dfdc",
+			"date_added": "2019-09-29T07:08:52Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2019-11708.git"
 		},
 		{
 			"xdb_id": "be2e1d3c8a14",

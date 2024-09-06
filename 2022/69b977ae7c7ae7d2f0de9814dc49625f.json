@@ -339,13 +339,6 @@
 			"clone_ssh_url": "git@github.com:ZephrFish/F5-CVE-2022-1388-Exploit.git"
 		},
 		{
-			"xdb_id": "8bb60772cff1",
-			"xdb_url": "https://vulncheck.com/xdb/8bb60772cff1",
-			"date_added": "2022-05-09T07:39:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sherlocksecurity/CVE-2022-1388_F5_BIG-IP.git"
-		},
-		{
 			"xdb_id": "089a0ce1c93a",
 			"xdb_url": "https://vulncheck.com/xdb/089a0ce1c93a",
 			"date_added": "2022-05-10T04:44:05Z",
@@ -407,6 +400,13 @@
 			"date_added": "2022-06-20T01:58:40Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-1388.git"
+		},
+		{
+			"xdb_id": "8bb60772cff1",
+			"xdb_url": "https://vulncheck.com/xdb/8bb60772cff1",
+			"date_added": "2022-05-09T07:39:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sherlocksecurity/CVE-2022-1388_F5_BIG-IP.git"
 		},
 		{
 			"xdb_id": "317ac291487c",

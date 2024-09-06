@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-30051"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c536913486a8",
+			"xdb_url": "https://vulncheck.com/xdb/c536913486a8",
+			"date_added": "2024-08-14T16:20:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:fortra/CVE-2024-30051.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
