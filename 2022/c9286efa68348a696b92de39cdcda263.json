@@ -79,8 +79,20 @@
 			"date_added": "2022-12-01T00:00:00Z"
 		},
 		{
+			"url": "https://www.aquasec.com/blog/redigo-redis-backdoor-malware/",
+			"date_added": "2022-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.aquasec.com/blog/headcrab-attacks-servers-worldwide-with-novel-state-of-art-redis-malware/",
+			"date_added": "2023-02-01T00:00:00Z"
+		},
+		{
 			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
 			"date_added": "2023-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.cadosecurity.com/blog/redis-p2pinfect",
+			"date_added": "2023-07-31T00:00:00Z"
 		},
 		{
 			"url": "https://14518100.fs1.hubspotusercontent-na1.net/hubfs/14518100/H2%202023%20Cloud%20Threat%20Findings%20Report.pdf",

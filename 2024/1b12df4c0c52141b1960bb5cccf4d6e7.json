@@ -239,6 +239,10 @@
 		{
 			"url": "https://isc.sans.edu/diary/A%20Survey%20of%20Scans%20for%20GeoServer%20Vulnerabilities/31148",
 			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401",
+			"date_added": "2024-09-05T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-08-05T00:00:00Z",

@@ -1501,6 +1501,14 @@
 			"date_added": "2022-06-02T00:00:00Z"
 		},
 		{
+			"url": "https://www.aquasec.com/blog/8220-gang-confluence-vulnerability-cve-2022-26134/",
+			"date_added": "2022-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/36820/",
+			"date_added": "2022-07-15T00:00:00Z"
+		},
+		{
 			"url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv",
 			"date_added": "2022-11-07T00:00:00Z"
 		},
@@ -1581,8 +1589,16 @@
 			"date_added": "2024-02-22T00:00:00Z"
 		},
 		{
+			"url": "https://www.uptycs.com/blog/threat-research-report-team/8220-gang-cryptomining-cloud-based-infrastructure-cyber-threat",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
 			"url": "https://isc.sans.edu/diary/Scanning%20for%20Confluence%20CVE-2022-26134/30704",
 			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.cadosecurity.com/blog/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence",
+			"date_added": "2024-03-06T00:00:00Z"
 		},
 		{
 			"url": "https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/",

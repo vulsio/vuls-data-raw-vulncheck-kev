@@ -1300,6 +1300,10 @@
 			"date_added": "2022-03-06T00:00:00Z"
 		},
 		{
+			"url": "https://news.sophos.com/en-us/2022/03/29/horde-of-miner-bots-and-backdoors-leveraged-log4j-to-attack-vmware-horizon-servers/",
+			"date_added": "2022-03-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",
 			"date_added": "2022-04-26T00:00:00Z"
 		},
@@ -1310,6 +1314,10 @@
 		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
 			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/36820/",
+			"date_added": "2022-07-15T00:00:00Z"
 		},
 		{
 			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-279a",

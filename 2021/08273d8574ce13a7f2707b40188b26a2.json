@@ -388,13 +388,6 @@
 			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
 		},
 		{
-			"xdb_id": "a57024d99795",
-			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
-			"date_added": "2021-12-13T14:39:20+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
-		},
-		{
 			"xdb_id": "d3b4139ec745",
 			"xdb_url": "https://vulncheck.com/xdb/d3b4139ec745",
 			"date_added": "2021-12-23T18:43:45+08:00",
@@ -407,6 +400,13 @@
 			"date_added": "2021-12-12T21:06:59+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:huzpsb/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "a57024d99795",
+			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
+			"date_added": "2021-12-13T14:39:20+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
 		},
 		{
 			"xdb_id": "94dd05cb788b",
@@ -1926,6 +1926,10 @@
 			"date_added": "2023-04-18T00:00:00Z"
 		},
 		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/unit42-cloud-threat-report-volume7.pdf",
+			"date_added": "2023-04-18T00:00:00Z"
+		},
+		{
 			"url": "https://asec.ahnlab.com/en/51568/",
 			"date_added": "2023-04-21T00:00:00Z"
 		},
@@ -1968,6 +1972,10 @@
 		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-250a",
 			"date_added": "2023-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
+			"date_added": "2023-09-20T00:00:00Z"
 		},
 		{
 			"url": "https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html",
@@ -2023,6 +2031,10 @@
 		},
 		{
 			"url": "https://www.uptycs.com/blog/8220-gang-cryptomining-cloud-based-infrastructure-cyber-threat",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.uptycs.com/blog/threat-research-report-team/8220-gang-cryptomining-cloud-based-infrastructure-cyber-threat",
 			"date_added": "2024-02-22T00:00:00Z"
 		},
 		{
