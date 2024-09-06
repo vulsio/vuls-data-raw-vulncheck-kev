@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Liquid Web",
+	"product": "GiveWP",
+	"shortDescription": "Deserialization of Untrusted Data vulnerability in Liquid Web GiveWP allows Object Injection.This issue affects GiveWP: from n/a through 3.14.1.",
+	"vulnerabilityName": "Liquid Web GiveWP Object Injection Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -2,7 +2,7 @@
 	"vendorProject": "Jenkins",
 	"product": "script_security",
 	"shortDescription": "A sandbox bypass vulnerability exists in Script Security Plugin 1.49 and earlier in src/main/java/org/jenkinsci/plugins/scriptsecurity/sandbox/groovy/GroovySandbox.java that allows attackers with the ability to provide sandboxed scripts to execute arbitrary code on the Jenkins master JVM.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Script Security Plugin Sandboxed Script Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
