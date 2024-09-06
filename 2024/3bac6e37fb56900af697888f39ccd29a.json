@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/56500",
+			"date_added": "2024-08-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-11T00:00:00Z",

@@ -11,9 +11,13 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-",
+			"date_added": "2019-02-21T00:00:00Z"
+		},
+		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-march-2019",
 			"date_added": "2019-04-09T00:00:00Z"
 		}
 	],
-	"date_added": "2019-04-09T00:00:00Z"
+	"date_added": "2019-02-21T00:00:00Z"
 }

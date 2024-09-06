@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:xem6/CVE-2022-4262.git"
 		},
 		{
-			"xdb_id": "0ab67251faee",
-			"xdb_url": "https://vulncheck.com/xdb/0ab67251faee",
-			"date_added": "2024-01-24T11:58:54Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2022-4262.git"
-		},
-		{
 			"xdb_id": "39379e9096d7",
 			"xdb_url": "https://vulncheck.com/xdb/39379e9096d7",
 			"date_added": "2023-07-13T13:17:20Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:bjrjk/CVE-2022-4262.git"
+		},
+		{
+			"xdb_id": "0ab67251faee",
+			"xdb_url": "https://vulncheck.com/xdb/0ab67251faee",
+			"date_added": "2024-01-24T11:58:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2022-4262.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1234,8 +1234,16 @@
 			"date_added": "2019-08-19T00:00:00Z"
 		},
 		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019",
+			"date_added": "2019-12-24T00:00:00Z"
+		},
+		{
 			"url": "https://blog.sonicwall.com/en-us/2019/12/top-cves-exploited-in-the-wild-in-the-year-2019/",
 			"date_added": "2019-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-december-2019",
+			"date_added": "2020-01-31T00:00:00Z"
 		},
 		{
 			"url": "https://www.mandiant.com/resources/apt41-initiates-global-intrusion-campaign-using-multiple-exploits",

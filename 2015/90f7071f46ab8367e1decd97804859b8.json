@@ -20,10 +20,14 @@
 		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
-			"date_added": "2023-10-09T00:00:00Z"
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://malware.dontneedcoffee.com/2015/05/an-exploit-kit-dedicated-to-csrf.html",
+			"date_added": "2015-05-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-15T00:00:00Z",
 	"cisa_date_added": "2022-03-25T00:00:00Z",
-	"date_added": "2020-10-14T00:00:00Z"
+	"date_added": "2015-05-22T00:00:00Z"
 }

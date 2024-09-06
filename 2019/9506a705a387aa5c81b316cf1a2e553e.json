@@ -140,6 +140,14 @@
 			"date_added": "2022-03-25T00:00:00Z"
 		},
 		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019",
+			"date_added": "2019-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-december-2019",
+			"date_added": "2020-01-31T00:00:00Z"
+		},
+		{
 			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
 			"date_added": "2023-12-18T00:00:00Z"
 		},
@@ -154,5 +162,5 @@
 	],
 	"dueDate": "2022-04-15T00:00:00Z",
 	"cisa_date_added": "2022-03-25T00:00:00Z",
-	"date_added": "2022-03-25T00:00:00Z"
+	"date_added": "2019-12-24T00:00:00Z"
 }

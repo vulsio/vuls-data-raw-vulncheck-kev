@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2020-0688_EXP.git"
 		},
 		{
-			"xdb_id": "7f793deb1114",
-			"xdb_url": "https://vulncheck.com/xdb/7f793deb1114",
-			"date_added": "2020-03-07T16:13:30+08:00",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@gitee.com:kevin66654/Exchange-EXP-CVE-2020-0688.git"
-		},
-		{
 			"xdb_id": "05c78c55c273",
 			"xdb_url": "https://vulncheck.com/xdb/05c78c55c273",
 			"date_added": "2022-01-11T23:35:51+08:00",
@@ -106,6 +99,13 @@
 			"date_added": "2020-10-09T13:12:20+08:00",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-0688_EXP.git"
+		},
+		{
+			"xdb_id": "7f793deb1114",
+			"xdb_url": "https://vulncheck.com/xdb/7f793deb1114",
+			"date_added": "2020-03-07T16:13:30+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:kevin66654/Exchange-EXP-CVE-2020-0688.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -124,6 +124,10 @@
 		{
 			"url": "https://cdn.pathfactory.com/assets/10753/contents/298161/03f15d14-01bb-462b-a8d4-d8c6149f5604.pdf",
 			"date_added": "2021-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
+			"date_added": "2022-03-24T00:00:00Z"
 		},
 		{
 			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",

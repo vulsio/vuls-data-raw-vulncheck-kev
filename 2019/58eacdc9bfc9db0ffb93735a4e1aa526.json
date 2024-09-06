@@ -1,0 +1,19 @@
+{
+	"vendorProject": "maccms",
+	"product": "maccms",
+	"shortDescription": "Maccms 8.x allows remote command execution via the wd parameter in an index.php?m=vod-search request.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-17733"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019",
+			"date_added": "2019-12-24T00:00:00Z"
+		}
+	],
+	"date_added": "2019-12-24T00:00:00Z"
+}

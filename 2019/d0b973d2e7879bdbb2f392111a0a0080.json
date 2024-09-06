@@ -864,6 +864,14 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-march-2019",
 			"date_added": "2019-04-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-july-2019",
+			"date_added": "2019-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-december-2019",
+			"date_added": "2020-01-31T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-15T00:00:00Z",

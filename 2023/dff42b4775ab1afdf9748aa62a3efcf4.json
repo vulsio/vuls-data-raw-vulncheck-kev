@@ -1,27 +1,19 @@
 {
 	"vendorProject": "totolink",
 	"product": "a860r_firmware",
-	"shortDescription": "TOTOLink A860R V4.1.2cu.5182_B20201027 was discovered to contain a command injection vulnerability in the \"Main\" function. This vulnerability allows attackers to execute arbitrary commands via the QUERY_STRING parameter.",
+	"shortDescription": "TOTOLINK A860R V4.1.2cu.5182_B20201027 was discovered to contain a command injection via the component /cgi-bin/downloadFile.cgi.",
 	"vulnerabilityName": "totolink a860r_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-25083"
+		"CVE-2022-40475"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
-			"date_added": "2022-04-01T00:00:00Z"
-		},
-		{
-			"url": "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet",
-			"date_added": "2022-04-12T00:00:00Z"
-		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
 			"date_added": "2023-10-09T00:00:00Z"
 		}
 	],
-	"date_added": "2022-04-01T00:00:00Z"
+	"date_added": "2023-10-09T00:00:00Z"
 }

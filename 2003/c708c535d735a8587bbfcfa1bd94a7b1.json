@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Integer overflow in the do_brk function for the brk system call in Linux kernel 2.4.22 and earlier allows local users to gain root privileges.",
+	"vulnerabilityName": "Linux Kernel Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2003-0961"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://access.redhat.com/errata/RHSA-2003:368",
+			"date_added": "2003-12-19T00:00:00Z"
+		}
+	],
+	"date_added": "2003-12-19T00:00:00Z"
+}
