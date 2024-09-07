@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:aels/CVE-2022-2586-LPE.git"
 		},
 		{
-			"xdb_id": "6feeb109d166",
-			"xdb_url": "https://vulncheck.com/xdb/6feeb109d166",
-			"date_added": "2022-08-22T23:08:40Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:greek0x0/2022-LPE-UAF.git"
-		},
-		{
 			"xdb_id": "174eaee64a01",
 			"xdb_url": "https://vulncheck.com/xdb/174eaee64a01",
 			"date_added": "2022-11-06T07:34:32Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:sniper404ghostxploit/CVE-2022-2586.git"
+		},
+		{
+			"xdb_id": "6feeb109d166",
+			"xdb_url": "https://vulncheck.com/xdb/6feeb109d166",
+			"date_added": "2022-08-22T23:08:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:greek0x0/2022-LPE-UAF.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

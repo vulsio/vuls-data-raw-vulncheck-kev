@@ -129,6 +129,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2023-41109",
 			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-06&host_type=src&vulnerability=cve-2023-41109",
+			"date_added": "2024-09-06T00:00:00Z"
 		}
 	],
 	"date_added": "2024-06-22T00:00:00Z"

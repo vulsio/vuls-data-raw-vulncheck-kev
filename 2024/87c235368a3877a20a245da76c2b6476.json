@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "virtual_traffic_management",
+	"shortDescription": "Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2 allows a remote unauthenticated attacker to bypass authentication of the admin panel.",
+	"vulnerabilityName": "Ivanti virtual_traffic_management Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-7593"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-06&host_type=src&vulnerability=cve-2024-7593",
+			"date_added": "2024-09-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-06T00:00:00Z"
+}

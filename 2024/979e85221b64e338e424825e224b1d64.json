@@ -1,0 +1,48 @@
+{
+	"vendorProject": "voipmonitor",
+	"product": "voipmonitor",
+	"shortDescription": "A remote code execution issue was discovered in the web UI of VoIPmonitor before 24.61. When the recheck option is used, the user-supplied SPOOLDIR value (which might contain PHP code) is injected into config/configuration.php.",
+	"vulnerabilityName": "voipmonitor voipmonitor Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30461"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9457822ce294",
+			"xdb_url": "https://vulncheck.com/xdb/9457822ce294",
+			"date_added": "2021-07-14T19:20:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2021-30461.git"
+		},
+		{
+			"xdb_id": "54690a04a3bd",
+			"xdb_url": "https://vulncheck.com/xdb/54690a04a3bd",
+			"date_added": "2021-05-07T09:22:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Vulnmachines/CVE-2021-30461.git"
+		},
+		{
+			"xdb_id": "6d44f4348f4d",
+			"xdb_url": "https://vulncheck.com/xdb/6d44f4348f4d",
+			"date_added": "2021-05-11T04:09:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Al1ex/CVE-2021-30461.git"
+		},
+		{
+			"xdb_id": "ef8a8fe7e142",
+			"xdb_url": "https://vulncheck.com/xdb/ef8a8fe7e142",
+			"date_added": "2021-05-06T22:50:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:daedalus/CVE-2021-30461.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-06&host_type=src&vulnerability=cve-2021-30461",
+			"date_added": "2024-09-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-06T00:00:00Z"
+}
