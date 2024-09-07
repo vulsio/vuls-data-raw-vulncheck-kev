@@ -1,0 +1,19 @@
+{
+	"vendorProject": "yandex",
+	"product": "yandex_browser",
+	"shortDescription": "Yandex Browser for Desktop before 24.7.1.380 has a DLL Hijacking Vulnerability because an untrusted search path is used.",
+	"vulnerabilityName": "yandex yandex_browser Untrusted Search Path",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-6473"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://st.drweb.com/static/new-www/news/2024/september/Study_of_a_targeted_attack_on_a_Russian_rail_freight_operator_en.pdf",
+			"date_added": "2024-09-03T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-03T00:00:00Z"
+}

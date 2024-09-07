@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "sql_server",
+	"shortDescription": "A remote code execution vulnerability exists in Microsoft SQL Server when it incorrectly handles processing of internal functions, aka 'Microsoft SQL Server Remote Code Execution Vulnerability'.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-1068"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "cb644b465351",
+			"xdb_url": "https://vulncheck.com/xdb/cb644b465351",
+			"date_added": "2021-02-04T21:40:56Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Vulnerability-Playground/CVE-2019-1068.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/mallox-ransomware/113529/",
+			"date_added": "2024-09-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-04T00:00:00Z"
+}
