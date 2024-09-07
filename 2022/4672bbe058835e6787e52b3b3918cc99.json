@@ -1627,6 +1627,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
 			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-249a",
+			"date_added": "2024-09-05T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-06T00:00:00Z",
