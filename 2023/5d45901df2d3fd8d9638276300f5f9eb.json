@@ -111,6 +111,10 @@
 			"date_added": "2024-09-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-07&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-09-07T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/mirai-variant-v3g4/",
 			"date_added": "2023-02-15T00:00:00Z"
 		},

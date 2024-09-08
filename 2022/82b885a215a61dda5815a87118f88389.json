@@ -108,6 +108,13 @@
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		},
 		{
+			"xdb_id": "2ab470a88220",
+			"xdb_url": "https://vulncheck.com/xdb/2ab470a88220",
+			"date_added": "2021-11-21T14:01:02+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3493.git"
+		},
+		{
 			"xdb_id": "165ca931536b",
 			"xdb_url": "https://vulncheck.com/xdb/165ca931536b",
 			"date_added": "2021-10-28T21:22:22+08:00",
@@ -134,13 +141,6 @@
 			"date_added": "2021-11-21T18:31:44+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/cve-2021-3493-2.git"
-		},
-		{
-			"xdb_id": "2ab470a88220",
-			"xdb_url": "https://vulncheck.com/xdb/2ab470a88220",
-			"date_added": "2021-11-21T14:01:02+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3493.git"
 		},
 		{
 			"xdb_id": "586ebe33df5f",

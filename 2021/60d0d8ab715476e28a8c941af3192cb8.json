@@ -526,6 +526,10 @@
 			"date_added": "2024-09-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-07&host_type=src&vulnerability=cve-2021-22005",
+			"date_added": "2024-09-07T00:00:00Z"
+		},
+		{
 			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
 			"date_added": "2022-03-24T00:00:00Z"
 		},
