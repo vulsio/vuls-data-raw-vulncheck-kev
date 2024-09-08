@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "4987580c0d13",
-			"xdb_url": "https://vulncheck.com/xdb/4987580c0d13",
-			"date_added": "2024-06-12T13:53:32Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2024-29824.git"
-		},
-		{
 			"xdb_id": "8d6a9418e9bf",
 			"xdb_url": "https://vulncheck.com/xdb/8d6a9418e9bf",
 			"date_added": "2024-06-18T09:07:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:R4be1/CVE-2024-29824.git"
+		},
+		{
+			"xdb_id": "4987580c0d13",
+			"xdb_url": "https://vulncheck.com/xdb/4987580c0d13",
+			"date_added": "2024-06-12T13:53:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2024-29824.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
