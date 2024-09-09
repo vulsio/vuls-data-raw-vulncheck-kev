@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "<code>NSSToken</code> objects were referenced via direct points, and could have been accessed in an unsafe way on different threads, leading to a use-after-free and potentially exploitable crash. This vulnerability affects Thunderbird < 91.8, Firefox < 99, and Firefox ESR < 91.8.",
+	"vulnerabilityName": "Mozilla Firefox Use After Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-1097"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/it-threat-evolution-in-q2-2022-non-mobile-statistics/107133/",
+			"date_added": "2022-08-15T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-15T00:00:00Z"
+}

@@ -13,6 +13,10 @@
 		{
 			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-057",
 			"date_added": "2006-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20090323012515/http://securitylabs.websense.com/content/Alerts/3326.aspx",
+			"date_added": "2009-03-20T00:00:00Z"
 		}
 	],
 	"date_added": "2006-10-10T00:00:00Z"

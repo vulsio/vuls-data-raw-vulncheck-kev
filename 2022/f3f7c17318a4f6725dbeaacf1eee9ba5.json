@@ -1,0 +1,19 @@
+{
+	"vendorProject": "montala",
+	"product": "resourcespace",
+	"shortDescription": "ResourceSpace before 9.6 rev 18290 is affected by a reflected Cross-Site Scripting vulnerability in plugins/wordpress_sso/pages/index.php via the wordpress_user parameter. If an attacker is able to persuade a victim to visit a crafted URL, malicious JavaScript content may be executed within the context of the victim's browser.",
+	"vulnerabilityName": "montala resourcespace Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-41951"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
+			"date_added": "2022-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-31T00:00:00Z"
+}

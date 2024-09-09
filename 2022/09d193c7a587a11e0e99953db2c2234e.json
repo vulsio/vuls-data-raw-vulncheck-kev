@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Apache",
+	"product": "HTTP Server",
+	"shortDescription": "In Apache HTTP Server 2.4.17 to 2.4.34, by sending continuous, large SETTINGS frames a client can occupy a connection, server thread and CPU time without any connection timeout coming to effect. This affects only HTTP/2 connections. A possible mitigation is to not enable the h2 protocol.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-11763"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_au/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-02-22T00:00:00Z"
+}

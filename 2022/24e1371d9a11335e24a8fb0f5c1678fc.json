@@ -1,0 +1,19 @@
+{
+	"vendorProject": "VMware",
+	"product": "cloud_foundation",
+	"shortDescription": "The vSphere Web Client (FLEX/Flash) contains an unauthorized arbitrary file read vulnerability. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to gain access to sensitive information.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-21980"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
+			"date_added": "2022-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-31T00:00:00Z"
+}

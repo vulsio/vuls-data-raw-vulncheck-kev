@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "wordpress",
+	"shortDescription": "WordPress is a free and open-source content management system written in PHP and paired with a MariaDB database. Low-privileged authenticated users (like author) in WordPress core are able to execute JavaScript/perform stored XSS attack, which can affect high-privileged users. This has been patched in WordPress version 5.8.3. Older affected versions are also fixed via security release, that go back till 3.7.37. We strongly recommend that you keep auto-updates enabled. There are no known workarounds for this issue.",
+	"vulnerabilityName": "WordPress wordpress Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-21662"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-19T00:00:00Z"
+}

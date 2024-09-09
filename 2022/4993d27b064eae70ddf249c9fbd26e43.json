@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Apache",
+	"product": "druid",
+	"shortDescription": "In the Druid ingestion system, the InputSource is used for reading data from a certain data source. However, the HTTP InputSource allows authenticated users to read data from other sources than intended, such as the local file system, with the privileges of the Druid server process. This is not an elevation of privilege when users access Druid directly, since Druid also provides the Local InputSource, which allows the same level of access. But it is problematic when users interact with Druid indirectly through an application that allows users to specify the HTTP InputSource, but not the Local InputSource. In this case, users could bypass the application-level restriction by passing a file URL to the HTTP InputSource. This issue was previously mentioned as being fixed in 0.21.0 as per CVE-2021-26920 but was not fixed in 0.21.0 or 0.21.1.",
+	"vulnerabilityName": "Apache druid Incorrect Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-36749"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d9494fbeed7f",
+			"xdb_url": "https://vulncheck.com/xdb/d9494fbeed7f",
+			"date_added": "2021-10-14T03:47:02Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:BrucessKING/CVE-2021-36749.git"
+		},
+		{
+			"xdb_id": "e4e9ac13414a",
+			"xdb_url": "https://vulncheck.com/xdb/e4e9ac13414a",
+			"date_added": "2021-05-22T05:06:33Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
+		},
+		{
+			"xdb_id": "65e8166e235d",
+			"xdb_url": "https://vulncheck.com/xdb/65e8166e235d",
+			"date_added": "2021-12-12T16:59:49Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitlab.com:bybsecs/CVE-2021-36749.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
+			"date_added": "2022-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-31T00:00:00Z"
+}

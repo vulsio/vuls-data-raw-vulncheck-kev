@@ -15,6 +15,14 @@
 			"date_added": "2022-03-25T00:00:00Z"
 		},
 		{
+			"url": "https://blog.checkpoint.com/security/december-2021s-most-wanted-malware-trickbot-emotet-and-the-log4j-plague/",
+			"date_added": "2022-01-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2022s-most-wanted-malware-a-shake-up-in-the-index-but-emotet-is-still-on-top/",
+			"date_added": "2022-05-11T00:00:00Z"
+		},
+		{
 			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
 			"date_added": "2024-05-09T00:00:00Z"
 		},
@@ -33,5 +41,5 @@
 	],
 	"dueDate": "2022-04-15T00:00:00Z",
 	"cisa_date_added": "2022-03-25T00:00:00Z",
-	"date_added": "2022-03-25T00:00:00Z"
+	"date_added": "2022-01-12T00:00:00Z"
 }

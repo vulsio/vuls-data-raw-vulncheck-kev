@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Microsoft",
 	"product": "Windows",
-	"shortDescription": "Microsoft Windows contains an unspecified vulnerability due to the way ws2ifsl.sys (Winsock) handles objects in memory, allowing for privilege escalation. Successful exploitation allows an attacker to execute code with elevated privileges.�",
+	"shortDescription": "Microsoft Windows contains an unspecified vulnerability due to the way ws2ifsl.sys (Winsock) handles objects in memory, allowing for privilege escalation. Successful exploitation allows an attacker to execute code with elevated privileges.",
 	"vulnerabilityName": "Microsoft Windows Privilege Escalation Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",
 	"knownRansomwareCampaignUse": "Known",

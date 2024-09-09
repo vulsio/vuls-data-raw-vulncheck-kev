@@ -1,0 +1,21 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "SonicOS",
+	"shortDescription": "SonicWall SonicOS contains an improper access control vulnerability that could lead to unauthorized resource access and, under certain conditions, may cause the firewall to crash.",
+	"vulnerabilityName": "SonicWall SonicOS Improper Access Control Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-40766"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0015",
+			"date_added": "2024-09-06T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-09-30T00:00:00Z",
+	"cisa_date_added": "2024-09-09T00:00:00Z",
+	"date_added": "2024-09-06T00:00:00Z"
+}

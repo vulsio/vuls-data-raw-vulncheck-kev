@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Cisco",
 	"product": "Cisco IP Phones",
-	"shortDescription": "Cisco IP Phones contain an improper input validation vulnerability for HTTP requests. Exploitation could allow an attacker to execute code remotely with�root�privileges or cause a denial-of-service (DoS) condition.",
+	"shortDescription": "Cisco IP Phones contain an improper input validation vulnerability for HTTP requests. Exploitation could allow an attacker to execute code remotely with root privileges or cause a denial-of-service (DoS) condition.",
 	"vulnerabilityName": "Cisco IP Phones Web Server Remote Code Execution and Denial-of-Service Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",
 	"knownRansomwareCampaignUse": "Unknown",

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "If an attacker was able to corrupt the methods of an Array object in JavaScript via prototype pollution, they could have achieved execution of attacker-controlled JavaScript code in a privileged context. This vulnerability affects Firefox ESR < 91.9.1, Firefox < 100.0.2, Firefox for Android < 100.3.0, and Thunderbird < 91.9.1.",
+	"vulnerabilityName": "Mozilla Firefox Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-1802"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "abb5fbf99572",
+			"xdb_url": "https://vulncheck.com/xdb/abb5fbf99572",
+			"date_added": "2022-08-20T03:01:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:mistymntncop/CVE-2022-1802.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/it-threat-evolution-in-q2-2022-non-mobile-statistics/107133/",
+			"date_added": "2022-08-15T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-15T00:00:00Z"
+}

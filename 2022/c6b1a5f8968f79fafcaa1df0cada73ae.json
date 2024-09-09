@@ -1,0 +1,27 @@
+{
+	"vendorProject": "TP-Link",
+	"product": "tl-wr840n_firmware",
+	"shortDescription": "TP-LINK TL-WR840N(ES)_V6.20_180709 was discovered to contain a command injection vulnerability via the component oal_startPing.",
+	"vulnerabilityName": "TP-Link tl-wr840n_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-25060"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "27acb6e53e01",
+			"xdb_url": "https://vulncheck.com/xdb/27acb6e53e01",
+			"date_added": "2022-02-25T21:42:01Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:exploitwritter/CVE-2022-25060.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-19T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "lantronix",
+	"product": "premierwave_2050_firmware",
+	"shortDescription": "An OS command injection vulnerability exists in the Web Manager Wireless Network Scanner functionality of Lantronix PremierWave 2050 8.9.0.0R4. A specially-crafted HTTP request can lead to command execution. An attacker can make an authenticated HTTP request to trigger this vulnerability.",
+	"vulnerabilityName": "lantronix premierwave_2050_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-21881"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-19T00:00:00Z"
+}

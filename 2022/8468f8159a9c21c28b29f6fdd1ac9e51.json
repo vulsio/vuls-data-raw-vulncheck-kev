@@ -1,0 +1,19 @@
+{
+	"vendorProject": "totolink",
+	"product": "t6_firmware",
+	"shortDescription": "A command injection vulnerability in the function setUpgradeFW of TOTOLINK Technology router T6 V3_Firmware T6_V3_V4.1.5cu.748_B20211015 allows attackers to execute arbitrary commands via a crafted MQTT packet.",
+	"vulnerabilityName": "totolink t6_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-25134"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		}
+	],
+	"date_added": "2022-08-19T00:00:00Z"
+}

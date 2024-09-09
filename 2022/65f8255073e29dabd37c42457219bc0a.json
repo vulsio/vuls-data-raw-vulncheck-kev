@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Apache",
+	"product": "HTTP Server",
+	"shortDescription": "A maliciously constructed HTTP/2 request could cause mod_http2 in Apache HTTP Server 2.4.24, 2.4.25 to dereference a NULL pointer and crash the server process.",
+	"vulnerabilityName": "Apache HTTP Server NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-7659"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_au/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-02-22T00:00:00Z"
+}

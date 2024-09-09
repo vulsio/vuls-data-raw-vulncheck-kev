@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Apache",
+	"product": "HTTP Server",
+	"shortDescription": "In Apache HTTP Server 2.4.32-2.4.39, when mod_remoteip was configured to use a trusted intermediary proxy server using the \"PROXY\" protocol, a specially crafted PROXY header could trigger a stack buffer overflow or NULL pointer deference. This vulnerability could only be triggered by a trusted proxy and not by untrusted HTTP clients.",
+	"vulnerabilityName": "Apache HTTP Server NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-10097"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_au/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-02-22T00:00:00Z"
+}

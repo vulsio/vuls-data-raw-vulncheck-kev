@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Integer overflow in Adobe Flash Player 9.0.115.0 and earlier, and 8.0.39.0 and earlier, allows remote attackers to execute arbitrary code via a crafted SWF file with a negative Scene Count value, which passes a signed comparison, is used as an offset of a NULL pointer, and triggers a buffer overflow.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-0071"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.darkreading.com/cybersecurity-analytics/new-sql-injection-attacks-exploit-adobe-flash-flaw",
+			"date_added": "2008-05-28T00:00:00Z"
+		}
+	],
+	"date_added": "2008-05-28T00:00:00Z"
+}

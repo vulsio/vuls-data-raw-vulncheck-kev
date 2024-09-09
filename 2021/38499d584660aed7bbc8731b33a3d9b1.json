@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux kernel contains a position-independent executable (PIE) stack buffer corruption vulnerability in load_elf_ binary() that allows a local attacker to escalate privileges. ",
+	"vulnerabilityName": "Linux Kernel PIE Stack Buffer Corruption Vulnerability ",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-1000253"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a2d5c439141b",
+			"xdb_url": "https://vulncheck.com/xdb/a2d5c439141b",
+			"date_added": "2018-06-18T15:22:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RicterZ/PIE-Stack-Clash-CVE-2017-1000253.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_in/research/21/f/bash-ransomware-darkradiation-targets-red-hat--and-debian-based-linux-distributions.html",
+			"date_added": "2021-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware_index-update-q221-csw.pdf",
+			"date_added": "2021-08-16T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-09-30T00:00:00Z",
+	"cisa_date_added": "2024-09-09T00:00:00Z",
+	"date_added": "2021-06-17T00:00:00Z"
+}

@@ -203,6 +203,10 @@
 			"date_added": "2024-08-21T00:00:00Z"
 		},
 		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		},
+		{
 			"url": "https://web-assets.esetstatic.com/wls/2023/07/eset_threat_report_h12023.pdf",
 			"date_added": "2023-07-11T00:00:00Z"
 		},
@@ -233,5 +237,5 @@
 	],
 	"dueDate": "2022-09-15T00:00:00Z",
 	"cisa_date_added": "2022-08-25T00:00:00Z",
-	"date_added": "2022-08-25T00:00:00Z"
+	"date_added": "2022-08-19T00:00:00Z"
 }

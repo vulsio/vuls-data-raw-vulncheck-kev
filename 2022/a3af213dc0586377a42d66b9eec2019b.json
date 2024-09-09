@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Apache",
+	"product": "HTTP Server",
+	"shortDescription": "By specially crafting HTTP requests, the mod_md challenge handler would dereference a NULL pointer and cause the child process to segfault. This could be used to DoS the server. Fixed in Apache HTTP Server 2.4.34 (Affected 2.4.33).",
+	"vulnerabilityName": "Apache HTTP Server NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8011"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_au/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/b/recent-cyberattacks-open-source-web-servers.html",
+			"date_added": "2022-02-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-02-22T00:00:00Z"
+}

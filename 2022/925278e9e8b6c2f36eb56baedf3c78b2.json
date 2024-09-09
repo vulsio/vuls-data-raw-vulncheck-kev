@@ -349,9 +349,13 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-07&host_type=src&vulnerability=cve-2021-39226",
 			"date_added": "2024-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-09-15T00:00:00Z",
 	"cisa_date_added": "2022-08-25T00:00:00Z",
-	"date_added": "2022-08-25T00:00:00Z"
+	"date_added": "2022-08-19T00:00:00Z"
 }
