@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:BBD-YZZ/CVE-2024-23692.git"
 		},
 		{
-			"xdb_id": "46740685e776",
-			"xdb_url": "https://vulncheck.com/xdb/46740685e776",
-			"date_added": "2024-06-18T03:27:47Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-23692-EXP.git"
-		},
-		{
 			"xdb_id": "c1ccd57299ea",
 			"xdb_url": "https://vulncheck.com/xdb/c1ccd57299ea",
 			"date_added": "2024-06-13T09:12:06Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:vanboomqi/CVE-2024-23692.git"
+		},
+		{
+			"xdb_id": "46740685e776",
+			"xdb_url": "https://vulncheck.com/xdb/46740685e776",
+			"date_added": "2024-06-18T03:27:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-23692-EXP.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
