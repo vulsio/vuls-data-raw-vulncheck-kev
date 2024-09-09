@@ -129,13 +129,6 @@
 			"clone_ssh_url": "git@github.com:Gra3s/CVE-2022-30190_EXP_PowerPoint.git"
 		},
 		{
-			"xdb_id": "f09c047235a9",
-			"xdb_url": "https://vulncheck.com/xdb/f09c047235a9",
-			"date_added": "2022-06-08T10:58:23Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Malwareman007/Deathnote.git"
-		},
-		{
 			"xdb_id": "c00e3fafa938",
 			"xdb_url": "https://vulncheck.com/xdb/c00e3fafa938",
 			"date_added": "2022-11-19T18:09:47Z",
@@ -197,6 +190,13 @@
 			"date_added": "2023-11-28T03:47:32Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Jump-Wang-111/AmzWord.git"
+		},
+		{
+			"xdb_id": "f09c047235a9",
+			"xdb_url": "https://vulncheck.com/xdb/f09c047235a9",
+			"date_added": "2022-06-08T10:58:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Malwareman007/Deathnote.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
