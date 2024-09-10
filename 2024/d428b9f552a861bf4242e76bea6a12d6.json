@@ -21,6 +21,10 @@
 		{
 			"url": "https://fortiguard.fortinet.com/encyclopedia/ips/55752",
 			"date_added": "2024-07-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/cve-2021-20123-cve-2021-20124-draytek-vulnerabilities-discovered-by-tenable-research-added-to",
+			"date_added": "2024-09-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-24T00:00:00Z",

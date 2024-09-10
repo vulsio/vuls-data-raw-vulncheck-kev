@@ -1,0 +1,19 @@
+{
+	"vendorProject": "haproxy",
+	"product": "haproxy",
+	"shortDescription": "HAProxy 2.9.x before 2.9.10, 3.0.x before 3.0.4, and 3.1.x through 3.1-dev6 allows a remote denial of service.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-45506"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.mail-archive.com/haproxy%40formilux.org/msg45280.html",
+			"date_added": "2024-09-03T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-03T00:00:00Z"
+}

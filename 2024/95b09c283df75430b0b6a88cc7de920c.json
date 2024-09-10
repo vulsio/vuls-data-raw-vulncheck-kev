@@ -4,7 +4,7 @@
 	"shortDescription": "SonicWall SonicOS contains an improper access control vulnerability that could lead to unauthorized resource access and, under certain conditions, may cause the firewall to crash.",
 	"vulnerabilityName": "SonicWall SonicOS Improper Access Control Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2024-40766"
 	],
@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-09-09T00:00:00Z"
+		},
+		{
+			"url": "https://arcticwolf.com/resources/blog/arctic-wolf-observes-akira-ransomware-campaign-targeting-sonicwall-sslvpn-accounts/",
+			"date_added": "2024-09-06T00:00:00Z"
 		},
 		{
 			"url": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2024-0015",
