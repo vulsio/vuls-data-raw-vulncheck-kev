@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Hancom Inc.",
+	"product": "Hangul Word Processor (HWP)",
+	"shortDescription": "Hangul Word Processor contains a buffer overflow vulnerability that can be exploited by an embedded EPS object contained in a malicious HWP document.",
+	"vulnerabilityName": "Hangul Word Processor (HWP) Encapsulated PostScript Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
