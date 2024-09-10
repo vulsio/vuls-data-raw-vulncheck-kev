@@ -185,13 +185,6 @@
 			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2020-5902_RCE.git"
 		},
 		{
-			"xdb_id": "ee5ad494cf44",
-			"xdb_url": "https://vulncheck.com/xdb/ee5ad494cf44",
-			"date_added": "2020-07-07T16:54:01+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:kennys1/CVE-2020-5902.git"
-		},
-		{
 			"xdb_id": "80de95eed85c",
 			"xdb_url": "https://vulncheck.com/xdb/80de95eed85c",
 			"date_added": "2020-09-13T10:01:38+08:00",
@@ -204,6 +197,13 @@
 			"date_added": "2022-01-11T23:24:04+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_jas502n/CVE-2020-5902.git"
+		},
+		{
+			"xdb_id": "ee5ad494cf44",
+			"xdb_url": "https://vulncheck.com/xdb/ee5ad494cf44",
+			"date_added": "2020-07-07T16:54:01+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:kennys1/CVE-2020-5902.git"
 		},
 		{
 			"xdb_id": "d2deaeca3c8d",

@@ -220,18 +220,18 @@
 			"clone_ssh_url": "git@github.com:0xf4n9x/CVE-2022-46169.git"
 		},
 		{
-			"xdb_id": "4174b70e7788",
-			"xdb_url": "https://vulncheck.com/xdb/4174b70e7788",
-			"date_added": "2023-05-01T20:00:23Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:FredBrave/CVE-2022-46169-CACTI-1.2.22.git"
-		},
-		{
 			"xdb_id": "41461454d3ca",
 			"xdb_url": "https://vulncheck.com/xdb/41461454d3ca",
 			"date_added": "2024-09-04T23:13:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:rockyroadonline/CVE-2022-46169.git"
+		},
+		{
+			"xdb_id": "4174b70e7788",
+			"xdb_url": "https://vulncheck.com/xdb/4174b70e7788",
+			"date_added": "2023-05-01T20:00:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:FredBrave/CVE-2022-46169-CACTI-1.2.22.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
