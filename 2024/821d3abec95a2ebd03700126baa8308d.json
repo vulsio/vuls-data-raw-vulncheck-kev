@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "sql_server",
 	"shortDescription": "A remote code execution vulnerability exists in Microsoft SQL Server when it incorrectly handles processing of internal functions, aka 'Microsoft SQL Server Remote Code Execution Vulnerability'.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Microsoft SQL Server Remote Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [

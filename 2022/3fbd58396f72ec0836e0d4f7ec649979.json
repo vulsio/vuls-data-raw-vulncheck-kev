@@ -1,0 +1,19 @@
+{
+	"vendorProject": "SolarWinds",
+	"product": "orion_platform",
+	"shortDescription": "SolarWinds Orion Platform before 2018.4 Hotfix 2 allows privilege escalation through the RabbitMQ service.",
+	"vulnerabilityName": "SolarWinds orion_platform Uncontrolled Search Path Element",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9546"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.ic3.gov/Media/News/2022/220126.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-26T00:00:00Z"
+}

@@ -2,7 +2,7 @@
 	"vendorProject": "Oracle",
 	"product": "jdk",
 	"shortDescription": "Unspecified vulnerability in Oracle Java 7 before Update 11 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors, a different vulnerability than CVE-2013-0422.  NOTE: some parties have mapped CVE-2012-3174 to an issue involving recursive use of the Reflection API, but that issue is already covered as part of CVE-2013-0422.  This identifier is for a different vulnerability whose details are not public as of 20130114.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Oracle Java 7 before Update 11 Unspecified Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "wordpress",
+	"shortDescription": "Before version 4.8.2, WordPress was vulnerable to a cross-site scripting attack via shortcodes in the TinyMCE visual editor.",
+	"vulnerabilityName": "WordPress wordpress Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-14726"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.ic3.gov/Media/News/2022/220126.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-26T00:00:00Z"
+}

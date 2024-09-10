@@ -1,0 +1,69 @@
+{
+	"vendorProject": "phpmailer_project",
+	"product": "phpmailer",
+	"shortDescription": "The mailSend function in the isMail transport in PHPMailer before 5.2.18 might allow remote attackers to pass extra parameters to the mail command and consequently execute arbitrary code via a \\\" (backslash double quote) in a crafted Sender property.",
+	"vulnerabilityName": "phpmailer_project phpmailer Improper Neutralization of Argument Delimiters in a Command ('Argument Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-10033"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8b2d46868925",
+			"xdb_url": "https://vulncheck.com/xdb/8b2d46868925",
+			"date_added": "2022-12-09T00:28:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:eb613819/CTF_CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "e51c0010ebf3",
+			"xdb_url": "https://vulncheck.com/xdb/e51c0010ebf3",
+			"date_added": "2022-08-05T08:24:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zeeshanbhattined/exploit-CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "1c45466548e9",
+			"xdb_url": "https://vulncheck.com/xdb/1c45466548e9",
+			"date_added": "2018-02-09T14:53:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "a828bd1568f4",
+			"xdb_url": "https://vulncheck.com/xdb/a828bd1568f4",
+			"date_added": "2024-05-16T18:56:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ElnurBDa/CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "df1d1d4dd414",
+			"xdb_url": "https://vulncheck.com/xdb/df1d1d4dd414",
+			"date_added": "2016-12-26T13:39:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "fc99f8e8bde0",
+			"xdb_url": "https://vulncheck.com/xdb/fc99f8e8bde0",
+			"date_added": "2021-11-13T08:26:46+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:RobbiNespu/exploit-CVE-2016-10033.git"
+		},
+		{
+			"xdb_id": "2a5a5eab85f1",
+			"xdb_url": "https://vulncheck.com/xdb/2a5a5eab85f1",
+			"date_added": "2022-01-11T17:56:07+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_opsxcq/exploit-CVE-2016-10033.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.ic3.gov/Media/News/2022/220126.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-26T00:00:00Z"
+}

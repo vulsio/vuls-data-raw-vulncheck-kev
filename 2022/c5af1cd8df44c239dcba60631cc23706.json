@@ -19,6 +19,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247514973&idx=2&sn=0776f8f83c032c4d7433a567270a7ee1&source=41#wechat_redirect",
+			"date_added": "2022-06-13T00:00:00Z"
+		},
+		{
 			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools",
 			"date_added": "2024-06-03T00:00:00Z"
 		},
@@ -27,5 +31,5 @@
 			"date_added": "2024-07-25T00:00:00Z"
 		}
 	],
-	"date_added": "2024-06-03T00:00:00Z"
+	"date_added": "2022-06-13T00:00:00Z"
 }

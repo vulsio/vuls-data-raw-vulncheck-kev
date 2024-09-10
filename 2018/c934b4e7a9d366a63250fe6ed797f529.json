@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "Internet Explorer",
 	"shortDescription": "Microsoft Internet Explorer 7 does not properly handle errors during attempted access to deleted objects, which allows remote attackers to execute arbitrary code via a crafted HTML document, related to CFunctionPointer and the appending of document objects, aka \"Uninitialized Memory Corruption Vulnerability.\"",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Microsoft Internet Explorer 7 Uninitialized Memory Corruption Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

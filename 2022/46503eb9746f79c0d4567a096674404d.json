@@ -2,7 +2,7 @@
 	"vendorProject": "Apache",
 	"product": "struts",
 	"shortDescription": "The ParametersInterceptor in Apache Struts before 2.3.16.2 allows remote attackers to \"manipulate\" the ClassLoader via the class parameter, which is passed to the getClass method.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Apache Struts ParametersInterceptor Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

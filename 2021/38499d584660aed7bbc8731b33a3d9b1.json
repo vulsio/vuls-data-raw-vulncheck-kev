@@ -19,6 +19,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-09T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_in/research/21/f/bash-ransomware-darkradiation-targets-red-hat--and-debian-based-linux-distributions.html",
 			"date_added": "2021-06-17T00:00:00Z"
 		},

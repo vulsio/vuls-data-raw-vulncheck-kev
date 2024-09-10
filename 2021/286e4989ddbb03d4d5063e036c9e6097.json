@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:SUPRAAA-1337/CVE-2021-34523.git"
 		},
 		{
-			"xdb_id": "c0acd90670f6",
-			"xdb_url": "https://vulncheck.com/xdb/c0acd90670f6",
-			"date_added": "2021-08-13T09:38:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ktecv2000/ProxyShell.git"
-		},
-		{
 			"xdb_id": "c9e3ac579e16",
 			"xdb_url": "https://vulncheck.com/xdb/c9e3ac579e16",
 			"date_added": "2021-09-04T15:34:03Z",
@@ -64,6 +57,13 @@
 			"date_added": "2021-08-16T17:59:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Udyz/proxyshell-auto.git"
+		},
+		{
+			"xdb_id": "c0acd90670f6",
+			"xdb_url": "https://vulncheck.com/xdb/c0acd90670f6",
+			"date_added": "2021-08-13T09:38:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ktecv2000/ProxyShell.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

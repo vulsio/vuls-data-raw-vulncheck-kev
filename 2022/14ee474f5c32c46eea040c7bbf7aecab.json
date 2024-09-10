@@ -1,12 +1,12 @@
 {
-	"vendorProject": "Microsoft",
-	"product": "Exchange Server",
-	"shortDescription": "Microsoft Exchange Server Spoofing Vulnerability",
-	"vulnerabilityName": "",
+	"vendorProject": "VMware",
+	"product": "cloud_foundation",
+	"shortDescription": "The vSphere Web Client (FLEX/Flash) contains an unauthorized arbitrary file read vulnerability. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to gain access to sensitive information.",
+	"vulnerabilityName": "vSphere Web Client (FLEX/Flash) Unauthorized Arbitrary File Read Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2021-41349"
+		"CVE-2021-21980"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

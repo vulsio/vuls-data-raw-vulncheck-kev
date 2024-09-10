@@ -136,13 +136,6 @@
 			"clone_ssh_url": "git@github.com:0xAbbarhSF/FollinaXploit.git"
 		},
 		{
-			"xdb_id": "3aa02158ccc4",
-			"xdb_url": "https://vulncheck.com/xdb/3aa02158ccc4",
-			"date_added": "2022-05-31T06:45:25Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:onecloudemoji/CVE-2022-30190.git"
-		},
-		{
 			"xdb_id": "fd7c95a5f90f",
 			"xdb_url": "https://vulncheck.com/xdb/fd7c95a5f90f",
 			"date_added": "2022-05-30T18:17:38Z",
@@ -197,6 +190,13 @@
 			"date_added": "2022-06-08T10:58:23Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Malwareman007/Deathnote.git"
+		},
+		{
+			"xdb_id": "3aa02158ccc4",
+			"xdb_url": "https://vulncheck.com/xdb/3aa02158ccc4",
+			"date_added": "2022-05-31T06:45:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:onecloudemoji/CVE-2022-30190.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
