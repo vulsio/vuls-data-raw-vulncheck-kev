@@ -1,12 +1,12 @@
 {
-	"vendorProject": "icona",
-	"product": "instant_messenger",
-	"shortDescription": "The DownloaderActiveX Control (DownloaderActiveX.ocx) in Icona SpA C6 Messenger 1.0.0.1 allows remote attackers to force the download and execution of arbitrary files via a URL in the propDownloadUrl parameter with the propPostDownloadAction parameter set to \"run.\"",
-	"vulnerabilityName": "",
+	"vendorProject": "emc",
+	"product": "rsa_archer_egrc",
+	"shortDescription": "EMC RSA Archer GRC Platform 5.x before 5.5 SP1 allows remote authenticated users to bypass intended restrictions on resource access via unspecified vectors.",
+	"vulnerabilityName": "EMC RSA Archer GRC Platform Authenticated Bypass Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2008-2551"
+		"CVE-2014-0640"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

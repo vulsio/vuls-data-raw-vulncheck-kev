@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "Excel",
 	"shortDescription": "Integer underflow in Microsoft Excel 2002 SP3, 2003 SP3, 2007 SP2, and 2010; Office 2004 and 2008 for Mac; Open XML File Format Converter for Mac; Excel Viewer SP2; and Office Compatibility Pack for Word, Excel, and PowerPoint 2007 File Formats SP2 allows remote attackers to execute arbitrary code via a crafted 400h substream in an Excel file, which triggers a stack-based buffer overflow, aka \"Excel Integer Overrun Vulnerability.\"",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Microsoft Excel Integer Overrun Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

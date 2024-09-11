@@ -1,12 +1,12 @@
 {
 	"vendorProject": "justsystems",
 	"product": "ichitaro",
-	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro 2004 through 2009, Ichitaro Government 2006 through 2009, and Just School 2008 and 2009 allows remote attackers to execute arbitrary code via unknown vectors related to \"product character attribute processing\" for a document.",
-	"vulnerabilityName": "",
+	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro 2006 through 2013; Ichitaro Pro through 2; Ichitaro Government 6, 7, and 2006 through 2010; Ichitaro Portable with oreplug; Ichitaro Viewer; and Ichitaro JUST School through 2010 allows remote attackers to execute arbitrary code via a crafted document.",
+	"vulnerabilityName": "JustSystems Ichitaro/Ichitaro Pro/Government/Portable/Viewer/JUST School Unspecified Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2010-2152"
+		"CVE-2013-3644"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

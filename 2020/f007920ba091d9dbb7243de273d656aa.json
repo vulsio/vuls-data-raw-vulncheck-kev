@@ -1,12 +1,12 @@
 {
 	"vendorProject": "justsystems",
 	"product": "ichitaro",
-	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro and Ichitaro Government 2006 through 2010 allows user-assisted remote attackers to execute arbitrary code via a crafted font file.",
-	"vulnerabilityName": "",
+	"shortDescription": "Unspecified vulnerability in JustSystems Ichitaro 2004 through 2009, Ichitaro Government 2006 through 2009, and Just School 2008 and 2009 allows remote attackers to execute arbitrary code via unknown vectors related to \"product character attribute processing\" for a document.",
+	"vulnerabilityName": "JustSystems Ichitaro/Government/Just School Product Character Attribute Processing Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2010-1424"
+		"CVE-2010-2152"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

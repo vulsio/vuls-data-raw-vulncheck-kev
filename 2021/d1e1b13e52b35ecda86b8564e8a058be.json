@@ -52,11 +52,11 @@
 			"clone_ssh_url": "git@gitee.com:F123BBXX/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
 		},
 		{
-			"xdb_id": "1ab4e5f57a90",
-			"xdb_url": "https://vulncheck.com/xdb/1ab4e5f57a90",
-			"date_added": "2022-02-15T16:11:04+08:00",
+			"xdb_id": "f5fe94ac04b2",
+			"xdb_url": "https://vulncheck.com/xdb/f5fe94ac04b2",
+			"date_added": "2020-06-30T10:29:47+08:00",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:kenyons/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
+			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
 		},
 		{
 			"xdb_id": "fd492c871d51",
@@ -64,6 +64,13 @@
 			"date_added": "2022-01-11T18:06:25+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:mirrors_cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
+		},
+		{
+			"xdb_id": "1ab4e5f57a90",
+			"xdb_url": "https://vulncheck.com/xdb/1ab4e5f57a90",
+			"date_added": "2022-02-15T16:11:04+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:kenyons/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

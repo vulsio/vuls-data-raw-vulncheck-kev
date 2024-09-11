@@ -1,12 +1,12 @@
 {
-	"vendorProject": "emc",
-	"product": "rsa_archer_egrc",
-	"shortDescription": "EMC RSA Archer GRC Platform 5.x before 5.5 SP1 allows remote authenticated users to bypass intended restrictions on resource access via unspecified vectors.",
-	"vulnerabilityName": "",
+	"vendorProject": "Atlassian",
+	"product": "Confluence and Data Center",
+	"shortDescription": "Atlassian Confluence and Data Center is vulnerable to a remote code execution vulnerability in the 'widget connector' component. The issue lies in a server-side template injection weakness.",
+	"vulnerabilityName": "Atlassian Confluence and Data Center Widget Connector Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2014-0640"
+		"CVE-2019-3369"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
