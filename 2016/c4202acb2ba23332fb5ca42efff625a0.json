@@ -21,6 +21,10 @@
 		{
 			"url": "http://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
 			"date_added": "2016-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-15T00:00:00Z",

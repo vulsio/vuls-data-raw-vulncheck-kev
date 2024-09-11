@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Google",
+	"product": "Chrome",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in the Developer Tools (aka DevTools) subsystem in Google Chrome before 53.0.2785.89 on Windows and OS X and before 53.0.2785.92 on Linux allows remote attackers to inject arbitrary web script or HTML via the settings parameter in a chrome-devtools-frontend.appspot.com URL's query string.",
+	"vulnerabilityName": "Google Chrome Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-5165"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-17T00:00:00Z"
+}

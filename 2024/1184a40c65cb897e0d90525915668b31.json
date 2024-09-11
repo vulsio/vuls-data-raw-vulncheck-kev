@@ -13,6 +13,14 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Sep?api-version=2020",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38226",
+			"date_added": "2024-09-10T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-01T00:00:00Z",

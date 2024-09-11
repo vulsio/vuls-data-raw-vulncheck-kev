@@ -1,0 +1,19 @@
+{
+	"vendorProject": "echo",
+	"product": "anti_cheat_tool",
+	"shortDescription": "An issue in Inspect Element Ltd Echo.ac v.5.2.1.0 allows a local attacker to gain privileges via a crafted command to the echo_driver.sys component. NOTE: the vendor's position is that the reported ability for user-mode applications to execute code as NT AUTHORITY\\SYSTEM was \"deactivated by Microsoft itself.\"",
+	"vulnerabilityName": "echo anti_cheat_tool Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-38817"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.sophos.com/en-us/2024/09/10/crimson-palace-new-tools-tactics-targets/",
+			"date_added": "2024-09-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-10T00:00:00Z"
+}
