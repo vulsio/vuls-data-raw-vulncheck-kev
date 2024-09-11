@@ -45,6 +45,10 @@
 		{
 			"url": "https://cisa.gov/news-events/alerts/2014/10/27/phishing-campaign-linked-dyre-banking-malware",
 			"date_added": "2016-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-03-24T00:00:00Z",

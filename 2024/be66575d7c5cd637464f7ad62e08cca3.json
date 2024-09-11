@@ -3,7 +3,7 @@
 	"product": "Windows",
 	"shortDescription": "Microsoft Windows Print Spooler service contains a privilege escalation vulnerability. An attacker may modify a JavaScript constraints file and execute it with SYSTEM-level permissions.",
 	"vulnerabilityName": "Microsoft Windows Print Spooler Privilege Escalation Vulnerability ",
-	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.  ",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2022-38028"

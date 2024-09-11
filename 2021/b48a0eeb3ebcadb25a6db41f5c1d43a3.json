@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Cisco",
 	"product": "HyperFlex HX",
-	"shortDescription": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the�root�user.",
+	"shortDescription": "Cisco HyperFlex HX Installer Virtual Machine contains an insufficient input validation vulnerability which could allow an attacker to execute commands on an affected device as the root user.",
 	"vulnerabilityName": "Cisco HyperFlex HX Installer Virtual Machine Command Injection Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",
 	"knownRansomwareCampaignUse": "Unknown",

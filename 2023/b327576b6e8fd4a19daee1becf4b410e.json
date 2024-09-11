@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:Rosayxy/Recreate-cve-2023-21768.git"
 		},
 		{
-			"xdb_id": "c7f98476bb81",
-			"xdb_url": "https://vulncheck.com/xdb/c7f98476bb81",
-			"date_added": "2024-04-07T02:26:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ha0-Y/CVE-2023-21768.git"
-		},
-		{
 			"xdb_id": "1c3e7f162c3a",
 			"xdb_url": "https://vulncheck.com/xdb/1c3e7f162c3a",
 			"date_added": "2023-03-21T01:58:40Z",
@@ -59,6 +52,13 @@
 			"clone_ssh_url": "git@github.com:chompie1337/Windows_LPE_AFD_CVE-2023-21768.git"
 		},
 		{
+			"xdb_id": "fd03247f1aa9",
+			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
+			"date_added": "2024-05-15T17:42:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xboxoneresearch/CVE-2023-21768-dotnet.git"
+		},
+		{
 			"xdb_id": "784b586cbad4",
 			"xdb_url": "https://vulncheck.com/xdb/784b586cbad4",
 			"date_added": "2023-03-10T19:08:28Z",
@@ -66,11 +66,11 @@
 			"clone_ssh_url": "git@github.com:SamuelTulach/nullmap.git"
 		},
 		{
-			"xdb_id": "fd03247f1aa9",
-			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
-			"date_added": "2024-05-15T17:42:10Z",
+			"xdb_id": "8c8d45e50b41",
+			"xdb_url": "https://vulncheck.com/xdb/8c8d45e50b41",
+			"date_added": "2024-04-07T02:26:36Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:xboxoneresearch/CVE-2023-21768-dotnet.git"
+			"clone_ssh_url": "git@github.com:ldrx30/CVE-2023-21768.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer, aka \"Scripting Engine Memory Corruption Vulnerability.\" This affects Internet Explorer 11. This CVE ID is unique from CVE-2018-0945, CVE-2018-0946, CVE-2018-0951, CVE-2018-0953, CVE-2018-0954, CVE-2018-0955, CVE-2018-1022, CVE-2018-8122, CVE-2018-8128, CVE-2018-8137, CVE-2018-8139.",
+	"vulnerabilityName": "Microsoft Internet Explorer Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8114"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-17T00:00:00Z"
+}

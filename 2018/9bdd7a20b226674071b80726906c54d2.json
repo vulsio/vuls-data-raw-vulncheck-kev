@@ -115,6 +115,10 @@
 		{
 			"url": "https://security.netenrich.com/blog/hafinum-sodinokibi-and-cve-2021-22986/",
 			"date_added": "2021-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-07-21T00:00:00Z",

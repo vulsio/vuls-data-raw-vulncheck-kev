@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.secureworks.com/research/bronze-union",
 			"date_added": "2017-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2020/05/vb2019-paper-apt-cases-exploiting-vulnerabilities-regionspecific-software/#ref3",
+			"date_added": "2020-05-01T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-15T00:00:00Z",

@@ -33,6 +33,10 @@
 		{
 			"url": "https://cisa.gov/news-events/alerts/2017/06/13/hidden-cobra-north-koreas-ddos-botnet-infrastructure",
 			"date_added": "2017-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-15T00:00:00Z",

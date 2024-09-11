@@ -17,6 +17,10 @@
 		{
 			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
 			"date_added": "2021-02-11T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-15T00:00:00Z",

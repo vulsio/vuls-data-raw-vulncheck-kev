@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "34760786116d",
-			"xdb_url": "https://vulncheck.com/xdb/34760786116d",
-			"date_added": "2020-04-01T15:16:54+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:yjhcf/CVE-2018-8120.git"
-		},
-		{
 			"xdb_id": "48d436ff8d49",
 			"xdb_url": "https://vulncheck.com/xdb/48d436ff8d49",
 			"date_added": "2022-01-11T23:48:36+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2018-8120.git"
+		},
+		{
+			"xdb_id": "34760786116d",
+			"xdb_url": "https://vulncheck.com/xdb/34760786116d",
+			"date_added": "2020-04-01T15:16:54+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:yjhcf/CVE-2018-8120.git"
 		},
 		{
 			"xdb_id": "01f9d12f366f",
@@ -118,6 +118,10 @@
 		{
 			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-1/",
 			"date_added": "2021-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		},
 		{
 			"url": "https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/",

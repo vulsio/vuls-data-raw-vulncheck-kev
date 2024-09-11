@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Publisher",
+	"shortDescription": "Microsoft Publisher contains a security feature bypass vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.",
+	"vulnerabilityName": "Microsoft Publisher Security Feature Bypass Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38226"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-01T00:00:00Z",
+	"cisa_date_added": "2024-09-10T00:00:00Z",
+	"date_added": "2024-09-10T00:00:00Z"
+}

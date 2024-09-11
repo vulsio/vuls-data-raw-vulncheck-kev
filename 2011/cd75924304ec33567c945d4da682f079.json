@@ -21,6 +21,10 @@
 		{
 			"url": "https://www.hkcert.org/blog/large-scale-injection-incidents-targeting-oscommerce-websites",
 			"date_added": "2011-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-15T00:00:00Z",

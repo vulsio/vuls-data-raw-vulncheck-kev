@@ -37,6 +37,10 @@
 		{
 			"url": "https://blog.talosintelligence.com/2015/04/threat-spotlight-teslacrypt-decrypt-it.html",
 			"date_added": "2015-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-04T00:00:00Z",

@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://blog.apnic.net/2021/12/23/preparing-for-the-next-large-scale-iot-botnet-attack/",
+			"date_added": "2021-12-23T00:00:00Z"
+		},
+		{
 			"url": "https://securityaffairs.com/42983/hacking/juniper-backdoor-attacks-honeypot.html",
 			"date_added": "2015-12-23T00:00:00Z"
 		}

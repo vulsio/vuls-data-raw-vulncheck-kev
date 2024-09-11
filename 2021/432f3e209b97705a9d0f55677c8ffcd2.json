@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "edge",
+	"shortDescription": "A remote code execution vulnerability exists when Microsoft Edge improperly accesses objects in memory, aka \"Microsoft Edge Memory Corruption Vulnerability.\" This affects Microsoft Edge, ChakraCore. This CVE ID is unique from CVE-2018-8125, CVE-2018-8262, CVE-2018-8274, CVE-2018-8279, CVE-2018-8301.",
+	"vulnerabilityName": "Microsoft edge Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8275"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-17T00:00:00Z"
+}

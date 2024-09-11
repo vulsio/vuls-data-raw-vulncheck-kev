@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "jscript",
+	"shortDescription": "The Microsoft (1) JScript 5.8 and (2) VBScript 5.7 and 5.8 engines, as used in Internet Explorer 9 through 11 and other products, allow remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka \"Scripting Engine Memory Corruption Vulnerability,\" a different vulnerability than CVE-2016-3205 and CVE-2016-3207.",
+	"vulnerabilityName": "Microsoft jscript Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-3206"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"date_added": "2021-08-17T00:00:00Z"
+}
