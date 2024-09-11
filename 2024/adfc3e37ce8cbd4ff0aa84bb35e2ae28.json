@@ -213,13 +213,6 @@
 			"clone_ssh_url": "git@github.com:VictorShem/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "0c4b91081cb3",
-			"xdb_url": "https://vulncheck.com/xdb/0c4b91081cb3",
-			"date_added": "2023-01-13T08:18:15Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xPugal/my-nuclei-templates.git"
-		},
-		{
 			"xdb_id": "5d24a3878ae0",
 			"xdb_url": "https://vulncheck.com/xdb/5d24a3878ae0",
 			"date_added": "2024-06-09T14:18:21Z",
@@ -302,6 +295,13 @@
 			"date_added": "2024-06-07T09:52:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "0c4b91081cb3",
+			"xdb_url": "https://vulncheck.com/xdb/0c4b91081cb3",
+			"date_added": "2023-01-13T08:18:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xPugal/my-nuclei-templates.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -600,6 +600,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-09&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-09-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-10&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-09-10T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

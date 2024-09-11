@@ -31,6 +31,13 @@
 			"clone_ssh_url": "git@github.com:chenaotian/CVE-2022-0185.git"
 		},
 		{
+			"xdb_id": "b96fe0fc5a17",
+			"xdb_url": "https://vulncheck.com/xdb/b96fe0fc5a17",
+			"date_added": "2022-04-14T10:46:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:featherL/CVE-2022-0185-exploit.git"
+		},
+		{
 			"xdb_id": "c66aa08676a5",
 			"xdb_url": "https://vulncheck.com/xdb/c66aa08676a5",
 			"date_added": "2022-03-04T16:32:18+08:00",

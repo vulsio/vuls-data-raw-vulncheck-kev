@@ -17,6 +17,13 @@
 			"clone_ssh_url": "git@github.com:tommiionfire/CVE-2016-3714.git"
 		},
 		{
+			"xdb_id": "a180c1b0bb7e",
+			"xdb_url": "https://vulncheck.com/xdb/a180c1b0bb7e",
+			"date_added": "2016-05-07T08:21:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Hood3dRob1n/CVE-2016-3714.git"
+		},
+		{
 			"xdb_id": "bef3b078d296",
 			"xdb_url": "https://vulncheck.com/xdb/bef3b078d296",
 			"date_added": "2018-06-18T19:42:57Z",

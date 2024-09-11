@@ -178,13 +178,6 @@
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
 		},
 		{
-			"xdb_id": "8b9e22d2ce4a",
-			"xdb_url": "https://vulncheck.com/xdb/8b9e22d2ce4a",
-			"date_added": "2021-05-22T05:06:33Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
-		},
-		{
 			"xdb_id": "68069c40edf2",
 			"xdb_url": "https://vulncheck.com/xdb/68069c40edf2",
 			"date_added": "2021-09-01T02:35:04Z",
@@ -197,6 +190,13 @@
 			"date_added": "2021-09-01T00:50:30Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:dinhbaouit/CVE-2021-26084.git"
+		},
+		{
+			"xdb_id": "8b9e22d2ce4a",
+			"xdb_url": "https://vulncheck.com/xdb/8b9e22d2ce4a",
+			"date_added": "2021-05-22T05:06:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
 		},
 		{
 			"xdb_id": "0c50354d6f93",
@@ -1246,6 +1246,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-09&host_type=src&vulnerability=cve-2021-26084",
 			"date_added": "2024-09-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-10&host_type=src&vulnerability=cve-2021-26084",
+			"date_added": "2024-09-10T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/muhstik-takes-aim-at-confluence-cve-2021-26084/",

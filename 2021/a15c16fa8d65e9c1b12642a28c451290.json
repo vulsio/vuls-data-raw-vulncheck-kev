@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:duc-nt/CVE-2020-6287-exploit.git"
 		},
 		{
-			"xdb_id": "85f301721ead",
-			"xdb_url": "https://vulncheck.com/xdb/85f301721ead",
-			"date_added": "2020-07-21T01:22:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Onapsis/CVE-2020-6287_RECON-scanner.git"
-		},
-		{
 			"xdb_id": "76887e2664e5",
 			"xdb_url": "https://vulncheck.com/xdb/76887e2664e5",
 			"date_added": "2020-07-15T15:20:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:chipik/SAP_RECON.git"
+		},
+		{
+			"xdb_id": "85f301721ead",
+			"xdb_url": "https://vulncheck.com/xdb/85f301721ead",
+			"date_added": "2020-07-21T01:22:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Onapsis/CVE-2020-6287_RECON-scanner.git"
 		},
 		{
 			"xdb_id": "28d90963af15",

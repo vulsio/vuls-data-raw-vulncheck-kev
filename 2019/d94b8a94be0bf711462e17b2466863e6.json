@@ -1225,6 +1225,10 @@
 			"date_added": "2024-09-09T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-10&host_type=src&vulnerability=cve-2019-2725",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/new-mirai-variant-adds-8-new-exploits-targets-additional-iot-devices/",
 			"date_added": "2019-06-06T00:00:00Z"
 		},

@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:emanueldosreis/nmap-CVE-2023-23333-exploit.git"
 		},
 		{
-			"xdb_id": "5bfdaad4d21d",
-			"xdb_url": "https://vulncheck.com/xdb/5bfdaad4d21d",
-			"date_added": "2023-06-16T14:33:31Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-23333.git"
-		},
-		{
 			"xdb_id": "84aae20701dd",
 			"xdb_url": "https://vulncheck.com/xdb/84aae20701dd",
 			"date_added": "2024-06-22T17:54:50Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:binaryusergearone/SolarView-Compact-6.00-Command-Injection-Exploit-CVE-2023-23333-.git"
+		},
+		{
+			"xdb_id": "5bfdaad4d21d",
+			"xdb_url": "https://vulncheck.com/xdb/5bfdaad4d21d",
+			"date_added": "2023-06-16T14:33:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-23333.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

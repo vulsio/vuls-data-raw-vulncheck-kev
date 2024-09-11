@@ -15,6 +15,13 @@
 			"date_added": "2018-06-18T15:22:01Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:RicterZ/PIE-Stack-Clash-CVE-2017-1000253.git"
+		},
+		{
+			"xdb_id": "545d9c502435",
+			"xdb_url": "https://vulncheck.com/xdb/545d9c502435",
+			"date_added": "2022-10-16T23:08:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sxlmnwb/CVE-2017-1000253.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

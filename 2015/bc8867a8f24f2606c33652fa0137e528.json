@@ -80,6 +80,13 @@
 			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-0199.git"
 		},
 		{
+			"xdb_id": "306bb11d6afe",
+			"xdb_url": "https://vulncheck.com/xdb/306bb11d6afe",
+			"date_added": "2024-09-10T13:31:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kash-123/CVE-2017-0199.git"
+		},
+		{
 			"xdb_id": "aacae3861886",
 			"xdb_url": "https://vulncheck.com/xdb/aacae3861886",
 			"date_added": "2022-01-10T15:13:09+08:00",

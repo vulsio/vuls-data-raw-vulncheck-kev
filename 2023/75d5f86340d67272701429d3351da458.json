@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:sigridou/CVE-2023-44487-.git"
 		},
 		{
-			"xdb_id": "de08f4feae4c",
-			"xdb_url": "https://vulncheck.com/xdb/de08f4feae4c",
-			"date_added": "2023-11-08T20:56:22Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:ndrscodes/http2-rst-stream-attacker.git"
-		},
-		{
 			"xdb_id": "1a4725458b4a",
 			"xdb_url": "https://vulncheck.com/xdb/1a4725458b4a",
 			"date_added": "2023-11-10T08:38:51Z",
@@ -66,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:imabee101/CVE-2023-44487.git"
 		},
 		{
-			"xdb_id": "95898a14699a",
-			"xdb_url": "https://vulncheck.com/xdb/95898a14699a",
-			"date_added": "2023-10-10T14:20:42Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-44487.git"
-		},
-		{
 			"xdb_id": "9ae3b81b8bd9",
 			"xdb_url": "https://vulncheck.com/xdb/9ae3b81b8bd9",
 			"date_added": "2023-11-24T18:26:36Z",
@@ -85,6 +71,20 @@
 			"date_added": "2023-10-13T23:55:32Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:secengjeff/rapidresetclient.git"
+		},
+		{
+			"xdb_id": "de08f4feae4c",
+			"xdb_url": "https://vulncheck.com/xdb/de08f4feae4c",
+			"date_added": "2023-11-08T20:56:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:ndrscodes/http2-rst-stream-attacker.git"
+		},
+		{
+			"xdb_id": "95898a14699a",
+			"xdb_url": "https://vulncheck.com/xdb/95898a14699a",
+			"date_added": "2023-10-10T14:20:42Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-44487.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

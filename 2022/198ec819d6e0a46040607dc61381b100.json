@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "c4940d640ef5",
-			"xdb_url": "https://vulncheck.com/xdb/c4940d640ef5",
-			"date_added": "2023-05-02T07:56:28Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:meowhua15/CVE-2022-30190.git"
-		},
-		{
 			"xdb_id": "ce385fe1282f",
 			"xdb_url": "https://vulncheck.com/xdb/ce385fe1282f",
 			"date_added": "2022-12-29T13:06:16Z",
@@ -197,6 +190,13 @@
 			"date_added": "2022-05-31T06:45:25Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:onecloudemoji/CVE-2022-30190.git"
+		},
+		{
+			"xdb_id": "ec804773a346",
+			"xdb_url": "https://vulncheck.com/xdb/ec804773a346",
+			"date_added": "2023-05-02T07:56:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:hycheng15/CVE-2022-30190.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
