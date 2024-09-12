@@ -1,8 +1,8 @@
 {
 	"vendorProject": "QNAP",
-	"product": "QTS, QuTS hero",
-	"shortDescription": "A buffer copy without checking size of input vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute code via a network.",
-	"vulnerabilityName": "QNAP Operating System Authenticated Network Buffer Overflow",
+	"product": "QTS",
+	"shortDescription": "A buffer copy without checking size of input vulnerability has been reported to affect several QNAP operating system versions. If exploited, the vulnerability could allow users to execute code via a network.\n\nWe have already fixed the vulnerability in the following version:\nQTS 5.1.7.2770 build 20240520 and later\nQuTS hero h5.1.7.2770 build 20240520 and later",
+	"vulnerabilityName": "QNAP QTS Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

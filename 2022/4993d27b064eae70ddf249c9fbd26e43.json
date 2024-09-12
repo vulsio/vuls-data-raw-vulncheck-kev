@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "d9494fbeed7f",
-			"xdb_url": "https://vulncheck.com/xdb/d9494fbeed7f",
-			"date_added": "2021-10-14T03:47:02Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:BrucessKING/CVE-2021-36749.git"
-		},
-		{
 			"xdb_id": "e4e9ac13414a",
 			"xdb_url": "https://vulncheck.com/xdb/e4e9ac13414a",
 			"date_added": "2021-05-22T05:06:33Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:sma11new/PocList.git"
+		},
+		{
+			"xdb_id": "d9494fbeed7f",
+			"xdb_url": "https://vulncheck.com/xdb/d9494fbeed7f",
+			"date_added": "2021-10-14T03:47:02Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:BrucessKING/CVE-2021-36749.git"
 		},
 		{
 			"xdb_id": "65e8166e235d",

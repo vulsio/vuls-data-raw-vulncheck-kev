@@ -122,13 +122,6 @@
 			"clone_ssh_url": "git@github.com:simonlee-hello/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "87edd3bbabdf",
-			"xdb_url": "https://vulncheck.com/xdb/87edd3bbabdf",
-			"date_added": "2021-01-25T08:42:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:SecPros-Team/laravel-CVE-2021-3129-EXP.git"
-		},
-		{
 			"xdb_id": "47a1b3108a7c",
 			"xdb_url": "https://vulncheck.com/xdb/47a1b3108a7c",
 			"date_added": "2022-10-11T08:53:05Z",
@@ -157,10 +150,17 @@
 			"clone_ssh_url": "git@github.com:SNCKER/CVE-2021-3129.git"
 		},
 		{
+			"xdb_id": "87edd3bbabdf",
+			"xdb_url": "https://vulncheck.com/xdb/87edd3bbabdf",
+			"date_added": "2021-01-25T08:42:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:SecPros-Team/laravel-CVE-2021-3129-EXP.git"
+		},
+		{
 			"xdb_id": "9612bcbc8150",
 			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
 			"date_added": "2024-01-15T07:12:07Z",
-			"exploit_type": "initial-access",
+			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{

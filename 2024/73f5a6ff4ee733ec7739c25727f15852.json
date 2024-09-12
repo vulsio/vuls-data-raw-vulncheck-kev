@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Publisher",
-	"shortDescription": "Microsoft Publisher contains a security feature bypass vulnerability that allows attacker to bypass Office macro policies used to block untrusted or malicious files.",
-	"vulnerabilityName": "Microsoft Publisher Security Feature Bypass Vulnerability",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Update contains a use-after-free vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft Windows Update Use-After-Free Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2024-38226"
+		"CVE-2024-43491"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
@@ -19,7 +19,11 @@
 			"date_added": "2024-09-10T00:00:00Z"
 		},
 		{
-			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38226",
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43491",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
 			"date_added": "2024-09-10T00:00:00Z"
 		}
 	],

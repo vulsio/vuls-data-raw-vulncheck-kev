@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://fortiguard.fortinet.com/encyclopedia/ips/15995",
+			"date_added": "2008-10-24T00:00:00Z"
+		},
+		{
 			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
 			"date_added": "2012-10-18T00:00:00Z"
 		},
@@ -31,5 +35,5 @@
 			"date_added": "2021-12-15T00:00:00Z"
 		}
 	],
-	"date_added": "2012-10-18T00:00:00Z"
+	"date_added": "2008-10-24T00:00:00Z"
 }

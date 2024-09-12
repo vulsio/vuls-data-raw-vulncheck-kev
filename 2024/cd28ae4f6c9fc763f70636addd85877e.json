@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-43461"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
+			"date_added": "2024-09-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-10T00:00:00Z"
+}

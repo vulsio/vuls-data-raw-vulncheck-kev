@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Microsoft",
 	"product": "Windows",
-	"shortDescription": "Microsoft Windows Mark of the Web (MOTW) contains a security feature bypass vulnerability that allows an attacker to bypass MOTW-based defenses. This can result in a limited loss of integrity and availability of security features such as Protected View in Microsoft Office, which rely on MOTW tagging.",
-	"vulnerabilityName": "Microsoft Windows Mark of the Web (MOTW) Security Feature Bypass Vulnerability",
+	"shortDescription": "Microsoft Windows Installer contains an improper privilege management vulnerability that could allow an attacker to gain SYSTEM privileges.",
+	"vulnerabilityName": "Microsoft Windows Installer Improper Privilege Management Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2024-38217"
+		"CVE-2024-38014"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
@@ -19,7 +19,11 @@
 			"date_added": "2024-09-10T00:00:00Z"
 		},
 		{
-			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38217",
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38014",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
 			"date_added": "2024-09-10T00:00:00Z"
 		}
 	],

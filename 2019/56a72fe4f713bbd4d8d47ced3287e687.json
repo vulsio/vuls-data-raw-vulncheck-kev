@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:0xab01/-CVE-2019-11510-Exploit.git"
 		},
 		{
-			"xdb_id": "2f72c6e36a8e",
-			"xdb_url": "https://vulncheck.com/xdb/2f72c6e36a8e",
-			"date_added": "2019-08-27T09:21:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11510-1.git"
-		},
-		{
 			"xdb_id": "2f9e05a2128d",
 			"xdb_url": "https://vulncheck.com/xdb/2f9e05a2128d",
 			"date_added": "2019-08-26T23:30:15Z",
@@ -85,6 +78,13 @@
 			"date_added": "2019-08-21T08:40:26Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:projectzeroindia/CVE-2019-11510.git"
+		},
+		{
+			"xdb_id": "2f72c6e36a8e",
+			"xdb_url": "https://vulncheck.com/xdb/2f72c6e36a8e",
+			"date_added": "2019-08-27T09:21:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11510-1.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
