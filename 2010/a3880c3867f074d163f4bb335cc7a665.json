@@ -1,0 +1,23 @@
+{
+	"vendorProject": "sun",
+	"product": "jdk",
+	"shortDescription": "Stack-based buffer overflow in the HsbParser.getSoundBank function in Sun Java SE in JDK and JRE 5.0 before Update 22, JDK and JRE 6 before Update 17, SDK and JRE 1.3.x before 1.3.1_27, and SDK and JRE 1.4.x before 1.4.2_24 allows remote attackers to execute arbitrary code via a long file: URL in an argument, aka Bug Id 6854303.",
+	"vulnerabilityName": "sun jdk Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-3867"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/monthly-malware-statistics-may-2010/36304/",
+			"date_added": "2010-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cybercrime-raiders/36323/",
+			"date_added": "2010-10-12T00:00:00Z"
+		}
+	],
+	"date_added": "2010-06-03T00:00:00Z"
+}

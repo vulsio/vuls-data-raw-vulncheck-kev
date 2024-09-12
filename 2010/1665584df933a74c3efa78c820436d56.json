@@ -11,6 +11,14 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://securelist.com/monthly-malware-statistics-may-2010/36304/",
+			"date_added": "2010-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cybercrime-raiders/36323/",
+			"date_added": "2010-10-12T00:00:00Z"
+		},
+		{
 			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
 			"date_added": "2013-03-21T00:00:00Z"
 		},
@@ -27,5 +35,5 @@
 			"date_added": "2016-09-29T00:00:00Z"
 		}
 	],
-	"date_added": "2013-03-21T00:00:00Z"
+	"date_added": "2010-06-03T00:00:00Z"
 }

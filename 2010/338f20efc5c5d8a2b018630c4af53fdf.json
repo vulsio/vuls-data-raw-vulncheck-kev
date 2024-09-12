@@ -11,9 +11,13 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://securelist.com/monthly-malware-statistics-may-2010/36304/",
+			"date_added": "2010-06-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.hkcert.org/blog/large-scale-injection-incidents-targeting-oscommerce-websites",
 			"date_added": "2011-07-26T00:00:00Z"
 		}
 	],
-	"date_added": "2011-07-26T00:00:00Z"
+	"date_added": "2010-06-03T00:00:00Z"
 }

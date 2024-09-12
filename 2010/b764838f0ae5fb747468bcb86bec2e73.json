@@ -15,6 +15,10 @@
 			"date_added": "2022-09-15T00:00:00Z"
 		},
 		{
+			"url": "https://securelist.com/cybercrime-raiders/36323/",
+			"date_added": "2010-10-12T00:00:00Z"
+		},
+		{
 			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
 			"date_added": "2012-10-18T00:00:00Z"
 		},
@@ -45,5 +49,5 @@
 	],
 	"dueDate": "2022-10-06T00:00:00Z",
 	"cisa_date_added": "2022-09-15T00:00:00Z",
-	"date_added": "2012-10-18T00:00:00Z"
+	"date_added": "2010-10-12T00:00:00Z"
 }
