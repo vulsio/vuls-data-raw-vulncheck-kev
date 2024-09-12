@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "8af1b948c982",
-			"xdb_url": "https://vulncheck.com/xdb/8af1b948c982",
-			"date_added": "2023-06-23T17:13:22Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:VEEXH/CVE-2022-30136.git"
-		},
-		{
 			"xdb_id": "30229201b0bb",
 			"xdb_url": "https://vulncheck.com/xdb/30229201b0bb",
 			"date_added": "2023-03-15T10:59:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:fortra/CVE-2022-30136.git"
+		},
+		{
+			"xdb_id": "2e454094cc6c",
+			"xdb_url": "https://vulncheck.com/xdb/2e454094cc6c",
+			"date_added": "2023-06-23T17:13:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:AXRoux/CVE-2022-30136.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -269,13 +269,6 @@
 			"clone_ssh_url": "git@github.com:huseyinstif/CVE-2024-4577-Nuclei-Template.git"
 		},
 		{
-			"xdb_id": "5467e9a9f0fa",
-			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
-			"date_added": "2024-08-20T02:56:03Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
-		},
-		{
 			"xdb_id": "c8e637167f42",
 			"xdb_url": "https://vulncheck.com/xdb/c8e637167f42",
 			"date_added": "2024-06-12T04:50:25Z",
@@ -288,6 +281,13 @@
 			"date_added": "2024-06-07T09:52:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "e294281b4747",
+			"xdb_url": "https://vulncheck.com/xdb/e294281b4747",
+			"date_added": "2024-09-10T17:31:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ywChen-NTUST/PHP-CGI-RCE-Scanner.git"
 		},
 		{
 			"xdb_id": "0c4b91081cb3",
@@ -304,11 +304,11 @@
 			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "e294281b4747",
-			"xdb_url": "https://vulncheck.com/xdb/e294281b4747",
-			"date_added": "2024-09-10T17:31:07Z",
+			"xdb_id": "5467e9a9f0fa",
+			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
+			"date_added": "2024-08-20T02:56:03Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ywChen-NTUST/PHP-CGI-RCE-Scanner.git"
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -611,6 +611,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-10&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-09-11T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

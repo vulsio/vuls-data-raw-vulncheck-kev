@@ -1,0 +1,19 @@
+{
+	"vendorProject": "vertaai",
+	"product": "modeldb",
+	"shortDescription": "An attacker can read any file on the filesystem on the server hosting ModelDB through an LFI in the artifact_path URL parameter.",
+	"vulnerabilityName": "vertaai modeldb Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-6023"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2023-6023",
+			"date_added": "2024-09-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-11T00:00:00Z"
+}

@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:lcatro/CVE-2017-7269-Echo-PoC.git"
 		},
 		{
-			"xdb_id": "8e1eaf4da82d",
-			"xdb_url": "https://vulncheck.com/xdb/8e1eaf4da82d",
-			"date_added": "2017-04-05T23:21:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:g0rx/iis6-exploit-2017-CVE-2017-7269.git"
-		},
-		{
 			"xdb_id": "dfebc9a481ad",
 			"xdb_url": "https://vulncheck.com/xdb/dfebc9a481ad",
 			"date_added": "2024-08-07T16:45:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:VanishedPeople/CVE-2017-7269.git"
+		},
+		{
+			"xdb_id": "8e1eaf4da82d",
+			"xdb_url": "https://vulncheck.com/xdb/8e1eaf4da82d",
+			"date_added": "2017-04-05T23:21:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:g0rx/iis6-exploit-2017-CVE-2017-7269.git"
 		},
 		{
 			"xdb_id": "a36c0cf57665",
