@@ -1,0 +1,19 @@
+{
+	"vendorProject": "VMware",
+	"product": "ESXi, Workstation, and Fusion",
+	"shortDescription": "VMware ESXi, Workstation, and Fusion contain a use-after-free vulnerability in the XHCI USB controller. A malicious actor with local administrative privileges on a virtual machine may exploit this issue to execute code as the virtual machine's VMX process running on the host. On ESXi, the exploitation is contained within the VMX sandbox whereas, on Workstation and Fusion, this may lead to code execution on the machine where Workstation or Fusion is installed.",
+	"vulnerabilityName": "VMware ESXi, Workstation, and Fusion XHCI USB Controller Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-22252"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.blackfog.com/upcoming-ransomware-variants-and-groups-2024/",
+			"date_added": "2024-09-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-11T00:00:00Z"
+}

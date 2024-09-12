@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "A use after free vulnerability exists in Adobe Acrobat and Reader that could allow for arbitrary code execution.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Use After Free Remote Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

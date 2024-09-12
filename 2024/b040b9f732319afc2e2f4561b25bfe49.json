@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A spoofing vulnerability exists in the MSHTML platform of Microsoft Windows and Server.",
+	"vulnerabilityName": "Windows MSHTML Platform Spoofing Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
