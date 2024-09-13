@@ -80,18 +80,18 @@
 			"clone_ssh_url": "git@github.com:mahmoodsabir/mikrotik-beast.git"
 		},
 		{
-			"xdb_id": "895d08413809",
-			"xdb_url": "https://vulncheck.com/xdb/895d08413809",
-			"date_added": "2018-12-15T10:38:26Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-14847.git"
-		},
-		{
 			"xdb_id": "c9e4be4e4345",
 			"xdb_url": "https://vulncheck.com/xdb/c9e4be4e4345",
 			"date_added": "2018-10-02T13:59:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:tenable/routeros.git"
+		},
+		{
+			"xdb_id": "895d08413809",
+			"xdb_url": "https://vulncheck.com/xdb/895d08413809",
+			"date_added": "2018-12-15T10:38:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-14847.git"
 		},
 		{
 			"xdb_id": "792af1f0da8f",

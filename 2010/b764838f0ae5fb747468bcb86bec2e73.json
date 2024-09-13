@@ -15,6 +15,10 @@
 			"date_added": "2022-09-15T00:00:00Z"
 		},
 		{
+			"url": "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/web-attack/54/stuxnet-malware-targets-scada-systems",
+			"date_added": "2010-10-01T00:00:00Z"
+		},
+		{
 			"url": "https://securelist.com/cybercrime-raiders/36323/",
 			"date_added": "2010-10-12T00:00:00Z"
 		},
@@ -49,5 +53,5 @@
 	],
 	"dueDate": "2022-10-06T00:00:00Z",
 	"cisa_date_added": "2022-09-15T00:00:00Z",
-	"date_added": "2010-10-12T00:00:00Z"
+	"date_added": "2010-10-01T00:00:00Z"
 }

@@ -79,6 +79,10 @@
 			"date_added": "2017-07-01T00:00:00Z"
 		},
 		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/2017-notable-vulnerabilities-and-exploits",
+			"date_added": "2017-12-06T00:00:00Z"
+		},
+		{
 			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
 			"date_added": "2019-09-01T00:00:00Z"
 		},
@@ -143,10 +147,6 @@
 			"date_added": "2017-06-30T00:00:00Z"
 		},
 		{
-			"url": "https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/2017-notable-vulnerabilities-and-exploits",
-			"date_added": "2017-12-06T00:00:00Z"
-		},
-		{
 			"url": "https://www.cisa.gov/ncas/alerts/TA17-181A",
 			"date_added": "2018-02-15T00:00:00Z"
 		},
@@ -181,6 +181,10 @@
 		{
 			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
 			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://paratusgroup.ru/en/blog/cybersecurity-and-its-role/",
+			"date_added": "2021-11-11T00:00:00Z"
 		},
 		{
 			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",

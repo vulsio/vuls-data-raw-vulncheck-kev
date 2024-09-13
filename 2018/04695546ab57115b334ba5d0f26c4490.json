@@ -1231,6 +1231,10 @@
 			"date_added": "2022-03-07T00:00:00Z"
 		},
 		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2018/03/vb2017-paper-router-all-evil-more-just-default-passwords-and-silly-scripts/",
+			"date_added": "2018-03-01T00:00:00Z"
+		},
+		{
 			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
 			"date_added": "2023-04-27T00:00:00Z"
 		},
@@ -1241,5 +1245,5 @@
 	],
 	"dueDate": "2022-09-07T00:00:00Z",
 	"cisa_date_added": "2022-03-07T00:00:00Z",
-	"date_added": "2018-07-13T00:00:00Z"
+	"date_added": "2018-03-01T00:00:00Z"
 }

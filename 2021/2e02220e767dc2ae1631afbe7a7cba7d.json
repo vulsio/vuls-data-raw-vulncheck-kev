@@ -1,0 +1,27 @@
+{
+	"vendorProject": "cpuid",
+	"product": "cpu-z",
+	"shortDescription": "In CPUID CPU-Z before 1.43, there is an arbitrary memory write that results directly in elevation of privileges, because any program running on the local machine (while CPU-Z is running) can issue an ioctl 0x9C402430 call to the kernel-mode driver (e.g., cpuz141_x64.sys for version 1.41).",
+	"vulnerabilityName": "cpuid cpu-z Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-15303"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "61442d0705c5",
+			"xdb_url": "https://vulncheck.com/xdb/61442d0705c5",
+			"date_added": "2018-02-22T05:31:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hfiref0x/Stryker.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.rapid7.com/blog/post/2021/12/13/driver-based-attacks-past-and-present/",
+			"date_added": "2021-12-13T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-13T00:00:00Z"
+}

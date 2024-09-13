@@ -19,9 +19,13 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2018/03/vb2017-paper-router-all-evil-more-just-default-passwords-and-silly-scripts/",
+			"date_added": "2018-03-01T00:00:00Z"
+		},
+		{
 			"url": "https://www.sonicwall.com/medialibrary/en/white-paper/mid-year-2024-cyber-threat-report.pdf",
 			"date_added": "2024-07-23T00:00:00Z"
 		}
 	],
-	"date_added": "2024-07-23T00:00:00Z"
+	"date_added": "2018-03-01T00:00:00Z"
 }

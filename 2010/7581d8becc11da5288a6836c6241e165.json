@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/web-attack/54/stuxnet-malware-targets-scada-systems",
+			"date_added": "2010-10-01T00:00:00Z"
+		},
+		{
 			"url": "https://support.industry.siemens.com/cs/document/43876783/simatic-wincc-simatic-pcs-7-information-about-malware-viruses-trojan-horses?dti=0&lc=en-US",
 			"date_added": "2011-04-01T00:00:00Z"
 		},
@@ -19,5 +23,5 @@
 			"date_added": "2021-12-15T00:00:00Z"
 		}
 	],
-	"date_added": "2011-04-01T00:00:00Z"
+	"date_added": "2010-10-01T00:00:00Z"
 }
