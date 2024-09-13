@@ -1,0 +1,27 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "sonicos",
+	"shortDescription": "A Stack-based buffer overflow vulnerability in the SonicOS allows a remote unauthenticated attacker to cause Denial of Service (DoS), which could cause an impacted firewall to crash.",
+	"vulnerabilityName": "SonicWall sonicos Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0656"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b6a0042b1425",
+			"xdb_url": "https://vulncheck.com/xdb/b6a0042b1425",
+			"date_added": "2024-01-12T20:03:51Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:BishopFox/CVE-2022-22274_CVE-2023-0656.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2023-0656",
+			"date_added": "2024-09-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-12T00:00:00Z"
+}

@@ -143,18 +143,18 @@
 			"clone_ssh_url": "git@gitee.com:mengqingyu100/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
-			"xdb_id": "68e84da49d7d",
-			"xdb_url": "https://vulncheck.com/xdb/68e84da49d7d",
-			"date_added": "2021-08-20T23:48:11+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2018-9995-2.git"
-		},
-		{
 			"xdb_id": "7eaf338f4f14",
 			"xdb_url": "https://vulncheck.com/xdb/7eaf338f4f14",
 			"date_added": "2022-01-11T19:49:27+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:mirrors_ezelf/CVE-2018-9995_dvr_credentials.git"
+		},
+		{
+			"xdb_id": "68e84da49d7d",
+			"xdb_url": "https://vulncheck.com/xdb/68e84da49d7d",
+			"date_added": "2021-08-20T23:48:11+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2018-9995-2.git"
 		},
 		{
 			"xdb_id": "41fff1110aee",
@@ -1292,6 +1292,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2018-9995",
 			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2018-9995",
+			"date_added": "2024-09-12T00:00:00Z"
 		},
 		{
 			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",

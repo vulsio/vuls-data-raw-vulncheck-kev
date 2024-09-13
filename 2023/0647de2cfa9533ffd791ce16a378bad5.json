@@ -143,13 +143,6 @@
 			"clone_ssh_url": "git@github.com:Sic4rio/Grafana-Decryptor-for-CVE-2021-43798.git"
 		},
 		{
-			"xdb_id": "8773828620b6",
-			"xdb_url": "https://vulncheck.com/xdb/8773828620b6",
-			"date_added": "2024-03-04T18:32:21Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-43798-EXPLOIT.git"
-		},
-		{
 			"xdb_id": "ff14ea986b7e",
 			"xdb_url": "https://vulncheck.com/xdb/ff14ea986b7e",
 			"date_added": "2021-12-07T12:47:58Z",
@@ -183,6 +176,13 @@
 			"date_added": "2021-12-07T09:02:16Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:jas502n/Grafana-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "8773828620b6",
+			"xdb_url": "https://vulncheck.com/xdb/8773828620b6",
+			"date_added": "2024-03-04T18:32:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-43798-EXPLOIT.git"
 		},
 		{
 			"xdb_id": "5489d7843c65",

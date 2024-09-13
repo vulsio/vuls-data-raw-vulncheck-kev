@@ -409,6 +409,13 @@
 			"clone_ssh_url": "git@github.com:forktheplanet/CVE-2022-1388.git"
 		},
 		{
+			"xdb_id": "49c26aab032e",
+			"xdb_url": "https://vulncheck.com/xdb/49c26aab032e",
+			"date_added": "2024-09-12T17:25:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:impost0r/CVE-2022-1388.git"
+		},
+		{
 			"xdb_id": "317ac291487c",
 			"xdb_url": "https://vulncheck.com/xdb/317ac291487c",
 			"date_added": "2022-05-09T17:42:31Z",
@@ -1424,6 +1431,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2022-1388",
 			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2022-1388",
+			"date_added": "2024-09-12T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/malware-targeting-latest-f5-vulnerability/",

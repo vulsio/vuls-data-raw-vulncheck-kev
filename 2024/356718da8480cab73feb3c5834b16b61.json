@@ -1,0 +1,34 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "sonicos",
+	"shortDescription": "A Stack-based buffer overflow vulnerability in the SonicOS via HTTP request allows a remote unauthenticated attacker to cause Denial of Service (DoS) or potentially results in code execution in the firewall.",
+	"vulnerabilityName": "SonicWall sonicos Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-22274"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e06bad581fa1",
+			"xdb_url": "https://vulncheck.com/xdb/e06bad581fa1",
+			"date_added": "2023-06-11T16:56:53Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:forthisvideo/CVE-2022-22274_poc.git"
+		},
+		{
+			"xdb_id": "aaa87dc4f469",
+			"xdb_url": "https://vulncheck.com/xdb/aaa87dc4f469",
+			"date_added": "2024-01-18T19:11:20+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:river3587/CVE-2022-22274_CVE-2023-0656.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2022-22274",
+			"date_added": "2024-09-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-12T00:00:00Z"
+}
