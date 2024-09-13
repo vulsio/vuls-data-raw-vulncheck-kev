@@ -4,7 +4,7 @@
 	"shortDescription": "CrushFTP contains an unspecified sandbox escape vulnerability that allows a remote attacker to escape the CrushFTP virtual file system (VFS).",
 	"vulnerabilityName": "CrushFTP VFS Sandbox Escape Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2024-4040"
 	],
@@ -283,6 +283,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2024-4040",
 			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-attacks-rebound",
+			"date_added": "2024-04-24T00:00:00Z"
 		},
 		{
 			"url": "https://www.reddit.com/r/crowdstrike/comments/1c88788/situational_awareness_20240419_crushftp_virtual/",

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "gpac",
+	"product": "gpac",
+	"shortDescription": "NULL Pointer Dereference in GitHub repository gpac/gpac prior to 1.1.0.",
+	"vulnerabilityName": "gpac gpac NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4043"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cadosecurity.com/blog/from-automation-to-exploitation-the-growing-misuse-of-selenium-grid-for-cryptomining-and-proxyjacking",
+			"date_added": "2024-09-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-12T00:00:00Z"
+}

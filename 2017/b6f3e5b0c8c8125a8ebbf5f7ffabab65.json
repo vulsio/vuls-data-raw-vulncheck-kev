@@ -75,6 +75,14 @@
 			"date_added": "2022-02-10T00:00:00Z"
 		},
 		{
+			"url": "https://digital.nhs.uk/cyber-alerts/2017/cc-1353",
+			"date_added": "2017-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://cert.europa.eu/static/SecurityAdvisories/2017/CERT-EU-SA2017-012.pdf",
+			"date_added": "2017-05-22T00:00:00Z"
+		},
+		{
 			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
 			"date_added": "2017-06-20T00:00:00Z"
 		},
