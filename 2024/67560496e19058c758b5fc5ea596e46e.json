@@ -89,6 +89,10 @@
 		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/",
 			"date_added": "2024-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-kimsuky/",
+			"date_added": "2024-09-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-03-25T00:00:00Z",

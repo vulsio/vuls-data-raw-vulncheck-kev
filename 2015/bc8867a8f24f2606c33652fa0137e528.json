@@ -469,6 +469,14 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/deep-analysis-of-snake-keylogger-new-variant",
 			"date_added": "2024-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.trellix.com/blogs/research/unmasking-the-hidden-threat-inside-a-sophisticated-excel-based-attack-delivering-fileless-remcos-rat/",
+			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-kimsuky/",
+			"date_added": "2024-09-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
