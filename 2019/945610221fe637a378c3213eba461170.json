@@ -94,18 +94,18 @@
 			"clone_ssh_url": "git@github.com:WyAtu/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "89f8948e60fb",
-			"xdb_url": "https://vulncheck.com/xdb/89f8948e60fb",
-			"date_added": "2020-04-26T09:30:59+08:00",
+			"xdb_id": "07d3492b35b0",
+			"xdb_url": "https://vulncheck.com/xdb/07d3492b35b0",
+			"date_added": "2021-06-23T15:20:05+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:vantler/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:Ori0n/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "4cf24d124675",
-			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
-			"date_added": "2020-08-06T15:31:27+08:00",
+			"xdb_id": "1c893692c804",
+			"xdb_url": "https://vulncheck.com/xdb/1c893692c804",
+			"date_added": "2019-03-15T22:52:30+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:soapffz/CVE-2018-20250.git"
 		},
 		{
 			"xdb_id": "769a10397402",
@@ -122,18 +122,18 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_WyAtu/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "07d3492b35b0",
-			"xdb_url": "https://vulncheck.com/xdb/07d3492b35b0",
-			"date_added": "2021-06-23T15:20:05+08:00",
+			"xdb_id": "89f8948e60fb",
+			"xdb_url": "https://vulncheck.com/xdb/89f8948e60fb",
+			"date_added": "2020-04-26T09:30:59+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:Ori0n/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:vantler/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "1c893692c804",
-			"xdb_url": "https://vulncheck.com/xdb/1c893692c804",
-			"date_added": "2019-03-15T22:52:30+08:00",
+			"xdb_id": "4cf24d124675",
+			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
+			"date_added": "2020-08-06T15:31:27+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:soapffz/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
 		},
 		{
 			"xdb_id": "2f088777b403",

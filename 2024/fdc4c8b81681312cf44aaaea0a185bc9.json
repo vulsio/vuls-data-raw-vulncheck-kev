@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Cloud Services Appliance",
+	"shortDescription": "Ivanti Cloud Services Appliance (CSA) contains an OS command injection vulnerability in the administrative console which can allow an authenticated attacker with application admin privileges to pass commands to the underlying OS.",
+	"vulnerabilityName": "Ivanti Cloud Services Appliance OS Command Injection Vulnerability",
+	"required_action": "As Ivanti CSA has reached End-of-Life status, users are urged to remove CSA 4.6.x from service or upgrade to the 5.0.x line of supported solutions, as future vulnerabilities on the 4.6.x version of CSA are unlikely to receive future security updates.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8190"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-04T00:00:00Z",
+	"cisa_date_added": "2024-09-13T00:00:00Z",
+	"date_added": "2024-09-13T00:00:00Z"
+}
