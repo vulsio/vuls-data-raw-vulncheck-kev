@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Sep?api-version=2020",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
 			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
 			"date_added": "2024-09-10T00:00:00Z"
 		}
