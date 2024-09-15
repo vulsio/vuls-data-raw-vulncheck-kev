@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:purple-WL/wordpress-CVE-2022-21661.git"
 		},
 		{
-			"xdb_id": "0b64a8c919c4",
-			"xdb_url": "https://vulncheck.com/xdb/0b64a8c919c4",
-			"date_added": "2023-02-08T04:58:57Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:daniel616/CVE-2022-21661-Demo.git"
-		},
-		{
 			"xdb_id": "0b53dab1b573",
 			"xdb_url": "https://vulncheck.com/xdb/0b53dab1b573",
 			"date_added": "2023-01-13T13:31:34Z",
@@ -78,6 +71,13 @@
 			"date_added": "2023-04-27T00:36:16Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sealldeveloper/CVE-2022-21661-PoC.git"
+		},
+		{
+			"xdb_id": "0b64a8c919c4",
+			"xdb_url": "https://vulncheck.com/xdb/0b64a8c919c4",
+			"date_added": "2023-02-08T04:58:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:daniel616/CVE-2022-21661-Demo.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
