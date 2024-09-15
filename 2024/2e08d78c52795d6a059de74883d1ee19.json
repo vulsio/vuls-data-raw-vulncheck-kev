@@ -1,0 +1,19 @@
+{
+	"vendorProject": "rhubcom",
+	"product": "turbomeeting",
+	"shortDescription": "A boolean-based SQL injection issue in the Virtual Meeting Password (VMP) endpoint in R-HUB TurboMeeting through 8.x allows unauthenticated remote attackers to extract hashed passwords from the database, and authenticate to the application, via crafted SQL input.",
+	"vulnerabilityName": "rhubcom turbomeeting Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38289"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-14&host_type=src&vulnerability=cve-2024-38289",
+			"date_added": "2024-09-14T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-14T00:00:00Z"
+}

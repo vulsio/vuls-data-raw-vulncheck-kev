@@ -73,25 +73,11 @@
 			"clone_ssh_url": "git@github.com:CrackerCat/cve2019-2215-3.18.git"
 		},
 		{
-			"xdb_id": "af8a91dc7ae5",
-			"xdb_url": "https://vulncheck.com/xdb/af8a91dc7ae5",
-			"date_added": "2020-06-07T15:03:07Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:sharif-dev/AndroidKernelVulnerability.git"
-		},
-		{
 			"xdb_id": "7c2171bd00f8",
 			"xdb_url": "https://vulncheck.com/xdb/7c2171bd00f8",
 			"date_added": "2024-07-02T10:35:30Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:raymontag/CVE-2019-2215.git"
-		},
-		{
-			"xdb_id": "48c20484fa71",
-			"xdb_url": "https://vulncheck.com/xdb/48c20484fa71",
-			"date_added": "2024-05-20T10:58:53Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:R0rt1z2/huawei-unlock.git"
 		},
 		{
 			"xdb_id": "efc0233357b1",
@@ -141,6 +127,20 @@
 			"date_added": "2023-11-05T14:32:11Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
+		},
+		{
+			"xdb_id": "af8a91dc7ae5",
+			"xdb_url": "https://vulncheck.com/xdb/af8a91dc7ae5",
+			"date_added": "2020-06-07T15:03:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sharif-dev/AndroidKernelVulnerability.git"
+		},
+		{
+			"xdb_id": "48c20484fa71",
+			"xdb_url": "https://vulncheck.com/xdb/48c20484fa71",
+			"date_added": "2024-05-20T10:58:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:R0rt1z2/huawei-unlock.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",
