@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-27564"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "33cd1fc30a38",
+			"xdb_url": "https://vulncheck.com/xdb/33cd1fc30a38",
+			"date_added": "2024-09-15T10:25:01Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-27&host_type=src&vulnerability=cve-2024-27564",

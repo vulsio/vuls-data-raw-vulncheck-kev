@@ -17,6 +17,13 @@
 			"clone_ssh_url": "git@github.com:synacktiv/CVE-2020-27950.git"
 		},
 		{
+			"xdb_id": "f02168cd5ede",
+			"xdb_url": "https://vulncheck.com/xdb/f02168cd5ede",
+			"date_added": "2024-09-15T16:54:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lyonzon2/browser-crash-tool.git"
+		},
+		{
 			"xdb_id": "30d794c9b6ce",
 			"xdb_url": "https://vulncheck.com/xdb/30d794c9b6ce",
 			"date_added": "2021-01-24T18:58:05+08:00",

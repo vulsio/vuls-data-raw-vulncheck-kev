@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:Malwareman007/CVE-2022-21907.git"
 		},
 		{
-			"xdb_id": "f31e1149e743",
-			"xdb_url": "https://vulncheck.com/xdb/f31e1149e743",
-			"date_added": "2022-01-17T15:42:37Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:p0dalirius/CVE-2022-21907-http.sys.git"
-		},
-		{
 			"xdb_id": "8444bab2f56f",
 			"xdb_url": "https://vulncheck.com/xdb/8444bab2f56f",
 			"date_added": "2022-01-23T14:25:12Z",
@@ -71,6 +64,13 @@
 			"date_added": "2022-01-17T02:28:50Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:ZZ-SOCMAP/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "f31e1149e743",
+			"xdb_url": "https://vulncheck.com/xdb/f31e1149e743",
+			"date_added": "2022-01-17T15:42:37Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:p0dalirius/CVE-2022-21907-http.sys.git"
 		},
 		{
 			"xdb_id": "65a99dd97dd6",
