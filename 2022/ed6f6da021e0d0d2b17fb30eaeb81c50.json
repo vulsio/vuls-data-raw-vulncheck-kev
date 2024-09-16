@@ -66,6 +66,20 @@
 			"clone_ssh_url": "git@github.com:Frichetten/CVE-2019-5736-PoC.git"
 		},
 		{
+			"xdb_id": "c37072317e5d",
+			"xdb_url": "https://vulncheck.com/xdb/c37072317e5d",
+			"date_added": "2021-12-22T16:58:49+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:sekla/CVE-2019-5736-PoC.git"
+		},
+		{
+			"xdb_id": "dfb45d4148e6",
+			"xdb_url": "https://vulncheck.com/xdb/dfb45d4148e6",
+			"date_added": "2022-01-11T23:40:25+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_Frichetten/CVE-2019-5736-PoC.git"
+		},
+		{
 			"xdb_id": "8b94a95c6eea",
 			"xdb_url": "https://vulncheck.com/xdb/8b94a95c6eea",
 			"date_added": "2022-01-25T21:41:36+08:00",
@@ -78,20 +92,6 @@
 			"date_added": "2021-10-29T16:45:11+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:diss_1_safe2011/CVE-2019-5736-PoC.git"
-		},
-		{
-			"xdb_id": "dfb45d4148e6",
-			"xdb_url": "https://vulncheck.com/xdb/dfb45d4148e6",
-			"date_added": "2022-01-11T23:40:25+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_Frichetten/CVE-2019-5736-PoC.git"
-		},
-		{
-			"xdb_id": "c37072317e5d",
-			"xdb_url": "https://vulncheck.com/xdb/c37072317e5d",
-			"date_added": "2021-12-22T16:58:49+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:sekla/CVE-2019-5736-PoC.git"
 		},
 		{
 			"xdb_id": "dbfbe09bd96b",

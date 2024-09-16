@@ -213,13 +213,6 @@
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
-			"xdb_id": "91302a8a527c",
-			"xdb_url": "https://vulncheck.com/xdb/91302a8a527c",
-			"date_added": "2020-09-11T15:43:08+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
-		},
-		{
 			"xdb_id": "137b7b5051c2",
 			"xdb_url": "https://vulncheck.com/xdb/137b7b5051c2",
 			"date_added": "2021-09-28T11:09:31+08:00",
@@ -227,11 +220,11 @@
 			"clone_ssh_url": "git@gitee.com:Draycen/shellshock_scanner.git"
 		},
 		{
-			"xdb_id": "f04bc714ad93",
-			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
-			"date_added": "2020-08-18T23:57:19+08:00",
+			"xdb_id": "91302a8a527c",
+			"xdb_url": "https://vulncheck.com/xdb/91302a8a527c",
+			"date_added": "2020-09-11T15:43:08+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
+			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
 		},
 		{
 			"xdb_id": "e57812c06caf",
@@ -239,6 +232,13 @@
 			"date_added": "2020-09-11T15:43:16+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
+		},
+		{
+			"xdb_id": "f04bc714ad93",
+			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
+			"date_added": "2020-08-18T23:57:19+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
 		},
 		{
 			"xdb_id": "3af8913bb29e",
