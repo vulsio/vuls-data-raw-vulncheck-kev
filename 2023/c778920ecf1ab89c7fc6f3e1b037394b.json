@@ -1,7 +1,7 @@
 {
 	"vendorProject": "SolarWinds",
 	"product": "Serv-U",
-	"shortDescription": "A researcher reported a Directory Transversal Vulnerability in Serv-U 15.3. This may allow access to files relating to the Serv-U installation and server files. This issue has been resolved in Serv-U 15.3 Hotfix 1.\n\n",
+	"shortDescription": "A researcher reported a Directory Transversal Vulnerability in Serv-U 15.3. This may allow access to files relating to the Serv-U installation and server files. This issue has been resolved in Serv-U 15.3 Hotfix 1.",
 	"vulnerabilityName": "SolarWinds Serv-U Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
@@ -281,6 +281,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-14&host_type=src&vulnerability=cve-2021-35250",
 			"date_added": "2024-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-16&host_type=src&vulnerability=cve-2021-35250",
+			"date_added": "2024-09-16T00:00:00Z"
 		}
 	],
 	"date_added": "2023-12-24T00:00:00Z"

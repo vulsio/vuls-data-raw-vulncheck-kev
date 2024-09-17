@@ -277,6 +277,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-13&host_type=src&vulnerability=cve-2022-0952",
 			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-16&host_type=src&vulnerability=cve-2022-0952",
+			"date_added": "2024-09-16T00:00:00Z"
 		}
 	],
 	"date_added": "2024-01-02T00:00:00Z"

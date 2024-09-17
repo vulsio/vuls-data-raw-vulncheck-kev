@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-7965"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "bcc27e4b72fb",
+			"xdb_url": "https://vulncheck.com/xdb/bcc27e4b72fb",
+			"date_added": "2024-09-16T19:04:57Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bi-zone/CVE-2024-7965.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

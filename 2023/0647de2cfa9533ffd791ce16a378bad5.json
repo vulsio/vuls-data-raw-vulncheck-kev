@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:scopion/CVE-2021-43799.git"
 		},
 		{
-			"xdb_id": "558378a73ba5",
-			"xdb_url": "https://vulncheck.com/xdb/558378a73ba5",
-			"date_added": "2021-12-06T20:10:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:taythebot/CVE-2021-43798.git"
-		},
-		{
 			"xdb_id": "aaf92101142b",
 			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
 			"date_added": "2021-12-07T15:11:34Z",
@@ -183,6 +176,13 @@
 			"date_added": "2024-03-04T18:32:21Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-43798-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "558378a73ba5",
+			"xdb_url": "https://vulncheck.com/xdb/558378a73ba5",
+			"date_added": "2021-12-06T20:10:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:taythebot/CVE-2021-43798.git"
 		},
 		{
 			"xdb_id": "5489d7843c65",
