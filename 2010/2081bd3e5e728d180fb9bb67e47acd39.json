@@ -2,7 +2,7 @@
 	"vendorProject": "Red Hat",
 	"product": "linux",
 	"shortDescription": "The web GUI for the Linux Virtual Server (LVS) software in the Red Hat Linux Piranha package has a backdoor password that allows remote attackers to execute arbitrary commands.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Red Hat Linux Piranha Package Linux Virtual Server (LVS) Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
