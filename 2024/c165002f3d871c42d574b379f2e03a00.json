@@ -1,0 +1,19 @@
+{
+	"vendorProject": "northgrid",
+	"product": "proself",
+	"shortDescription": "Proself Enterprise/Standard Edition Ver5.62 and earlier, Proself Gateway Edition Ver1.65 and earlier, and Proself Mail Sanitize Edition Ver1.08 and earlier allow a remote unauthenticated attacker to conduct XML External Entity (XXE) attacks. By processing a specially crafted request containing malformed XML data, arbitrary files on the server containing account information may be read by the attacker.",
+	"vulnerabilityName": "northgrid proself Improper Restriction of XML External Entity Reference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-45727"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cybereason.com/blog/cuckoo-spear-analyzing-noopdoor",
+			"date_added": "2024-09-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-13T00:00:00Z"
+}

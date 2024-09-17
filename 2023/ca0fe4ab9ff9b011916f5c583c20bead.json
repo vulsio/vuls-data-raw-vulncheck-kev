@@ -107,6 +107,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
 			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybereason.com/blog/cuckoo-spear-analyzing-noopdoor",
+			"date_added": "2024-09-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-07-04T00:00:00Z",

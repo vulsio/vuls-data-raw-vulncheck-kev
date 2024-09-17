@@ -1,7 +1,7 @@
 {
 	"vendorProject": "yikesinc",
 	"product": "custom_product_tabs_for_woocommerce",
-	"shortDescription": "Broken Access Control vulnerability in YIKES Inc. Custom Product Tabs for WooCommerce plugin <= 1.7.7 at WordPress leading to &yikes-the-content-toggle option update.\n\n",
+	"shortDescription": "Broken Access Control vulnerability in YIKES Inc. Custom Product Tabs for WooCommerce plugin <= 1.7.7 at WordPress leading to &yikes-the-content-toggle option update.",
 	"vulnerabilityName": "yikesinc custom_product_tabs_for_woocommerce Improper Authentication",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",

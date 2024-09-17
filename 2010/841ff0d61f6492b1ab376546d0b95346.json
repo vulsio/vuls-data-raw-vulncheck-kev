@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "linux",
+	"shortDescription": "The web GUI for the Linux Virtual Server (LVS) software in the Red Hat Linux Piranha package has a backdoor password that allows remote attackers to execute arbitrary commands.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2000-0248"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://packetstormsecurity.com/files/86303/RedHat-Piranha-Virtual-Server-Package-passwd.php3-Arbitrary-Command-Execution.html",
+			"date_added": "2010-02-15T00:00:00Z"
+		}
+	],
+	"date_added": "2010-02-15T00:00:00Z"
+}

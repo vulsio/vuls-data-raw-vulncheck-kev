@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows MSHTML Platform contains a user interface (UI) misrepresentation of critical information vulnerability that allows an attacker to spoof a web page. This vulnerability was exploited in conjunction with CVE-2024-38112.",
+	"vulnerabilityName": "Microsoft Windows MSHTML Platform Spoofing Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-43461"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-16T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Sep?api-version=2020",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
+			"date_added": "2024-09-10T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-07T00:00:00Z",
+	"cisa_date_added": "2024-09-16T00:00:00Z",
+	"date_added": "2024-09-10T00:00:00Z"
+}
