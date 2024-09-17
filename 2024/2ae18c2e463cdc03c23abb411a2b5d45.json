@@ -21,6 +21,14 @@
 		{
 			"url": "https://www.zerodayinitiative.com/blog/2024/9/10/the-september-2024-security-update-review",
 			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-43461",
+			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/amp/",
+			"date_added": "2024-09-15T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-07T00:00:00Z",
