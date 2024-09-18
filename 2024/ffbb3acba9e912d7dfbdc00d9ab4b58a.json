@@ -1,0 +1,41 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-2961"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "cb29502a8900",
+			"xdb_url": "https://vulncheck.com/xdb/cb29502a8900",
+			"date_added": "2024-06-03T23:53:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:exfil0/test_iconv.git"
+		},
+		{
+			"xdb_id": "4bd6d8711dbe",
+			"xdb_url": "https://vulncheck.com/xdb/4bd6d8711dbe",
+			"date_added": "2024-06-04T09:57:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kjdfklha/CVE-2024-2961_poc.git"
+		},
+		{
+			"xdb_id": "cab9ee9dc6bb",
+			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
+			"date_added": "2024-05-27T08:30:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ambionics/cnext-exploits.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://sansec.io/research/cosmicsting",
+			"date_added": "2024-09-16T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-16T00:00:00Z"
+}
