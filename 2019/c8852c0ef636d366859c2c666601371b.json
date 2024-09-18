@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:mufidmb38/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "703d7ebd8c6a",
-			"xdb_url": "https://vulncheck.com/xdb/703d7ebd8c6a",
-			"date_added": "2020-01-30T06:06:32Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:LIznzn/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "d23821631cf3",
 			"xdb_url": "https://vulncheck.com/xdb/d23821631cf3",
 			"date_added": "2023-05-27T20:12:18Z",
@@ -141,6 +134,13 @@
 			"date_added": "2020-02-17T11:53:54Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:DimitriFourny/cve-2019-2215.git"
+		},
+		{
+			"xdb_id": "703d7ebd8c6a",
+			"xdb_url": "https://vulncheck.com/xdb/703d7ebd8c6a",
+			"date_added": "2020-01-30T06:06:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LIznzn/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

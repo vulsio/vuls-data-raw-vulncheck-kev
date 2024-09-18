@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:exodusintel/CVE-2019-5786.git"
 		},
 		{
-			"xdb_id": "5d48649bb47a",
-			"xdb_url": "https://vulncheck.com/xdb/5d48649bb47a",
-			"date_added": "2022-01-11T21:57:04+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_exodusintel/CVE-2019-5786.git"
-		},
-		{
 			"xdb_id": "87f2d6f034f9",
 			"xdb_url": "https://vulncheck.com/xdb/87f2d6f034f9",
 			"date_added": "2020-03-28T16:57:20+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:fengzihk/CVE-2019-5786.git"
+		},
+		{
+			"xdb_id": "5d48649bb47a",
+			"xdb_url": "https://vulncheck.com/xdb/5d48649bb47a",
+			"date_added": "2022-01-11T21:57:04+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_exodusintel/CVE-2019-5786.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
