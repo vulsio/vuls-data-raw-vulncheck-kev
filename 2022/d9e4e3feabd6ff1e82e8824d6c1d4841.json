@@ -11,10 +11,6 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
-			"url": "https://www.trendmicro.com/en_au/research/22/b/recent-cyberattacks-open-source-web-servers.html",
-			"date_added": "2022-02-22T00:00:00Z"
-		},
-		{
 			"url": "https://www.trendmicro.com/en_us/research/22/b/recent-cyberattacks-open-source-web-servers.html",
 			"date_added": "2022-02-22T00:00:00Z"
 		}

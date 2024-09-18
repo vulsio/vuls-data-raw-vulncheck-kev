@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-17T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/alerts/2013/02/27/security-updates-available-adobe-flash-player",
 			"date_added": "2013-02-27T00:00:00Z"
 		}

@@ -1,8 +1,8 @@
 {
-	"vendorProject": "AVTECH SECURITY Corporation",
-	"product": "AVTECH IP Camera",
+	"vendorProject": "avtech",
+	"product": "avm1203_firmware",
 	"shortDescription": "Commands can be injected over the network and executed without authentication.",
-	"vulnerabilityName": "AVTECH IP Camera Command Injection Vulnerability",
+	"vulnerabilityName": "avtech avm1203_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

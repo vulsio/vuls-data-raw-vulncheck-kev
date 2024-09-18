@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "a68c6a952775",
-			"xdb_url": "https://vulncheck.com/xdb/a68c6a952775",
-			"date_added": "2024-03-27T20:57:46Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:pxcs/CrackKeyIso.git"
-		},
-		{
 			"xdb_id": "389ef9618afd",
 			"xdb_url": "https://vulncheck.com/xdb/389ef9618afd",
 			"date_added": "2023-09-04T07:48:13Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Y3A/CVE-2023-28229.git"
+		},
+		{
+			"xdb_id": "2a3dcdd65fe2",
+			"xdb_url": "https://vulncheck.com/xdb/2a3dcdd65fe2",
+			"date_added": "2024-03-27T20:57:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:byt3n33dl3/CrackKeyIso.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

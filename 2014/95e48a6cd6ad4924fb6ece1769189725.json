@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-17T00:00:00Z"
+		},
+		{
 			"url": "https://cybersecurity.att.com/blogs/labs-research/analysis-of-an-attack-exploiting-the-adobe-zero-day-cve-2014-0502",
 			"date_added": "2014-02-21T00:00:00Z"
 		},

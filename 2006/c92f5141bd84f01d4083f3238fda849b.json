@@ -19,7 +19,7 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
-			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-067",
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2006/ms06-067",
 			"date_added": "2006-11-14T00:00:00Z"
 		}
 	],
