@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Oracle",
+	"product": "WebLogic Server",
+	"shortDescription": "Oracle WebLogic Server, a product within the Fusion Middleware suite, contains a deserialization vulnerability. Unauthenticated attackers with network access via T3 or IIOP can exploit this vulnerability to achieve remote code execution.",
+	"vulnerabilityName": "Oracle WebLogic Server Remote Code Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-14644"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-10-09T00:00:00Z",
+	"cisa_date_added": "2024-09-18T00:00:00Z",
+	"date_added": "2024-09-18T00:00:00Z"
+}
