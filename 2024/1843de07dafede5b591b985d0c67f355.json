@@ -1,0 +1,27 @@
+{
+	"vendorProject": "ejs",
+	"product": "ejs",
+	"shortDescription": "The ejs (aka Embedded JavaScript templates) package 3.1.6 for Node.js allows server-side template injection in settings[view options][outputFunctionName]. This is parsed as an internal option, and overwrites the outputFunctionName option with an arbitrary OS command (which is executed upon template compilation).",
+	"vulnerabilityName": "ejs ejs Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-29078"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5406def9f3b0",
+			"xdb_url": "https://vulncheck.com/xdb/5406def9f3b0",
+			"date_added": "2022-07-20T10:10:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:miko550/CVE-2022-29078.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2022-29078",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

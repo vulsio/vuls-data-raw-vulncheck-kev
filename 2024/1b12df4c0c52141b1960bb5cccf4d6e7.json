@@ -284,6 +284,10 @@
 			"date_added": "2024-09-17T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
 			"url": "https://blog.sonicwall.com/en-us/2024/07/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild/",
 			"date_added": "2024-07-29T00:00:00Z"
 		},
@@ -294,6 +298,10 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/threat-actors-exploit-geoserver-vulnerability-cve-2024-36401",
 			"date_added": "2024-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/i/earth-baxia-spear-phishing-and-geoserver-exploit.html",
+			"date_added": "2024-09-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-08-05T00:00:00Z",

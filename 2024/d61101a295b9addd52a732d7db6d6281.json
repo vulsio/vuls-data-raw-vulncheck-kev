@@ -1,0 +1,27 @@
+{
+	"vendorProject": "D-Link",
+	"product": "dar-8000-10_firmware",
+	"shortDescription": "A vulnerability was found in D-Link DAR-8000-10 up to 20230809. It has been classified as critical. This affects an unknown part of the file /app/sys1.php. The manipulation of the argument cmd with the input id leads to os command injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-238047. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.",
+	"vulnerabilityName": "D-Link dar-8000-10_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-4542"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4debb23ea04d",
+			"xdb_url": "https://vulncheck.com/xdb/4debb23ea04d",
+			"date_added": "2023-08-09T05:57:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:PumpkinBridge/CVE-2023-4542.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2023-4542",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}
