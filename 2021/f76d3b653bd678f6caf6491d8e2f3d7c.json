@@ -1245,6 +1245,10 @@
 		{
 			"url": "https://blog.xlab.qianxin.com/8220-k4spreader-new-tool-en/",
 			"date_added": "2024-06-25T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/sb4F8UT5zu/cve-2020-14882-unauthenticated-rce-in-console-component-of-oracle-weblogic-server#exploited-in-the-wild_e28f53e6-cf6f-4b91-89be-6cb19dfd4315",
+			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
