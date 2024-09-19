@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:sinsinology/CVE-2024-4358.git"
 		},
 		{
-			"xdb_id": "830dec3e0b31",
-			"xdb_url": "https://vulncheck.com/xdb/830dec3e0b31",
-			"date_added": "2024-08-24T10:09:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4358.git"
-		},
-		{
 			"xdb_id": "5ffe12856f76",
 			"xdb_url": "https://vulncheck.com/xdb/5ffe12856f76",
 			"date_added": "2024-06-05T01:05:12Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Sk1dr0wz/CVE-2024-4358_Mass_Exploit.git"
+		},
+		{
+			"xdb_id": "830dec3e0b31",
+			"xdb_url": "https://vulncheck.com/xdb/830dec3e0b31",
+			"date_added": "2024-08-24T10:09:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4358.git"
 		},
 		{
 			"xdb_id": "eaffc0a0430d",

@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:yoryio/CVE-2024-27198.git"
 		},
 		{
-			"xdb_id": "3690cad185a4",
-			"xdb_url": "https://vulncheck.com/xdb/3690cad185a4",
-			"date_added": "2024-04-22T22:14:24Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Stuub/RCity-CVE-2024-27198.git"
-		},
-		{
 			"xdb_id": "fc7ed36dfb86",
 			"xdb_url": "https://vulncheck.com/xdb/fc7ed36dfb86",
 			"date_added": "2024-03-06T03:15:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2024-27198-RCE.git"
+		},
+		{
+			"xdb_id": "3690cad185a4",
+			"xdb_url": "https://vulncheck.com/xdb/3690cad185a4",
+			"date_added": "2024-04-22T22:14:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Stuub/RCity-CVE-2024-27198.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

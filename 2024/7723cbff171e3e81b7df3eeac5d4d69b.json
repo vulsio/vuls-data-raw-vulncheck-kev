@@ -17,7 +17,12 @@
 			"clone_ssh_url": "git@github.com:hienkiet/CVE-2022-21445-for-12.2.1.3.0-Weblogic.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
 	"dueDate": "2024-10-09T00:00:00Z",
 	"cisa_date_added": "2024-09-18T00:00:00Z",
 	"date_added": "2024-09-18T00:00:00Z"
