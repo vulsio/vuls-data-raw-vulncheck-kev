@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-21762.git"
 		},
 		{
-			"xdb_id": "1b6a203d05a8",
-			"xdb_url": "https://vulncheck.com/xdb/1b6a203d05a8",
-			"date_added": "2024-03-17T09:15:22Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:d0rb/CVE-2024-21762.git"
-		},
-		{
 			"xdb_id": "ec72e0945311",
 			"xdb_url": "https://vulncheck.com/xdb/ec72e0945311",
 			"date_added": "2024-03-13T22:57:00Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check.git"
+		},
+		{
+			"xdb_id": "1b6a203d05a8",
+			"xdb_url": "https://vulncheck.com/xdb/1b6a203d05a8",
+			"date_added": "2024-03-17T09:15:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:d0rb/CVE-2024-21762.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

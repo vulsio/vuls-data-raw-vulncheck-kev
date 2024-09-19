@@ -99,6 +99,13 @@
 			"date_added": "2022-02-24T11:34:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:pykiller/CVE-2022-23131.git"
+		},
+		{
+			"xdb_id": "63bde8d02b8f",
+			"xdb_url": "https://vulncheck.com/xdb/63bde8d02b8f",
+			"date_added": "2024-09-18T15:42:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fork-bombed/CVE-2022-23131.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:x0rb3l/CVE-2023-36802-MSKSSRV-LPE.git"
 		},
 		{
-			"xdb_id": "14df2dd4eaa7",
-			"xdb_url": "https://vulncheck.com/xdb/14df2dd4eaa7",
-			"date_added": "2023-10-23T18:33:41Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-36802.git"
-		},
-		{
 			"xdb_id": "2dc4169fabc7",
 			"xdb_url": "https://vulncheck.com/xdb/2dc4169fabc7",
 			"date_added": "2023-10-09T17:32:15Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:chompie1337/Windows_MSKSSRV_LPE_CVE-2023-36802.git"
+		},
+		{
+			"xdb_id": "14df2dd4eaa7",
+			"xdb_url": "https://vulncheck.com/xdb/14df2dd4eaa7",
+			"date_added": "2023-10-23T18:33:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-36802.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

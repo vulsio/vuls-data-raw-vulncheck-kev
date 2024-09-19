@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:veritas501/CVE-2022-0185-PipeVersion.git"
 		},
 		{
-			"xdb_id": "617305981f80",
-			"xdb_url": "https://vulncheck.com/xdb/617305981f80",
-			"date_added": "2022-01-19T06:19:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Crusaders-of-Rust/CVE-2022-0185.git"
-		},
-		{
 			"xdb_id": "38c4c63f9d6f",
 			"xdb_url": "https://vulncheck.com/xdb/38c4c63f9d6f",
 			"date_added": "2022-02-18T09:27:34Z",
@@ -36,6 +29,13 @@
 			"date_added": "2022-04-14T10:46:04Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:featherL/CVE-2022-0185-exploit.git"
+		},
+		{
+			"xdb_id": "617305981f80",
+			"xdb_url": "https://vulncheck.com/xdb/617305981f80",
+			"date_added": "2022-01-19T06:19:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Crusaders-of-Rust/CVE-2022-0185.git"
 		},
 		{
 			"xdb_id": "c66aa08676a5",

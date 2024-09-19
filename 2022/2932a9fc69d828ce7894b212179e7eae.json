@@ -150,13 +150,6 @@
 			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2022-22965.git"
 		},
 		{
-			"xdb_id": "7c26b11a86f0",
-			"xdb_url": "https://vulncheck.com/xdb/7c26b11a86f0",
-			"date_added": "2023-05-31T12:04:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-.git"
-		},
-		{
 			"xdb_id": "1d2c273a6a58",
 			"xdb_url": "https://vulncheck.com/xdb/1d2c273a6a58",
 			"date_added": "2022-04-03T06:43:07Z",
@@ -297,13 +290,6 @@
 			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
 		},
 		{
-			"xdb_id": "f1130a964b4f",
-			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "b383e52d60dd",
 			"xdb_url": "https://vulncheck.com/xdb/b383e52d60dd",
 			"date_added": "2022-03-30T07:54:45Z",
@@ -316,6 +302,20 @@
 			"date_added": "2023-01-29T01:11:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
+		},
+		{
+			"xdb_id": "f1130a964b4f",
+			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
+		},
+		{
+			"xdb_id": "7c26b11a86f0",
+			"xdb_url": "https://vulncheck.com/xdb/7c26b11a86f0",
+			"date_added": "2023-05-31T12:04:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-.git"
 		},
 		{
 			"xdb_id": "43e4620d8285",

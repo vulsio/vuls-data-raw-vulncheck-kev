@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "356972add841",
-			"xdb_url": "https://vulncheck.com/xdb/356972add841",
-			"date_added": "2021-03-30T07:09:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
-		},
-		{
 			"xdb_id": "5802082611f4",
 			"xdb_url": "https://vulncheck.com/xdb/5802082611f4",
 			"date_added": "2016-02-10T21:13:54Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:fjserna/CVE-2015-7547.git"
+		},
+		{
+			"xdb_id": "356972add841",
+			"xdb_url": "https://vulncheck.com/xdb/356972add841",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		},
 		{
 			"xdb_id": "bb7c175544ab",

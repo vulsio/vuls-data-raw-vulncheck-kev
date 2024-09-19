@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:xyjl-ly/CVE-2021-22555-Exploit.git"
 		},
 		{
-			"xdb_id": "8ef3da70ba6c",
-			"xdb_url": "https://vulncheck.com/xdb/8ef3da70ba6c",
-			"date_added": "2021-03-30T07:09:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
-		},
-		{
 			"xdb_id": "03ee412dd1bc",
 			"xdb_url": "https://vulncheck.com/xdb/03ee412dd1bc",
 			"date_added": "2023-08-05T18:56:18Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:tukru/CVE-2021-22555.git"
+		},
+		{
+			"xdb_id": "8ef3da70ba6c",
+			"xdb_url": "https://vulncheck.com/xdb/8ef3da70ba6c",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		},
 		{
 			"xdb_id": "927960b6eeeb",
