@@ -1786,6 +1786,10 @@
 			"date_added": "2024-08-21T00:00:00Z"
 		},
 		{
+			"url": "https://redalert.nshc.net/2024/09/19/summary-of-ransomware-threat-actor-activity-in-2023-jpn/",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa21-336a",
 			"date_added": "2021-12-06T00:00:00Z"
 		},
@@ -1803,7 +1807,7 @@
 		},
 		{
 			"url": "https://www.bleepingcomputer.com/news/security/log4j-vulnerability-now-used-by-state-backed-hackers-access-brokers/#google_vignette",
-			"date_added": "2021-12-10T00:00:00Z"
+			"date_added": "2021-12-15T00:00:00Z"
 		},
 		{
 			"url": "https://cisa.gov/news-events/alerts/2021/12/22/mitigating-log4shell-and-other-log4j-related-vulnerabilities",
@@ -1844,10 +1848,6 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/deep-panda-log4shell-fire-chili-rootkits",
 			"date_added": "2022-03-30T00:00:00Z"
-		},
-		{
-			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa23-040a",
-			"date_added": "2022-04-11T00:00:00Z"
 		},
 		{
 			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
