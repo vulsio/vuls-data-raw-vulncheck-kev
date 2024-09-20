@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Windows",
-	"shortDescription": "Microsoft Windows Task Scheduler contains a privilege escalation vulnerability in the way that the SetJobFileSecurityByName() function is used that can allow an authenticated attacker to gain SYSTEM privileges on an affected system.",
-	"vulnerabilityName": "Microsoft Windows Task Scheduler Privilege Escalation Vulnerability",
-	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"product": "Task Scheduler",
+	"shortDescription": "A privilege escalation vulnerability exists in the way the Task Scheduler Service validates certain file operations.",
+	"vulnerabilityName": "Microsoft Task Scheduler Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2019-1069"
@@ -31,7 +31,7 @@
 			"date_added": "2023-06-05T00:00:00Z"
 		}
 	],
-	"dueDate": "2024-10-09T00:00:00Z",
-	"cisa_date_added": "2024-09-18T00:00:00Z",
+	"dueDate": "2022-04-05T00:00:00Z",
+	"cisa_date_added": "2022-03-15T00:00:00Z",
 	"date_added": "2021-04-16T00:00:00Z"
 }

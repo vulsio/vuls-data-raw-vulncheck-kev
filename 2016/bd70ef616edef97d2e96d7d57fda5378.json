@@ -192,18 +192,18 @@
 			"clone_ssh_url": "git@github.com:jas502n/CVE-2016-5195.git"
 		},
 		{
-			"xdb_id": "c702394e39a9",
-			"xdb_url": "https://vulncheck.com/xdb/c702394e39a9",
-			"date_added": "2016-11-25T21:08:01Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:firefart/dirtycow.git"
-		},
-		{
 			"xdb_id": "db0cfa39ee2e",
 			"xdb_url": "https://vulncheck.com/xdb/db0cfa39ee2e",
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "c702394e39a9",
+			"xdb_url": "https://vulncheck.com/xdb/c702394e39a9",
+			"date_added": "2016-11-25T21:08:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:firefart/dirtycow.git"
 		},
 		{
 			"xdb_id": "56a0d9175e82",

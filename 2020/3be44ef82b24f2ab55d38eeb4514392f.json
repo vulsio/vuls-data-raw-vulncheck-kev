@@ -157,18 +157,18 @@
 			"clone_ssh_url": "git@github.com:zerobytesecure/CVE-2019-19781.git"
 		},
 		{
-			"xdb_id": "0b44b71192dd",
-			"xdb_url": "https://vulncheck.com/xdb/0b44b71192dd",
-			"date_added": "2020-01-11T00:08:27Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:trustedsec/cve-2019-19781.git"
-		},
-		{
 			"xdb_id": "8d2aa3944ef3",
 			"xdb_url": "https://vulncheck.com/xdb/8d2aa3944ef3",
 			"date_added": "2020-01-12T15:16:54Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:haxrob/citrixmash_scanner.git"
+		},
+		{
+			"xdb_id": "0b44b71192dd",
+			"xdb_url": "https://vulncheck.com/xdb/0b44b71192dd",
+			"date_added": "2020-01-11T00:08:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:trustedsec/cve-2019-19781.git"
 		},
 		{
 			"xdb_id": "ebfe92f86902",

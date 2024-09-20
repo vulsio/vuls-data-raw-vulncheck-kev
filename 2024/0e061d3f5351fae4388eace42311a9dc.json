@@ -1,0 +1,19 @@
+{
+	"vendorProject": "PTZOptics",
+	"product": "PT30X-SDI/NDI",
+	"shortDescription": "PTZOptics PT30X-SDI/NDI-xx before firmware 6.3.40 is vulnerable to an insufficient authentication issue. The camera does not properly enforce authentication to /cgi-bin/param.cgi when requests are sent without an HTTP Authorization header. The result is a remote and unauthenticated attacker can leak sensitive data such as usernames, password hashes, and configurations details. Additionally, the attacker can update individual configuration values or overwrite the whole file.",
+	"vulnerabilityName": "PTZOptics PT30X-SDI/NDI /cgi-bin/param.cg Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8956"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8956",
+			"date_added": "2024-09-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-17T00:00:00Z"
+}

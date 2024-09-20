@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:hakivvi/CVE-2021-40449.git"
 		},
 		{
-			"xdb_id": "dccb5f085c09",
-			"xdb_url": "https://vulncheck.com/xdb/dccb5f085c09",
-			"date_added": "2021-10-16T16:17:44Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ly4k/CallbackHell.git"
-		},
-		{
 			"xdb_id": "97c8caf60062",
 			"xdb_url": "https://vulncheck.com/xdb/97c8caf60062",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "dccb5f085c09",
+			"xdb_url": "https://vulncheck.com/xdb/dccb5f085c09",
+			"date_added": "2021-10-16T16:17:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ly4k/CallbackHell.git"
 		},
 		{
 			"xdb_id": "83a3a8086e22",

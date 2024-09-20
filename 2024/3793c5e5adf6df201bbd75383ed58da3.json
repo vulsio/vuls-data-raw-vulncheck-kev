@@ -1,0 +1,19 @@
+{
+	"vendorProject": "PTZOptics",
+	"product": "PT30X-SDI/NDI",
+	"shortDescription": "PTZOptics PT30X-SDI/NDI-xx before firmware 6.3.40 is vulnerable to an OS command injection issue. The camera does not sufficiently validate the ntp_addr configuration value which may lead to arbitrary command execution when ntp_client is started. When chained with CVE-2024-8956, a remote and unauthenticated attacker can execute arbitrary OS commands on affected devices.",
+	"vulnerabilityName": "PTZOptics PT30X-SDI/NDI ntp_client Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8957"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8957",
+			"date_added": "2024-09-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-17T00:00:00Z"
+}
