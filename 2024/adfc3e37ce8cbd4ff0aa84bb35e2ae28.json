@@ -115,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:olebris/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "7dd0ca311187",
-			"xdb_url": "https://vulncheck.com/xdb/7dd0ca311187",
-			"date_added": "2024-06-07T17:02:52Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP.git"
-		},
-		{
 			"xdb_id": "cb830f9d202f",
 			"xdb_url": "https://vulncheck.com/xdb/cb830f9d202f",
 			"date_added": "2024-07-03T15:30:52Z",
@@ -304,18 +297,25 @@
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "cc11323372a3",
-			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
-			"date_added": "2024-06-08T13:04:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
-		},
-		{
 			"xdb_id": "5467e9a9f0fa",
 			"xdb_url": "https://vulncheck.com/xdb/5467e9a9f0fa",
 			"date_added": "2024-08-20T02:56:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4577-RCE.git"
+		},
+		{
+			"xdb_id": "7dd0ca311187",
+			"xdb_url": "https://vulncheck.com/xdb/7dd0ca311187",
+			"date_added": "2024-06-07T17:02:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP.git"
+		},
+		{
+			"xdb_id": "cc11323372a3",
+			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
+			"date_added": "2024-06-08T13:04:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -650,6 +650,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-19&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-09-19T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

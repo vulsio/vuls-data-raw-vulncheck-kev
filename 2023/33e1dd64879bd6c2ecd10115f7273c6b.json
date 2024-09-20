@@ -719,6 +719,10 @@
 			"date_added": "2024-09-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-19&host_type=src&vulnerability=cve-2021-36380",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
 			"date_added": "2023-10-09T00:00:00Z"
 		},
