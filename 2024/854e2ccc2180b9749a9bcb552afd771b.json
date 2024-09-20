@@ -1,0 +1,19 @@
+{
+	"vendorProject": "QNAP",
+	"product": "QTS",
+	"shortDescription": "This command injection vulnerability in QTS allows attackers to run arbitrary commands in the compromised application. QNAP have already fixed the issue in QTS 4.2.6 build 20170517, QTS 4.3.3.0174 build 20170503 and later versions.",
+	"vulnerabilityName": "QNAP QTS Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-7876"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

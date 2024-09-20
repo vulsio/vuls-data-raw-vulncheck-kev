@@ -1,0 +1,19 @@
+{
+	"vendorProject": "IBM",
+	"product": "websphere_application_server",
+	"shortDescription": "IBM WebSphere Application Server 8.5 and 9.0 traditional could allow a remote attacker to execute arbitrary code on the system with a specially-crafted sequence of serialized objects. IBM X-Force ID: 181231.",
+	"vulnerabilityName": "IBM websphere_application_server Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-4450"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

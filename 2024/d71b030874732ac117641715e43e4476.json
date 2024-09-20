@@ -1,0 +1,34 @@
+{
+	"vendorProject": "Tenda",
+	"product": "f3_firmware",
+	"shortDescription": "Tenda N300 F3 12.01.01.48 devices allow remote attackers to obtain sensitive information (possibly including an http_passwd line) via a direct request for cgi-bin/DownloadCfg/RouterCfm.cfg, a related issue to CVE-2017-14942. NOTE: the vulnerability report may suggest that either a ? character must be placed after the RouterCfm.cfg filename, or that the HTTP request headers must be unusual, but it is not known why these are relevant to the device's HTTP response behavior.",
+	"vulnerabilityName": "Tenda f3_firmware Direct Request ('Forced Browsing')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-35391"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c5e1a715a137",
+			"xdb_url": "https://vulncheck.com/xdb/c5e1a715a137",
+			"date_added": "2023-02-05T13:42:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dumitory-dev/CVE-2020-35391-POC.git"
+		},
+		{
+			"xdb_id": "0da2a46ef986",
+			"xdb_url": "https://vulncheck.com/xdb/0da2a46ef986",
+			"date_added": "2023-03-09T15:36:22Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:H454NSec/CVE-2020-35391.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

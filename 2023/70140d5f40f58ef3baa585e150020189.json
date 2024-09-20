@@ -663,6 +663,10 @@
 		{
 			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
 			"date_added": "2024-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-09-12T00:00:00Z",

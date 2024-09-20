@@ -1,0 +1,19 @@
+{
+	"vendorProject": "chamilo",
+	"product": "chamilo",
+	"shortDescription": "Command injection in `/main/webservices/additional_webservices.php` in Chamilo LMS <= v1.11.20 allows unauthenticated attackers to obtain remote code execution via improper neutralisation of special characters. This is a bypass of CVE-2023-34960.",
+	"vulnerabilityName": "chamilo chamilo Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3368"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

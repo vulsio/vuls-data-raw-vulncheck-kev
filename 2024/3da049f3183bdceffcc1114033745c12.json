@@ -1,0 +1,19 @@
+{
+	"vendorProject": "four-faith",
+	"product": "f3x24_firmware",
+	"shortDescription": "Four-Faith Wireless Mobile Router F3x24 v1.0 devices allow remote code execution via the Command Shell (aka Administration > Commands) screen.",
+	"vulnerabilityName": "four-faith f3x24_firmware Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-12168"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Apache",
+	"product": "rocketmq",
+	"shortDescription": "The RocketMQ NameServer component still has a remote command execution vulnerability as the CVE-2023-33246 issue was not completely fixed in version 5.1.1. \n\nWhen NameServer address are leaked on the extranet and lack permission verification, an attacker can exploit this vulnerability by using the update configuration function on the NameServer component to execute commands as the system users that RocketMQ is running as. \n\nIt is recommended for users to upgrade their NameServer version to 5.1.2 or above for RocketMQ 5.x or 4.9.7 or above for RocketMQ 4.x to prevent these attacks.\n",
+	"vulnerabilityName": "Apache rocketmq Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-37582"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "042b3f3b77e0",
+			"xdb_url": "https://vulncheck.com/xdb/042b3f3b77e0",
+			"date_added": "2023-07-14T12:22:45Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Malayke/CVE-2023-37582_EXPLOIT.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

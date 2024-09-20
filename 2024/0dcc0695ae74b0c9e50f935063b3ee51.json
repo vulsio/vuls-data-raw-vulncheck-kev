@@ -1,0 +1,19 @@
+{
+	"vendorProject": "jeecg_p3_biz_chat_project",
+	"product": "jeecg_p3_biz_chat",
+	"shortDescription": "Jeecg P3 Biz Chat 1.0.5 allows remote attackers to read arbitrary files through specific parameters.",
+	"vulnerabilityName": "jeecg_p3_biz_chat_project jeecg_p3_biz_chat Exposure of Resource to Wrong Sphere",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-33510"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "telstra",
+	"product": "arcadyan_lh1000_firmware",
+	"shortDescription": "fake_upload.cgi on the Telstra Smart Modem Gen 2 (Arcadyan LH1000), firmware versions < 0.18.15r, allows unauthenticated attackers to upload firmware images and configuration backups, which could allow them to alter the firmware or the configuration on the device, ultimately leading to code execution as root. ",
+	"vulnerabilityName": "telstra arcadyan_lh1000_firmware Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-43478"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

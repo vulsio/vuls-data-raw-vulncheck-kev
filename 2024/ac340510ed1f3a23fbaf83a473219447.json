@@ -1,0 +1,34 @@
+{
+	"vendorProject": "nocodb",
+	"product": "nocodb",
+	"shortDescription": "NocoDB through 0.106.0 (or 0.109.1) has a path traversal vulnerability that allows an unauthenticated attacker to access arbitrary files on the server by manipulating the path parameter of the /download route. This vulnerability could allow an attacker to access sensitive files and data on the server, including configuration files, source code, and other sensitive information.",
+	"vulnerabilityName": "nocodb nocodb Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-35843"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fad863596256",
+			"xdb_url": "https://vulncheck.com/xdb/fad863596256",
+			"date_added": "2023-06-27T16:14:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Lserein/CVE-2023-35843.git"
+		},
+		{
+			"xdb_id": "6e72a62fe214",
+			"xdb_url": "https://vulncheck.com/xdb/6e72a62fe214",
+			"date_added": "2023-07-09T04:10:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:b3nguang/CVE-2023-35843.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}

@@ -1,0 +1,34 @@
+{
+	"vendorProject": "WordPress",
+	"product": "wordpress",
+	"shortDescription": "WordPress is affected by an unauthenticated blind SSRF in the pingback feature. Because of a TOCTOU race condition between the validation checks and the HTTP request, attackers can reach internal hosts that are explicitly forbidden.",
+	"vulnerabilityName": "WordPress wordpress Time-of-check Time-of-use (TOCTOU) Race Condition",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3590"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d6dcacf8755d",
+			"xdb_url": "https://vulncheck.com/xdb/d6dcacf8755d",
+			"date_added": "2024-08-08T03:02:05Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner.git"
+		},
+		{
+			"xdb_id": "c384abfece3c",
+			"xdb_url": "https://vulncheck.com/xdb/c384abfece3c",
+			"date_added": "2023-06-12T13:06:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-18T00:00:00Z"
+}
