@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:liang2kl/iot-exploits.git"
 		},
 		{
-			"xdb_id": "3dbf2e48a531",
-			"xdb_url": "https://vulncheck.com/xdb/3dbf2e48a531",
-			"date_added": "2021-05-16T16:15:56Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
-		},
-		{
 			"xdb_id": "e7beeee5920b",
 			"xdb_url": "https://vulncheck.com/xdb/e7beeee5920b",
 			"date_added": "2021-09-27T05:56:45Z",
@@ -59,11 +52,11 @@
 			"clone_ssh_url": "git@github.com:antx-code/CVE-2021-31166.git"
 		},
 		{
-			"xdb_id": "86c76b7eb3bc",
-			"xdb_url": "https://vulncheck.com/xdb/86c76b7eb3bc",
-			"date_added": "2021-05-20T05:00:38+08:00",
+			"xdb_id": "3dbf2e48a531",
+			"xdb_url": "https://vulncheck.com/xdb/3dbf2e48a531",
+			"date_added": "2021-05-16T16:15:56Z",
 			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-31166.git"
+			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
 		},
 		{
 			"xdb_id": "5719bfcb7a63",
@@ -78,6 +71,13 @@
 			"date_added": "2021-05-18T20:34:58+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:ljygit123/CVE-2021-31166.git"
+		},
+		{
+			"xdb_id": "86c76b7eb3bc",
+			"xdb_url": "https://vulncheck.com/xdb/86c76b7eb3bc",
+			"date_added": "2021-05-20T05:00:38+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-31166.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

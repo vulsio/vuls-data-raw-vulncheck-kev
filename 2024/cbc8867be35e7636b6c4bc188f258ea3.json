@@ -1,8 +1,8 @@
 {
-	"vendorProject": " LiteLLM",
-	"product": " LiteLLM",
-	"shortDescription": "LiteLLM is vulnerable to a Server-Side Request Forgery (SSRF) vulnerability that exposes OpenAI API Keys.",
-	"vulnerabilityName": "LiteLLM Server-Side Request Forgery (SSRF) Vulnerability",
+	"vendorProject": "litellm",
+	"product": "litellm",
+	"shortDescription": "A Server-Side Request Forgery (SSRF) vulnerability exists in berriai/litellm version 1.38.10. This vulnerability allows users to specify the `api_base` parameter when making requests to `POST /chat/completions`, causing the application to send the request to the domain specified by `api_base`. This request includes the OpenAI API key. A malicious user can set the `api_base` to their own domain and intercept the OpenAI API key, leading to unauthorized access and potential misuse of the API key.",
+	"vulnerabilityName": "litellm litellm Server-Side Request Forgery (SSRF)",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

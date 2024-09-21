@@ -413,6 +413,10 @@
 			"date_added": "2024-02-22T00:00:00Z"
 		},
 		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa23-040a",
+			"date_added": "2022-04-11T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-040a",
 			"date_added": "2023-02-09T00:00:00Z"
 		},
@@ -427,5 +431,5 @@
 	],
 	"dueDate": "2023-03-03T00:00:00Z",
 	"cisa_date_added": "2023-02-10T00:00:00Z",
-	"date_added": "2023-02-09T00:00:00Z"
+	"date_added": "2022-04-11T00:00:00Z"
 }
