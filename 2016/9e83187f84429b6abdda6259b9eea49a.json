@@ -192,6 +192,13 @@
 			"clone_ssh_url": "git@github.com:Lekensteyn/pacemaker.git"
 		},
 		{
+			"xdb_id": "1e7f1234b5fa",
+			"xdb_url": "https://vulncheck.com/xdb/1e7f1234b5fa",
+			"date_added": "2024-09-20T13:44:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Yash-Thakkar77/CVE-2014-0160-HeartBleed.git"
+		},
+		{
 			"xdb_id": "a5f2ac732a33",
 			"xdb_url": "https://vulncheck.com/xdb/a5f2ac732a33",
 			"date_added": "2023-04-03T08:49:12+08:00",
