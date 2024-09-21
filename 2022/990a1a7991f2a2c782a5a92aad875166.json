@@ -156,6 +156,10 @@
 		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
 			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-01-03T00:00:00Z",

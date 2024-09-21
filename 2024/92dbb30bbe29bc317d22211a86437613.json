@@ -1,0 +1,19 @@
+{
+	"vendorProject": "invision_power_services",
+	"product": "invision_board",
+	"shortDescription": "The installation procedure for Invision Board suggests that users install the phpinfo.php program under the web root, which leaks sensitive information such as absolute pathnames, OS information, and PHP settings.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2002-1149"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.aquasec.com/blog/sink-or-swim-tackling-2024s-record-breaking-vulnerability-wave/",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-19T00:00:00Z"
+}

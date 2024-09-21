@@ -65,6 +65,10 @@
 		{
 			"url": "https://www.forescout.com/resources/2024h1-threat-review/",
 			"date_added": "2024-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://darktrace.com/blog/forticlient-ems-exploited-inside-the-attack-chain-and-post-exploitation-tactics",
+			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-15T00:00:00Z",

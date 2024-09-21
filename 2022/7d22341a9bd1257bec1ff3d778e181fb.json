@@ -156,6 +156,10 @@
 		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Q2_24_Cato_CTRL_Threat_Report.pdf",
 			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-10-21T00:00:00Z",
