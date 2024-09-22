@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:hack-with-rohit/CVE-2024-1212.git"
 		},
 		{
-			"xdb_id": "69dd3ae035ff",
-			"xdb_url": "https://vulncheck.com/xdb/69dd3ae035ff",
-			"date_added": "2024-03-19T22:23:18Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-1212.git"
-		},
-		{
 			"xdb_id": "50743b49ce00",
 			"xdb_url": "https://vulncheck.com/xdb/50743b49ce00",
 			"date_added": "2024-09-04T16:50:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:nak000/CVE-2024-1212.git"
+		},
+		{
+			"xdb_id": "69dd3ae035ff",
+			"xdb_url": "https://vulncheck.com/xdb/69dd3ae035ff",
+			"date_added": "2024-03-19T22:23:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-1212.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

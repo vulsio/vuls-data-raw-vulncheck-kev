@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:arajsingh-infosec/CVE-2022-30525_Exploit.git"
 		},
 		{
-			"xdb_id": "6355edd8b2d3",
-			"xdb_url": "https://vulncheck.com/xdb/6355edd8b2d3",
-			"date_added": "2022-05-10T10:31:19Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jbaines-r7/victorian_machinery.git"
-		},
-		{
 			"xdb_id": "e15afba00994",
 			"xdb_url": "https://vulncheck.com/xdb/e15afba00994",
 			"date_added": "2022-05-13T12:58:43Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:shuai06/CVE-2022-30525.git"
+		},
+		{
+			"xdb_id": "6355edd8b2d3",
+			"xdb_url": "https://vulncheck.com/xdb/6355edd8b2d3",
+			"date_added": "2022-05-10T10:31:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jbaines-r7/victorian_machinery.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
