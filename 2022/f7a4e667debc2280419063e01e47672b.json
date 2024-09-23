@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "5619ec246b0f",
-			"xdb_url": "https://vulncheck.com/xdb/5619ec246b0f",
-			"date_added": "2020-05-02T13:01:48+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:stripcc/CVE-2018-8639-exp.git"
-		},
-		{
 			"xdb_id": "aa765b244430",
 			"xdb_url": "https://vulncheck.com/xdb/aa765b244430",
 			"date_added": "2020-03-28T16:57:21+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:fengzihk/CVE-2018-8639-exp.git"
+		},
+		{
+			"xdb_id": "5619ec246b0f",
+			"xdb_url": "https://vulncheck.com/xdb/5619ec246b0f",
+			"date_added": "2020-05-02T13:01:48+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:stripcc/CVE-2018-8639-exp.git"
 		},
 		{
 			"xdb_id": "103ce63ab269",

@@ -1093,6 +1093,10 @@
 			"date_added": "2024-02-02T00:00:00Z"
 		},
 		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2020-10-20T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-275a",
 			"date_added": "2020-10-20T00:00:00Z"
 		},
@@ -1123,10 +1127,6 @@
 		{
 			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
 			"date_added": "2024-05-22T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

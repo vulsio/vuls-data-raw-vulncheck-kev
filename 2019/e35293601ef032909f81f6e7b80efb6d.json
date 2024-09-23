@@ -55,12 +55,12 @@
 			"date_added": "2024-09-20T00:00:00Z"
 		},
 		{
-			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18852",
-			"date_added": "2019-06-18T00:00:00Z"
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-08-15T00:00:00Z"
 		},
 		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2018-18852",
+			"date_added": "2019-06-18T00:00:00Z"
 		}
 	],
 	"date_added": "2019-06-18T00:00:00Z"

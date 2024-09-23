@@ -1141,6 +1141,10 @@
 			"date_added": "2024-09-22T00:00:00Z"
 		},
 		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2023-10-05T00:00:00Z"
+		},
+		{
 			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
 			"date_added": "2024-02-08T00:00:00Z"
 		},
@@ -1223,10 +1227,6 @@
 		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/",
 			"date_added": "2024-07-25T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-13T00:00:00Z",

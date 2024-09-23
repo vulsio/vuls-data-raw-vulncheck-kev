@@ -127,16 +127,16 @@
 			"date_added": "2024-09-22T00:00:00Z"
 		},
 		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.imperva.com/blog/imperva-customers-protected-against-critical-servicenow-vulnerability/",
 			"date_added": "2024-07-23T00:00:00Z"
 		},
 		{
 			"url": "https://fortiguard.fortinet.com/outbreak-alert/servicenow-rce",
 			"date_added": "2024-08-06T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-08-19T00:00:00Z",

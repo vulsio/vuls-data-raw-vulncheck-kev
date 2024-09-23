@@ -1140,6 +1140,10 @@
 			"date_added": "2024-01-24T00:00:00Z"
 		},
 		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
 			"url": "https://www.rapid7.com/blog/post/2024/01/19/etr-critical-cves-in-outdated-versions-of-atlassian-confluence-and-vmware-vcenter-server/",
 			"date_added": "2024-01-19T00:00:00Z"
 		},
@@ -1214,10 +1218,6 @@
 		{
 			"url": "https://www.trendmicro.com/en_us/research/24/h/godzilla-fileless-backdoors.html",
 			"date_added": "2024-08-30T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-02-14T00:00:00Z",

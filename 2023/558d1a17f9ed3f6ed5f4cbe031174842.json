@@ -914,6 +914,10 @@
 			"date_added": "2024-09-22T00:00:00Z"
 		},
 		{
+			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
+			"date_added": "2023-10-31T00:00:00Z"
+		},
+		{
 			"url": "https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html",
 			"date_added": "2024-09-02T00:00:00Z"
 		},
@@ -940,10 +944,6 @@
 		{
 			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
 			"date_added": "2024-06-12T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-09-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-11-21T00:00:00Z",
