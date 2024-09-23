@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:exfil0/test_iconv.git"
 		},
 		{
-			"xdb_id": "cab9ee9dc6bb",
-			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
-			"date_added": "2024-05-27T08:30:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ambionics/cnext-exploits.git"
-		},
-		{
 			"xdb_id": "4bd6d8711dbe",
 			"xdb_url": "https://vulncheck.com/xdb/4bd6d8711dbe",
 			"date_added": "2024-06-04T09:57:46Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:kjdfklha/CVE-2024-2961_poc.git"
+		},
+		{
+			"xdb_id": "cab9ee9dc6bb",
+			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
+			"date_added": "2024-05-27T08:30:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ambionics/cnext-exploits.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

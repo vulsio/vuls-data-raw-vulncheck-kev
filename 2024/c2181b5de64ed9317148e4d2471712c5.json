@@ -123,6 +123,10 @@
 			"date_added": "2024-09-20T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-22&host_type=src&vulnerability=cve-2024-5217",
+			"date_added": "2024-09-22T00:00:00Z"
+		},
+		{
 			"url": "https://www.imperva.com/blog/imperva-customers-protected-against-critical-servicenow-vulnerability/",
 			"date_added": "2024-07-23T00:00:00Z"
 		},

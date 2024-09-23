@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:securelayer7/CVE-2024-38856_Scanner.git"
 		},
 		{
-			"xdb_id": "e14070e9ff4a",
-			"xdb_url": "https://vulncheck.com/xdb/e14070e9ff4a",
-			"date_added": "2024-09-02T11:37:26Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:GrassWorkshop/GrassWorkshop-practice-POC.git"
-		},
-		{
 			"xdb_id": "22ff4506fd33",
 			"xdb_url": "https://vulncheck.com/xdb/22ff4506fd33",
 			"date_added": "2024-08-10T03:05:34Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2024-38856.git"
+		},
+		{
+			"xdb_id": "e14070e9ff4a",
+			"xdb_url": "https://vulncheck.com/xdb/e14070e9ff4a",
+			"date_added": "2024-09-02T11:37:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:GrassWorkshop/GrassWorkshop-practice-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

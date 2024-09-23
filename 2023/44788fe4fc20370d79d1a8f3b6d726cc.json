@@ -94,13 +94,6 @@
 			"clone_ssh_url": "git@github.com:malvika-thakur/CVE-2023-38831.git"
 		},
 		{
-			"xdb_id": "475dd98e97c6",
-			"xdb_url": "https://vulncheck.com/xdb/475dd98e97c6",
-			"date_added": "2023-11-15T07:01:05Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:xk-mt/WinRAR-Vulnerability-recurrence-tutorial.git"
-		},
-		{
 			"xdb_id": "f9dfaa39379d",
 			"xdb_url": "https://vulncheck.com/xdb/f9dfaa39379d",
 			"date_added": "2023-08-30T15:49:01Z",
@@ -281,6 +274,13 @@
 			"date_added": "2023-08-27T14:08:36Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Garck3h/cve-2023-38831.git"
+		},
+		{
+			"xdb_id": "475dd98e97c6",
+			"xdb_url": "https://vulncheck.com/xdb/475dd98e97c6",
+			"date_added": "2023-11-15T07:01:05Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:xk-mt/WinRAR-Vulnerability-recurrence-tutorial.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
