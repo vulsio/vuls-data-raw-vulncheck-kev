@@ -139,6 +139,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/2024-ddos-attack-trends",
 			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024",
+			"date_added": "2024-09-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-31T00:00:00Z",
