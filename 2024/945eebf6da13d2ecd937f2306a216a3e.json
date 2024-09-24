@@ -17,6 +17,10 @@
 		{
 			"url": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-CSA-4-6-Cloud-Services-Appliance-CVE-2024-8963",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybersecurity-help.cz/vdb/SB2024091969",
+			"date_added": "2024-09-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-10T00:00:00Z",
