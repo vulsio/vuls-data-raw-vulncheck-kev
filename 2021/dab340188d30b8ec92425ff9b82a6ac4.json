@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "e62d999afd19",
-			"xdb_url": "https://vulncheck.com/xdb/e62d999afd19",
-			"date_added": "2020-02-11T16:42:34Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:padovah4ck/CVE-2020-0683.git"
-		},
-		{
 			"xdb_id": "a3d5574cb924",
 			"xdb_url": "https://vulncheck.com/xdb/a3d5574cb924",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "e62d999afd19",
+			"xdb_url": "https://vulncheck.com/xdb/e62d999afd19",
+			"date_added": "2020-02-11T16:42:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:padovah4ck/CVE-2020-0683.git"
 		},
 		{
 			"xdb_id": "d9a4a6ac4c63",

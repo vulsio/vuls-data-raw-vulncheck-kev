@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-5324"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1f1fa3466b65",
+			"xdb_url": "https://vulncheck.com/xdb/1f1fa3466b65",
+			"date_added": "2024-06-06T09:01:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-5324.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://patchstack.com/database/vulnerability/easy-login-woocommerce/login-signup-popup-inline-form-woocommerce-2-7-2-missing-authorization-to-arbitrary-options-update",

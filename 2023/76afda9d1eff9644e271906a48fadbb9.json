@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:Zyad-Elsayed/CVE-2023-42793.git"
 		},
 		{
-			"xdb_id": "5559dd30ebb6",
-			"xdb_url": "https://vulncheck.com/xdb/5559dd30ebb6",
-			"date_added": "2023-09-29T06:43:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:H454NSec/CVE-2023-42793.git"
-		},
-		{
 			"xdb_id": "934bc956f553",
 			"xdb_url": "https://vulncheck.com/xdb/934bc956f553",
 			"date_added": "2024-09-20T12:15:25Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:SwiftSecur/teamcity-exploit-cve-2023-42793.git"
+		},
+		{
+			"xdb_id": "5559dd30ebb6",
+			"xdb_url": "https://vulncheck.com/xdb/5559dd30ebb6",
+			"date_added": "2023-09-29T06:43:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:H454NSec/CVE-2023-42793.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1007,6 +1007,10 @@
 			"date_added": "2024-09-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-24&host_type=src&vulnerability=cve-2020-15568",
+			"date_added": "2024-09-24T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/necro-python-botnet-goes-after-vulnerable-visualtools-dvr",
 			"date_added": "2021-10-11T00:00:00Z"
 		},
