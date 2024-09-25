@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "9a931c619e3c",
-			"xdb_url": "https://vulncheck.com/xdb/9a931c619e3c",
-			"date_added": "2019-09-06T12:12:48Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:R0rt1z2/AutomatedRoot.git"
-		},
-		{
 			"xdb_id": "466ce736a0d4",
 			"xdb_url": "https://vulncheck.com/xdb/466ce736a0d4",
 			"date_added": "2023-09-04T17:52:04Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0xf15h/mtk_su.git"
+		},
+		{
+			"xdb_id": "9a931c619e3c",
+			"xdb_url": "https://vulncheck.com/xdb/9a931c619e3c",
+			"date_added": "2019-09-06T12:12:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:R0rt1z2/AutomatedRoot.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
