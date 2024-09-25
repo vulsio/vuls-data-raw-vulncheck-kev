@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpdesk",
+	"product": "flexible_checkout_fields_for_woocommerce",
+	"shortDescription": "The Flexible Checkout Fields for WooCommerce  plugin for WordPress is vulnerable to Unauthenticated Arbitrary Plugin Settings update, in addition to Stored Cross-Site Scripting in versions up to, and including, 2.3.1. This is due to missing authorization checks on the updateSettingsAction() function which is called via an admin_init hook, along with missing sanitization and escaping on the settings that are stored.",
+	"vulnerabilityName": "wpdesk flexible_checkout_fields_for_woocommerce Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36731"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://wpscan.com/vulnerability/dc97a87d-56d0-4adc-a4da-95caa14b19cd/",
+			"date_added": "2023-06-08T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-08T00:00:00Z"
+}
