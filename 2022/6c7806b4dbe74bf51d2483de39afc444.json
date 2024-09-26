@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:0xDivyanshu-new/CVE-2019-16098.git"
 		},
 		{
-			"xdb_id": "550899059df7",
-			"xdb_url": "https://vulncheck.com/xdb/550899059df7",
-			"date_added": "2024-08-05T16:55:40Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE.git"
-		},
-		{
 			"xdb_id": "5f9a6e3f96ba",
 			"xdb_url": "https://vulncheck.com/xdb/5f9a6e3f96ba",
 			"date_added": "2019-09-10T15:57:36Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Barakat/CVE-2019-16098.git"
+		},
+		{
+			"xdb_id": "550899059df7",
+			"xdb_url": "https://vulncheck.com/xdb/550899059df7",
+			"date_added": "2024-08-05T16:55:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Offensive-Panda/NT-AUTHORITY-SYSTEM-CONTEXT-RTCORE.git"
 		},
 		{
 			"xdb_id": "3a54627e0172",

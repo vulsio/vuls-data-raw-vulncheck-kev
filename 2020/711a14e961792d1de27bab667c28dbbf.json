@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:00theway/Ghostcat-CNVD-2020-10487.git"
 		},
 		{
-			"xdb_id": "7e97ae83b853",
-			"xdb_url": "https://vulncheck.com/xdb/7e97ae83b853",
-			"date_added": "2019-06-06T18:13:16Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:LandGrey/ClassHound.git"
-		},
-		{
 			"xdb_id": "55578bb704d8",
 			"xdb_url": "https://vulncheck.com/xdb/55578bb704d8",
 			"date_added": "2021-03-28T03:30:44Z",
@@ -108,18 +101,11 @@
 			"clone_ssh_url": "git@github.com:lizhianyuguangming/TomcatScanPro.git"
 		},
 		{
-			"xdb_id": "f17ae55010e2",
-			"xdb_url": "https://vulncheck.com/xdb/f17ae55010e2",
-			"date_added": "2020-04-14T17:56:44+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:mondayice/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
-		},
-		{
-			"xdb_id": "0abdb0ef5835",
-			"xdb_url": "https://vulncheck.com/xdb/0abdb0ef5835",
-			"date_added": "2021-07-20T16:31:02+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-1938-Tomact-file_include-file_read.git"
+			"xdb_id": "7e97ae83b853",
+			"xdb_url": "https://vulncheck.com/xdb/7e97ae83b853",
+			"date_added": "2019-06-06T18:13:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LandGrey/ClassHound.git"
 		},
 		{
 			"xdb_id": "f69eb1a05f7d",
@@ -155,6 +141,20 @@
 			"date_added": "2020-09-04T09:40:52+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:isdc_admin/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
+		},
+		{
+			"xdb_id": "f17ae55010e2",
+			"xdb_url": "https://vulncheck.com/xdb/f17ae55010e2",
+			"date_added": "2020-04-14T17:56:44+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:mondayice/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
+		},
+		{
+			"xdb_id": "0abdb0ef5835",
+			"xdb_url": "https://vulncheck.com/xdb/0abdb0ef5835",
+			"date_added": "2021-07-20T16:31:02+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-1938-Tomact-file_include-file_read.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

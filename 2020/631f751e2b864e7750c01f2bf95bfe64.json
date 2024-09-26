@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "3f008773d321",
-			"xdb_url": "https://vulncheck.com/xdb/3f008773d321",
-			"date_added": "2020-12-01T15:49:07Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:synacktiv/CVE-2020-27950.git"
-		},
-		{
 			"xdb_id": "f02168cd5ede",
 			"xdb_url": "https://vulncheck.com/xdb/f02168cd5ede",
 			"date_added": "2024-09-15T16:54:03Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:lyonzon2/browser-crash-tool.git"
+		},
+		{
+			"xdb_id": "3f008773d321",
+			"xdb_url": "https://vulncheck.com/xdb/3f008773d321",
+			"date_added": "2020-12-01T15:49:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:synacktiv/CVE-2020-27950.git"
 		},
 		{
 			"xdb_id": "30d794c9b6ce",

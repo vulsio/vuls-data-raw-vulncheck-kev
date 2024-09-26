@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:bhenner1/CVE-2018-0296.git"
 		},
 		{
-			"xdb_id": "990d9dcf809d",
-			"xdb_url": "https://vulncheck.com/xdb/990d9dcf809d",
-			"date_added": "2018-06-21T15:44:29Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:yassineaboukir/CVE-2018-0296.git"
-		},
-		{
 			"xdb_id": "766776ee90cd",
 			"xdb_url": "https://vulncheck.com/xdb/766776ee90cd",
 			"date_added": "2018-06-21T08:36:34Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:milo2012/CVE-2018-0296.git"
+		},
+		{
+			"xdb_id": "990d9dcf809d",
+			"xdb_url": "https://vulncheck.com/xdb/990d9dcf809d",
+			"date_added": "2018-06-21T15:44:29Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:yassineaboukir/CVE-2018-0296.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

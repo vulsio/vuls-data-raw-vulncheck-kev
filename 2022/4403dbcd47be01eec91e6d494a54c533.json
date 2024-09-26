@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway.git"
 		},
 		{
-			"xdb_id": "e7ca8c762802",
-			"xdb_url": "https://vulncheck.com/xdb/e7ca8c762802",
-			"date_added": "2023-02-07T01:59:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Zh0um1/CVE-2022-22947.git"
-		},
-		{
 			"xdb_id": "06a474d9b7ec",
 			"xdb_url": "https://vulncheck.com/xdb/06a474d9b7ec",
 			"date_added": "2023-02-01T01:37:56Z",
@@ -157,13 +150,6 @@
 			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		},
 		{
-			"xdb_id": "769ad48809b9",
-			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
-			"date_added": "2020-01-25T08:55:08Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
-		},
-		{
 			"xdb_id": "0e346534d99c",
 			"xdb_url": "https://vulncheck.com/xdb/0e346534d99c",
 			"date_added": "2022-04-26T05:48:27Z",
@@ -171,11 +157,25 @@
 			"clone_ssh_url": "git@github.com:whwlsfb/cve-2022-22947-godzilla-memshell.git"
 		},
 		{
+			"xdb_id": "769ad48809b9",
+			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
+			"date_added": "2020-01-25T08:55:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
+		},
+		{
 			"xdb_id": "a48d3f6ecc63",
 			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
 			"date_added": "2022-04-07T04:28:29Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:helloexp/0day.git"
+		},
+		{
+			"xdb_id": "e7ca8c762802",
+			"xdb_url": "https://vulncheck.com/xdb/e7ca8c762802",
+			"date_added": "2023-02-07T01:59:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zh0um1/CVE-2022-22947.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
