@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:Kyyomaa/CVE-2021-3560-EXPLOIT.git"
 		},
 		{
-			"xdb_id": "25e4e99ad519",
-			"xdb_url": "https://vulncheck.com/xdb/25e4e99ad519",
-			"date_added": "2023-11-08T05:11:56Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2021-3560.git"
-		},
-		{
 			"xdb_id": "dd1aeadeb04f",
 			"xdb_url": "https://vulncheck.com/xdb/dd1aeadeb04f",
 			"date_added": "2021-06-12T05:22:35Z",
@@ -141,6 +134,13 @@
 			"date_added": "2019-06-27T16:04:09Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:oxagast/oxasploits.git"
+		},
+		{
+			"xdb_id": "25e4e99ad519",
+			"xdb_url": "https://vulncheck.com/xdb/25e4e99ad519",
+			"date_added": "2023-11-08T05:11:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2021-3560.git"
 		},
 		{
 			"xdb_id": "e4e946e08867",

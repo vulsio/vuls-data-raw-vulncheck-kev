@@ -19,6 +19,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-25&host_type=src&vulnerability=cve-2024-25852",
+			"date_added": "2024-09-25T00:00:00Z"
+		},
+		{
 			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
 			"date_added": "2024-05-22T00:00:00Z"
 		}
