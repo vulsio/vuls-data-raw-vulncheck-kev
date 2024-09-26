@@ -329,6 +329,10 @@
 		{
 			"url": "https://cyble.com/threat-actor-profiles/threat-actor-profile-leviathan/",
 			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/10-years-of-dll-hijacking-and-what-we-can-do-to-prevent-10-more/",
+			"date_added": "2024-09-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
