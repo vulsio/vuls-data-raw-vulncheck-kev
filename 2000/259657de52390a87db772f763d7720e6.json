@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Information Services (IIS)",
+	"shortDescription": "IIS 4.0 allows a remote attacker to obtain the real pathname of the document root by requesting non-existent files with .ida or .idq extensions.",
+	"vulnerabilityName": "Microsoft Internet Information Services (IIS) Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2000-0071"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cvedetails.com/cve/CVE-2000-0071/",
+			"date_added": "2000-01-11T00:00:00Z"
+		}
+	],
+	"date_added": "2000-01-11T00:00:00Z"
+}
