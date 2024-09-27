@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:RicterZ/CVE-2021-3560-Authentication-Agent.git"
 		},
 		{
-			"xdb_id": "3c3962d97923",
-			"xdb_url": "https://vulncheck.com/xdb/3c3962d97923",
-			"date_added": "2019-06-27T16:04:09Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:oxagast/oxasploits.git"
-		},
-		{
 			"xdb_id": "25e4e99ad519",
 			"xdb_url": "https://vulncheck.com/xdb/25e4e99ad519",
 			"date_added": "2023-11-08T05:11:56Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2021-3560.git"
+		},
+		{
+			"xdb_id": "3c3962d97923",
+			"xdb_url": "https://vulncheck.com/xdb/3c3962d97923",
+			"date_added": "2019-06-27T16:04:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:oxagast/oxasploits.git"
 		},
 		{
 			"xdb_id": "e4e946e08867",

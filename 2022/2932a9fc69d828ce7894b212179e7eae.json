@@ -269,13 +269,6 @@
 			"clone_ssh_url": "git@github.com:light-Life/CVE-2022-22965-GUItools.git"
 		},
 		{
-			"xdb_id": "30d6ff807f1f",
-			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
-			"date_added": "2023-10-05T11:00:32Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
-		},
-		{
 			"xdb_id": "b383e52d60dd",
 			"xdb_url": "https://vulncheck.com/xdb/b383e52d60dd",
 			"date_added": "2022-03-30T07:54:45Z",
@@ -304,6 +297,13 @@
 			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
+			"xdb_id": "29679c6bfbb1",
+			"xdb_url": "https://vulncheck.com/xdb/29679c6bfbb1",
+			"date_added": "2023-11-12T22:15:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2022-22965.git"
+		},
+		{
 			"xdb_id": "5978e9609a96",
 			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
 			"date_added": "2023-01-29T01:11:21Z",
@@ -311,11 +311,11 @@
 			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
 		},
 		{
-			"xdb_id": "29679c6bfbb1",
-			"xdb_url": "https://vulncheck.com/xdb/29679c6bfbb1",
-			"date_added": "2023-11-12T22:15:32Z",
+			"xdb_id": "30d6ff807f1f",
+			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
+			"date_added": "2023-10-05T11:00:32Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2022-22965.git"
+			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
 		},
 		{
 			"xdb_id": "43e4620d8285",
@@ -1342,6 +1342,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-24&host_type=src&vulnerability=cve-2022-22965",
 			"date_added": "2024-09-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-26&host_type=src&vulnerability=cve-2022-22965",
+			"date_added": "2024-09-26T00:00:00Z"
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html",
