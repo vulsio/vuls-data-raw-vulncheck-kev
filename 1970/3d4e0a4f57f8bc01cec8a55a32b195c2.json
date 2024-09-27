@@ -1,0 +1,19 @@
+{
+	"vendorProject": "computer_associates",
+	"product": "brightstor_arcserve_backup_laptops_desktops",
+	"shortDescription": "Stack-based buffer overflow in the ListCtrl ActiveX Control (ListCtrl.ocx), as used in multiple CA products including BrightStor ARCserve Backup R11.5, Desktop Management Suite r11.1 through r11.2, and Unicenter products r11.1 through r11.2, allows remote attackers to execute arbitrary code or cause a denial of service (crash) via a long argument to the AddColumn method.",
+	"vulnerabilityName": "computer_associates brightstor_arcserve_backup_laptops_desktops Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-1472"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

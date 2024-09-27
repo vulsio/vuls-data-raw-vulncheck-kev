@@ -330,6 +330,10 @@
 		{
 			"url": "https://www.rapid7.com/blog/post/2024/04/23/etr-unauthenticated-crushftp-zero-day-enables-complete-server-compromise/",
 			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/20oYjlmfXa/cve-2024-4040#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
+			"date_added": "2024-09-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-05-01T00:00:00Z",

@@ -17,6 +17,10 @@
 		{
 			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2014/ms14-025",
 			"date_added": "2014-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2024/Sep/25/2003553985/-1/-1/0/CTR-DETECTING-AND-MITIGATING-AD-COMPROMISES.PDF",
+			"date_added": "2024-09-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

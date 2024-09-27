@@ -206,18 +206,18 @@
 			"clone_ssh_url": "git@github.com:nxtexploit/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "14047453ba17",
-			"xdb_url": "https://vulncheck.com/xdb/14047453ba17",
-			"date_added": "2024-05-29T03:20:22Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
-		},
-		{
 			"xdb_id": "36e25b480581",
 			"xdb_url": "https://vulncheck.com/xdb/36e25b480581",
 			"date_added": "2022-06-03T13:59:19Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jbaines-r7/through_the_wire.git"
+		},
+		{
+			"xdb_id": "14047453ba17",
+			"xdb_url": "https://vulncheck.com/xdb/14047453ba17",
+			"date_added": "2024-05-29T03:20:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
 		},
 		{
 			"xdb_id": "0e38e7f0c998",

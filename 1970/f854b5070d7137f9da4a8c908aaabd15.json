@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "safari",
+	"shortDescription": "WebKit, as used in Apple Safari before 6.0, allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption and application crash) via a crafted web site, a different vulnerability than other WebKit CVEs listed in APPLE-SA-2012-07-25-1.",
+	"vulnerabilityName": "Apple safari Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-3683"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

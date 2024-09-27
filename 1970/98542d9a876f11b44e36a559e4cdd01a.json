@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in Internet Explorer 5.01 and 6 in Microsoft Windows 2000 SP4 permits access to local \"HTML-embedded resource files\" in the Microsoft Management Console (MMC) library, which allows remote authenticated users to execute arbitrary commands, aka \"MMC Redirect Cross-Site Scripting Vulnerability.\"",
+	"vulnerabilityName": "Microsoft ie Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3643"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

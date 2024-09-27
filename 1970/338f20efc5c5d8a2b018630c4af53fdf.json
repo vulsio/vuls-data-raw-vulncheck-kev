@@ -1,0 +1,27 @@
+{
+	"vendorProject": "sun",
+	"product": "jre",
+	"shortDescription": "Unspecified vulnerability in the Java Deployment Toolkit component in Oracle Java SE and Java for Business JDK and JRE 6 Update 10 through 19 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors.",
+	"vulnerabilityName": "Oracle Java SE and Java for Business JDK Java Deployment Toolkit Component Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-0886"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/monthly-malware-statistics-may-2010/36304/",
+			"date_added": "2010-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.hkcert.org/blog/large-scale-injection-incidents-targeting-oscommerce-websites",
+			"date_added": "2011-07-26T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

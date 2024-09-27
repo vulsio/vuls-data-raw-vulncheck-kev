@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "js/src/jstracer.cpp in the Just-in-time (JIT) JavaScript compiler (aka TraceMonkey) in Mozilla Firefox 3.5 before 3.5.1 allows remote attackers to execute arbitrary code via certain use of the escape function that triggers access to uninitialized memory locations, as originally demonstrated by a document containing P and FONT elements.",
+	"vulnerabilityName": "Mozilla Firefox Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-2477"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

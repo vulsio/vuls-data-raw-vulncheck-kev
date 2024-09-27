@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "windows_media_services",
+	"shortDescription": "Microsoft Windows Media Encoder allows remote attackers to cause a denial of service via a malformed request, aka the \"Malformed Windows Media Encoder Request\" vulnerability.",
+	"vulnerabilityName": "Microsoft windows_media_services Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2000-0495"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

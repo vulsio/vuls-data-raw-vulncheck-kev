@@ -1,0 +1,19 @@
+{
+	"vendorProject": "realnetworks",
+	"product": "realplayer",
+	"shortDescription": "The RealAudioObjects.RealAudio ActiveX control in rmoc3260.dll in RealNetworks RealPlayer Enterprise, RealPlayer 10, RealPlayer 10.5 before build 6.0.12.1675, and RealPlayer 11 before 11.0.3 build 6.0.14.806 does not properly manage memory for the (1) Console or (2) Controls property, which allows remote attackers to execute arbitrary code or cause a denial of service (browser crash) via a series of assignments of long string values, which triggers an overwrite of freed heap memory.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-1309"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

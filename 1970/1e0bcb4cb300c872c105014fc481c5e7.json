@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Integer overflow in Microsoft Internet Explorer 6 on Windows XP SP2 allows remote attackers to cause a denial of service (crash) and execute arbitrary code via a 0x7fffffff argument to the setSlice method on a WebViewFolderIcon ActiveX object, which leads to an invalid memory copy.",
+	"vulnerabilityName": "Microsoft ie Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-3730"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2006/ms06-057",
+			"date_added": "2006-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://archive.f-secure.com/weblog/archives/00001393",
+			"date_added": "2008-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20090323012515/http://securitylabs.websense.com/content/Alerts/3326.aspx",
+			"date_added": "2009-03-20T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}

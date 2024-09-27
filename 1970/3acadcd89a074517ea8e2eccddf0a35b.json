@@ -1,0 +1,23 @@
+{
+	"vendorProject": "gom_player",
+	"product": "gom_player",
+	"shortDescription": "Buffer overflow in the GomManager (GomWeb Control) ActiveX control in GomWeb3.dll 1.0.0.12 in Gretech Online Movie Player (GOM Player) 2.1.6.3499 allows remote attackers to execute arbitrary code via a long argument to the OpenUrl method.",
+	"vulnerabilityName": "gom_player gom_player Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-5779"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1cK7vFVn73NTsoLU487nh-XVSFu7M064RgHeDZB0a2s8/edit#gid=0",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://archive.f-secure.com/weblog/archives/00001393",
+			"date_added": "2008-03-03T00:00:00Z"
+		}
+	],
+	"date_added": "1970-01-01T00:00:00Z"
+}
