@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Netentsec",
+	"product": "NS-ASG Application Security Gateway",
+	"shortDescription": "A vulnerability was found in Netentsec NS-ASG Application Security Gateway 6.3. It has been classified as critical. This affects an unknown part of the file /protocol/index.php. The manipulation of the argument IPAddr leads to sql injection. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-256281 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.",
+	"vulnerabilityName": "Netentsec NS-ASG Application Security Gateway /protocol/index.php SQL Injection Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-2330"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-26&host_type=src&vulnerability=cve-2024-2330",
+			"date_added": "2024-09-26T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-26T00:00:00Z"
+}

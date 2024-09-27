@@ -1,12 +1,12 @@
 {
-	"vendorProject": "Microsoft",
-	"product": "Internet Explorer",
-	"shortDescription": "Use-after-free vulnerability in Microsoft Internet Explorer 8 allows remote attackers to execute arbitrary code via a crafted web site that triggers access to a deleted object, aka \"Internet Explorer SLayoutRun Use After Free Vulnerability.\"",
-	"vulnerabilityName": "",
+	"vendorProject": "sun",
+	"product": "jre",
+	"shortDescription": "Unspecified vulnerability in the New Java Plug-in component in Oracle Java SE and Java for Business 6 Update 21 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors.",
+	"vulnerabilityName": "Oracle Java SE and Java for Business New Java Plug-in Component Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2013-0025"
+		"CVE-2010-3552"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

@@ -737,6 +737,10 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/multiple-threats-target-adobe-coldfusion-vulnerabilities",
 			"date_added": "2023-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
+			"date_added": "2024-09-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-01-29T00:00:00Z",

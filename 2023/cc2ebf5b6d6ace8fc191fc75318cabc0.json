@@ -878,6 +878,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
 			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
+			"date_added": "2024-09-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-02-13T00:00:00Z",

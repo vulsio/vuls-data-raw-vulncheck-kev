@@ -1,12 +1,12 @@
 {
-	"vendorProject": "sun",
-	"product": "jre",
-	"shortDescription": "Unspecified vulnerability in the New Java Plug-in component in Oracle Java SE and Java for Business 6 Update 21 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors.",
-	"vulnerabilityName": "",
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Internet Explorer 5.01, 5.5, and 6 does not properly validate buffers when handling certain DHTML methods including the createControlRange Javascript function, which allows remote attackers to execute arbitrary code, aka the \"DHTML Method Heap Memory Corruption Vulnerability.\"",
+	"vulnerabilityName": "Internet Explorer DHTML Method Heap Memory Corruption Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2010-3552"
+		"CVE-2005-0055"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

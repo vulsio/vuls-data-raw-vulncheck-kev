@@ -1,12 +1,12 @@
 {
-	"vendorProject": "opera",
-	"product": "opera_browser",
-	"shortDescription": "Opera 9.52 and earlier allows remote attackers to cause a denial of service (CPU consumption) via a series of automatic submissions of a form containing a KEYGEN element, a related issue to CVE-2009-1828.",
-	"vulnerabilityName": "",
+	"vendorProject": "Google",
+	"product": "Chrome",
+	"shortDescription": "Use-after-free vulnerability in Google Chrome before 28.0.1500.95 allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to deleting the registration of a MutationObserver object.",
+	"vulnerabilityName": "Google Chrome MutationObserver Object Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2009-3269"
+		"CVE-2013-2883"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

@@ -2,7 +2,7 @@
 	"vendorProject": "invisioncommunity",
 	"product": "invision_power_board",
 	"shortDescription": "Unspecified vulnerability in admin/sources/base/core.php in Invision Power Board (aka IPB or IP.Board) 3.1.x through 3.3.x has unknown impact and remote attack vectors.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Invision Power Board admin/sources/base/core.php Unspecified Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

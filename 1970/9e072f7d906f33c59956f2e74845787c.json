@@ -2,7 +2,7 @@
 	"vendorProject": "Oracle",
 	"product": "Java Runtime Environment (JRE)",
 	"shortDescription": "Unspecified vulnerability in the Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 2 and earlier, 6 Update 30 and earlier, and JavaFX 2.0.2 and earlier allows remote untrusted Java Web Start applications and untrusted Java applets to affect confidentiality, integrity, and availability via unknown vectors related to Deployment.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "Java Runtime Environment Java Web Start Applications and Java Applet Deployment Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

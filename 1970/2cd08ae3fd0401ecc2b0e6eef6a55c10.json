@@ -1,12 +1,12 @@
 {
-	"vendorProject": "Adobe",
-	"product": "Flash Player",
-	"shortDescription": "Integer overflow in Adobe Flash Player before 10.2.152.26 allows attackers to execute arbitrary code via a large array length value in the ActionScript method of the Function class.",
-	"vulnerabilityName": "",
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Use-after-free vulnerability in Microsoft Internet Explorer 8 allows remote attackers to execute arbitrary code via a crafted web site that triggers access to a deleted object, aka \"Internet Explorer SLayoutRun Use After Free Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Internet Explorer SLayoutRun Use After Free Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2011-0558"
+		"CVE-2013-0025"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

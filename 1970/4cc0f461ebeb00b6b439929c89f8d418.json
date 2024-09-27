@@ -1,12 +1,12 @@
 {
-	"vendorProject": "Microsoft",
-	"product": "ie",
-	"shortDescription": "Internet Explorer 5.01, 5.5, and 6 does not properly validate buffers when handling certain DHTML methods including the createControlRange Javascript function, which allows remote attackers to execute arbitrary code, aka the \"DHTML Method Heap Memory Corruption Vulnerability.\"",
-	"vulnerabilityName": "",
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Integer overflow in Adobe Flash Player before 10.2.152.26 allows attackers to execute arbitrary code via a large array length value in the ActionScript method of the Function class.",
+	"vulnerabilityName": "Adobe Flash Player ActionScript Method of the Function Class Integer Overflow Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2005-0055"
+		"CVE-2011-0558"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
