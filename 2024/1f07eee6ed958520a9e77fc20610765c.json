@@ -78,6 +78,10 @@
 			"date_added": "2024-09-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-27&host_type=src&vulnerability=cve-2024-7029",
+			"date_added": "2024-09-27T00:00:00Z"
+		},
+		{
 			"url": "https://www.akamai.com/blog/security-research/2024-corona-mirai-botnet-infects-zero-day-sirt",
 			"date_added": "2024-08-28T00:00:00Z"
 		}

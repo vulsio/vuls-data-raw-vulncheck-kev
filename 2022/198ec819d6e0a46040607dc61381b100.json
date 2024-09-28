@@ -185,18 +185,18 @@
 			"clone_ssh_url": "git@github.com:Malwareman007/Deathnote.git"
 		},
 		{
-			"xdb_id": "3aa02158ccc4",
-			"xdb_url": "https://vulncheck.com/xdb/3aa02158ccc4",
-			"date_added": "2022-05-31T06:45:25Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:onecloudemoji/CVE-2022-30190.git"
-		},
-		{
 			"xdb_id": "ec804773a346",
 			"xdb_url": "https://vulncheck.com/xdb/ec804773a346",
 			"date_added": "2023-05-02T07:56:28Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:hycheng15/CVE-2022-30190.git"
+		},
+		{
+			"xdb_id": "3aa02158ccc4",
+			"xdb_url": "https://vulncheck.com/xdb/3aa02158ccc4",
+			"date_added": "2022-05-31T06:45:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:onecloudemoji/CVE-2022-30190.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
