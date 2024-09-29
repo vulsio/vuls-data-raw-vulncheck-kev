@@ -192,18 +192,18 @@
 			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
 		},
 		{
-			"xdb_id": "e962ac877371",
-			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
-			"date_added": "2019-07-18T14:25:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
-		},
-		{
 			"xdb_id": "59c38bcb5664",
 			"xdb_url": "https://vulncheck.com/xdb/59c38bcb5664",
 			"date_added": "2020-01-15T04:26:29Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
+			"xdb_id": "e962ac877371",
+			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
+			"date_added": "2019-07-18T14:25:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
 		},
 		{
 			"xdb_id": "a13fcf8de8fc",
