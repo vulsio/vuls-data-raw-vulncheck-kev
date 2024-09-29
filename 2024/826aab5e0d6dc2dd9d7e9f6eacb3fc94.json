@@ -353,6 +353,13 @@
 			"clone_ssh_url": "git@github.com:un9nplayer/CVE-2024-24919.git"
 		},
 		{
+			"xdb_id": "7b331d4560e7",
+			"xdb_url": "https://vulncheck.com/xdb/7b331d4560e7",
+			"date_added": "2024-09-29T08:20:56Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-24919.git"
+		},
+		{
 			"xdb_id": "3e1daa797bf9",
 			"xdb_url": "https://vulncheck.com/xdb/3e1daa797bf9",
 			"date_added": "2024-06-01T14:46:36Z",
@@ -800,6 +807,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-27&host_type=src&vulnerability=cve-2024-24919",
 			"date_added": "2024-09-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-28&host_type=src&vulnerability=cve-2024-24919",
+			"date_added": "2024-09-28T00:00:00Z"
 		},
 		{
 			"url": "https://blog.checkpoint.com/security/enhance-your-vpn-security-posture",

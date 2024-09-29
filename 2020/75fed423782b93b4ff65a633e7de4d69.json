@@ -377,6 +377,10 @@
 			"date_added": "2024-09-27T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-28&host_type=src&vulnerability=cve-2019-18935",
+			"date_added": "2024-09-28T00:00:00Z"
+		},
+		{
 			"url": "https://blog.talosintelligence.com/2020/09/CTIR-quarterly-trends-Q4-2020.html",
 			"date_added": "2020-09-01T00:00:00Z"
 		},

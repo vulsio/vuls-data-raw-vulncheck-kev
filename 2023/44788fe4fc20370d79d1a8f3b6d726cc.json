@@ -288,6 +288,13 @@
 			"date_added": "2024-09-27T19:11:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:technicalcorp2/CVE-2023-38831-exploit-generator.git"
+		},
+		{
+			"xdb_id": "12c5984d5f98",
+			"xdb_url": "https://vulncheck.com/xdb/12c5984d5f98",
+			"date_added": "2024-09-27T18:23:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:technicalcorp0/CVE-2023-38831-Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
