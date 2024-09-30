@@ -311,6 +311,10 @@
 			"date_added": "2024-09-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-29&host_type=src&vulnerability=cve-2023-29298",
+			"date_added": "2024-09-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.rapid7.com/blog/post/2023/07/17/etr-active-exploitation-of-multiple-adobe-coldfusion-vulnerabilities/",
 			"date_added": "2023-07-17T00:00:00Z"
 		},

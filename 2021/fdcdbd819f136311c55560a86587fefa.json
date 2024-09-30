@@ -847,6 +847,10 @@
 			"date_added": "2024-09-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-29&host_type=src&vulnerability=cve-2014-3206",
+			"date_added": "2024-09-29T00:00:00Z"
+		},
+		{
 			"url": "https://twitter.com/ESETresearch/status/1440052837820428298?s=20",
 			"date_added": "2021-09-20T00:00:00Z"
 		},
