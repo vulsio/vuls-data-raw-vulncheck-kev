@@ -178,18 +178,18 @@
 			"clone_ssh_url": "git@github.com:Barriuso/SMBGhost_AutomateExploitation.git"
 		},
 		{
-			"xdb_id": "9f1dbe33c767",
-			"xdb_url": "https://vulncheck.com/xdb/9f1dbe33c767",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "234a8c77ec20",
 			"xdb_url": "https://vulncheck.com/xdb/234a8c77ec20",
 			"date_added": "2020-03-30T11:42:56Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:danigargu/CVE-2020-0796.git"
+		},
+		{
+			"xdb_id": "9f1dbe33c767",
+			"xdb_url": "https://vulncheck.com/xdb/9f1dbe33c767",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "28ef5a320ff6",
