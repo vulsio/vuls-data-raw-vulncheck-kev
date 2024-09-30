@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Motion Spell",
+	"product": "GPAC",
+	"shortDescription": "Motion Spell GPAC contains a null pointer dereference vulnerability that could allow a local attacker to cause a denial-of-service (DoS) condition.",
+	"vulnerabilityName": "Motion Spell GPAC Null Pointer Dereference Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4043"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.cadosecurity.com/blog/from-automation-to-exploitation-the-growing-misuse-of-selenium-grid-for-cryptomining-and-proxyjacking",
+			"date_added": "2024-09-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-21T00:00:00Z",
+	"cisa_date_added": "2024-09-30T00:00:00Z",
+	"date_added": "2024-09-12T00:00:00Z"
+}

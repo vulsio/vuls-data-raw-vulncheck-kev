@@ -1,0 +1,16 @@
+{
+	"vendorProject": "SAP",
+	"product": "Commerce Cloud",
+	"shortDescription": "SAP Commerce Cloud (formerly known as Hybris) contains a deserialization of untrusted data vulnerability within the mediaconversion and virtualjdbc extension that allows for code injection.",
+	"vulnerabilityName": "SAP Commerce Cloud Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-0344"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-10-21T00:00:00Z",
+	"cisa_date_added": "2024-09-30T00:00:00Z",
+	"date_added": "2024-09-30T00:00:00Z"
+}

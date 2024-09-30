@@ -1,0 +1,25 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-820 Router",
+	"shortDescription": "D-Link DIR-820 routers contain an OS command injection vulnerability that allows a remote, unauthenticated attacker to escalate privileges to root via a crafted payload with the ping_addr parameter to ping.ccp.",
+	"vulnerabilityName": "D-Link DIR-820 Router OS Command Injection Vulnerability",
+	"required_action": "The impacted product is end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue utilization of the product.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-25280"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-21T00:00:00Z",
+	"cisa_date_added": "2024-09-30T00:00:00Z",
+	"date_added": "2023-06-22T00:00:00Z"
+}
