@@ -199,6 +199,13 @@
 			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-23897.git"
 		},
 		{
+			"xdb_id": "f240e8d471e6",
+			"xdb_url": "https://vulncheck.com/xdb/f240e8d471e6",
+			"date_added": "2024-09-30T16:38:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
+		},
+		{
 			"xdb_id": "0450095821bb",
 			"xdb_url": "https://vulncheck.com/xdb/0450095821bb",
 			"date_added": "2024-01-29T19:45:24+08:00",
