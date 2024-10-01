@@ -913,25 +913,11 @@
 			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "344207902686",
-			"xdb_url": "https://vulncheck.com/xdb/344207902686",
-			"date_added": "2022-01-26T00:56:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
-		},
-		{
 			"xdb_id": "57f121c7d9ed",
 			"xdb_url": "https://vulncheck.com/xdb/57f121c7d9ed",
 			"date_added": "2022-01-29T20:24:43Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:OXDBXKXO/ez-pwnkit.git"
-		},
-		{
-			"xdb_id": "722d83b48dd0",
-			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
-			"date_added": "2022-01-26T14:26:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
 		},
 		{
 			"xdb_id": "bdac5d88146f",
@@ -941,11 +927,18 @@
 			"clone_ssh_url": "git@github.com:berdav/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "aeecf13a2fe2",
-			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
-			"date_added": "2023-11-12T05:08:25+08:00",
+			"xdb_id": "722d83b48dd0",
+			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
+			"date_added": "2022-01-26T14:26:10Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
+			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
+		},
+		{
+			"xdb_id": "344207902686",
+			"xdb_url": "https://vulncheck.com/xdb/344207902686",
+			"date_added": "2022-01-26T00:56:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "fc91e648cdb7",
@@ -1016,6 +1009,13 @@
 			"date_added": "2022-01-26T22:57:43+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:kiang70/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "aeecf13a2fe2",
+			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
+			"date_added": "2023-11-12T05:08:25+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "273b1f8f417f",

@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "46abf92ec267",
-			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
-			"date_added": "2024-07-06T01:10:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "169202f2fa5f",
 			"xdb_url": "https://vulncheck.com/xdb/169202f2fa5f",
 			"date_added": "2024-09-28T14:55:50Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:PunitTailor55/GeoServer-CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "46abf92ec267",
+			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
+			"date_added": "2024-07-06T01:10:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
