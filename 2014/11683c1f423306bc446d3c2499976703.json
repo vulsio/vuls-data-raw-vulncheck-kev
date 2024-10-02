@@ -192,13 +192,6 @@
 			"clone_ssh_url": "git@github.com:Jsmoreira02/CVE-2014-6271.git"
 		},
 		{
-			"xdb_id": "b4b5de984e30",
-			"xdb_url": "https://vulncheck.com/xdb/b4b5de984e30",
-			"date_added": "2016-12-07T23:38:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2014-6271.git"
-		},
-		{
 			"xdb_id": "462fc384771e",
 			"xdb_url": "https://vulncheck.com/xdb/462fc384771e",
 			"date_added": "2021-01-24T18:47:15Z",
@@ -213,18 +206,25 @@
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
+			"xdb_id": "b4b5de984e30",
+			"xdb_url": "https://vulncheck.com/xdb/b4b5de984e30",
+			"date_added": "2016-12-07T23:38:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "137b7b5051c2",
+			"xdb_url": "https://vulncheck.com/xdb/137b7b5051c2",
+			"date_added": "2021-09-28T11:09:31+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:Draycen/shellshock_scanner.git"
+		},
+		{
 			"xdb_id": "e57812c06caf",
 			"xdb_url": "https://vulncheck.com/xdb/e57812c06caf",
 			"date_added": "2020-09-11T15:43:16+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
-		},
-		{
-			"xdb_id": "f04bc714ad93",
-			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
-			"date_added": "2020-08-18T23:57:19+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
 		},
 		{
 			"xdb_id": "91302a8a527c",
@@ -234,11 +234,11 @@
 			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
 		},
 		{
-			"xdb_id": "137b7b5051c2",
-			"xdb_url": "https://vulncheck.com/xdb/137b7b5051c2",
-			"date_added": "2021-09-28T11:09:31+08:00",
+			"xdb_id": "f04bc714ad93",
+			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
+			"date_added": "2020-08-18T23:57:19+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:Draycen/shellshock_scanner.git"
+			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
 		},
 		{
 			"xdb_id": "3af8913bb29e",
