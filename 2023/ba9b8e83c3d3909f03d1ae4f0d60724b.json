@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2023-25157-and-CVE-2023-25158.git"
 		},
 		{
-			"xdb_id": "281183e04222",
-			"xdb_url": "https://vulncheck.com/xdb/281183e04222",
-			"date_added": "2023-06-06T14:05:09Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:win3zz/CVE-2023-25157.git"
-		},
-		{
 			"xdb_id": "44aac331bc8b",
 			"xdb_url": "https://vulncheck.com/xdb/44aac331bc8b",
 			"date_added": "2023-11-28T07:23:00Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:dr-cable-tv/Geoserver-CVE-2023-25157.git"
+		},
+		{
+			"xdb_id": "281183e04222",
+			"xdb_url": "https://vulncheck.com/xdb/281183e04222",
+			"date_added": "2023-06-06T14:05:09Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:win3zz/CVE-2023-25157.git"
 		},
 		{
 			"xdb_id": "5da0c67872da",

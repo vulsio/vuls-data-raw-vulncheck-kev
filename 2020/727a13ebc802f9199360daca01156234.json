@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:david4599/CurveballCertTool.git"
 		},
 		{
-			"xdb_id": "cc5ed1f3625f",
-			"xdb_url": "https://vulncheck.com/xdb/cc5ed1f3625f",
-			"date_added": "2020-01-15T23:15:32Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:kudelskisecurity/chainoffools.git"
-		},
-		{
 			"xdb_id": "6abcb18100dc",
 			"xdb_url": "https://vulncheck.com/xdb/6abcb18100dc",
 			"date_added": "2020-01-23T18:26:48Z",
@@ -92,6 +85,13 @@
 			"date_added": "2020-01-16T23:44:37Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:saleemrashid/badecparams.git"
+		},
+		{
+			"xdb_id": "cc5ed1f3625f",
+			"xdb_url": "https://vulncheck.com/xdb/cc5ed1f3625f",
+			"date_added": "2020-01-15T23:15:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kudelskisecurity/chainoffools.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -185,18 +185,18 @@
 			"clone_ssh_url": "git@github.com:DisK0nn3cT/MaltegoHeartbleed.git"
 		},
 		{
-			"xdb_id": "31dbd59f952b",
-			"xdb_url": "https://vulncheck.com/xdb/31dbd59f952b",
-			"date_added": "2016-03-30T11:43:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
-		},
-		{
 			"xdb_id": "bd1cb68e3a25",
 			"xdb_url": "https://vulncheck.com/xdb/bd1cb68e3a25",
 			"date_added": "2014-04-08T10:10:43Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:musalbas/heartbleed-masstest.git"
+		},
+		{
+			"xdb_id": "31dbd59f952b",
+			"xdb_url": "https://vulncheck.com/xdb/31dbd59f952b",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
 			"xdb_id": "a5f2ac732a33",

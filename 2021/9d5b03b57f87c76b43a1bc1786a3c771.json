@@ -59,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:cc3305/CVE-2021-22204.git"
 		},
 		{
-			"xdb_id": "0c2c0a7d6b52",
-			"xdb_url": "https://vulncheck.com/xdb/0c2c0a7d6b52",
-			"date_added": "2022-04-16T22:49:47Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:UNICORDev/exploit-CVE-2021-22204.git"
-		},
-		{
 			"xdb_id": "793a0410f319",
 			"xdb_url": "https://vulncheck.com/xdb/793a0410f319",
 			"date_added": "2021-05-12T08:51:44Z",
@@ -78,6 +71,13 @@
 			"date_added": "2021-05-21T00:14:52Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:bilkoh/POC-CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "0c2c0a7d6b52",
+			"xdb_url": "https://vulncheck.com/xdb/0c2c0a7d6b52",
+			"date_added": "2022-04-16T22:49:47Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:UNICORDev/exploit-CVE-2021-22204.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
