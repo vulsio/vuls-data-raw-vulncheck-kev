@@ -1,0 +1,19 @@
+{
+	"vendorProject": "VMware",
+	"product": "vcenter_server",
+	"shortDescription": "The vCenter Server contains a heap-overflow vulnerability in the implementation of the DCERPC protocol. A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a specially crafted network packet potentially leading to remote code execution.",
+	"vulnerabilityName": "VMware vcenter_server Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38812"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://attackerkb.com/topics/pDMaaTA6Th/cve-2024-38812#exploited-in-the-wild_c8779024-ade3-4079-87ed-8deaab4671af",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-19T00:00:00Z"
+}

@@ -1,0 +1,47 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Buffer overflow in Adobe Flash Player before 11.7.700.279 and 11.8.x through 13.0.x before 13.0.0.206 on Windows and OS X, and before 11.2.202.356 on Linux, allows remote attackers to execute arbitrary code via unspecified vectors, as exploited in the wild in April 2014.",
+	"vulnerabilityName": "Adobe Flash Player Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2014-0515"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/why-old-is-gold-for-ransomware.html",
+			"date_added": "2021-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-watering-hole-attacks-attributed-apt-group-th3bug-using-poison-ivy/",
+			"date_added": "2014-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html",
+			"date_added": "2015-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/animal-farm-apt-and-the-shadow-of-france-intelligence/",
+			"date_added": "2015-07-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/the-mysterious-case-of-cve-2016-0034-the-hunt-for-a-microsoft-silverlight-0-day/73255/",
+			"date_added": "2016-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.scribd.com/document/516749423/inzimam-2019-ijca-919742",
+			"date_added": "2019-12-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2014-09-19T00:00:00Z"
+}

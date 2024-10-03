@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "87f86676e025",
-			"xdb_url": "https://vulncheck.com/xdb/87f86676e025",
-			"date_added": "2023-10-16T20:34:02Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:0x06060606/CVE-2023-41993.git"
-		},
-		{
 			"xdb_id": "00494fcf0096",
 			"xdb_url": "https://vulncheck.com/xdb/00494fcf0096",
 			"date_added": "2023-11-28T00:55:11Z",
@@ -36,6 +29,13 @@
 			"date_added": "2023-10-16T15:43:50Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:hrtowii/cve-2023-41993-test.git"
+		},
+		{
+			"xdb_id": "87f86676e025",
+			"xdb_url": "https://vulncheck.com/xdb/87f86676e025",
+			"date_added": "2023-10-16T20:34:02Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:0x06060606/CVE-2023-41993.git"
 		},
 		{
 			"xdb_id": "a1262876e3e8",
