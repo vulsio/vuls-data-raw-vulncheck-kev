@@ -234,13 +234,6 @@
 			"clone_ssh_url": "git@github.com:algo7/bluekeep_CVE-2019-0708_poc_to_exploit.git"
 		},
 		{
-			"xdb_id": "92468824377e",
-			"xdb_url": "https://vulncheck.com/xdb/92468824377e",
-			"date_added": "2021-02-15T20:46:01+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:tancehello/Check-vuln-CVE-2019-0708.git"
-		},
-		{
 			"xdb_id": "181fc435a9f1",
 			"xdb_url": "https://vulncheck.com/xdb/181fc435a9f1",
 			"date_added": "2019-10-15T20:39:03+08:00",
@@ -274,6 +267,20 @@
 			"date_added": "2020-03-17T17:24:17+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "fee7134123f4",
+			"xdb_url": "https://vulncheck.com/xdb/fee7134123f4",
+			"date_added": "2022-01-11T23:39:49+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_n1xbyte/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "48acdd34a61b",
+			"xdb_url": "https://vulncheck.com/xdb/48acdd34a61b",
+			"date_added": "2020-03-17T17:43:28+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708-1.git"
 		},
 		{
 			"xdb_id": "3785316d7fc5",
@@ -318,18 +325,11 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_k8gege/CVE-2019-0708.git"
 		},
 		{
-			"xdb_id": "fee7134123f4",
-			"xdb_url": "https://vulncheck.com/xdb/fee7134123f4",
-			"date_added": "2022-01-11T23:39:49+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_n1xbyte/CVE-2019-0708.git"
-		},
-		{
-			"xdb_id": "48acdd34a61b",
-			"xdb_url": "https://vulncheck.com/xdb/48acdd34a61b",
-			"date_added": "2020-03-17T17:43:28+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708-1.git"
+			"xdb_id": "92468824377e",
+			"xdb_url": "https://vulncheck.com/xdb/92468824377e",
+			"date_added": "2021-02-15T20:46:01+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:tancehello/Check-vuln-CVE-2019-0708.git"
 		},
 		{
 			"xdb_id": "9523c9b3ece9",
