@@ -255,13 +255,6 @@
 			"clone_ssh_url": "git@github.com:H3KEY/CVE-2024-24919.git"
 		},
 		{
-			"xdb_id": "9a3fb12624b4",
-			"xdb_url": "https://vulncheck.com/xdb/9a3fb12624b4",
-			"date_added": "2024-06-03T13:30:31Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:0nin0hanz0/CVE-2024-24919-PoC.git"
-		},
-		{
 			"xdb_id": "07f925370452",
 			"xdb_url": "https://vulncheck.com/xdb/07f925370452",
 			"date_added": "2024-07-31T09:55:29Z",
@@ -346,18 +339,25 @@
 			"clone_ssh_url": "git@github.com:un9nplayer/CVE-2024-24919.git"
 		},
 		{
-			"xdb_id": "7b331d4560e7",
-			"xdb_url": "https://vulncheck.com/xdb/7b331d4560e7",
-			"date_added": "2024-09-29T08:20:56Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-24919.git"
-		},
-		{
 			"xdb_id": "4b560c5574a3",
 			"xdb_url": "https://vulncheck.com/xdb/4b560c5574a3",
 			"date_added": "2024-05-31T11:52:59Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:seed1337/CVE-2024-24919-POC.git"
+		},
+		{
+			"xdb_id": "9a3fb12624b4",
+			"xdb_url": "https://vulncheck.com/xdb/9a3fb12624b4",
+			"date_added": "2024-06-03T13:30:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0nin0hanz0/CVE-2024-24919-PoC.git"
+		},
+		{
+			"xdb_id": "7b331d4560e7",
+			"xdb_url": "https://vulncheck.com/xdb/7b331d4560e7",
+			"date_added": "2024-09-29T08:20:56Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-24919.git"
 		},
 		{
 			"xdb_id": "3e1daa797bf9",
@@ -819,6 +819,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-01&host_type=src&vulnerability=cve-2024-24919",
 			"date_added": "2024-10-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-02&host_type=src&vulnerability=cve-2024-24919",
+			"date_added": "2024-10-02T00:00:00Z"
 		},
 		{
 			"url": "https://blog.checkpoint.com/security/enhance-your-vpn-security-posture",

@@ -45,11 +45,11 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-3519.git"
 		},
 		{
-			"xdb_id": "a40d42ae400a",
-			"xdb_url": "https://vulncheck.com/xdb/a40d42ae400a",
-			"date_added": "2023-07-21T20:17:43Z",
+			"xdb_id": "1dceea81abe0",
+			"xdb_url": "https://vulncheck.com/xdb/1dceea81abe0",
+			"date_added": "2023-10-27T18:39:31Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BishopFox/CVE-2023-3519.git"
+			"clone_ssh_url": "git@github.com:Mohammaddvd/CVE-2023-3519.git"
 		},
 		{
 			"xdb_id": "d8dc36e352eb",
@@ -59,11 +59,11 @@
 			"clone_ssh_url": "git@github.com:assetnote/exploits.git"
 		},
 		{
-			"xdb_id": "1dceea81abe0",
-			"xdb_url": "https://vulncheck.com/xdb/1dceea81abe0",
-			"date_added": "2023-10-27T18:39:31Z",
+			"xdb_id": "a40d42ae400a",
+			"xdb_url": "https://vulncheck.com/xdb/a40d42ae400a",
+			"date_added": "2023-07-21T20:17:43Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Mohammaddvd/CVE-2023-3519.git"
+			"clone_ssh_url": "git@github.com:BishopFox/CVE-2023-3519.git"
 		},
 		{
 			"xdb_id": "9e9c040fa62e",
@@ -173,6 +173,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-23&host_type=src&vulnerability=cve-2023-3519",
 			"date_added": "2024-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-02&host_type=src&vulnerability=cve-2023-3519",
+			"date_added": "2024-10-02T00:00:00Z"
 		},
 		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",

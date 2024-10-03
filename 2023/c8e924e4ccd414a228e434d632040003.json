@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-4966.git"
 		},
 		{
-			"xdb_id": "fd87f38c3710",
-			"xdb_url": "https://vulncheck.com/xdb/fd87f38c3710",
-			"date_added": "2022-12-20T04:06:49Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:assetnote/exploits.git"
-		},
-		{
 			"xdb_id": "583a12f31374",
 			"xdb_url": "https://vulncheck.com/xdb/583a12f31374",
 			"date_added": "2024-09-09T07:26:24Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:LucasOneZ/CVE-2023-4966.git"
+		},
+		{
+			"xdb_id": "fd87f38c3710",
+			"xdb_url": "https://vulncheck.com/xdb/fd87f38c3710",
+			"date_added": "2022-12-20T04:06:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:assetnote/exploits.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1393,6 +1393,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-01&host_type=src&vulnerability=cve-2023-4966",
 			"date_added": "2024-10-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-02&host_type=src&vulnerability=cve-2023-4966",
+			"date_added": "2024-10-02T00:00:00Z"
 		},
 		{
 			"url": "https://doublepulsar.com/lockbit-ransomware-group-assemble-strike-team-to-breach-banks-law-firms-and-governments-4220580bfcee",
