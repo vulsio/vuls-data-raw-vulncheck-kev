@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Synacor",
 	"product": "Zimbra Collaboration",
-	"shortDescription": "The postjournal service in Zimbra Collaboration (ZCS) before 8.8.15 Patch 46, 9 before 9.0.0 Patch 41, 10 before 10.0.9, and 10.1 before 10.1.1 sometimes allows unauthenticated users to execute commands.",
-	"vulnerabilityName": "Zimbra Collaboration Postjournal Service Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "Synacor Zimbra Collaboration contains an unspecified vulnerability in the postjournal service that may allow an unauthenticated user to execute commands.",
+	"vulnerabilityName": "Synacor Zimbra Collaboration Command Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-45519"
@@ -19,6 +19,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
 			"url": "https://x.com/JusticeRage/status/1841017884245438555",
 			"date_added": "2024-10-01T00:00:00Z"
 		},
@@ -27,5 +31,7 @@
 			"date_added": "2024-10-01T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-10-24T00:00:00Z",
+	"cisa_date_added": "2024-10-03T00:00:00Z",
 	"date_added": "2024-10-01T00:00:00Z"
 }

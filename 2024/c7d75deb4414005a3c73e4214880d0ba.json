@@ -24,6 +24,13 @@
 			"clone_ssh_url": "git@github.com:pearlmansara/CVE-2024-47176-CUPS.git"
 		},
 		{
+			"xdb_id": "01371db3db14",
+			"xdb_url": "https://vulncheck.com/xdb/01371db3db14",
+			"date_added": "2024-10-03T15:53:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-47176.git"
+		},
+		{
 			"xdb_id": "e9a2eadc5ef8",
 			"xdb_url": "https://vulncheck.com/xdb/e9a2eadc5ef8",
 			"date_added": "2024-09-25T01:17:53Z",
