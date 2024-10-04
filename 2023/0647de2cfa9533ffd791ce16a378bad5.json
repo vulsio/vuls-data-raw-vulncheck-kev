@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:scopion/CVE-2021-43799.git"
 		},
 		{
-			"xdb_id": "aaf92101142b",
-			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
-			"date_added": "2021-12-07T15:11:34Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
-		},
-		{
 			"xdb_id": "8773828620b6",
 			"xdb_url": "https://vulncheck.com/xdb/8773828620b6",
 			"date_added": "2024-03-04T18:32:21Z",
@@ -183,6 +176,13 @@
 			"date_added": "2021-12-07T09:02:16Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:jas502n/Grafana-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "aaf92101142b",
+			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
+			"date_added": "2021-12-07T15:11:34Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
 		},
 		{
 			"xdb_id": "5489d7843c65",
@@ -410,6 +410,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-30&host_type=src&vulnerability=cve-2021-43798",
 			"date_added": "2024-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-10-03T00:00:00Z"
 		},
 		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",

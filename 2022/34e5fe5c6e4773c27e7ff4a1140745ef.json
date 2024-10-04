@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:antx-code/CVE-2021-31166.git"
 		},
 		{
-			"xdb_id": "3dbf2e48a531",
-			"xdb_url": "https://vulncheck.com/xdb/3dbf2e48a531",
-			"date_added": "2021-05-16T16:15:56Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
-		},
-		{
 			"xdb_id": "a07dc76a6f89",
 			"xdb_url": "https://vulncheck.com/xdb/a07dc76a6f89",
 			"date_added": "2022-11-22T09:10:36Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:0xmaximus/Home-Demolisher.git"
+		},
+		{
+			"xdb_id": "3dbf2e48a531",
+			"xdb_url": "https://vulncheck.com/xdb/3dbf2e48a531",
+			"date_added": "2021-05-16T16:15:56Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
 		},
 		{
 			"xdb_id": "86c76b7eb3bc",

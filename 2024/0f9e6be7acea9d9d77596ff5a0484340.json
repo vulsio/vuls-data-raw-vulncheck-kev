@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-4358.git"
 		},
 		{
-			"xdb_id": "eaffc0a0430d",
-			"xdb_url": "https://vulncheck.com/xdb/eaffc0a0430d",
-			"date_added": "2024-06-09T06:30:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-4358.git"
-		},
-		{
 			"xdb_id": "5ffe12856f76",
 			"xdb_url": "https://vulncheck.com/xdb/5ffe12856f76",
 			"date_added": "2024-06-05T01:05:12Z",
@@ -50,6 +43,13 @@
 			"date_added": "2024-06-03T08:22:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sinsinology/CVE-2024-4358.git"
+		},
+		{
+			"xdb_id": "eaffc0a0430d",
+			"xdb_url": "https://vulncheck.com/xdb/eaffc0a0430d",
+			"date_added": "2024-06-09T06:30:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-4358.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -288,6 +288,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-01&host_type=src&vulnerability=cve-2024-4358",
 			"date_added": "2024-10-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2024-4358",
+			"date_added": "2024-10-03T00:00:00Z"
 		},
 		{
 			"url": "https://www.fortiguard.com/threat-signal-report/5480/progress-telerik-report-server-authentication-bypass-vulnerability",

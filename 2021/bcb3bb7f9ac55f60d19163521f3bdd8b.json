@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:Akshay15-png/CVE-2019-7609.git"
 		},
 		{
-			"xdb_id": "baa23d069da5",
-			"xdb_url": "https://vulncheck.com/xdb/baa23d069da5",
-			"date_added": "2019-10-21T07:32:31Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-7609.git"
-		},
-		{
 			"xdb_id": "72f85a29c165",
 			"xdb_url": "https://vulncheck.com/xdb/72f85a29c165",
 			"date_added": "2019-10-21T15:31:13Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:LandGrey/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "baa23d069da5",
+			"xdb_url": "https://vulncheck.com/xdb/baa23d069da5",
+			"date_added": "2019-10-21T07:32:31Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-7609.git"
 		},
 		{
 			"xdb_id": "b89478e4dff2",
