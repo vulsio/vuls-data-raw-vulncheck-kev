@@ -346,18 +346,18 @@
 			"clone_ssh_url": "git@github.com:puzzlepeaches/Log4jUnifi.git"
 		},
 		{
-			"xdb_id": "9516d10f9dc1",
-			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
-			"date_added": "2021-12-10T23:19:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
-		},
-		{
 			"xdb_id": "1f35dbf46c65",
 			"xdb_url": "https://vulncheck.com/xdb/1f35dbf46c65",
 			"date_added": "2021-12-11T07:19:11Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
+		},
+		{
+			"xdb_id": "9516d10f9dc1",
+			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
+			"date_added": "2021-12-10T23:19:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
 		},
 		{
 			"xdb_id": "a6af622ffa8b",
