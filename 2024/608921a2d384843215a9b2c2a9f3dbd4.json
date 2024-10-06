@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "ASUS",
+	"product": "ASUS Router",
+	"shortDescription": "Certain ASUS router models have authentication bypass vulnerability, allowing unauthenticated remote attackers to log in the device.",
+	"vulnerabilityName": "ASUS Router Authentication Bypass Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
