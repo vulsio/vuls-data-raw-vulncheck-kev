@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:neerazz/CVE-2022-42889.git"
 		},
 		{
-			"xdb_id": "eacaa89daa19",
-			"xdb_url": "https://vulncheck.com/xdb/eacaa89daa19",
-			"date_added": "2023-02-28T00:32:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:devenes/text4shell-cve-2022-42889.git"
-		},
-		{
 			"xdb_id": "b96cd6d6920e",
 			"xdb_url": "https://vulncheck.com/xdb/b96cd6d6920e",
 			"date_added": "2023-02-19T19:49:41Z",
@@ -213,11 +206,11 @@
 			"clone_ssh_url": "git@github.com:gustanini/CVE-2022-42889-Text4Shell-POC.git"
 		},
 		{
-			"xdb_id": "c405fdc828c1",
-			"xdb_url": "https://vulncheck.com/xdb/c405fdc828c1",
-			"date_added": "2023-03-14T07:55:48Z",
+			"xdb_id": "eacaa89daa19",
+			"xdb_url": "https://vulncheck.com/xdb/eacaa89daa19",
+			"date_added": "2023-02-28T00:32:01Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitlab.com:korteke/CVE-2022-42889-POC.git"
+			"clone_ssh_url": "git@github.com:devenes/text4shell-cve-2022-42889.git"
 		},
 		{
 			"xdb_id": "62c7fee2481d",
@@ -225,6 +218,13 @@
 			"date_added": "2022-11-10T10:18:06Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitlab.com:ndanhdien98/text4shell-poc.git"
+		},
+		{
+			"xdb_id": "c405fdc828c1",
+			"xdb_url": "https://vulncheck.com/xdb/c405fdc828c1",
+			"date_added": "2023-03-14T07:55:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:korteke/CVE-2022-42889-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

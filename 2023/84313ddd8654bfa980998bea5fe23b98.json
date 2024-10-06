@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:sqrtZeroKnowledge/CVE-2023-23397_EXPLOIT_0DAY.git"
 		},
 		{
-			"xdb_id": "baaf8b3e5c4b",
-			"xdb_url": "https://vulncheck.com/xdb/baaf8b3e5c4b",
-			"date_added": "2023-03-20T16:31:54Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Trackflaw/CVE-2023-23397.git"
-		},
-		{
 			"xdb_id": "4a869df48f74",
 			"xdb_url": "https://vulncheck.com/xdb/4a869df48f74",
 			"date_added": "2023-03-22T11:00:47Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:BronzeBee/cve-2023-23397.git"
+		},
+		{
+			"xdb_id": "baaf8b3e5c4b",
+			"xdb_url": "https://vulncheck.com/xdb/baaf8b3e5c4b",
+			"date_added": "2023-03-20T16:31:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Trackflaw/CVE-2023-23397.git"
 		},
 		{
 			"xdb_id": "fe69ab5a1930",

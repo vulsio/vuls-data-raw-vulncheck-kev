@@ -888,6 +888,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
 			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/",
+			"date_added": "2024-10-03T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-09-27T00:00:00Z",

@@ -31,6 +31,13 @@
 			"clone_ssh_url": "git@github.com:Vulnmachines/Apache-Druid-CVE-2021-25646.git"
 		},
 		{
+			"xdb_id": "36aad9865bb8",
+			"xdb_url": "https://vulncheck.com/xdb/36aad9865bb8",
+			"date_added": "2024-10-04T15:06:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:luobai8/CVE-2021-25646-exp.git"
+		},
+		{
 			"xdb_id": "ff8ab82ad27a",
 			"xdb_url": "https://vulncheck.com/xdb/ff8ab82ad27a",
 			"date_added": "2021-12-02T14:32:41+08:00",
@@ -1142,6 +1149,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2021-25646",
 			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-05&host_type=src&vulnerability=cve-2021-25646",
+			"date_added": "2024-10-05T00:00:00Z"
 		},
 		{
 			"url": "https://www.aquasec.com/blog/lucifer-ddos-botnet-malware-is-targeting-apache-big-data-stack/",

@@ -17,6 +17,10 @@
 		{
 			"url": "https://www.cadosecurity.com/blog/from-automation-to-exploitation-the-growing-misuse-of-selenium-grid-for-cryptomining-and-proxyjacking",
 			"date_added": "2024-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.aquasec.com/blog/perfctl-a-stealthy-malware-targeting-millions-of-linux-servers/",
+			"date_added": "2024-10-03T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-21T00:00:00Z",

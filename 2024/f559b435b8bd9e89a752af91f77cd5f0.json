@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:iota4/PoC-Fix-jenkins-rce_CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "56f0947af384",
-			"xdb_url": "https://vulncheck.com/xdb/56f0947af384",
-			"date_added": "2024-01-26T21:39:26Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:vmtyan/poc-cve-2024-23897.git"
-		},
-		{
 			"xdb_id": "13fbb1e454d4",
 			"xdb_url": "https://vulncheck.com/xdb/13fbb1e454d4",
 			"date_added": "2024-02-16T23:21:40Z",
@@ -178,13 +171,6 @@
 			"clone_ssh_url": "git@github.com:godylockz/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "29a3cbe431c7",
-			"xdb_url": "https://vulncheck.com/xdb/29a3cbe431c7",
-			"date_added": "2024-01-27T19:34:48Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:wjlin0/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "6028cfd20f54",
 			"xdb_url": "https://vulncheck.com/xdb/6028cfd20f54",
 			"date_added": "2024-01-26T19:00:03Z",
@@ -204,6 +190,20 @@
 			"date_added": "2024-09-30T16:38:28Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "56f0947af384",
+			"xdb_url": "https://vulncheck.com/xdb/56f0947af384",
+			"date_added": "2024-01-26T21:39:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:vmtyan/poc-cve-2024-23897.git"
+		},
+		{
+			"xdb_id": "29a3cbe431c7",
+			"xdb_url": "https://vulncheck.com/xdb/29a3cbe431c7",
+			"date_added": "2024-01-27T19:34:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wjlin0/CVE-2024-23897.git"
 		},
 		{
 			"xdb_id": "0450095821bb",
@@ -767,6 +767,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-28&host_type=src&vulnerability=cve-2024-23897",
 			"date_added": "2024-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2024-23897",
+			"date_added": "2024-10-04T00:00:00Z"
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/24/c/cve-2024-23897.html",

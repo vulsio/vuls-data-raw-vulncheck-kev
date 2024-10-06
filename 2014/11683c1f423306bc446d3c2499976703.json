@@ -122,13 +122,6 @@
 			"clone_ssh_url": "git@github.com:francisck/shellshock-cgi.git"
 		},
 		{
-			"xdb_id": "fa1741b5fe55",
-			"xdb_url": "https://vulncheck.com/xdb/fa1741b5fe55",
-			"date_added": "2021-07-29T04:51:43Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:b4keSn4ke/CVE-2014-6271.git"
-		},
-		{
 			"xdb_id": "ea7dfb5a79c0",
 			"xdb_url": "https://vulncheck.com/xdb/ea7dfb5a79c0",
 			"date_added": "2024-05-10T08:13:06Z",
@@ -192,13 +185,6 @@
 			"clone_ssh_url": "git@github.com:darrenmartyn/VisualDoor.git"
 		},
 		{
-			"xdb_id": "b4b5de984e30",
-			"xdb_url": "https://vulncheck.com/xdb/b4b5de984e30",
-			"date_added": "2016-12-07T23:38:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2014-6271.git"
-		},
-		{
 			"xdb_id": "4b6744519444",
 			"xdb_url": "https://vulncheck.com/xdb/4b6744519444",
 			"date_added": "2022-04-02T07:30:31Z",
@@ -211,6 +197,27 @@
 			"date_added": "2016-03-30T11:43:12Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "fa1741b5fe55",
+			"xdb_url": "https://vulncheck.com/xdb/fa1741b5fe55",
+			"date_added": "2021-07-29T04:51:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:b4keSn4ke/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "b4b5de984e30",
+			"xdb_url": "https://vulncheck.com/xdb/b4b5de984e30",
+			"date_added": "2016-12-07T23:38:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "91302a8a527c",
+			"xdb_url": "https://vulncheck.com/xdb/91302a8a527c",
+			"date_added": "2020-09-11T15:43:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
 		},
 		{
 			"xdb_id": "137b7b5051c2",
@@ -239,13 +246,6 @@
 			"date_added": "2020-09-11T15:43:07+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-python.git"
-		},
-		{
-			"xdb_id": "91302a8a527c",
-			"xdb_url": "https://vulncheck.com/xdb/91302a8a527c",
-			"date_added": "2020-09-11T15:43:08+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

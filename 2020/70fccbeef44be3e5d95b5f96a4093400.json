@@ -108,13 +108,6 @@
 			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2021-26855-d.git"
 		},
 		{
-			"xdb_id": "ee22e208e22e",
-			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
-			"date_added": "2021-03-24T01:12:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
-		},
-		{
 			"xdb_id": "b734acf721af",
 			"xdb_url": "https://vulncheck.com/xdb/b734acf721af",
 			"date_added": "2021-03-11T19:35:35Z",
@@ -213,11 +206,11 @@
 			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
 		},
 		{
-			"xdb_id": "2036c9063358",
-			"xdb_url": "https://vulncheck.com/xdb/2036c9063358",
-			"date_added": "2022-04-02T23:57:02Z",
+			"xdb_id": "ee22e208e22e",
+			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
+			"date_added": "2021-03-24T01:12:48Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitlab.com:securitystuffbackup/SharpProxyLogon.git"
+			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
 		},
 		{
 			"xdb_id": "2e432cbc1287",
@@ -225,6 +218,13 @@
 			"date_added": "2021-03-12T11:47:04Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitlab.com:gvillegas/ohwaa.git"
+		},
+		{
+			"xdb_id": "2036c9063358",
+			"xdb_url": "https://vulncheck.com/xdb/2036c9063358",
+			"date_added": "2022-04-02T23:57:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:securitystuffbackup/SharpProxyLogon.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1527,6 +1527,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2021-26855",
 			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-05&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2024-10-05T00:00:00Z"
 		},
 		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",

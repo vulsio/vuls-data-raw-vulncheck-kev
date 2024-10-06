@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:Mohammaddvd/CVE-2024-4040.git"
 		},
 		{
-			"xdb_id": "40ea0e9b601d",
-			"xdb_url": "https://vulncheck.com/xdb/40ea0e9b601d",
-			"date_added": "2024-04-25T19:51:38Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-4040-SSTI-LFI-PoC.git"
-		},
-		{
 			"xdb_id": "b6b39541f616",
 			"xdb_url": "https://vulncheck.com/xdb/b6b39541f616",
 			"date_added": "2024-09-30T16:18:07Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:geniuszlyy/GenCrushSSTIExploit.git"
+		},
+		{
+			"xdb_id": "40ea0e9b601d",
+			"xdb_url": "https://vulncheck.com/xdb/40ea0e9b601d",
+			"date_added": "2024-04-25T19:51:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-4040-SSTI-LFI-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -341,6 +341,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2024-4040",
 			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-10-04T00:00:00Z"
 		},
 		{
 			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-attacks-rebound",

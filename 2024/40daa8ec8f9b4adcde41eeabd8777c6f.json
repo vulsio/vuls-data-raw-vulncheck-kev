@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2024-3273.git"
 		},
 		{
-			"xdb_id": "54167707d84f",
-			"xdb_url": "https://vulncheck.com/xdb/54167707d84f",
-			"date_added": "2024-04-07T03:09:13Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-3273.git"
-		},
-		{
 			"xdb_id": "d693db35730c",
 			"xdb_url": "https://vulncheck.com/xdb/d693db35730c",
 			"date_added": "2024-09-21T11:17:34Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE.git"
+		},
+		{
+			"xdb_id": "54167707d84f",
+			"xdb_url": "https://vulncheck.com/xdb/54167707d84f",
+			"date_added": "2024-04-07T03:09:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-3273.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

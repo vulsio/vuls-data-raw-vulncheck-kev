@@ -1056,6 +1056,10 @@
 			"date_added": "2024-10-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2023-49103",
+			"date_added": "2024-10-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.greynoise.io/blog/cve-2023-49103-owncloud-critical-vulnerability-quickly-exploited-in-the-wild",
 			"date_added": "2023-11-27T00:00:00Z"
 		},

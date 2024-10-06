@@ -94,13 +94,6 @@
 			"clone_ssh_url": "git@github.com:sincere9/CVE-2023-22515.git"
 		},
 		{
-			"xdb_id": "2c6f91286eac",
-			"xdb_url": "https://vulncheck.com/xdb/2c6f91286eac",
-			"date_added": "2024-02-24T16:04:35Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:rxerium/CVE-2023-22515.git"
-		},
-		{
 			"xdb_id": "a9f8f396455c",
 			"xdb_url": "https://vulncheck.com/xdb/a9f8f396455c",
 			"date_added": "2023-10-30T00:17:45Z",
@@ -141,6 +134,13 @@
 			"date_added": "2023-11-08T05:18:30Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2023-22515.git"
+		},
+		{
+			"xdb_id": "2c6f91286eac",
+			"xdb_url": "https://vulncheck.com/xdb/2c6f91286eac",
+			"date_added": "2024-02-24T16:04:35Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:rxerium/CVE-2023-22515.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1183,6 +1183,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2023-22515",
 			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2023-22515",
+			"date_added": "2024-10-04T00:00:00Z"
 		},
 		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",

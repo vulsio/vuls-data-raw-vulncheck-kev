@@ -422,6 +422,10 @@
 			"date_added": "2024-10-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-05&host_type=src&vulnerability=cve-2020-6287",
+			"date_added": "2024-10-05T00:00:00Z"
+		},
+		{
 			"url": "https://digital.nhs.uk/cyber-alerts/2021/cc-3815",
 			"date_added": "2021-04-08T00:00:00Z"
 		},
