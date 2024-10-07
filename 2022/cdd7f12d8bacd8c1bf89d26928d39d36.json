@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-06&host_type=src&vulnerability=cve-2017-17105",
+			"date_added": "2024-10-06T00:00:00Z"
+		},
+		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/",
 			"date_added": "2022-12-21T00:00:00Z"
 		},

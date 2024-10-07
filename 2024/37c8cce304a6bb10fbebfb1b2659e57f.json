@@ -148,6 +148,20 @@
 			"date_added": "2024-01-23T17:07:15Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2023-22527.git"
+		},
+		{
+			"xdb_id": "30047c15e01d",
+			"xdb_url": "https://vulncheck.com/xdb/30047c15e01d",
+			"date_added": "2024-10-07T04:47:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AxthonyV/CVE-2023-22527.git"
+		},
+		{
+			"xdb_id": "121a6655f702",
+			"xdb_url": "https://vulncheck.com/xdb/121a6655f702",
+			"date_added": "2024-10-06T15:16:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kh4sh3i/CVE-2023-22527.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1182,6 +1196,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-05&host_type=src&vulnerability=cve-2023-22527",
 			"date_added": "2024-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-06&host_type=src&vulnerability=cve-2023-22527",
+			"date_added": "2024-10-06T00:00:00Z"
 		},
 		{
 			"url": "https://www.imperva.com/blog/new-sysrv-botnet-variant-makes-use-of-google-subdomain-to-spread-xmrig-miner/",

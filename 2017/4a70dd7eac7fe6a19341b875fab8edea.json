@@ -87,6 +87,20 @@
 			"clone_ssh_url": "git@github.com:eliuha/webdav_exploit.git"
 		},
 		{
+			"xdb_id": "8cc501e18ea5",
+			"xdb_url": "https://vulncheck.com/xdb/8cc501e18ea5",
+			"date_added": "2024-10-07T04:27:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AxthonyV/GenWebDavIISExploit.git"
+		},
+		{
+			"xdb_id": "f5b593c75a94",
+			"xdb_url": "https://vulncheck.com/xdb/f5b593c75a94",
+			"date_added": "2024-10-06T17:33:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2017-7269.git"
+		},
+		{
 			"xdb_id": "a36c0cf57665",
 			"xdb_url": "https://vulncheck.com/xdb/a36c0cf57665",
 			"date_added": "2021-08-19T19:49:20+08:00",

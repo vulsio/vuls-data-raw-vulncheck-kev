@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:brianwrf/SambaHunter.git"
 		},
 		{
-			"xdb_id": "b4a79e992993",
-			"xdb_url": "https://vulncheck.com/xdb/b4a79e992993",
-			"date_added": "2017-05-26T00:58:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2017-7494.git"
-		},
-		{
 			"xdb_id": "d60f0bdd37ca",
 			"xdb_url": "https://vulncheck.com/xdb/d60f0bdd37ca",
 			"date_added": "2021-03-30T07:09:45Z",
@@ -64,6 +57,13 @@
 			"date_added": "2017-05-25T13:20:56Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:betab0t/cve-2017-7494.git"
+		},
+		{
+			"xdb_id": "b4a79e992993",
+			"xdb_url": "https://vulncheck.com/xdb/b4a79e992993",
+			"date_added": "2017-05-26T00:58:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2017-7494.git"
 		},
 		{
 			"xdb_id": "0e1687dfba66",
