@@ -817,6 +817,10 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits",
 			"date_added": "2022-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.cs.ucr.edu/~adava003/MalNet_IMC2022.pdf",
+			"date_added": "2022-10-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-25T00:00:00Z",

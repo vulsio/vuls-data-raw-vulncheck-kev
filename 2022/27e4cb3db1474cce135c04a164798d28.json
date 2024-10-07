@@ -1,0 +1,19 @@
+{
+	"vendorProject": "nuuo",
+	"product": "nvrmini_2",
+	"shortDescription": "Stack-based buffer overflow in cgi-bin/cgi_main in NUUO NVRmini 2 1.7.6 through 3.0.0 and NETGEAR ReadyNAS Surveillance 1.1.2 allows remote authenticated users to execute arbitrary code via the sn parameter to the transfer_license command.",
+	"vulnerabilityName": "nuuo nvrmini_2 Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-5680"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cs.ucr.edu/~adava003/MalNet_IMC2022.pdf",
+			"date_added": "2022-10-27T00:00:00Z"
+		}
+	],
+	"date_added": "2022-10-27T00:00:00Z"
+}
