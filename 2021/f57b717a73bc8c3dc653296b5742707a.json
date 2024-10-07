@@ -157,18 +157,18 @@
 			"clone_ssh_url": "git@github.com:joshuavanderpoll/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "9612bcbc8150",
-			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
-			"date_added": "2024-01-15T07:12:07Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
-		},
-		{
 			"xdb_id": "5f4cc8cb7fe8",
 			"xdb_url": "https://vulncheck.com/xdb/5f4cc8cb7fe8",
 			"date_added": "2024-09-29T05:09:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2021-3129.git"
+		},
+		{
+			"xdb_id": "9612bcbc8150",
+			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
+			"date_added": "2024-01-15T07:12:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
 			"xdb_id": "ef7d2df1ab88",
