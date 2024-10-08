@@ -59,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
 		},
 		{
-			"xdb_id": "3d8baa68c24c",
-			"xdb_url": "https://vulncheck.com/xdb/3d8baa68c24c",
-			"date_added": "2024-09-13T10:28:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:daniellowrie/CVE-2024-36401-PoC.git"
-		},
-		{
 			"xdb_id": "432db9e70d9e",
 			"xdb_url": "https://vulncheck.com/xdb/432db9e70d9e",
 			"date_added": "2024-08-27T15:28:04Z",
@@ -87,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:PunitTailor55/GeoServer-CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "46abf92ec267",
-			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
-			"date_added": "2024-07-06T01:10:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "e908c49bab48",
 			"xdb_url": "https://vulncheck.com/xdb/e908c49bab48",
 			"date_added": "2024-07-04T13:19:47Z",
@@ -106,6 +92,20 @@
 			"date_added": "2024-10-05T10:08:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "46abf92ec267",
+			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
+			"date_added": "2024-07-06T01:10:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "3d8baa68c24c",
+			"xdb_url": "https://vulncheck.com/xdb/3d8baa68c24c",
+			"date_added": "2024-09-13T10:28:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:daniellowrie/CVE-2024-36401-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -368,6 +368,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-06&host_type=src&vulnerability=cve-2024-36401",
 			"date_added": "2024-10-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-07&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-10-07T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sonicwall.com/en-us/2024/07/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild/",

@@ -150,11 +150,11 @@
 			"clone_ssh_url": "git@github.com:tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway.git"
 		},
 		{
-			"xdb_id": "fd72b929a3ae",
-			"xdb_url": "https://vulncheck.com/xdb/fd72b929a3ae",
-			"date_added": "2022-03-02T11:58:55Z",
+			"xdb_id": "769ad48809b9",
+			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
+			"date_added": "2020-01-25T08:55:08Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:lucksec/Spring-Cloud-Gateway-CVE-2022-22947.git"
+			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
 		},
 		{
 			"xdb_id": "9344fae60775",
@@ -164,11 +164,11 @@
 			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		},
 		{
-			"xdb_id": "769ad48809b9",
-			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
-			"date_added": "2020-01-25T08:55:08Z",
+			"xdb_id": "fd72b929a3ae",
+			"xdb_url": "https://vulncheck.com/xdb/fd72b929a3ae",
+			"date_added": "2022-03-02T11:58:55Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
+			"clone_ssh_url": "git@github.com:lucksec/Spring-Cloud-Gateway-CVE-2022-22947.git"
 		},
 		{
 			"xdb_id": "a48d3f6ecc63",

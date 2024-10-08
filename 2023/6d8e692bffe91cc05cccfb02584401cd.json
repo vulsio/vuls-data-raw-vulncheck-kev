@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:TheCryingGame/CVE-2022-39197-RCE.git"
 		},
 		{
-			"xdb_id": "828e9a4bb798",
-			"xdb_url": "https://vulncheck.com/xdb/828e9a4bb798",
-			"date_added": "2022-10-14T11:46:01Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:its-arun/CVE-2022-39197.git"
-		},
-		{
 			"xdb_id": "c4a0f56cf3e1",
 			"xdb_url": "https://vulncheck.com/xdb/c4a0f56cf3e1",
 			"date_added": "2022-09-23T08:20:07Z",
@@ -57,6 +50,13 @@
 			"date_added": "2021-07-17T09:39:13Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:burpheart/CS_mock.git"
+		},
+		{
+			"xdb_id": "828e9a4bb798",
+			"xdb_url": "https://vulncheck.com/xdb/828e9a4bb798",
+			"date_added": "2022-10-14T11:46:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:its-arun/CVE-2022-39197.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

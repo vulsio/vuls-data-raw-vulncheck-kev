@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:Pommaq/CVE-2024-29972-CVE-2024-29976-CVE-2024-29973-CVE-2024-29975-CVE-2024-29974-poc.git"
 		},
 		{
-			"xdb_id": "34525b555a68",
-			"xdb_url": "https://vulncheck.com/xdb/34525b555a68",
-			"date_added": "2024-06-21T15:20:52Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-29973.git"
-		},
-		{
 			"xdb_id": "d9b1def057bb",
 			"xdb_url": "https://vulncheck.com/xdb/d9b1def057bb",
 			"date_added": "2024-06-19T10:34:56Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "34525b555a68",
+			"xdb_url": "https://vulncheck.com/xdb/34525b555a68",
+			"date_added": "2024-06-21T15:20:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-29973.git"
 		},
 		{
 			"xdb_id": "372a4b801c8c",
@@ -211,6 +211,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-05&host_type=src&vulnerability=cve-2024-29973",
 			"date_added": "2024-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-07&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2024-10-07T00:00:00Z"
 		},
 		{
 			"url": "https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/",

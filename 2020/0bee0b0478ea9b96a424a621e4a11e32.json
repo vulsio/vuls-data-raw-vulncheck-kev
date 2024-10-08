@@ -315,6 +315,10 @@
 			"date_added": "2024-10-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-07&host_type=src&vulnerability=cve-2019-0193",
+			"date_added": "2024-10-07T00:00:00Z"
+		},
+		{
 			"url": "https://www.alibabacloud.com/blog/new-outbreak-of-h2miner-worms-exploiting-redis-rce-detected_595743",
 			"date_added": "2020-01-16T00:00:00Z"
 		},

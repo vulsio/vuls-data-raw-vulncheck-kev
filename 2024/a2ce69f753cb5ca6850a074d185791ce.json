@@ -1,0 +1,27 @@
+{
+	"vendorProject": "smart-hmi",
+	"product": "webiq",
+	"shortDescription": "The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.",
+	"vulnerabilityName": "smart-hmi webiq Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8752"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "18ddec36bf0d",
+			"xdb_url": "https://vulncheck.com/xdb/18ddec36bf0d",
+			"date_added": "2024-09-19T02:20:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:D3anSPGDMS/CVE-2024-8752.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-07&host_type=src&vulnerability=cve-2024-8752",
+			"date_added": "2024-10-07T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-07T00:00:00Z"
+}

@@ -94,18 +94,18 @@
 			"clone_ssh_url": "git@github.com:svchostmm/CVE-2024-25600-mass.git"
 		},
 		{
-			"xdb_id": "b88a09ceb847",
-			"xdb_url": "https://vulncheck.com/xdb/b88a09ceb847",
-			"date_added": "2024-03-01T09:28:08Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-25600-EXPLOIT.git"
-		},
-		{
 			"xdb_id": "f8c55bc3fe8e",
 			"xdb_url": "https://vulncheck.com/xdb/f8c55bc3fe8e",
 			"date_added": "2024-02-20T20:16:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "b88a09ceb847",
+			"xdb_url": "https://vulncheck.com/xdb/b88a09ceb847",
+			"date_added": "2024-03-01T09:28:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-25600-EXPLOIT.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
