@@ -87,11 +87,11 @@
 			"clone_ssh_url": "git@github.com:tenable/routeros.git"
 		},
 		{
-			"xdb_id": "ca877293c1a3",
-			"xdb_url": "https://vulncheck.com/xdb/ca877293c1a3",
-			"date_added": "2018-06-24T05:34:05Z",
+			"xdb_id": "792af1f0da8f",
+			"xdb_url": "https://vulncheck.com/xdb/792af1f0da8f",
+			"date_added": "2020-11-06T12:48:25Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BasuCert/WinboxPoC.git"
+			"clone_ssh_url": "git@github.com:k8gege/LadonGo.git"
 		},
 		{
 			"xdb_id": "572a58ec0205",
@@ -101,11 +101,11 @@
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
-			"xdb_id": "792af1f0da8f",
-			"xdb_url": "https://vulncheck.com/xdb/792af1f0da8f",
-			"date_added": "2020-11-06T12:48:25Z",
+			"xdb_id": "ca877293c1a3",
+			"xdb_url": "https://vulncheck.com/xdb/ca877293c1a3",
+			"date_added": "2018-06-24T05:34:05Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:k8gege/LadonGo.git"
+			"clone_ssh_url": "git@github.com:BasuCert/WinboxPoC.git"
 		},
 		{
 			"xdb_id": "6083a1b3aeeb",

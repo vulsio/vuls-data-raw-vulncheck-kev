@@ -414,6 +414,10 @@
 		{
 			"url": "https://www.enisa.europa.eu/publications/enisa-threat-landscape-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/CrowdStrike2024ThreatHuntingReport.pdf",
+			"date_added": "2024-10-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-19T00:00:00Z",

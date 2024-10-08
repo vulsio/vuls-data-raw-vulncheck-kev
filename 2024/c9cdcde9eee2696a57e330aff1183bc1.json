@@ -24,6 +24,20 @@
 			"clone_ssh_url": "git@github.com:SanjayRagavendar/Ubuntu-GameOver-Lay.git"
 		},
 		{
+			"xdb_id": "16afc028b0b7",
+			"xdb_url": "https://vulncheck.com/xdb/16afc028b0b7",
+			"date_added": "2023-09-17T23:17:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:luanoliveira350/GameOverlayFS.git"
+		},
+		{
+			"xdb_id": "128ea6c187b0",
+			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
+			"date_added": "2023-11-09T09:19:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation.git"
+		},
+		{
 			"xdb_id": "1db18c71756c",
 			"xdb_url": "https://vulncheck.com/xdb/1db18c71756c",
 			"date_added": "2024-03-19T22:56:24Z",
@@ -36,20 +50,6 @@
 			"date_added": "2023-11-02T20:19:57Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:musorblyat/CVE-2023-2640-CVE-2023-32629.git"
-		},
-		{
-			"xdb_id": "388d1cda03e1",
-			"xdb_url": "https://vulncheck.com/xdb/388d1cda03e1",
-			"date_added": "2023-12-13T19:33:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC.git"
-		},
-		{
-			"xdb_id": "16afc028b0b7",
-			"xdb_url": "https://vulncheck.com/xdb/16afc028b0b7",
-			"date_added": "2023-09-17T23:17:22Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:luanoliveira350/GameOverlayFS.git"
 		},
 		{
 			"xdb_id": "e23a0ab892f7",
@@ -73,11 +73,11 @@
 			"clone_ssh_url": "git@github.com:OllaPapito/gameoverlay.git"
 		},
 		{
-			"xdb_id": "128ea6c187b0",
-			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
-			"date_added": "2023-11-09T09:19:23Z",
+			"xdb_id": "388d1cda03e1",
+			"xdb_url": "https://vulncheck.com/xdb/388d1cda03e1",
+			"date_added": "2023-12-13T19:33:38Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation.git"
+			"clone_ssh_url": "git@github.com:xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
