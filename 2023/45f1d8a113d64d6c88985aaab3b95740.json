@@ -17,6 +17,10 @@
 		{
 			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
 			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/56681",
+			"date_added": "2024-10-03T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-21T00:00:00Z",
