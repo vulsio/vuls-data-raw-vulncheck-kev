@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:B1ackCat/cve-2016-5195-DirtyCOW.git"
 		},
 		{
-			"xdb_id": "a84cc3ab3f48",
-			"xdb_url": "https://vulncheck.com/xdb/a84cc3ab3f48",
-			"date_added": "2016-10-22T15:25:34Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:scumjr/dirtycow-vdso.git"
-		},
-		{
 			"xdb_id": "3c59fbbe4941",
 			"xdb_url": "https://vulncheck.com/xdb/3c59fbbe4941",
 			"date_added": "2019-08-13T10:38:49Z",
@@ -213,11 +206,11 @@
 			"clone_ssh_url": "git@github.com:talsim/root-dirtyc0w.git"
 		},
 		{
-			"xdb_id": "9ab30651140c",
-			"xdb_url": "https://vulncheck.com/xdb/9ab30651140c",
-			"date_added": "2016-12-08T20:48:51+08:00",
+			"xdb_id": "a84cc3ab3f48",
+			"xdb_url": "https://vulncheck.com/xdb/a84cc3ab3f48",
+			"date_added": "2016-10-22T15:25:34Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:zhizhou/CVE-2016-5195.git"
+			"clone_ssh_url": "git@github.com:scumjr/dirtycow-vdso.git"
 		},
 		{
 			"xdb_id": "56a0d9175e82",
@@ -234,18 +227,25 @@
 			"clone_ssh_url": "git@gitee.com:TaoLeonis/dirtycow-vdso.git"
 		},
 		{
-			"xdb_id": "31a0aa69cf4c",
-			"xdb_url": "https://vulncheck.com/xdb/31a0aa69cf4c",
-			"date_added": "2020-09-25T09:03:58+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_ljvblfz/CVE-2016-5195.git"
-		},
-		{
 			"xdb_id": "b81caecd21a0",
 			"xdb_url": "https://vulncheck.com/xdb/b81caecd21a0",
 			"date_added": "2020-03-14T21:53:51+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "9ab30651140c",
+			"xdb_url": "https://vulncheck.com/xdb/9ab30651140c",
+			"date_added": "2016-12-08T20:48:51+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zhizhou/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "31a0aa69cf4c",
+			"xdb_url": "https://vulncheck.com/xdb/31a0aa69cf4c",
+			"date_added": "2020-09-25T09:03:58+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_ljvblfz/CVE-2016-5195.git"
 		},
 		{
 			"xdb_id": "5c3c3322474d",

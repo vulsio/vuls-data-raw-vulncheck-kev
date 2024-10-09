@@ -889,6 +889,10 @@
 			"date_added": "2024-10-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-08&host_type=src&vulnerability=cve-2021-20837",
+			"date_added": "2024-10-08T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
 			"date_added": "2022-05-31T00:00:00Z"
 		}
