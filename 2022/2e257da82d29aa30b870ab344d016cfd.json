@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "A remote code execution vulnerability exists in Microsoft Office software when the software fails to properly handle objects in memory. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the current user.",
+	"vulnerabilityName": "Microsoft Office Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-11826"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "cc970cbd36e2",
+			"xdb_url": "https://vulncheck.com/xdb/cc970cbd36e2",
+			"date_added": "2018-02-09T17:20:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:thatskriptkid/CVE-2017-11826.git"
+		},
+		{
+			"xdb_id": "97f6aa4aa057",
+			"xdb_url": "https://vulncheck.com/xdb/97f6aa4aa057",
+			"date_added": "2020-07-23T14:51:53+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-11826.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

@@ -1,0 +1,87 @@
+{
+	"vendorProject": "Elastic",
+	"product": "Kibana",
+	"shortDescription": "Kibana contain an arbitrary code execution flaw in the Timelion visualizer.",
+	"vulnerabilityName": "Kibana Arbitrary Code Execution",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-7609"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "99729775468d",
+			"xdb_url": "https://vulncheck.com/xdb/99729775468d",
+			"date_added": "2022-02-10T06:22:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wolf1892/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "1c48e403c9e9",
+			"xdb_url": "https://vulncheck.com/xdb/1c48e403c9e9",
+			"date_added": "2023-07-17T01:42:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:OliveiraaX/CVE-2019-7609-KibanaRCE.git"
+		},
+		{
+			"xdb_id": "c711254ccffc",
+			"xdb_url": "https://vulncheck.com/xdb/c711254ccffc",
+			"date_added": "2022-03-17T15:33:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Cr4ckC4t/cve-2019-7609.git"
+		},
+		{
+			"xdb_id": "b2f2b26f8c21",
+			"xdb_url": "https://vulncheck.com/xdb/b2f2b26f8c21",
+			"date_added": "2020-04-03T10:23:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rhbb/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "31a2493d581c",
+			"xdb_url": "https://vulncheck.com/xdb/31a2493d581c",
+			"date_added": "2019-12-01T14:29:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hekadan/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "1293a1a85b89",
+			"xdb_url": "https://vulncheck.com/xdb/1293a1a85b89",
+			"date_added": "2019-10-18T03:25:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/kibana-RCE.git"
+		},
+		{
+			"xdb_id": "47c366ae2f29",
+			"xdb_url": "https://vulncheck.com/xdb/47c366ae2f29",
+			"date_added": "2024-06-01T05:10:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Akshay15-png/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "72f85a29c165",
+			"xdb_url": "https://vulncheck.com/xdb/72f85a29c165",
+			"date_added": "2019-10-21T15:31:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LandGrey/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "baa23d069da5",
+			"xdb_url": "https://vulncheck.com/xdb/baa23d069da5",
+			"date_added": "2019-10-21T07:32:31Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-7609.git"
+		},
+		{
+			"xdb_id": "b89478e4dff2",
+			"xdb_url": "https://vulncheck.com/xdb/b89478e4dff2",
+			"date_added": "2022-01-19T05:59:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:digipenguin/CVE-2019-7609.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-07-10T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

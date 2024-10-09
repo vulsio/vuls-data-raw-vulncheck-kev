@@ -1,0 +1,94 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Pulse Connect Secure",
+	"shortDescription": "Ivanti Pulse Connect Secure contains an arbitrary file read vulnerability that allows an unauthenticated remote attacker with network access via HTTPS to send a specially crafted URI.",
+	"vulnerabilityName": "Ivanti Pulse Connect Secure Arbitrary File Read Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-11510"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dc6cb57a366e",
+			"xdb_url": "https://vulncheck.com/xdb/dc6cb57a366e",
+			"date_added": "2020-07-27T15:06:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:andripwn/pulse-exploit.git"
+		},
+		{
+			"xdb_id": "3d7363fb7873",
+			"xdb_url": "https://vulncheck.com/xdb/3d7363fb7873",
+			"date_added": "2019-08-21T12:03:14Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:nuc13us/Pulse.git"
+		},
+		{
+			"xdb_id": "a25cc59141d7",
+			"xdb_url": "https://vulncheck.com/xdb/a25cc59141d7",
+			"date_added": "2020-09-17T17:53:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pwn3z/CVE-2019-11510-PulseVPN.git"
+		},
+		{
+			"xdb_id": "6445cf46bb2e",
+			"xdb_url": "https://vulncheck.com/xdb/6445cf46bb2e",
+			"date_added": "2024-01-26T04:16:27Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0xab01/-CVE-2019-11510-Exploit.git"
+		},
+		{
+			"xdb_id": "2f9e05a2128d",
+			"xdb_url": "https://vulncheck.com/xdb/2f9e05a2128d",
+			"date_added": "2019-08-26T23:30:15Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:es0/CVE-2019-11510_poc.git"
+		},
+		{
+			"xdb_id": "480362951743",
+			"xdb_url": "https://vulncheck.com/xdb/480362951743",
+			"date_added": "2019-08-22T08:18:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:imjdl/CVE-2019-11510-poc.git"
+		},
+		{
+			"xdb_id": "50d07a7e420f",
+			"xdb_url": "https://vulncheck.com/xdb/50d07a7e420f",
+			"date_added": "2019-12-07T17:09:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:aqhmal/pulsexploit.git"
+		},
+		{
+			"xdb_id": "1061b5294e83",
+			"xdb_url": "https://vulncheck.com/xdb/1061b5294e83",
+			"date_added": "2019-08-27T03:04:19Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:r00tpgp/http-pulse_ssl_vpn.nse.git"
+		},
+		{
+			"xdb_id": "2d6771299af4",
+			"xdb_url": "https://vulncheck.com/xdb/2d6771299af4",
+			"date_added": "2019-08-21T08:40:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:projectzeroindia/CVE-2019-11510.git"
+		},
+		{
+			"xdb_id": "2f72c6e36a8e",
+			"xdb_url": "https://vulncheck.com/xdb/2f72c6e36a8e",
+			"date_added": "2019-08-27T09:21:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11510-1.git"
+		},
+		{
+			"xdb_id": "6c8292ec05c6",
+			"xdb_url": "https://vulncheck.com/xdb/6c8292ec05c6",
+			"date_added": "2019-09-09T15:58:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BishopFox/pwn-pulse.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2021-04-23T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

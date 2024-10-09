@@ -1,0 +1,66 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Multiple Products",
+	"shortDescription": "Multiple Oracle products contain a remote code execution vulnerability that allows an unauthenticated attacker with network access via T3 or HTTP to takeover the affected system. Impacted Oracle products: Oracle Coherence in Fusion Middleware, Oracle Utilities Framework, Oracle Retail Assortment Planning, Oracle Commerce, Oracle Communications Diameter Signaling Router (DSR).",
+	"vulnerabilityName": "Oracle Multiple Products Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-2555"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1003dc67ff34",
+			"xdb_url": "https://vulncheck.com/xdb/1003dc67ff34",
+			"date_added": "2021-11-15T09:06:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Qynklee/POC_CVE-2020-2555.git"
+		},
+		{
+			"xdb_id": "e667362e551e",
+			"xdb_url": "https://vulncheck.com/xdb/e667362e551e",
+			"date_added": "2020-03-06T16:02:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wsfengfan/CVE-2020-2555.git"
+		},
+		{
+			"xdb_id": "2c95cddac1b5",
+			"xdb_url": "https://vulncheck.com/xdb/2c95cddac1b5",
+			"date_added": "2020-03-07T18:58:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Y4er/CVE-2020-2555.git"
+		},
+		{
+			"xdb_id": "6179b4e1d51c",
+			"xdb_url": "https://vulncheck.com/xdb/6179b4e1d51c",
+			"date_added": "2020-08-19T03:34:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Y4er/WebLogic-Shiro-shell.git"
+		},
+		{
+			"xdb_id": "c9e0223955e2",
+			"xdb_url": "https://vulncheck.com/xdb/c9e0223955e2",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
+			"xdb_id": "322326255843",
+			"xdb_url": "https://vulncheck.com/xdb/322326255843",
+			"date_added": "2020-05-06T15:20:09+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mstir/CVE-2020-2555.git"
+		},
+		{
+			"xdb_id": "235a5c344d3f",
+			"xdb_url": "https://vulncheck.com/xdb/235a5c344d3f",
+			"date_added": "2020-07-22T16:35:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenjiew/CVE-2020-2555.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

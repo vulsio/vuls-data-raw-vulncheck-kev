@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains a memory corruption vulnerability due to the way the Scripting Engine handles objects in memory. Successful exploitation could allow remote code execution in the context of the current user.",
+	"vulnerabilityName": "Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-0674"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "3fb39500bbe0",
+			"xdb_url": "https://vulncheck.com/xdb/3fb39500bbe0",
+			"date_added": "2020-01-25T01:08:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:5l1v3r1/CVE-2020-0674.git"
+		},
+		{
+			"xdb_id": "50d2aa2b3f88",
+			"xdb_url": "https://vulncheck.com/xdb/50d2aa2b3f88",
+			"date_added": "2023-12-10T11:52:48Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Micky-Thongam/Internet-Explorer-UAF.git"
+		},
+		{
+			"xdb_id": "82aed25ddb79",
+			"xdb_url": "https://vulncheck.com/xdb/82aed25ddb79",
+			"date_added": "2020-09-30T08:08:42Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ken-Abruzzi/CVE-2020-0674.git"
+		},
+		{
+			"xdb_id": "e495092c8724",
+			"xdb_url": "https://vulncheck.com/xdb/e495092c8724",
+			"date_added": "2020-05-07T22:02:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:maxpl0it/CVE-2020-0674-Exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

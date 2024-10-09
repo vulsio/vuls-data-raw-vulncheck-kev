@@ -1,0 +1,59 @@
+{
+	"vendorProject": "SaltStack",
+	"product": "Salt",
+	"shortDescription": "SaltStack Salt contains a path traversal vulnerability in the salt-master process ClearFuncs which allows directory access to authenticated users. Salt users who follow fundamental internet security guidelines and best practices are not affected by this vulnerability.",
+	"vulnerabilityName": "SaltStack Salt Path Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-11652"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a45373fdc023",
+			"xdb_url": "https://vulncheck.com/xdb/a45373fdc023",
+			"date_added": "2020-11-30T09:23:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:appcheck-ng/salt-rce-scanner-CVE-2020-11651-CVE-2020-11652.git"
+		},
+		{
+			"xdb_id": "11b5248fe04c",
+			"xdb_url": "https://vulncheck.com/xdb/11b5248fe04c",
+			"date_added": "2020-05-22T07:56:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fanjq99/CVE-2020-11652.git"
+		},
+		{
+			"xdb_id": "5840ac3783ac",
+			"xdb_url": "https://vulncheck.com/xdb/5840ac3783ac",
+			"date_added": "2024-01-17T04:15:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:limon768/CVE-2020-11652-POC.git"
+		},
+		{
+			"xdb_id": "d28267b60453",
+			"xdb_url": "https://vulncheck.com/xdb/d28267b60453",
+			"date_added": "2020-12-25T02:58:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Al1ex/CVE-2020-11652.git"
+		},
+		{
+			"xdb_id": "d9b31f42dc98",
+			"xdb_url": "https://vulncheck.com/xdb/d9b31f42dc98",
+			"date_added": "2020-05-07T09:17:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ssrsec/CVE-2020-11651-CVE-2020-11652-EXP.git"
+		},
+		{
+			"xdb_id": "d7a39011635d",
+			"xdb_url": "https://vulncheck.com/xdb/d7a39011635d",
+			"date_added": "2020-05-04T11:52:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jasperla/CVE-2020-11651-poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

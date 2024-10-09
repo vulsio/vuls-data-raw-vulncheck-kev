@@ -24,12 +24,7 @@
 			"clone_ssh_url": "git@github.com:sideeffect42/RootPipeTester.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-02-10T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-08-10T00:00:00Z",
 	"cisa_date_added": "2022-02-10T00:00:00Z",
 	"date_added": "2022-02-10T00:00:00Z"

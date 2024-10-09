@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows COM Aggregate Marshaler allows for privilege escalation when an attacker runs a specially crafted application.",
+	"vulnerabilityName": "Microsoft Windows Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-0213"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dbfb297b1e06",
+			"xdb_url": "https://vulncheck.com/xdb/dbfb297b1e06",
+			"date_added": "2018-03-21T04:13:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jbooz1/CVE-2017-0213.git"
+		},
+		{
+			"xdb_id": "aaaced7923bd",
+			"xdb_url": "https://vulncheck.com/xdb/aaaced7923bd",
+			"date_added": "2019-06-27T05:56:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Jos675/CVE-2017-0213-Exploit.git"
+		},
+		{
+			"xdb_id": "4bfbba25e06d",
+			"xdb_url": "https://vulncheck.com/xdb/4bfbba25e06d",
+			"date_added": "2017-07-01T16:07:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:zcgonvh/CVE-2017-0213.git"
+		},
+		{
+			"xdb_id": "07da0b0499de",
+			"xdb_url": "https://vulncheck.com/xdb/07da0b0499de",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2022-03-28T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer Scripting Engine",
+	"shortDescription": "A remote code execution vulnerability exists in the way that the scripting engine handles objects in memory in Internet Explorer.",
+	"vulnerabilityName": "Microsoft Scripting Engine Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8373"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

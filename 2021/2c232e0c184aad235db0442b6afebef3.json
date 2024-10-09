@@ -1,0 +1,276 @@
+{
+	"vendorProject": "Apache",
+	"product": "Struts",
+	"shortDescription": "Apache Struts Jakarta Multipart parser allows for malicious file upload using the Content-Type value, leading to remote code execution.",
+	"vulnerabilityName": "Apache Struts Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-5638"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "24ab649cd1da",
+			"xdb_url": "https://vulncheck.com/xdb/24ab649cd1da",
+			"date_added": "2023-03-02T04:37:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mritunjay-k/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "9eeabd073ffe",
+			"xdb_url": "https://vulncheck.com/xdb/9eeabd073ffe",
+			"date_added": "2023-05-10T22:48:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:FredBrave/CVE-2017-5638-ApacheStruts2.3.5.git"
+		},
+		{
+			"xdb_id": "af94773df67e",
+			"xdb_url": "https://vulncheck.com/xdb/af94773df67e",
+			"date_added": "2018-03-14T12:04:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Greynad/struts2-jakarta-inject.git"
+		},
+		{
+			"xdb_id": "7609b3e7cb98",
+			"xdb_url": "https://vulncheck.com/xdb/7609b3e7cb98",
+			"date_added": "2018-02-28T22:11:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:m3ssap0/struts2_cve-2017-5638.git"
+		},
+		{
+			"xdb_id": "f47a53762ef3",
+			"xdb_url": "https://vulncheck.com/xdb/f47a53762ef3",
+			"date_added": "2018-03-20T10:51:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ggolawski/struts-rce.git"
+		},
+		{
+			"xdb_id": "fb291c123615",
+			"xdb_url": "https://vulncheck.com/xdb/fb291c123615",
+			"date_added": "2020-10-19T13:21:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sonatype-workshops/struts2-rce.git"
+		},
+		{
+			"xdb_id": "1992a6b42411",
+			"xdb_url": "https://vulncheck.com/xdb/1992a6b42411",
+			"date_added": "2021-08-04T17:27:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jptr218/struts_hack.git"
+		},
+		{
+			"xdb_id": "9b37ededd8ac",
+			"xdb_url": "https://vulncheck.com/xdb/9b37ededd8ac",
+			"date_added": "2022-02-15T00:38:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:testpilot031/vulnerability_struts-2.3.31.git"
+		},
+		{
+			"xdb_id": "9c7436629672",
+			"xdb_url": "https://vulncheck.com/xdb/9c7436629672",
+			"date_added": "2020-12-06T16:16:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jongmartinez/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "fe25757247c8",
+			"xdb_url": "https://vulncheck.com/xdb/fe25757247c8",
+			"date_added": "2022-02-28T14:49:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:readloud/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "a920eeb5ee6a",
+			"xdb_url": "https://vulncheck.com/xdb/a920eeb5ee6a",
+			"date_added": "2017-03-07T10:30:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Flyteas/Struts2-045-Exp.git"
+		},
+		{
+			"xdb_id": "2372c571d51b",
+			"xdb_url": "https://vulncheck.com/xdb/2372c571d51b",
+			"date_added": "2017-05-28T06:44:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jpacora/Struts2Shell.git"
+		},
+		{
+			"xdb_id": "fecafad12e6c",
+			"xdb_url": "https://vulncheck.com/xdb/fecafad12e6c",
+			"date_added": "2017-03-17T18:05:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:falcon-lnhg/StrutsShell.git"
+		},
+		{
+			"xdb_id": "513b57e55c0f",
+			"xdb_url": "https://vulncheck.com/xdb/513b57e55c0f",
+			"date_added": "2017-05-27T02:03:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Aasron/Struts2-045-Exp.git"
+		},
+		{
+			"xdb_id": "dbca6ea08b41",
+			"xdb_url": "https://vulncheck.com/xdb/dbca6ea08b41",
+			"date_added": "2020-08-31T13:53:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ludy-dev/XworkStruts-RCE.git"
+		},
+		{
+			"xdb_id": "2ee648e8c5ab",
+			"xdb_url": "https://vulncheck.com/xdb/2ee648e8c5ab",
+			"date_added": "2017-03-21T05:47:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/st2-046-poc.git"
+		},
+		{
+			"xdb_id": "3c19ff65296a",
+			"xdb_url": "https://vulncheck.com/xdb/3c19ff65296a",
+			"date_added": "2018-02-15T17:31:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "1e4bb0c90cb0",
+			"xdb_url": "https://vulncheck.com/xdb/1e4bb0c90cb0",
+			"date_added": "2022-03-28T07:58:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Tankirat/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "ab1e48aab793",
+			"xdb_url": "https://vulncheck.com/xdb/ab1e48aab793",
+			"date_added": "2017-03-16T02:59:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opt9/Strutshock.git"
+		},
+		{
+			"xdb_id": "bbdb72777ec9",
+			"xdb_url": "https://vulncheck.com/xdb/bbdb72777ec9",
+			"date_added": "2021-06-24T05:41:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Badbird3/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "34e73d61d621",
+			"xdb_url": "https://vulncheck.com/xdb/34e73d61d621",
+			"date_added": "2017-03-11T10:43:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jrrombaldo/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "09e4b118e2df",
+			"xdb_url": "https://vulncheck.com/xdb/09e4b118e2df",
+			"date_added": "2022-04-14T02:48:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xConstant/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "fae964aee837",
+			"xdb_url": "https://vulncheck.com/xdb/fae964aee837",
+			"date_added": "2024-07-11T15:16:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Nithylesh/web-application-firewall-.git"
+		},
+		{
+			"xdb_id": "20280d4b350b",
+			"xdb_url": "https://vulncheck.com/xdb/20280d4b350b",
+			"date_added": "2018-05-13T16:13:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:win3zz/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "5dfed5d68cbc",
+			"xdb_url": "https://vulncheck.com/xdb/5dfed5d68cbc",
+			"date_added": "2017-03-09T19:40:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jas502n/S2-045-EXP-POC-TOOLS.git"
+		},
+		{
+			"xdb_id": "1b42cf9134f3",
+			"xdb_url": "https://vulncheck.com/xdb/1b42cf9134f3",
+			"date_added": "2017-03-10T04:23:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mthbernardes/strutszeiro.git"
+		},
+		{
+			"xdb_id": "1aeac5628880",
+			"xdb_url": "https://vulncheck.com/xdb/1aeac5628880",
+			"date_added": "2017-06-30T09:55:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "b7fcc6ca47d8",
+			"xdb_url": "https://vulncheck.com/xdb/b7fcc6ca47d8",
+			"date_added": "2017-05-05T13:17:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:payatu/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "337989a2a577",
+			"xdb_url": "https://vulncheck.com/xdb/337989a2a577",
+			"date_added": "2017-04-09T08:57:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:tahmed11/strutsy.git"
+		},
+		{
+			"xdb_id": "5de84d7d0047",
+			"xdb_url": "https://vulncheck.com/xdb/5de84d7d0047",
+			"date_added": "2017-06-30T09:40:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner.git"
+		},
+		{
+			"xdb_id": "b0439ebbc0c0",
+			"xdb_url": "https://vulncheck.com/xdb/b0439ebbc0c0",
+			"date_added": "2017-03-12T06:28:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ret2jazzy/Struts-Apache-ExploitPack.git"
+		},
+		{
+			"xdb_id": "b5c1ab2d5bc5",
+			"xdb_url": "https://vulncheck.com/xdb/b5c1ab2d5bc5",
+			"date_added": "2017-03-10T21:33:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:immunio/apache-struts2-CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "df60c287f1cd",
+			"xdb_url": "https://vulncheck.com/xdb/df60c287f1cd",
+			"date_added": "2017-03-10T16:56:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xsscx/cve-2017-5638.git"
+		},
+		{
+			"xdb_id": "92284df22d05",
+			"xdb_url": "https://vulncheck.com/xdb/92284df22d05",
+			"date_added": "2017-09-28T08:43:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:lizhi16/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "961d20815cd2",
+			"xdb_url": "https://vulncheck.com/xdb/961d20815cd2",
+			"date_added": "2017-03-12T02:02:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mazen160/struts-pwn.git"
+		},
+		{
+			"xdb_id": "5773e4ea569b",
+			"xdb_url": "https://vulncheck.com/xdb/5773e4ea569b",
+			"date_added": "2018-06-26T10:21:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Iletee/struts2-rce.git"
+		},
+		{
+			"xdb_id": "f0dd214c0a71",
+			"xdb_url": "https://vulncheck.com/xdb/f0dd214c0a71",
+			"date_added": "2024-03-12T12:55:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:luispereira2024/struts2-rce.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

@@ -1,0 +1,38 @@
+{
+	"vendorProject": "TerraMaster",
+	"product": "TerraMaster OS",
+	"shortDescription": "TerraMaster OS contains a remote command execution vulnerability that allows an unauthenticated user to execute commands on the target endpoint.",
+	"vulnerabilityName": "TerraMaster OS Remote Command Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2022-24990"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "25b052136658",
+			"xdb_url": "https://vulncheck.com/xdb/25b052136658",
+			"date_added": "2022-10-17T07:54:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jsongmax/terraMaster-CVE-2022-24990.git"
+		},
+		{
+			"xdb_id": "ddb92a8e6f44",
+			"xdb_url": "https://vulncheck.com/xdb/ddb92a8e6f44",
+			"date_added": "2022-03-10T03:16:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:VVeakee/CVE-2022-24990-POC.git"
+		},
+		{
+			"xdb_id": "7b15adc7f2a9",
+			"xdb_url": "https://vulncheck.com/xdb/7b15adc7f2a9",
+			"date_added": "2022-03-20T05:15:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xf4n9x/CVE-2022-24990.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2023-03-03T00:00:00Z",
+	"cisa_date_added": "2023-02-10T00:00:00Z",
+	"date_added": "2023-02-10T00:00:00Z"
+}

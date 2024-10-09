@@ -1,0 +1,38 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "An unspecified vulnerability exists in the Win32k.sys kernel-mode driver in Microsoft Windows Server that allows a local attacker to execute arbitrary code with elevated privileges.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-1701"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ee1abcca5405",
+			"xdb_url": "https://vulncheck.com/xdb/ee1abcca5405",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "eb4a799b8329",
+			"xdb_url": "https://vulncheck.com/xdb/eb4a799b8329",
+			"date_added": "2015-05-12T18:04:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hfiref0x/CVE-2015-1701.git"
+		},
+		{
+			"xdb_id": "6505b117b7db",
+			"xdb_url": "https://vulncheck.com/xdb/6505b117b7db",
+			"date_added": "2021-04-16T11:03:44+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:hfiref0x/CVE-2015-1701.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

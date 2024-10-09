@@ -1,0 +1,227 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office contains a memory corruption vulnerability that allows remote code execution in the context of the current user.",
+	"vulnerabilityName": "Microsoft Office Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-11882"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "09bbc90e9042",
+			"xdb_url": "https://vulncheck.com/xdb/09bbc90e9042",
+			"date_added": "2022-08-15T07:09:23Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2017-11882-reproduction.git"
+		},
+		{
+			"xdb_id": "e0d6cb6a75d0",
+			"xdb_url": "https://vulncheck.com/xdb/e0d6cb6a75d0",
+			"date_added": "2020-11-26T04:19:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:5l1v3r1/rtfkit.git"
+		},
+		{
+			"xdb_id": "1beb5af7f34c",
+			"xdb_url": "https://vulncheck.com/xdb/1beb5af7f34c",
+			"date_added": "2018-12-10T11:15:15Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:chanbin/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a22f4f0b4f81",
+			"xdb_url": "https://vulncheck.com/xdb/a22f4f0b4f81",
+			"date_added": "2021-01-25T12:44:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Retr0-code/SignHere.git"
+		},
+		{
+			"xdb_id": "b7c60553adc6",
+			"xdb_url": "https://vulncheck.com/xdb/b7c60553adc6",
+			"date_added": "2017-11-27T01:50:44Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Shadowshusky/CVE-2017-11882-.git"
+		},
+		{
+			"xdb_id": "884e21913154",
+			"xdb_url": "https://vulncheck.com/xdb/884e21913154",
+			"date_added": "2021-11-25T05:03:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:lisinan988/CVE-2017-11882-exp.git"
+		},
+		{
+			"xdb_id": "f1dea32cd138",
+			"xdb_url": "https://vulncheck.com/xdb/f1dea32cd138",
+			"date_added": "2022-03-18T05:38:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:tzwlhack/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "bd4146cb3e92",
+			"xdb_url": "https://vulncheck.com/xdb/bd4146cb3e92",
+			"date_added": "2019-08-14T11:55:00Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:littlebin404/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "29dd95b375f6",
+			"xdb_url": "https://vulncheck.com/xdb/29dd95b375f6",
+			"date_added": "2018-01-12T11:38:33Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/RTF_11882_0802.git"
+		},
+		{
+			"xdb_id": "2c706d9ab4e2",
+			"xdb_url": "https://vulncheck.com/xdb/2c706d9ab4e2",
+			"date_added": "2017-11-22T01:11:39Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:starnightcyber/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "560639fdbb7b",
+			"xdb_url": "https://vulncheck.com/xdb/560639fdbb7b",
+			"date_added": "2017-11-21T09:15:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BlackMathIT/2017-11882_Generator.git"
+		},
+		{
+			"xdb_id": "f3e789735124",
+			"xdb_url": "https://vulncheck.com/xdb/f3e789735124",
+			"date_added": "2017-11-21T18:17:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:0x09AL/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "1d994aebc6f7",
+			"xdb_url": "https://vulncheck.com/xdb/1d994aebc6f7",
+			"date_added": "2017-11-20T16:35:30Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:embedi/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "f99472e3e149",
+			"xdb_url": "https://vulncheck.com/xdb/f99472e3e149",
+			"date_added": "2018-01-11T09:43:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rxwx/CVE-2018-0802.git"
+		},
+		{
+			"xdb_id": "7b4a8e276f3c",
+			"xdb_url": "https://vulncheck.com/xdb/7b4a8e276f3c",
+			"date_added": "2017-11-21T15:22:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:rip1s/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "2289a5f14fd6",
+			"xdb_url": "https://vulncheck.com/xdb/2289a5f14fd6",
+			"date_added": "2017-11-21T05:55:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "40468e8cc38a",
+			"xdb_url": "https://vulncheck.com/xdb/40468e8cc38a",
+			"date_added": "2021-01-20T11:25:39+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:adai2022/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "94f46950b1a7",
+			"xdb_url": "https://vulncheck.com/xdb/94f46950b1a7",
+			"date_added": "2020-04-30T18:33:43+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882-17k.git"
+		},
+		{
+			"xdb_id": "f148343ee61b",
+			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
+			"date_added": "2023-11-30T18:12:58+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "ea0b976f167f",
+			"xdb_url": "https://vulncheck.com/xdb/ea0b976f167f",
+			"date_added": "2021-10-17T00:01:07+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:csharphpython/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "e792aa5f248a",
+			"xdb_url": "https://vulncheck.com/xdb/e792aa5f248a",
+			"date_added": "2019-12-21T10:55:51+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:xiaolouuu/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a5ab3a44d45b",
+			"xdb_url": "https://vulncheck.com/xdb/a5ab3a44d45b",
+			"date_added": "2020-01-02T00:23:59+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:wu_ze_jun/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "b33af3e3d9b8",
+			"xdb_url": "https://vulncheck.com/xdb/b33af3e3d9b8",
+			"date_added": "2019-11-19T09:30:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "047b151c3f07",
+			"xdb_url": "https://vulncheck.com/xdb/047b151c3f07",
+			"date_added": "2020-05-18T19:22:22+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:aston_mation/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "1ac59b46e457",
+			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
+			"date_added": "2022-01-11T22:45:31+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "5df1c82ae620",
+			"xdb_url": "https://vulncheck.com/xdb/5df1c82ae620",
+			"date_added": "2020-04-30T10:39:14+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "ce6706b8e64f",
+			"xdb_url": "https://vulncheck.com/xdb/ce6706b8e64f",
+			"date_added": "2019-11-19T09:33:21+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a5f8a5153c43",
+			"xdb_url": "https://vulncheck.com/xdb/a5f8a5153c43",
+			"date_added": "2020-08-08T10:14:29+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2017-11882-metasploit.git"
+		},
+		{
+			"xdb_id": "e3d7500258d5",
+			"xdb_url": "https://vulncheck.com/xdb/e3d7500258d5",
+			"date_added": "2022-01-11T22:49:55+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_embedi/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "e74b79fd3ee0",
+			"xdb_url": "https://vulncheck.com/xdb/e74b79fd3ee0",
+			"date_added": "2019-12-19T21:18:30Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:alessio_/CVE-2017-11882.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

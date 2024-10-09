@@ -9,81 +9,8 @@
 		"CVE-2021-20090"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-04&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-01-04T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-22&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-03-22T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-10&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-06-10T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-16&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-06-16T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-06-17T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-18&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-06-18T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-11&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-07-11T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-12&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-07-12T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-23&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-07-23T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-08-07T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-30&host_type=src&vulnerability=cve-2021-20090",
-			"date_added": "2024-08-30T00:00:00Z"
-		},
-		{
-			"url": "https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild",
-			"date_added": "2021-08-06T00:00:00Z"
-		},
-		{
-			"url": "https://www.radware.com/getmedia/18d24c2d-c092-4a61-9ad6-ebb92b7a49b8/Alert_Realtek_SDK.aspx",
-			"date_added": "2021-08-24T00:00:00Z"
-		},
-		{
-			"url": "https://www.radware.com/getmedia/d312a5fa-2d8d-4c1e-b31e-73046f24bf35/Alert-Dark-OMIGOD.aspx",
-			"date_added": "2021-09-20T00:00:00Z"
-		},
-		{
-			"url": "https://cujo.com/blog/iot-botnet-report-2021-malware-and-vulnerabilities-targeted/",
-			"date_added": "2021-12-17T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-279a",
-			"date_added": "2022-10-06T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2021-11-17T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2021-08-06T00:00:00Z"
+	"date_added": "2021-11-03T00:00:00Z"
 }

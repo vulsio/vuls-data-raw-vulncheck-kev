@@ -45,65 +45,8 @@
 			"clone_ssh_url": "git@github.com:jam620/Sophos-Vulnerability.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-03-31T00:00:00Z"
-		},
-		{
-			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
-			"date_added": "2022-03-25T00:00:00Z"
-		},
-		{
-			"url": "https://www.bleepingcomputer.com/news/security/hackers-tried-to-use-sophos-firewall-zero-day-to-deploy-ransomware/",
-			"date_added": "2022-03-21T00:00:00Z"
-		},
-		{
-			"url": "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/",
-			"date_added": "2022-06-15T00:00:00Z"
-		},
-		{
-			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2022-0922.pdf",
-			"date_added": "2022-09-22T00:00:00Z"
-		},
-		{
-			"url": "https://www.recordedfuture.com/research/chinese-state-sponsored-group-ta413-adopts-new-capabilities-in-pursuit-of-tibetan-targets",
-			"date_added": "2022-09-22T00:00:00Z"
-		},
-		{
-			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
-			"date_added": "2023-01-17T00:00:00Z"
-		},
-		{
-			"url": "https://www.prio-n.com/a-year-in-review-2022-100-vulnerabilities-you-should-prioritize/",
-			"date_added": "2023-02-02T00:00:00Z"
-		},
-		{
-			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",
-			"date_added": "2023-03-02T00:00:00Z"
-		},
-		{
-			"url": "https://www.mandiant.com/resources/blog/zero-days-exploited-2022",
-			"date_added": "2022-03-31T00:00:00Z"
-		},
-		{
-			"url": "https://www.mandiant.com/resources/blog/chinese-espionage-tactics",
-			"date_added": "2023-07-18T00:00:00Z"
-		},
-		{
-			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
-			"date_added": "2023-11-07T00:00:00Z"
-		},
-		{
-			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
-			"date_added": "2024-07-25T00:00:00Z"
-		},
-		{
-			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
-			"date_added": "2024-09-19T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-04-21T00:00:00Z",
 	"cisa_date_added": "2022-03-31T00:00:00Z",
-	"date_added": "2022-03-21T00:00:00Z"
+	"date_added": "2022-03-31T00:00:00Z"
 }

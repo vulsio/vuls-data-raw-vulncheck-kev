@@ -1,0 +1,234 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server contains an unspecified vulnerability that allows for remote code execution. This vulnerability is part of the ProxyLogon exploit chain.",
+	"vulnerabilityName": "Microsoft Exchange Server Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-26855"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "30ee56a1adac",
+			"xdb_url": "https://vulncheck.com/xdb/30ee56a1adac",
+			"date_added": "2023-04-25T04:29:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:iceberg-N/cve-2021-26855.git"
+		},
+		{
+			"xdb_id": "a15ecee3c689",
+			"xdb_url": "https://vulncheck.com/xdb/a15ecee3c689",
+			"date_added": "2022-06-24T17:42:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TheDudeD6/ExchangeSmash.git"
+		},
+		{
+			"xdb_id": "2786587022bf",
+			"xdb_url": "https://vulncheck.com/xdb/2786587022bf",
+			"date_added": "2024-01-04T22:48:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt.git"
+		},
+		{
+			"xdb_id": "83c67e8456f8",
+			"xdb_url": "https://vulncheck.com/xdb/83c67e8456f8",
+			"date_added": "2023-02-02T13:20:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ssrsec/Microsoft-Exchange-RCE.git"
+		},
+		{
+			"xdb_id": "5a8c766c84ab",
+			"xdb_url": "https://vulncheck.com/xdb/5a8c766c84ab",
+			"date_added": "2021-03-06T09:15:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "e988e4b21a5a",
+			"xdb_url": "https://vulncheck.com/xdb/e988e4b21a5a",
+			"date_added": "2021-03-09T09:40:29Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:mauricelambert/ExchangeWeaknessTest.git"
+		},
+		{
+			"xdb_id": "f0b67c3b0dba",
+			"xdb_url": "https://vulncheck.com/xdb/f0b67c3b0dba",
+			"date_added": "2021-03-12T12:47:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:KotSec/CVE-2021-26855-Scanner.git"
+		},
+		{
+			"xdb_id": "a369a563695a",
+			"xdb_url": "https://vulncheck.com/xdb/a369a563695a",
+			"date_added": "2021-03-09T14:27:06Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:srvaccount/CVE-2021-26855-PoC.git"
+		},
+		{
+			"xdb_id": "f64e212b9bb9",
+			"xdb_url": "https://vulncheck.com/xdb/f64e212b9bb9",
+			"date_added": "2021-12-04T22:38:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thau0x01/poc_proxylogon.git"
+		},
+		{
+			"xdb_id": "67248d70edfc",
+			"xdb_url": "https://vulncheck.com/xdb/67248d70edfc",
+			"date_added": "2023-04-23T22:26:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:glen-pearson/ProxyLogon-CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "2a12da6c6076",
+			"xdb_url": "https://vulncheck.com/xdb/2a12da6c6076",
+			"date_added": "2022-06-27T08:07:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyLogon.git"
+		},
+		{
+			"xdb_id": "f4e64f41f675",
+			"xdb_url": "https://vulncheck.com/xdb/f4e64f41f675",
+			"date_added": "2021-03-11T04:33:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:shacojx/CVE_2021_26855_SSRF.git"
+		},
+		{
+			"xdb_id": "0c24aac0812f",
+			"xdb_url": "https://vulncheck.com/xdb/0c24aac0812f",
+			"date_added": "2021-03-06T19:03:00Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:pussycat0x/CVE-2021-26855-SSRF.git"
+		},
+		{
+			"xdb_id": "db86afdc28ec",
+			"xdb_url": "https://vulncheck.com/xdb/db86afdc28ec",
+			"date_added": "2021-03-15T14:03:16Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2021-26855-d.git"
+		},
+		{
+			"xdb_id": "8f164084f63f",
+			"xdb_url": "https://vulncheck.com/xdb/8f164084f63f",
+			"date_added": "2021-03-09T16:54:39Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "b21c4b028688",
+			"xdb_url": "https://vulncheck.com/xdb/b21c4b028688",
+			"date_added": "2021-04-14T11:12:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hosch3n/ProxyVulns.git"
+		},
+		{
+			"xdb_id": "e2f6662dc7fa",
+			"xdb_url": "https://vulncheck.com/xdb/e2f6662dc7fa",
+			"date_added": "2021-03-17T03:32:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TaroballzChen/ProxyLogon-CVE-2021-26855-metasploit.git"
+		},
+		{
+			"xdb_id": "84f6d976cfa8",
+			"xdb_url": "https://vulncheck.com/xdb/84f6d976cfa8",
+			"date_added": "2021-03-08T07:28:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2021-26855_SSRF.git"
+		},
+		{
+			"xdb_id": "d311705d5c0f",
+			"xdb_url": "https://vulncheck.com/xdb/d311705d5c0f",
+			"date_added": "2021-03-11T20:51:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hackerschoice/CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "41560d8dfafa",
+			"xdb_url": "https://vulncheck.com/xdb/41560d8dfafa",
+			"date_added": "2021-03-14T22:57:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mil1200/ProxyLogon-CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "5c885ac1f498",
+			"xdb_url": "https://vulncheck.com/xdb/5c885ac1f498",
+			"date_added": "2021-03-17T03:56:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
+		},
+		{
+			"xdb_id": "d5ace7521e90",
+			"xdb_url": "https://vulncheck.com/xdb/d5ace7521e90",
+			"date_added": "2021-03-18T10:45:54Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:shacojx/CVE-2021-26855-exploit-Exchange.git"
+		},
+		{
+			"xdb_id": "a0bdc897dbad",
+			"xdb_url": "https://vulncheck.com/xdb/a0bdc897dbad",
+			"date_added": "2021-03-10T05:21:19Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26855_PoC.git"
+		},
+		{
+			"xdb_id": "6285ee0370ae",
+			"xdb_url": "https://vulncheck.com/xdb/6285ee0370ae",
+			"date_added": "2021-03-14T13:04:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hakivvi/proxylogon.git"
+		},
+		{
+			"xdb_id": "05d9d20036f6",
+			"xdb_url": "https://vulncheck.com/xdb/05d9d20036f6",
+			"date_added": "2021-03-29T21:10:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Flangvik/SharpProxyLogon.git"
+		},
+		{
+			"xdb_id": "c3f6061e329d",
+			"xdb_url": "https://vulncheck.com/xdb/c3f6061e329d",
+			"date_added": "2021-03-06T16:34:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Udyz/Proxylogon.git"
+		},
+		{
+			"xdb_id": "28a1acb64734",
+			"xdb_url": "https://vulncheck.com/xdb/28a1acb64734",
+			"date_added": "2021-03-08T11:54:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
+		},
+		{
+			"xdb_id": "ee22e208e22e",
+			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
+			"date_added": "2021-03-24T01:12:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
+		},
+		{
+			"xdb_id": "f1d2fcb25c52",
+			"xdb_url": "https://vulncheck.com/xdb/f1d2fcb25c52",
+			"date_added": "2021-03-11T19:35:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r0xdeadbeef/CVE-2021-26855.git"
+		},
+		{
+			"xdb_id": "2036c9063358",
+			"xdb_url": "https://vulncheck.com/xdb/2036c9063358",
+			"date_added": "2022-04-02T23:57:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:securitystuffbackup/SharpProxyLogon.git"
+		},
+		{
+			"xdb_id": "2e432cbc1287",
+			"xdb_url": "https://vulncheck.com/xdb/2e432cbc1287",
+			"date_added": "2021-03-12T11:47:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitlab.com:gvillegas/ohwaa.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2021-04-16T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

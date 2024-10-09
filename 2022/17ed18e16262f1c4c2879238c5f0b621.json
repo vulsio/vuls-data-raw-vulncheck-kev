@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "Use-after-free vulnerability in Adobe Acrobat and Reader allows remote attackers to execute code via a crafted PDF file.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-4324"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2022-06-08T00:00:00Z"
+}

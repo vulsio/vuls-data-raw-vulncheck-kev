@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Graphics Component",
+	"shortDescription": "Microsoft Graphics Component contains a memory corruption vulnerability which can allow for remote code execution.",
+	"vulnerabilityName": "Microsoft Graphics Component Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-3906"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-08-15T00:00:00Z",
+	"cisa_date_added": "2022-02-15T00:00:00Z",
+	"date_added": "2022-02-15T00:00:00Z"
+}

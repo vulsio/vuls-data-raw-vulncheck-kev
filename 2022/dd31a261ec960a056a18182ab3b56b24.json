@@ -1,0 +1,16 @@
+{
+	"vendorProject": "NETGEAR",
+	"product": "DGN2200 Devices",
+	"shortDescription": "dnslookup.cgi on NETGEAR DGN2200 devices with firmware through 10.0.0.50 allows remote authenticated users to execute arbitrary OS commands",
+	"vulnerabilityName": "NETGEAR DGN2200 Devices OS Command Injection Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-6334"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

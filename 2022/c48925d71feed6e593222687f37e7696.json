@@ -1,0 +1,52 @@
+{
+	"vendorProject": "Synacor",
+	"product": "Zimbra Collaboration (ZCS)",
+	"shortDescription": "Improper Restriction of XML External Entity Reference vulnerability affecting Synacor Zimbra Collaboration (ZCS).",
+	"vulnerabilityName": "Synacor Zimbra Collaboration (ZCS) Improper Restriction of XML External Entity Reference",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9670"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f96906b5bf5d",
+			"xdb_url": "https://vulncheck.com/xdb/f96906b5bf5d",
+			"date_added": "2019-08-16T15:22:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:attackgithub/Zimbra-RCE.git"
+		},
+		{
+			"xdb_id": "5a57070a2e55",
+			"xdb_url": "https://vulncheck.com/xdb/5a57070a2e55",
+			"date_added": "2024-05-05T01:09:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:OracleNep/CVE-2019-9670-DtdFilegeneration.git"
+		},
+		{
+			"xdb_id": "ff28b3d82e69",
+			"xdb_url": "https://vulncheck.com/xdb/ff28b3d82e69",
+			"date_added": "2019-08-16T04:37:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rek7/Zimbra-RCE.git"
+		},
+		{
+			"xdb_id": "16be42d980ae",
+			"xdb_url": "https://vulncheck.com/xdb/16be42d980ae",
+			"date_added": "2022-08-15T00:54:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:oppsec/zaber.git"
+		},
+		{
+			"xdb_id": "95c2412ff469",
+			"xdb_url": "https://vulncheck.com/xdb/95c2412ff469",
+			"date_added": "2022-06-28T20:01:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:oppsec/arbimz.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-07-10T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

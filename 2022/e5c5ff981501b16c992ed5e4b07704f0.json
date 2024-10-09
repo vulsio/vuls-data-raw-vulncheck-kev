@@ -1,0 +1,16 @@
+{
+	"vendorProject": "NETGEAR",
+	"product": "Multiple Devices",
+	"shortDescription": "Multiple NETGEAR devices are prone to admin password disclosure via simple crafted requests to the web management server.",
+	"vulnerabilityName": "NETGEAR Multiple Devices Exposure of Sensitive Information Vulnerability",
+	"required_action": "Apply updates per vendor instructions. If the affected device has since entered end-of-life, it should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-5521"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-09-29T00:00:00Z",
+	"cisa_date_added": "2022-09-08T00:00:00Z",
+	"date_added": "2022-09-08T00:00:00Z"
+}

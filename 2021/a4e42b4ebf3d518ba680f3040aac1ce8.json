@@ -17,21 +17,8 @@
 			"clone_ssh_url": "git@github.com:shubham0d/CVE-2021-30657.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://support.apple.com/kb/HT212326",
-			"date_added": "2021-07-21T00:00:00Z"
-		},
-		{
-			"url": "https://support.apple.com/kb/HT212325",
-			"date_added": "2022-05-25T00:00:00Z"
-		},
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2021-11-03T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2021-11-17T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2021-07-21T00:00:00Z"
+	"date_added": "2021-11-03T00:00:00Z"
 }

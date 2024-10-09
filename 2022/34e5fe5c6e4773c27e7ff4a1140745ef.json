@@ -59,6 +59,13 @@
 			"clone_ssh_url": "git@github.com:0vercl0k/CVE-2021-31166.git"
 		},
 		{
+			"xdb_id": "86c76b7eb3bc",
+			"xdb_url": "https://vulncheck.com/xdb/86c76b7eb3bc",
+			"date_added": "2021-05-20T05:00:38+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-31166.git"
+		},
+		{
 			"xdb_id": "5719bfcb7a63",
 			"xdb_url": "https://vulncheck.com/xdb/5719bfcb7a63",
 			"date_added": "2021-05-21T10:38:41+08:00",
@@ -71,30 +78,10 @@
 			"date_added": "2021-05-18T20:34:58+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:ljygit123/CVE-2021-31166.git"
-		},
-		{
-			"xdb_id": "86c76b7eb3bc",
-			"xdb_url": "https://vulncheck.com/xdb/86c76b7eb3bc",
-			"date_added": "2021-05-20T05:00:38+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-31166.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-04-06T00:00:00Z"
-		},
-		{
-			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
-			"date_added": "2022-03-24T00:00:00Z"
-		},
-		{
-			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
-			"date_added": "2022-06-22T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-04-27T00:00:00Z",
 	"cisa_date_added": "2022-04-06T00:00:00Z",
-	"date_added": "2022-03-24T00:00:00Z"
+	"date_added": "2022-04-06T00:00:00Z"
 }

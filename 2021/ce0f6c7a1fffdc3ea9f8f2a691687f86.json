@@ -1,0 +1,24 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Pulse Connect Secure and Pulse Policy Secure",
+	"shortDescription": "Ivanti Pulse Connect Secure and Policy Secure allows an authenticated attacker from the admin web interface to inject and execute commands.",
+	"vulnerabilityName": "Ivanti Pulse Connect Secure and Policy Secure Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-11539"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "35b5c0219071",
+			"xdb_url": "https://vulncheck.com/xdb/35b5c0219071",
+			"date_added": "2019-09-04T13:06:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0xDezzy/CVE-2019-11539.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

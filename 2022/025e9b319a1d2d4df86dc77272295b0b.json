@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Schneider Electric",
+	"product": "U.motion Builder",
+	"shortDescription": "A SQL Injection vulnerability exists in U.motion Builder software which could cause unwanted code execution when an improper set of characters is entered.",
+	"vulnerabilityName": "Schneider Electric U.motion Builder SQL Injection Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-7841"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-06T00:00:00Z",
+	"cisa_date_added": "2022-04-15T00:00:00Z",
+	"date_added": "2022-04-15T00:00:00Z"
+}

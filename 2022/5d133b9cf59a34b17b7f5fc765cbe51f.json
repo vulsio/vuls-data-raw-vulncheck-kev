@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Java Runtime Environment (JRE)",
+	"shortDescription": "A vulnerability in the way Java restricts the permissions of Java applets could allow an attacker to execute commands on a vulnerable system.",
+	"vulnerabilityName": "Oracle JRE Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-0422"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2022-05-25T00:00:00Z"
+}

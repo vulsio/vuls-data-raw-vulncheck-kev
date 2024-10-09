@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "An information disclosure vulnerability exists in Internet Explorer which allows resources loaded into memory to be queried. This vulnerability could allow an attacker to detect anti-malware applications.",
+	"vulnerabilityName": "Microsoft Internet Explorer Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-7331"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2022-05-25T00:00:00Z"
+}

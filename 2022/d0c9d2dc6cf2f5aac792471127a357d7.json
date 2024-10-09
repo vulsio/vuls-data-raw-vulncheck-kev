@@ -1,0 +1,52 @@
+{
+	"vendorProject": "Cisco",
+	"product": "IOS and IOS XE Software",
+	"shortDescription": "A vulnerability in the Cisco Cluster Management Protocol (CMP) processing code in Cisco IOS and Cisco IOS XE Software could allow an unauthenticated, remote attacker to cause a reload of an affected device or remotely execute code with elevated privileges.",
+	"vulnerabilityName": "Cisco IOS and IOS XE Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-3881"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9ace50346f8d",
+			"xdb_url": "https://vulncheck.com/xdb/9ace50346f8d",
+			"date_added": "2018-01-02T01:45:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1337g/CVE-2017-3881.git"
+		},
+		{
+			"xdb_id": "2f0df2465dbf",
+			"xdb_url": "https://vulncheck.com/xdb/2f0df2465dbf",
+			"date_added": "2017-05-11T12:11:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mzakyz666/PoC-CVE-2017-3881.git"
+		},
+		{
+			"xdb_id": "ff56c466c983",
+			"xdb_url": "https://vulncheck.com/xdb/ff56c466c983",
+			"date_added": "2017-04-20T00:52:10Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:homjxi0e/CVE-2017-3881-exploit-cisco-.git"
+		},
+		{
+			"xdb_id": "7e17d20488ba",
+			"xdb_url": "https://vulncheck.com/xdb/7e17d20488ba",
+			"date_added": "2017-04-10T03:44:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:artkond/cisco-rce.git"
+		},
+		{
+			"xdb_id": "793e00067c6b",
+			"xdb_url": "https://vulncheck.com/xdb/793e00067c6b",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

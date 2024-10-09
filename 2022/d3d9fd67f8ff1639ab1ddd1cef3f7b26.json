@@ -17,20 +17,7 @@
 			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2019-0841-BYPASS.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-03-15T00:00:00Z"
-		},
-		{
-			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
-			"date_added": "2022-03-24T00:00:00Z"
-		},
-		{
-			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
-			"date_added": "2022-06-29T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-04-05T00:00:00Z",
 	"cisa_date_added": "2022-03-15T00:00:00Z",
 	"date_added": "2022-03-15T00:00:00Z"

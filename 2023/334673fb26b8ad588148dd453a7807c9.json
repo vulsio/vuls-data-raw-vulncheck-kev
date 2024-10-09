@@ -38,36 +38,7 @@
 			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-36802.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2023-09-12T00:00:00Z"
-		},
-		{
-			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
-			"date_added": "2023-09-12T00:00:00Z"
-		},
-		{
-			"url": "https://api.msrc.microsoft.com/cvrf/2023-Sep?api-version=2020",
-			"date_added": "2023-09-12T00:00:00Z"
-		},
-		{
-			"url": "https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html",
-			"date_added": "2023-09-13T00:00:00Z"
-		},
-		{
-			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
-			"date_added": "2024-02-02T00:00:00Z"
-		},
-		{
-			"url": "https://research.checkpoint.com/2024/raspberry-robin-keeps-riding-the-wave-of-endless-1-days/",
-			"date_added": "2023-09-12T00:00:00Z"
-		},
-		{
-			"url": "https://www.logpoint.com/wp-content/uploads/2024/03/et-raspberry-robin-not-a-juicy-raspberry-you-love.pdf",
-			"date_added": "2024-03-25T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2023-10-03T00:00:00Z",
 	"cisa_date_added": "2023-09-12T00:00:00Z",
 	"date_added": "2023-09-12T00:00:00Z"

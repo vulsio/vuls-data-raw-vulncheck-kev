@@ -1,0 +1,115 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "JBoss Application Server",
+	"shortDescription": "The JBoss Application Server, shipped with Red Hat Enterprise Application Platform 5.2, allows an attacker to execute arbitrary code via crafted serialized data.",
+	"vulnerabilityName": "Red Hat JBoss Application Server Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-12149"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "62b031b6de05",
+			"xdb_url": "https://vulncheck.com/xdb/62b031b6de05",
+			"date_added": "2023-08-06T12:11:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MrE-Fog/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "e9c9ec72c858",
+			"xdb_url": "https://vulncheck.com/xdb/e9c9ec72c858",
+			"date_added": "2017-11-21T10:48:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sevck/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "a775feeaa5fd",
+			"xdb_url": "https://vulncheck.com/xdb/a775feeaa5fd",
+			"date_added": "2019-08-22T21:06:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jreppiks/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "df44860bdefc",
+			"xdb_url": "https://vulncheck.com/xdb/df44860bdefc",
+			"date_added": "2022-04-14T13:24:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VVeakee/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "048f545b0177",
+			"xdb_url": "https://vulncheck.com/xdb/048f545b0177",
+			"date_added": "2017-12-22T07:30:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1337g/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "6f98930c129d",
+			"xdb_url": "https://vulncheck.com/xdb/6f98930c129d",
+			"date_added": "2024-04-30T18:40:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JesseClarkND/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "b37a3f028f09",
+			"xdb_url": "https://vulncheck.com/xdb/b37a3f028f09",
+			"date_added": "2017-11-28T02:52:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:yunxu1/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "4f659f46be37",
+			"xdb_url": "https://vulncheck.com/xdb/4f659f46be37",
+			"date_added": "2022-09-19T00:54:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:abcall/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "93fd63db9635",
+			"xdb_url": "https://vulncheck.com/xdb/93fd63db9635",
+			"date_added": "2020-10-04T21:52:16+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "9291e025d38e",
+			"xdb_url": "https://vulncheck.com/xdb/9291e025d38e",
+			"date_added": "2020-04-08T20:39:10+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:jadore/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "d9f3bd9b80b5",
+			"xdb_url": "https://vulncheck.com/xdb/d9f3bd9b80b5",
+			"date_added": "2020-12-31T20:23:17+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:prajnashipsailor/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "288d8baf4ead",
+			"xdb_url": "https://vulncheck.com/xdb/288d8baf4ead",
+			"date_added": "2021-05-22T09:28:17+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:weiuwang/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "07509b590e3a",
+			"xdb_url": "https://vulncheck.com/xdb/07509b590e3a",
+			"date_added": "2020-10-04T20:55:51+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "b933736f9e33",
+			"xdb_url": "https://vulncheck.com/xdb/b933736f9e33",
+			"date_added": "2020-10-04T21:56:09+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149-2.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-10T00:00:00Z",
+	"cisa_date_added": "2021-12-10T00:00:00Z",
+	"date_added": "2021-12-10T00:00:00Z"
+}

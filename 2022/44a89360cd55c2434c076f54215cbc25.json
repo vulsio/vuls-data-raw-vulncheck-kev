@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "The TabStrip ActiveX control in the Common Controls in MSCOMCTL.OCX in Microsoft Office allows remote attackers to execute arbitrary code via a crafted (1) document or (2) web page that triggers system-state corruption.",
+	"vulnerabilityName": "Microsoft Office MSCOMCTL.OCX Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-1856"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

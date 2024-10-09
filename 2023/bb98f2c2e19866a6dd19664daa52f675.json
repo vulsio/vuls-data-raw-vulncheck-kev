@@ -45,36 +45,7 @@
 			"clone_ssh_url": "git@gitee.com:y-main/CVE-2023-21839.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2023-05-01T00:00:00Z"
-		},
-		{
-			"url": "https://blog.eclecticiq.com/chinese-threat-actor-used-modified-cobalt-strike-variant-to-attack-taiwanese-critical-infrastructure",
-			"date_added": "2023-06-02T00:00:00Z"
-		},
-		{
-			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/report-crowdstrike-2023-threat-hunting-report.pdf",
-			"date_added": "2023-05-01T00:00:00Z"
-		},
-		{
-			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
-			"date_added": "2024-05-21T00:00:00Z"
-		},
-		{
-			"url": "https://www.broadcom.com/support/security-center/protection-bulletin/unveiling-cryptocurrency-mining-tactic-of-the-8220-gang",
-			"date_added": "2024-05-30T00:00:00Z"
-		},
-		{
-			"url": "https://www.trendmicro.com/en_us/research/24/e/decoding-8220-latest-obfuscation-tricks.html",
-			"date_added": "2024-05-30T00:00:00Z"
-		},
-		{
-			"url": "https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html",
-			"date_added": "2024-06-28T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2023-05-22T00:00:00Z",
 	"cisa_date_added": "2023-05-01T00:00:00Z",
 	"date_added": "2023-05-01T00:00:00Z"

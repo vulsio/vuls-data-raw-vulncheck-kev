@@ -17,12 +17,7 @@
 			"clone_ssh_url": "git@github.com:ZwCreatePhoton/CVE-2019-0752.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-02-15T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-08-15T00:00:00Z",
 	"cisa_date_added": "2022-02-15T00:00:00Z",
 	"date_added": "2022-02-15T00:00:00Z"

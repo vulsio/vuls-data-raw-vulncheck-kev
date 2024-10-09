@@ -31,25 +31,8 @@
 			"clone_ssh_url": "git@github.com:LightningGod7/CVE-2022-24706-POC.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-08-25T00:00:00Z"
-		},
-		{
-			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
-			"date_added": "2024-05-10T00:00:00Z"
-		},
-		{
-			"url": "https://www.countercraftsec.com/blog/active-exploitation-of-confluence-cve-2022-26134/",
-			"date_added": "2022-03-06T00:00:00Z"
-		},
-		{
-			"url": "https://www.countercraftsec.com/blog/active-exploitation-of-apache-couchdb-cve-2022-24706/",
-			"date_added": "2022-05-30T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-09-15T00:00:00Z",
 	"cisa_date_added": "2022-08-25T00:00:00Z",
-	"date_added": "2022-03-06T00:00:00Z"
+	"date_added": "2022-08-25T00:00:00Z"
 }

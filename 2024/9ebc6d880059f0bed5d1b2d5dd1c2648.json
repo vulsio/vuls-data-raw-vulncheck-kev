@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Cloud Services Appliance (CSA)",
+	"shortDescription": "Ivanti Cloud Services Appliance (CSA) contains a SQL injection vulnerability in the admin web console in versions prior to 5.0.2, which can allow a remote attacker authenticated as administrator to run arbitrary SQL statements.",
+	"vulnerabilityName": "Ivanti Cloud Services Appliance (CSA) SQL Injection Vulnerability",
+	"required_action": "As Ivanti CSA 4.6.x has reached End-of-Life status, users are urged to remove CSA 4.6.x from service or upgrade to the 5.0.x line, or later, of supported solution.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9379"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/blog/october-2024-security-update",
+			"date_added": "2024-10-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-30T00:00:00Z",
+	"cisa_date_added": "2024-10-09T00:00:00Z",
+	"date_added": "2024-10-08T00:00:00Z"
+}

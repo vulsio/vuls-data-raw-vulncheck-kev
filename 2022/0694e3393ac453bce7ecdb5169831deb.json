@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows allow remote attackers to execute arbitrary code via a crafted OLE object.",
+	"vulnerabilityName": "Microsoft Windows Code Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-6352"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-08-25T00:00:00Z",
+	"cisa_date_added": "2022-02-25T00:00:00Z",
+	"date_added": "2022-02-25T00:00:00Z"
+}

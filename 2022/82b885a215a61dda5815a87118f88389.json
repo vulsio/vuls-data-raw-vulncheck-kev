@@ -115,11 +115,11 @@
 			"clone_ssh_url": "git@gitee.com:tianrking/CVE-2021-3493.git"
 		},
 		{
-			"xdb_id": "2ab470a88220",
-			"xdb_url": "https://vulncheck.com/xdb/2ab470a88220",
-			"date_added": "2021-11-21T14:01:02+08:00",
+			"xdb_id": "c90d13040f2a",
+			"xdb_url": "https://vulncheck.com/xdb/c90d13040f2a",
+			"date_added": "2021-04-22T12:39:02+08:00",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3493.git"
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3493.git"
 		},
 		{
 			"xdb_id": "76f421f52f8f",
@@ -136,18 +136,18 @@
 			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/cve-2021-3493-2.git"
 		},
 		{
-			"xdb_id": "c90d13040f2a",
-			"xdb_url": "https://vulncheck.com/xdb/c90d13040f2a",
-			"date_added": "2021-04-22T12:39:02+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3493.git"
-		},
-		{
 			"xdb_id": "586ebe33df5f",
 			"xdb_url": "https://vulncheck.com/xdb/586ebe33df5f",
 			"date_added": "2021-12-16T11:25:13+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:fanych/CVE-2021-3493.git"
+		},
+		{
+			"xdb_id": "2ab470a88220",
+			"xdb_url": "https://vulncheck.com/xdb/2ab470a88220",
+			"date_added": "2021-11-21T14:01:02+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3493.git"
 		},
 		{
 			"xdb_id": "df20ad5b82e3",
@@ -157,12 +157,7 @@
 			"clone_ssh_url": "git@gitee.com:vincentwang11/CVE-2021-3493.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-10-20T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-11-10T00:00:00Z",
 	"cisa_date_added": "2022-10-20T00:00:00Z",
 	"date_added": "2022-10-20T00:00:00Z"

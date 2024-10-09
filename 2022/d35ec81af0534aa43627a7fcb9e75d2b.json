@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office contains a use-after-free vulnerability which can allow for remote code execution.",
+	"vulnerabilityName": "Microsoft Office Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-0261"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a2b315af6768",
+			"xdb_url": "https://vulncheck.com/xdb/a2b315af6768",
+			"date_added": "2020-08-22T03:01:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:erfze/CVE-2017-0261.git"
+		},
+		{
+			"xdb_id": "60f2bb90aa34",
+			"xdb_url": "https://vulncheck.com/xdb/60f2bb90aa34",
+			"date_added": "2019-03-31T07:29:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kcufId/eps-CVE-2017-0261.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

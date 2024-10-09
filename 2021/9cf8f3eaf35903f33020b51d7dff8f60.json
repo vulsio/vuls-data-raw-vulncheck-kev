@@ -1,0 +1,24 @@
+{
+	"vendorProject": "Netis",
+	"product": "WF2419 Devices",
+	"shortDescription": "Netis WF2419 devices contains an unspecified vulnerability that allows an attacker to perform remote code execution as root through the router's web management page.",
+	"vulnerabilityName": "Netis WF2419 Devices Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-19356"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c0731b8ba0cb",
+			"xdb_url": "https://vulncheck.com/xdb/c0731b8ba0cb",
+			"date_added": "2019-12-12T11:01:23Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:shadowgatt/CVE-2019-19356.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

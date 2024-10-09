@@ -1,0 +1,101 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows CryptoAPI (Crypt32.dll) contains a spoofing vulnerability in the way it validates Elliptic Curve Cryptography (ECC) certificates. An attacker could exploit the vulnerability by using a spoofed code-signing certificate to sign a malicious executable, making it appear the file was from a trusted, legitimate source. A successful exploit could also allow the attacker to conduct man-in-the-middle attacks and decrypt confidential information on user connections to the affected software. The vulnerability is also known under the moniker of CurveBall.",
+	"vulnerabilityName": "Microsoft Windows CryptoAPI Spoofing Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0601"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "740afa3911a0",
+			"xdb_url": "https://vulncheck.com/xdb/740afa3911a0",
+			"date_added": "2021-01-17T11:53:28Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:okanulkr/CurveBall-CVE-2020-0601-PoC.git"
+		},
+		{
+			"xdb_id": "0766cc1abe5d",
+			"xdb_url": "https://vulncheck.com/xdb/0766cc1abe5d",
+			"date_added": "2024-05-16T12:32:44Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:JoelBts/CVE-2020-0601_PoC.git"
+		},
+		{
+			"xdb_id": "08bffaffbac2",
+			"xdb_url": "https://vulncheck.com/xdb/08bffaffbac2",
+			"date_added": "2020-01-19T18:20:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:IIICTECH/-CVE-2020-0601-ECC---EXPLOIT.git"
+		},
+		{
+			"xdb_id": "09c5af32c1d7",
+			"xdb_url": "https://vulncheck.com/xdb/09c5af32c1d7",
+			"date_added": "2020-02-06T21:46:31Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:david4599/CurveballCertTool.git"
+		},
+		{
+			"xdb_id": "6abcb18100dc",
+			"xdb_url": "https://vulncheck.com/xdb/6abcb18100dc",
+			"date_added": "2020-01-23T18:26:48Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Hans-MartinHannibalLauridsen/CurveBall.git"
+		},
+		{
+			"xdb_id": "6bc84901f00a",
+			"xdb_url": "https://vulncheck.com/xdb/6bc84901f00a",
+			"date_added": "2020-02-26T19:59:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bsides-rijeka/meetup-2-curveball.git"
+		},
+		{
+			"xdb_id": "839b9e7e2e93",
+			"xdb_url": "https://vulncheck.com/xdb/839b9e7e2e93",
+			"date_added": "2020-02-18T16:36:49Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:gremwell/cve-2020-0601_poc.git"
+		},
+		{
+			"xdb_id": "f3005b474479",
+			"xdb_url": "https://vulncheck.com/xdb/f3005b474479",
+			"date_added": "2020-01-29T01:59:43Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:amlweems/gringotts.git"
+		},
+		{
+			"xdb_id": "496d3fc0b8d0",
+			"xdb_url": "https://vulncheck.com/xdb/496d3fc0b8d0",
+			"date_added": "2020-02-03T13:58:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:yanghaoi/CVE-2020-0601.git"
+		},
+		{
+			"xdb_id": "2269fe47fe2f",
+			"xdb_url": "https://vulncheck.com/xdb/2269fe47fe2f",
+			"date_added": "2020-01-28T21:24:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ioncodes/Curveball.git"
+		},
+		{
+			"xdb_id": "1ab56e688532",
+			"xdb_url": "https://vulncheck.com/xdb/1ab56e688532",
+			"date_added": "2020-01-16T23:44:37Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:saleemrashid/badecparams.git"
+		},
+		{
+			"xdb_id": "cc5ed1f3625f",
+			"xdb_url": "https://vulncheck.com/xdb/cc5ed1f3625f",
+			"date_added": "2020-01-15T23:15:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kudelskisecurity/chainoffools.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2020-01-29T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

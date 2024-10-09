@@ -9,25 +9,8 @@
 		"CVE-2022-1096"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-03-28T00:00:00Z"
-		},
-		{
-			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
-			"date_added": "2022-03-23T00:00:00Z"
-		},
-		{
-			"url": "https://securelist.com/it-threat-evolution-in-q2-2022-non-mobile-statistics/107133/",
-			"date_added": "2022-08-15T00:00:00Z"
-		},
-		{
-			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
-			"date_added": "2023-01-17T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-04-18T00:00:00Z",
 	"cisa_date_added": "2022-03-28T00:00:00Z",
-	"date_added": "2022-03-23T00:00:00Z"
+	"date_added": "2022-03-28T00:00:00Z"
 }

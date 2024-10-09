@@ -1,0 +1,66 @@
+{
+	"vendorProject": "Progress",
+	"product": "Telerik UI for ASP.NET AJAX",
+	"shortDescription": "Progress Telerik UI for ASP.NET AJAX contains a deserialization of untrusted data vulnerability through RadAsyncUpload which leads to code execution on the server in the context of the w3wp.exe process.",
+	"vulnerabilityName": "Progress Telerik UI for ASP.NET AJAX Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-18935"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "dd4d5145d7fd",
+			"xdb_url": "https://vulncheck.com/xdb/dd4d5145d7fd",
+			"date_added": "2020-08-26T20:57:11Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:appliedi/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "6733f1b67fb2",
+			"xdb_url": "https://vulncheck.com/xdb/6733f1b67fb2",
+			"date_added": "2020-05-17T04:22:45Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:becrevex/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "569e3fec38c8",
+			"xdb_url": "https://vulncheck.com/xdb/569e3fec38c8",
+			"date_added": "2020-05-29T07:29:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThanHuuTuan/CVE_2019_18935.git"
+		},
+		{
+			"xdb_id": "dffdf06b5f8a",
+			"xdb_url": "https://vulncheck.com/xdb/dffdf06b5f8a",
+			"date_added": "2021-10-29T16:57:46Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:0xAgun/CVE-2019-18935-checker.git"
+		},
+		{
+			"xdb_id": "48d2eb3dee46",
+			"xdb_url": "https://vulncheck.com/xdb/48d2eb3dee46",
+			"date_added": "2020-05-25T08:37:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThanHuuTuan/Telerik_CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "8dc793fec147",
+			"xdb_url": "https://vulncheck.com/xdb/8dc793fec147",
+			"date_added": "2020-08-19T17:11:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:murataydemir/CVE-2019-18935.git"
+		},
+		{
+			"xdb_id": "de3ebe4e8ea8",
+			"xdb_url": "https://vulncheck.com/xdb/de3ebe4e8ea8",
+			"date_added": "2019-12-12T07:58:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:noperator/CVE-2019-18935.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Hewlett Packard (HP)",
+	"product": "OpenView Network Node Manager",
+	"shortDescription": "HP OpenView Network Node Manager could allow a remote attacker to execute arbitrary commands on the system.",
+	"vulnerabilityName": "HP OpenView Network Node Manager Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2005-2773"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2022-03-25T00:00:00Z"
+}

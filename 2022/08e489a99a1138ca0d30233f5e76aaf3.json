@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Use-after-free vulnerability in Microsoft Internet Explorer allows remote attackers to execute code.",
+	"vulnerabilityName": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0322"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-25T00:00:00Z",
+	"cisa_date_added": "2022-05-04T00:00:00Z",
+	"date_added": "2022-05-04T00:00:00Z"
+}

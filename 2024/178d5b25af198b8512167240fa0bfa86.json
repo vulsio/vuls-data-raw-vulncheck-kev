@@ -108,20 +108,7 @@
 			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2023-7028.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2024-05-01T00:00:00Z"
-		},
-		{
-			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/aktualnye-kiberugrozy-ii-kvartal-2024-goda/",
-			"date_added": "2024-08-22T00:00:00Z"
-		},
-		{
-			"url": "https://www.ptsecurity.com/ww-en/analytics/data-leaks-current-threats-for-companies-in-H1-2024/",
-			"date_added": "2024-09-02T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2024-05-22T00:00:00Z",
 	"cisa_date_added": "2024-05-01T00:00:00Z",
 	"date_added": "2024-05-01T00:00:00Z"

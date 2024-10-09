@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Nagios",
+	"product": "Nagios XI",
+	"shortDescription": "Nagios XI contains a vulnerability which can lead to OS command injection on the Nagios XI server.",
+	"vulnerabilityName": "Nagios XI OS Command Injection",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-25297"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-02-01T00:00:00Z",
+	"cisa_date_added": "2022-01-18T00:00:00Z",
+	"date_added": "2022-01-18T00:00:00Z"
+}

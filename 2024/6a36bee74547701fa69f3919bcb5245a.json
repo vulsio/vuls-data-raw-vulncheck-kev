@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "Multiple Products",
+	"shortDescription": "Fortinet FortiOS, FortiPAM, FortiProxy, and FortiWeb contain a format string vulnerability that allows a remote, unauthenticated attacker to execute arbitrary code or commands via specially crafted requests.",
+	"vulnerabilityName": "Fortinet Multiple Products Format String Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-23113"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-10-30T00:00:00Z",
+	"cisa_date_added": "2024-10-09T00:00:00Z",
+	"date_added": "2024-10-09T00:00:00Z"
+}

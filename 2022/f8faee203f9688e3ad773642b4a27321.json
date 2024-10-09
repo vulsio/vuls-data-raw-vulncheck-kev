@@ -1,0 +1,24 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 Engine contains an out-of-bounds write vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Out-of-Bounds Write Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-5825"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0b54c4eee1ca",
+			"xdb_url": "https://vulncheck.com/xdb/0b54c4eee1ca",
+			"date_added": "2019-11-23T11:35:34Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:timwr/CVE-2019-5825.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2022-06-08T00:00:00Z"
+}

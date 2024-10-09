@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "A use-after-free vulnerability exists within the ActionScript 3 ByteArray class in Adobe Flash Player that allows an attacker to perform remote code execution.",
+	"vulnerabilityName": "Adobe Flash Player Use-After-Free Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-5119"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5f97b5ae8b1d",
+			"xdb_url": "https://vulncheck.com/xdb/5f97b5ae8b1d",
+			"date_added": "2021-09-19T17:49:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Xattam1/Adobe-Flash-Exploits_17-18.git"
+		},
+		{
+			"xdb_id": "74176149f723",
+			"xdb_url": "https://vulncheck.com/xdb/74176149f723",
+			"date_added": "2015-09-10T10:10:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:CiscoCXSecurity/CVE-2015-5119_walkthrough.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

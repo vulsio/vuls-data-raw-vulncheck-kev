@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Realtek",
+	"product": "SDK",
+	"shortDescription": "Realtek SDK contains an improper input validation vulnerability in the miniigd SOAP service that allows remote attackers to execute malicious code via a crafted NewInternalClient request.",
+	"vulnerabilityName": "Realtek SDK Improper Input Validation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-8361"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2023-10-09T00:00:00Z",
+	"cisa_date_added": "2023-09-18T00:00:00Z",
+	"date_added": "2023-09-18T00:00:00Z"
+}

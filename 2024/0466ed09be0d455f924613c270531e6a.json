@@ -31,17 +31,8 @@
 			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-29360.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2024-02-29T00:00:00Z"
-		},
-		{
-			"url": "https://research.checkpoint.com/2024/raspberry-robin-keeps-riding-the-wave-of-endless-1-days/",
-			"date_added": "2024-02-07T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2024-03-21T00:00:00Z",
 	"cisa_date_added": "2024-02-29T00:00:00Z",
-	"date_added": "2024-02-07T00:00:00Z"
+	"date_added": "2024-02-29T00:00:00Z"
 }

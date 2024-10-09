@@ -1,0 +1,52 @@
+{
+	"vendorProject": "GIGABYTE",
+	"product": "Multiple Products",
+	"shortDescription": "The GDrv low-level driver in GIGABYTE App Center, AORUS Graphics Engine, XTREME Gaming Engine, and OC GURU II exposes ring0 memcpy-like functionality that could allow a local attacker to take complete control of the affected system.",
+	"vulnerabilityName": "GIGABYTE Multiple Products Unspecified Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-19320"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "67260af694d3",
+			"xdb_url": "https://vulncheck.com/xdb/67260af694d3",
+			"date_added": "2023-01-01T13:50:39Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:houseofxyz/CVE-2018-19320.git"
+		},
+		{
+			"xdb_id": "4f8e6de8a87f",
+			"xdb_url": "https://vulncheck.com/xdb/4f8e6de8a87f",
+			"date_added": "2023-11-21T21:28:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ss256100/CVE-2018-19320.git"
+		},
+		{
+			"xdb_id": "9f7285db8cd7",
+			"xdb_url": "https://vulncheck.com/xdb/9f7285db8cd7",
+			"date_added": "2020-04-13T11:34:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ASkyeye/CVE-2018-19320.git"
+		},
+		{
+			"xdb_id": "60a5b5fb8d11",
+			"xdb_url": "https://vulncheck.com/xdb/60a5b5fb8d11",
+			"date_added": "2021-08-19T16:43:52Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hmnthabit/CVE-2018-19320-LPE.git"
+		},
+		{
+			"xdb_id": "30b1dd7f2714",
+			"xdb_url": "https://vulncheck.com/xdb/30b1dd7f2714",
+			"date_added": "2022-11-12T05:48:13Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:zer0condition/GDRVLoader.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-11-14T00:00:00Z",
+	"cisa_date_added": "2022-10-24T00:00:00Z",
+	"date_added": "2022-10-24T00:00:00Z"
+}

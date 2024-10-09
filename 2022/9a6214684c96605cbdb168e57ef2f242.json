@@ -24,20 +24,7 @@
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2016-2386.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-06-09T00:00:00Z"
-		},
-		{
-			"url": "https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs",
-			"date_added": "2022-06-09T00:00:00Z"
-		},
-		{
-			"url": "https://www.csoonline.com/article/2092336/sap-users-are-at-high-risk-as-hackers-exploit-application-vulnerabilities.html",
-			"date_added": "2024-04-17T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-06-30T00:00:00Z",
 	"cisa_date_added": "2022-06-09T00:00:00Z",
 	"date_added": "2022-06-09T00:00:00Z"

@@ -1,0 +1,38 @@
+{
+	"vendorProject": "Pi-hole",
+	"product": "AdminLTE",
+	"shortDescription": "Pi-hole Web v4.3.2 (aka AdminLTE) allows Remote Code Execution by privileged dashboard users via a crafted DHCP static lease.",
+	"vulnerabilityName": "Pi-Hole AdminLTE Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-8816"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d538eb462f37",
+			"xdb_url": "https://vulncheck.com/xdb/d538eb462f37",
+			"date_added": "2020-08-04T10:23:28Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:cybervaca/CVE-2020-8816.git"
+		},
+		{
+			"xdb_id": "2ea27aaa590f",
+			"xdb_url": "https://vulncheck.com/xdb/2ea27aaa590f",
+			"date_added": "2020-08-06T14:04:54Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:team0se7en/CVE-2020-8816.git"
+		},
+		{
+			"xdb_id": "b5bf7ad01990",
+			"xdb_url": "https://vulncheck.com/xdb/b5bf7ad01990",
+			"date_added": "2020-05-10T01:12:28Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:AndreyRainchik/CVE-2020-8816.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-10T00:00:00Z",
+	"cisa_date_added": "2021-12-10T00:00:00Z",
+	"date_added": "2021-12-10T00:00:00Z"
+}

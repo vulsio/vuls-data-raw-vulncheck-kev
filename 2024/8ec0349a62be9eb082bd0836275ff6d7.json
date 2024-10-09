@@ -94,20 +94,7 @@
 			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2023-27524.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2024-01-08T00:00:00Z"
-		},
-		{
-			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
-			"date_added": "2024-01-08T00:00:00Z"
-		},
-		{
-			"url": "https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/",
-			"date_added": "2024-02-06T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2024-01-29T00:00:00Z",
 	"cisa_date_added": "2024-01-08T00:00:00Z",
 	"date_added": "2024-01-08T00:00:00Z"

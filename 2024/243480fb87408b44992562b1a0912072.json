@@ -24,49 +24,8 @@
 			"clone_ssh_url": "git@github.com:YongYe-Security/CVE-2024-32113.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2024-08-07T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-06-14T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-26&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-07-26T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-27&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-07-27T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-28&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-07-28T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-31&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-07-31T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-08-07T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-09-12T00:00:00Z"
-		},
-		{
-			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-13&host_type=src&vulnerability=cve-2024-32113",
-			"date_added": "2024-09-13T00:00:00Z"
-		},
-		{
-			"url": "https://isc.sans.edu/diary/Increased+Activity+Against+Apache+OFBiz+CVE202432113/31132",
-			"date_added": "2024-07-31T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2024-08-28T00:00:00Z",
 	"cisa_date_added": "2024-08-07T00:00:00Z",
-	"date_added": "2024-06-14T00:00:00Z"
+	"date_added": "2024-08-07T00:00:00Z"
 }

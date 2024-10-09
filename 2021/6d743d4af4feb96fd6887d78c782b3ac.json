@@ -1,0 +1,94 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-1732"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "56a692bca459",
+			"xdb_url": "https://vulncheck.com/xdb/56a692bca459",
+			"date_added": "2022-11-01T13:06:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:fenalik/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "ad30ecfc7a8d",
+			"xdb_url": "https://vulncheck.com/xdb/ad30ecfc7a8d",
+			"date_added": "2023-07-11T09:29:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "aa79b6239935",
+			"xdb_url": "https://vulncheck.com/xdb/aa79b6239935",
+			"date_added": "2023-03-09T07:14:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:4dp/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "24031c7c7e8e",
+			"xdb_url": "https://vulncheck.com/xdb/24031c7c7e8e",
+			"date_added": "2022-02-15T16:55:31Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:r1l4-i3pur1l4/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "d37c0a9bd997",
+			"xdb_url": "https://vulncheck.com/xdb/d37c0a9bd997",
+			"date_added": "2021-04-23T08:21:54Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Pai-Po/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "61d86c73450a",
+			"xdb_url": "https://vulncheck.com/xdb/61d86c73450a",
+			"date_added": "2021-03-08T05:07:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:k-k-k-k-k/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "bd64b5ebe182",
+			"xdb_url": "https://vulncheck.com/xdb/bd64b5ebe182",
+			"date_added": "2021-04-25T12:55:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "f72c131deebb",
+			"xdb_url": "https://vulncheck.com/xdb/f72c131deebb",
+			"date_added": "2021-03-05T02:11:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2021-1732-Exploit.git"
+		},
+		{
+			"xdb_id": "09740e97aa0d",
+			"xdb_url": "https://vulncheck.com/xdb/09740e97aa0d",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "de8ed17d1f87",
+			"xdb_url": "https://vulncheck.com/xdb/de8ed17d1f87",
+			"date_added": "2021-04-21T19:12:32+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:paipo/cve-2021-1732.git"
+		},
+		{
+			"xdb_id": "18e0b48f69bd",
+			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
+			"date_added": "2021-05-02T18:10:21+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2021-11-17T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

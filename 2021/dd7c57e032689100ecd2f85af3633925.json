@@ -17,20 +17,7 @@
 			"clone_ssh_url": "git@github.com:JiaJinRong12138/CVE-2021-36955-EXP.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://mp.weixin.qq.com/s?__biz=Mzg2NjgzNjA5NQ==&mid=2247514973&idx=2&sn=0776f8f83c032c4d7433a567270a7ee1&source=41#wechat_redirect",
-			"date_added": "2022-06-13T00:00:00Z"
-		},
-		{
-			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
-			"date_added": "2024-07-25T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2021-11-17T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
 	"date_added": "2021-11-03T00:00:00Z"

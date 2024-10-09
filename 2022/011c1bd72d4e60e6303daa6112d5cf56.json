@@ -1,0 +1,24 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "A stack-based buffer overflow vulnerability exists in the parsing of RTF data in Microsoft Office and earlier allows an attacker to perform remote code execution.",
+	"vulnerabilityName": "Microsoft Office Stack-based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3333"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b335e249d55f",
+			"xdb_url": "https://vulncheck.com/xdb/b335e249d55f",
+			"date_added": "2022-08-15T06:54:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2010-3333-reproduction.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2022-03-03T00:00:00Z"
+}

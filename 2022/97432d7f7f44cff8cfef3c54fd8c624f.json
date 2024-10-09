@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Stack-based buffer overflow in the RtlQueryRegistryValues function in win32k.sys in Microsoft Windows allows local users to gain privileges, and bypass the User Account Control (UAC) feature.",
+	"vulnerabilityName": "Microsoft Windows Kernel Stack-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-4398"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-04-21T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2022-03-28T00:00:00Z"
+}

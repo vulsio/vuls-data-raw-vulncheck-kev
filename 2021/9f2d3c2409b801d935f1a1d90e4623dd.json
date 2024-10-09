@@ -115,18 +115,18 @@
 			"clone_ssh_url": "git@github.com:lockedbyte/CVE-2021-40444.git"
 		},
 		{
-			"xdb_id": "8bc0a3fef89c",
-			"xdb_url": "https://vulncheck.com/xdb/8bc0a3fef89c",
-			"date_added": "2021-10-04T05:01:03+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444_1.git"
-		},
-		{
 			"xdb_id": "488dd6b83a3a",
 			"xdb_url": "https://vulncheck.com/xdb/488dd6b83a3a",
 			"date_added": "2021-10-08T15:46:41+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:xiaocainiao149/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "8bc0a3fef89c",
+			"xdb_url": "https://vulncheck.com/xdb/8bc0a3fef89c",
+			"date_added": "2021-10-04T05:01:03+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444_1.git"
 		},
 		{
 			"xdb_id": "834486323132",
@@ -164,137 +164,8 @@
 			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-40444.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
-			"date_added": "2021-09-14T00:00:00Z"
-		},
-		{
-			"url": "https://api.msrc.microsoft.com/cvrf/2021-Sep?api-version=2020",
-			"date_added": "2021-09-07T00:00:00Z"
-		},
-		{
-			"url": "https://assets.sophos.com/X24WTUEQ/at/b5n9ntjqmbkb8fg5rn25g4fc/sophos-2023-threat-report.pdf",
-			"date_added": "2022-11-16T00:00:00Z"
-		},
-		{
-			"url": "https://www.fortinet.com/blog/threat-research/lokibot-targets-microsoft-office-document-using-vulnerabilities-and-macros",
-			"date_added": "2023-07-12T00:00:00Z"
-		},
-		{
-			"url": "https://www.microsoft.com/security/blog/2021/09/15/analyzing-attacks-that-exploit-the-mshtml-cve-2021-40444-vulnerability/",
-			"date_added": "2021-09-15T00:00:00Z"
-		},
-		{
-			"url": "https://www.riskiq.com/blog/external-threat-management/wizard-spider-windows-0day-exploit/",
-			"date_added": "2021-09-15T00:00:00Z"
-		},
-		{
-			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
-			"date_added": "2022-01-26T00:00:00Z"
-		},
-		{
-			"url": "https://blog.google/threat-analysis-group/exposing-initial-access-broker-ties-conti/",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
-			"date_added": "2022-03-24T00:00:00Z"
-		},
-		{
-			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
-			"date_added": "2022-06-22T00:00:00Z"
-		},
-		{
-			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://www.microsoft.com/en-us/security/blog/2021/09/15/analyzing-attacks-that-exploit-the-mshtml-cve-2021-40444-vulnerability/",
-			"date_added": "2021-09-15T00:00:00Z"
-		},
-		{
-			"url": "https://www.trellix.com/en-gb/about/newsroom/stories/research/prime-ministers-office-compromised.html",
-			"date_added": "2022-01-25T00:00:00Z"
-		},
-		{
-			"url": "https://www.prevailion.com/what-wicked-webs-we-unweave/",
-			"date_added": "2022-03-15T00:00:00Z"
-		},
-		{
-			"url": "https://blog.malwarebytes.com/threat-intelligence/2022/03/new-spear-phishing-campaign-targets-russian-dissidents/",
-			"date_added": "2022-03-29T00:00:00Z"
-		},
-		{
-			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-annex-download.pdf",
-			"date_added": "2022-04-26T00:00:00Z"
-		},
-		{
-			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
-			"date_added": "2022-04-28T00:00:00Z"
-		},
-		{
-			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
-			"date_added": "2022-04-28T00:00:00Z"
-		},
-		{
-			"url": "https://www.prodaft.com/m/reports/WizardSpider_TLPWHITE_v.1.4.pdf",
-			"date_added": "2022-05-16T00:00:00Z"
-		},
-		{
-			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-216a",
-			"date_added": "2022-08-25T00:00:00Z"
-		},
-		{
-			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
-			"date_added": "2023-01-17T00:00:00Z"
-		},
-		{
-			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
-			"date_added": "2021-11-03T00:00:00Z"
-		},
-		{
-			"url": "https://contagiodump.blogspot.com/2023/02/malware-arsenal-used-by-ember-bear-aka.html",
-			"date_added": "2023-02-18T00:00:00Z"
-		},
-		{
-			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/dark-river-you-can-t-see-them-but-they-re-there/",
-			"date_added": "2023-09-27T00:00:00Z"
-		},
-		{
-			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
-			"date_added": "2024-04-04T00:00:00Z"
-		},
-		{
-			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/graph-api-threats",
-			"date_added": "2024-05-02T00:00:00Z"
-		},
-		{
-			"url": "https://www.cyfirma.com/research/apt-profile-mustang-panda/",
-			"date_added": "2024-06-06T00:00:00Z"
-		},
-		{
-			"url": "https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems",
-			"date_added": "2024-06-27T00:00:00Z"
-		},
-		{
-			"url": "https://research.checkpoint.com/2024/resurrecting-internet-explorer-threat-actors-using-zero-day-tricks-in-internet-shortcut-file-to-lure-victims-cve-2024-38112/",
-			"date_added": "2024-07-09T00:00:00Z"
-		},
-		{
-			"url": "https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html",
-			"date_added": "2024-07-15T00:00:00Z"
-		},
-		{
-			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
-			"date_added": "2024-08-21T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2021-11-17T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2021-09-07T00:00:00Z"
+	"date_added": "2021-11-03T00:00:00Z"
 }

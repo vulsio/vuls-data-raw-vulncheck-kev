@@ -1,0 +1,255 @@
+{
+	"vendorProject": "GNU",
+	"product": "Bourne-Again Shell (Bash)",
+	"shortDescription": "GNU Bash through 4.3 processes trailing strings after function definitions in the values of environment variables, which allows remote attackers to execute code.",
+	"vulnerabilityName": "GNU Bourne-Again Shell (Bash) Arbitrary Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-6271"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "8d2b021f02a5",
+			"xdb_url": "https://vulncheck.com/xdb/8d2b021f02a5",
+			"date_added": "2023-03-02T17:30:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mritunjay-k/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "7f347ea4e4c6",
+			"xdb_url": "https://vulncheck.com/xdb/7f347ea4e4c6",
+			"date_added": "2022-02-21T22:53:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hadrian3689/shellshock.git"
+		},
+		{
+			"xdb_id": "9550fc6e89ed",
+			"xdb_url": "https://vulncheck.com/xdb/9550fc6e89ed",
+			"date_added": "2023-03-25T05:32:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Brandaoo/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "6af12f28ca11",
+			"xdb_url": "https://vulncheck.com/xdb/6af12f28ca11",
+			"date_added": "2023-05-10T12:10:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:17moonup/CVE.git"
+		},
+		{
+			"xdb_id": "b572ab83cdb5",
+			"xdb_url": "https://vulncheck.com/xdb/b572ab83cdb5",
+			"date_added": "2022-09-09T10:44:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-.git"
+		},
+		{
+			"xdb_id": "909ab6e757c3",
+			"xdb_url": "https://vulncheck.com/xdb/909ab6e757c3",
+			"date_added": "2023-09-14T10:45:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xTabun/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "b6fa067a48a7",
+			"xdb_url": "https://vulncheck.com/xdb/b6fa067a48a7",
+			"date_added": "2014-10-03T16:22:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:indiandragon/Shellshock-Vulnerability-Scan.git"
+		},
+		{
+			"xdb_id": "e8cd174acc84",
+			"xdb_url": "https://vulncheck.com/xdb/e8cd174acc84",
+			"date_added": "2017-04-30T19:47:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zalalov/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "1b15435d492f",
+			"xdb_url": "https://vulncheck.com/xdb/1b15435d492f",
+			"date_added": "2023-04-03T15:44:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:l0veormiss/l0veormiss.github.io.git"
+		},
+		{
+			"xdb_id": "eb9720b691f3",
+			"xdb_url": "https://vulncheck.com/xdb/eb9720b691f3",
+			"date_added": "2023-10-31T06:48:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xN7y/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "990c93705921",
+			"xdb_url": "https://vulncheck.com/xdb/990c93705921",
+			"date_added": "2017-11-23T14:45:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "fbb4b4bb3ced",
+			"xdb_url": "https://vulncheck.com/xdb/fbb4b4bb3ced",
+			"date_added": "2017-10-17T09:04:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:heikipikker/shellshock-shell.git"
+		},
+		{
+			"xdb_id": "2ffa4dfd961a",
+			"xdb_url": "https://vulncheck.com/xdb/2ffa4dfd961a",
+			"date_added": "2022-06-23T19:42:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Gurguii/cgi-bin-shellshock.git"
+		},
+		{
+			"xdb_id": "7d27c175981c",
+			"xdb_url": "https://vulncheck.com/xdb/7d27c175981c",
+			"date_added": "2022-04-09T21:24:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xConstant/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "7deee0fd9dee",
+			"xdb_url": "https://vulncheck.com/xdb/7deee0fd9dee",
+			"date_added": "2014-09-25T02:15:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:scottjpack/shellshock_scanner.git"
+		},
+		{
+			"xdb_id": "0c87a5624456",
+			"xdb_url": "https://vulncheck.com/xdb/0c87a5624456",
+			"date_added": "2014-09-28T04:08:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:francisck/shellshock-cgi.git"
+		},
+		{
+			"xdb_id": "ea7dfb5a79c0",
+			"xdb_url": "https://vulncheck.com/xdb/ea7dfb5a79c0",
+			"date_added": "2024-05-10T08:13:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ajansha/shellshock.git"
+		},
+		{
+			"xdb_id": "6eefe54f4c54",
+			"xdb_url": "https://vulncheck.com/xdb/6eefe54f4c54",
+			"date_added": "2023-12-13T20:43:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MY7H404/CVE-2014-6271-Shellshock.git"
+		},
+		{
+			"xdb_id": "771d67861982",
+			"xdb_url": "https://vulncheck.com/xdb/771d67861982",
+			"date_added": "2024-02-04T18:19:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AlissonFaoli/Shellshock.git"
+		},
+		{
+			"xdb_id": "1b466fc06fc0",
+			"xdb_url": "https://vulncheck.com/xdb/1b466fc06fc0",
+			"date_added": "2015-06-26T23:34:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:P0cL4bs/ShellShock-CGI-Scan.git"
+		},
+		{
+			"xdb_id": "18c86f55b23d",
+			"xdb_url": "https://vulncheck.com/xdb/18c86f55b23d",
+			"date_added": "2020-11-12T04:12:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MuirlandOracle/CVE-2014-6271-IPFire.git"
+		},
+		{
+			"xdb_id": "89cf85aa3c3d",
+			"xdb_url": "https://vulncheck.com/xdb/89cf85aa3c3d",
+			"date_added": "2024-05-18T19:42:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2014-6271-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "37913b9c97af",
+			"xdb_url": "https://vulncheck.com/xdb/37913b9c97af",
+			"date_added": "2024-07-14T06:19:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TheRealCiscoo/Shellshock-Exploit.git"
+		},
+		{
+			"xdb_id": "87352658799b",
+			"xdb_url": "https://vulncheck.com/xdb/87352658799b",
+			"date_added": "2023-07-01T03:50:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Jsmoreira02/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "462fc384771e",
+			"xdb_url": "https://vulncheck.com/xdb/462fc384771e",
+			"date_added": "2021-01-24T18:47:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:darrenmartyn/VisualDoor.git"
+		},
+		{
+			"xdb_id": "4b6744519444",
+			"xdb_url": "https://vulncheck.com/xdb/4b6744519444",
+			"date_added": "2022-04-02T07:30:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:akr3ch/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "fa1741b5fe55",
+			"xdb_url": "https://vulncheck.com/xdb/fa1741b5fe55",
+			"date_added": "2021-07-29T04:51:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:b4keSn4ke/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "b4b5de984e30",
+			"xdb_url": "https://vulncheck.com/xdb/b4b5de984e30",
+			"date_added": "2016-12-07T23:38:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "177e5ecfe706",
+			"xdb_url": "https://vulncheck.com/xdb/177e5ecfe706",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "91302a8a527c",
+			"xdb_url": "https://vulncheck.com/xdb/91302a8a527c",
+			"date_added": "2020-09-11T15:43:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-android.git"
+		},
+		{
+			"xdb_id": "137b7b5051c2",
+			"xdb_url": "https://vulncheck.com/xdb/137b7b5051c2",
+			"date_added": "2021-09-28T11:09:31+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:Draycen/shellshock_scanner.git"
+		},
+		{
+			"xdb_id": "e57812c06caf",
+			"xdb_url": "https://vulncheck.com/xdb/e57812c06caf",
+			"date_added": "2020-09-11T15:43:16+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
+		},
+		{
+			"xdb_id": "f04bc714ad93",
+			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
+			"date_added": "2020-08-18T23:57:19+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
+		},
+		{
+			"xdb_id": "3af8913bb29e",
+			"xdb_url": "https://vulncheck.com/xdb/3af8913bb29e",
+			"date_added": "2020-09-11T15:43:07+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-python.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-07-28T00:00:00Z",
+	"cisa_date_added": "2022-01-28T00:00:00Z",
+	"date_added": "2022-01-28T00:00:00Z"
+}

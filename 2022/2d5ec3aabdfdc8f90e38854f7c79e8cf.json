@@ -17,20 +17,7 @@
 			"clone_ssh_url": "git@github.com:JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [
-		{
-			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
-			"date_added": "2022-08-25T00:00:00Z"
-		},
-		{
-			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
-			"date_added": "2023-02-14T00:00:00Z"
-		},
-		{
-			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/2024_Trustwave_Public_Sector_Threat_Landscape.pdf",
-			"date_added": "2024-05-14T00:00:00Z"
-		}
-	],
+	"vulncheck_reported_exploitation": [],
 	"dueDate": "2022-09-15T00:00:00Z",
 	"cisa_date_added": "2022-08-25T00:00:00Z",
 	"date_added": "2022-08-25T00:00:00Z"

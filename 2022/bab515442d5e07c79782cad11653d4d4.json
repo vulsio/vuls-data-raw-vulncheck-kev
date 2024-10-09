@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+	"shortDescription": "A buffer overflow vulnerability in the Simple Network Management Protocol (SNMP) code of Cisco ASA software could allow an attacker to cause a reload of the affected system or to remotely execute code.",
+	"vulnerabilityName": "Cisco Adaptive Security Appliance (ASA) SNMP Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-6366"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4d9d31fa7b9e",
+			"xdb_url": "https://vulncheck.com/xdb/4d9d31fa7b9e",
+			"date_added": "2016-09-20T23:19:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:RiskSense-Ops/CVE-2016-6366.git"
+		},
+		{
+			"xdb_id": "b78b17da0cfd",
+			"xdb_url": "https://vulncheck.com/xdb/b78b17da0cfd",
+			"date_added": "2023-09-08T09:54:33+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_RiskSense-Ops/CVE-2016-6366.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2022-05-24T00:00:00Z"
+}

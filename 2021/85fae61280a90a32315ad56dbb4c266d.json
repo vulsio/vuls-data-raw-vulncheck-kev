@@ -1,0 +1,80 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS",
+	"shortDescription": "Fortinet FortiOS SSL VPN web portal contains a path traversal vulnerability that may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests.",
+	"vulnerabilityName": "Fortinet FortiOS SSL VPN Path Traversal Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-13379"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "3a05ce486979",
+			"xdb_url": "https://vulncheck.com/xdb/3a05ce486979",
+			"date_added": "2019-10-14T04:09:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Blazz3/cve2018-13379-nmap-script.git"
+		},
+		{
+			"xdb_id": "8fb0631d9c5b",
+			"xdb_url": "https://vulncheck.com/xdb/8fb0631d9c5b",
+			"date_added": "2020-09-17T18:00:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pwn3z/CVE-2018-13379-FortinetVPN.git"
+		},
+		{
+			"xdb_id": "3fddec329111",
+			"xdb_url": "https://vulncheck.com/xdb/3fddec329111",
+			"date_added": "2019-08-18T19:24:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jpiechowka/at-doom-fortigate.git"
+		},
+		{
+			"xdb_id": "c0c18041153d",
+			"xdb_url": "https://vulncheck.com/xdb/c0c18041153d",
+			"date_added": "2020-05-18T01:37:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:yukar1z0e/CVE-2018-13379.git"
+		},
+		{
+			"xdb_id": "2a7ceeb9e031",
+			"xdb_url": "https://vulncheck.com/xdb/2a7ceeb9e031",
+			"date_added": "2020-11-19T21:22:25Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:k4nfr3/CVE-2018-13379-Fortinet.git"
+		},
+		{
+			"xdb_id": "efee6a4d87ee",
+			"xdb_url": "https://vulncheck.com/xdb/efee6a4d87ee",
+			"date_added": "2019-09-24T08:49:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xHunter/FortiOS-Credentials-Disclosure.git"
+		},
+		{
+			"xdb_id": "f3cfffdc4419",
+			"xdb_url": "https://vulncheck.com/xdb/f3cfffdc4419",
+			"date_added": "2020-11-30T08:39:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zeop-CyberSec/fortios_vpnssl_traversal_leak.git"
+		},
+		{
+			"xdb_id": "beecdbe5f919",
+			"xdb_url": "https://vulncheck.com/xdb/beecdbe5f919",
+			"date_added": "2019-08-11T09:44:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:milo2012/CVE-2018-13379.git"
+		},
+		{
+			"xdb_id": "166599b1677b",
+			"xdb_url": "https://vulncheck.com/xdb/166599b1677b",
+			"date_added": "2020-12-14T12:17:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:B1anda0/CVE-2018-13379.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2021-11-03T00:00:00Z"
+}

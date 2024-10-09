@@ -1,0 +1,115 @@
+{
+	"vendorProject": "Hikvision",
+	"product": "Security cameras web server",
+	"shortDescription": "A command injection vulnerability in the web server of some Hikvision product. Due to the insufficient input validation.",
+	"vulnerabilityName": "Hikvision Improper Input Validation",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-36260"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c76858fa2655",
+			"xdb_url": "https://vulncheck.com/xdb/c76858fa2655",
+			"date_added": "2023-07-18T01:01:25Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:hheeyywweellccoommee/hikvision_brute-jnrxx.git"
+		},
+		{
+			"xdb_id": "3b4ddeccb73c",
+			"xdb_url": "https://vulncheck.com/xdb/3b4ddeccb73c",
+			"date_added": "2022-08-29T15:21:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TakenoSite/Simple-CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "fb357a667b00",
+			"xdb_url": "https://vulncheck.com/xdb/fb357a667b00",
+			"date_added": "2023-10-22T14:09:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:haingn/HIK-CVE-2021-36260-Exploit.git"
+		},
+		{
+			"xdb_id": "36b538d97c5f",
+			"xdb_url": "https://vulncheck.com/xdb/36b538d97c5f",
+			"date_added": "2023-07-18T00:31:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r3t4k3r/hikvision_brute.git"
+		},
+		{
+			"xdb_id": "571b3021541a",
+			"xdb_url": "https://vulncheck.com/xdb/571b3021541a",
+			"date_added": "2023-06-12T00:51:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:idssgmcc/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "6e02def98dc1",
+			"xdb_url": "https://vulncheck.com/xdb/6e02def98dc1",
+			"date_added": "2021-11-03T08:11:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TaroballzChen/CVE-2021-36260-metasploit.git"
+		},
+		{
+			"xdb_id": "3d6450b00d2f",
+			"xdb_url": "https://vulncheck.com/xdb/3d6450b00d2f",
+			"date_added": "2021-12-13T09:23:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:tuntin9x/CheckHKRCE.git"
+		},
+		{
+			"xdb_id": "c7787c78e609",
+			"xdb_url": "https://vulncheck.com/xdb/c7787c78e609",
+			"date_added": "2022-08-03T17:27:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Cuerz/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "ebbc2b573edd",
+			"xdb_url": "https://vulncheck.com/xdb/ebbc2b573edd",
+			"date_added": "2021-10-27T15:51:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Aiminsun/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "92d32617ecdc",
+			"xdb_url": "https://vulncheck.com/xdb/92d32617ecdc",
+			"date_added": "2021-10-18T06:40:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rabbitsafe/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "9622e9da156e",
+			"xdb_url": "https://vulncheck.com/xdb/9622e9da156e",
+			"date_added": "2021-12-08T02:51:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "df0fc9bf195c",
+			"xdb_url": "https://vulncheck.com/xdb/df0fc9bf195c",
+			"date_added": "2022-08-04T12:23:33+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
+		},
+		{
+			"xdb_id": "b03efde8723d",
+			"xdb_url": "https://vulncheck.com/xdb/b03efde8723d",
+			"date_added": "2021-12-25T11:34:20+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-36260-metasploit.git"
+		},
+		{
+			"xdb_id": "bff72b5d73fa",
+			"xdb_url": "https://vulncheck.com/xdb/bff72b5d73fa",
+			"date_added": "2023-11-01T23:26:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:Iwtbby/CVE-2021-36260.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-01-24T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2022-01-10T00:00:00Z"
+}

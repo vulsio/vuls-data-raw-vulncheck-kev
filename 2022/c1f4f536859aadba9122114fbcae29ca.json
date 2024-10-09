@@ -1,0 +1,24 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Unspecified vulnerability in Adobe Flash Player allows remote attackers to execute code.",
+	"vulnerabilityName": "Adobe Flash Player Remote Code Execution Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-0311"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "48142db4596a",
+			"xdb_url": "https://vulncheck.com/xdb/48142db4596a",
+			"date_added": "2022-05-07T21:08:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jr64/CVE-2015-0311.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2022-05-04T00:00:00Z",
+	"cisa_date_added": "2022-04-13T00:00:00Z",
+	"date_added": "2022-04-13T00:00:00Z"
+}
