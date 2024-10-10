@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:wiredaem0n/chk-ms15-034.git"
 		},
 		{
-			"xdb_id": "01709a35de4a",
-			"xdb_url": "https://vulncheck.com/xdb/01709a35de4a",
-			"date_added": "2021-07-12T00:23:30Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:N3rdyN3xus/CVE-2015-1635-POC.git"
-		},
-		{
 			"xdb_id": "df55a69b1021",
 			"xdb_url": "https://vulncheck.com/xdb/df55a69b1021",
 			"date_added": "2018-08-02T11:28:14Z",
@@ -78,6 +71,13 @@
 			"date_added": "2021-07-12T00:37:54Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:N3rdyN3xus/CVE-2015-1635.git"
+		},
+		{
+			"xdb_id": "3de61e4e1dad",
+			"xdb_url": "https://vulncheck.com/xdb/3de61e4e1dad",
+			"date_added": "2021-07-12T00:23:30Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:NyxByt3/CVE-2015-1635-POC.git"
 		},
 		{
 			"xdb_id": "640f8e881740",

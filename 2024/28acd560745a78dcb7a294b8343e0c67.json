@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "dir-816_firmware",
+	"shortDescription": "An issue was discovered in D-Link DIR-816 DIR-816A2_FWv1.10CNB05_R1B011D88210 The HTTP request parameter is used in the handler function of /goform/form2userconfig.cgi route, which can construct the user name string to delete the user function. This can lead to command injection through shell metacharacters.",
+	"vulnerabilityName": "D-Link dir-816_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-39509"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-09&host_type=src&vulnerability=cve-2021-39509",
+			"date_added": "2024-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-09T00:00:00Z"
+}

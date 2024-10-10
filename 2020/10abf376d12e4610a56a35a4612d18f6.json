@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "de51fcf4903b",
-			"xdb_url": "https://vulncheck.com/xdb/de51fcf4903b",
-			"date_added": "2019-02-15T05:59:24Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:adamyordan/cve-2019-1003000-jenkins-rce-poc.git"
-		},
-		{
 			"xdb_id": "c796372de90d",
 			"xdb_url": "https://vulncheck.com/xdb/c796372de90d",
 			"date_added": "2019-04-24T23:52:42Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:1NTheKut/CVE-2019-1003000_RCE-DETECTION.git"
+		},
+		{
+			"xdb_id": "de51fcf4903b",
+			"xdb_url": "https://vulncheck.com/xdb/de51fcf4903b",
+			"date_added": "2019-02-15T05:59:24Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:adamyordan/cve-2019-1003000-jenkins-rce-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

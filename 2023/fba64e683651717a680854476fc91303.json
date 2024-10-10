@@ -318,13 +318,6 @@
 			"clone_ssh_url": "git@github.com:Aureum01/CVE-2023-23752.git"
 		},
 		{
-			"xdb_id": "f8f3ec59a630",
-			"xdb_url": "https://vulncheck.com/xdb/f8f3ec59a630",
-			"date_added": "2024-05-04T18:44:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:N3rdyN3xus/CVE-2023-23752.git"
-		},
-		{
 			"xdb_id": "4567f3a2525d",
 			"xdb_url": "https://vulncheck.com/xdb/4567f3a2525d",
 			"date_added": "2023-03-07T12:32:17Z",
@@ -372,6 +365,13 @@
 			"date_added": "2023-03-24T11:50:16Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Acceis/exploit-CVE-2023-23752.git"
+		},
+		{
+			"xdb_id": "8b68f1278dcf",
+			"xdb_url": "https://vulncheck.com/xdb/8b68f1278dcf",
+			"date_added": "2024-05-04T18:44:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NyxByt3/CVE-2023-23752.git"
 		},
 		{
 			"xdb_id": "ce466865c2f6",
