@@ -988,6 +988,10 @@
 		{
 			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
 			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/-/media/Files/US/Reports/state%20of%20the%20threat/secureworks-state-of-the-threat-report-2024.ashx",
+			"date_added": "2023-10-31T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-11-21T00:00:00Z",

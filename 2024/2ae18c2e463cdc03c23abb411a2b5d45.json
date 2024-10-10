@@ -29,6 +29,10 @@
 		{
 			"url": "https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/amp/",
 			"date_added": "2024-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/microsoft-october-2024-patch-tuesday-addresses-117-cves-cve-2024-43572-cve-2024-43573",
+			"date_added": "2024-09-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-07T00:00:00Z",
