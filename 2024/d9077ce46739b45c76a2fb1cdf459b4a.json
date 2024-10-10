@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox/Firefox ESR",
+	"shortDescription": "An attacker was able to achieve code execution in the content process by exploiting a use-after-free in Animation timelines. We have had reports of this vulnerability being exploited in the wild. This vulnerability affects Firefox < 131.0.2, Firefox ESR < 128.3.1, and Firefox ESR < 115.16.1.",
+	"vulnerabilityName": "Mozilla Firefox Use-after-free in Animation Timeline Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9680"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-51/",
+			"date_added": "2024-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-09T00:00:00Z"
+}
