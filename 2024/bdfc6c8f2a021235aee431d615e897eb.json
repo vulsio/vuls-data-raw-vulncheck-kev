@@ -1,0 +1,97 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "HTTP Protocol Stack Remote Code Execution Vulnerability",
+	"vulnerabilityName": "HTTP Protocol Stack Remote Code Execution Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-21907"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9e5b11d4061d",
+			"xdb_url": "https://vulncheck.com/xdb/9e5b11d4061d",
+			"date_added": "2023-05-06T07:50:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:EzoomE/CVE-2022-21907-RCE.git"
+		},
+		{
+			"xdb_id": "d5f3de9489d0",
+			"xdb_url": "https://vulncheck.com/xdb/d5f3de9489d0",
+			"date_added": "2023-08-17T13:58:00Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "8d7c3f5c3e4c",
+			"xdb_url": "https://vulncheck.com/xdb/8d7c3f5c3e4c",
+			"date_added": "2023-12-09T22:26:49Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:kamal-marouane/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "2590a1a4a8ef",
+			"xdb_url": "https://vulncheck.com/xdb/2590a1a4a8ef",
+			"date_added": "2022-10-29T18:25:26Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Malwareman007/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "8444bab2f56f",
+			"xdb_url": "https://vulncheck.com/xdb/8444bab2f56f",
+			"date_added": "2022-01-23T14:25:12Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:michelep/CVE-2022-21907-Vulnerability-PoC.git"
+		},
+		{
+			"xdb_id": "86fb978ad867",
+			"xdb_url": "https://vulncheck.com/xdb/86fb978ad867",
+			"date_added": "2022-04-04T10:53:28Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:polakow/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "1306e5fc35fb",
+			"xdb_url": "https://vulncheck.com/xdb/1306e5fc35fb",
+			"date_added": "2022-01-17T02:28:50Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:ZZ-SOCMAP/CVE-2022-21907.git"
+		},
+		{
+			"xdb_id": "f31e1149e743",
+			"xdb_url": "https://vulncheck.com/xdb/f31e1149e743",
+			"date_added": "2022-01-17T15:42:37Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:p0dalirius/CVE-2022-21907-http.sys.git"
+		},
+		{
+			"xdb_id": "167adf17e68c",
+			"xdb_url": "https://vulncheck.com/xdb/167adf17e68c",
+			"date_added": "2022-11-22T09:10:36Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:0xmaximus/Home-Demolisher.git"
+		},
+		{
+			"xdb_id": "65a99dd97dd6",
+			"xdb_url": "https://vulncheck.com/xdb/65a99dd97dd6",
+			"date_added": "2022-08-25T21:07:15+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:lutixiaya/cve-2022-21907.git"
+		},
+		{
+			"xdb_id": "837d27449c0a",
+			"xdb_url": "https://vulncheck.com/xdb/837d27449c0a",
+			"date_added": "2022-01-17T17:14:47Z",
+			"exploit_type": "initial",
+			"clone_ssh_url": "git@gitlab.com:swarupsro/CVE-2022-21907.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
+			"date_added": "2024-05-07T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-07T00:00:00Z"
+}

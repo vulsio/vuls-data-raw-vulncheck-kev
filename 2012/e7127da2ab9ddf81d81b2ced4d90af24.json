@@ -1,0 +1,69 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "XML Core Services",
+	"shortDescription": "Microsoft XML Core Services contains a memory corruption vulnerability which could allow for remote code execution.",
+	"vulnerabilityName": "Microsoft XML Core Services Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-1889"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6d2b0550c86e",
+			"xdb_url": "https://vulncheck.com/xdb/6d2b0550c86e",
+			"date_added": "2016-09-25T06:31:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:whu-enjoy/CVE-2012-1889.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "http://www.cs.cornell.edu/courses/cs6410/2012fa/slides/Symantec_ElderwoodProject_2012.pdf",
+			"date_added": "2012-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2012/06/13/microsoft-releases-security-advisory-microsoft-xml-core-services",
+			"date_added": "2012-10-23T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2012/06/22/microsoft-xml-core-services-attack-activity",
+			"date_added": "2013-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
+			"date_added": "2013-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2013/hidden_lynx.pdf",
+			"date_added": "2013-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/hidden-lynx-analysis/",
+			"date_added": "2014-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2014/10/threat-spotlight-group-72.html",
+			"date_added": "2014-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://s7d2.scene7.com/is/content/cylance/prod/cylance-web/en-us/resources/knowledge-center/resource-library/reports/Op_Dust_Storm_Report.pdf",
+			"date_added": "2016-02-23T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-web-based-threats-2018-q2-u-s-remains-1-malicious-web-addresses-china-falls-2-7/",
+			"date_added": "2018-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2012-09-01T00:00:00Z"
+}

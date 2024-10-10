@@ -1,0 +1,125 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "A stack-based buffer overflow vulnerability exists in the parsing of RTF data in Microsoft Office and earlier allows an attacker to perform remote code execution.",
+	"vulnerabilityName": "Microsoft Office Stack-based Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3333"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b335e249d55f",
+			"xdb_url": "https://vulncheck.com/xdb/b335e249d55f",
+			"date_added": "2022-08-15T06:54:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Sunqiz/CVE-2010-3333-reproduction.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://documents.trendmicro.com/assets/wp/wp_luckycat_redux.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://1vx.ug/archive/Symantec/luckycat-hackers-12-en.pdf",
+			"date_added": "2012-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/red-october-diplomatic-cyber-attacks-investigation/36740/",
+			"date_added": "2013-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/adobe-flash-player-0-day-and-hackingteams-remote-control-system/64215/",
+			"date_added": "2013-02-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/new-uyghur-and-tibetan-themed-attacks-using-pdf-exploits/35465/",
+			"date_added": "2013-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/nettraveler-is-running-red-star-apt-attacks-compromise-high-profile-victims/35936/",
+			"date_added": "2013-06-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-pawn-storm.pdf",
+			"date_added": "2014-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-ke3chang.pdf",
+			"date_added": "2014-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2014/bcs_wp_InceptionReport_EN_v12914.pdf",
+			"date_added": "2014-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.paloaltonetworks.com/2014/12/proactive-prevention-revisited-cloud-atlas-inception-framework-campaigns/",
+			"date_added": "2014-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+			"date_added": "2015-05-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-tropic-trooper.pdf",
+			"date_added": "2015-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/scarlet-mimic-years-long-espionage-targets-minority-activists/",
+			"date_added": "2016-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/brochures/gib-buhtrap-report.pdf",
+			"date_added": "2016-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-projectm-link-found-between-pakistani-actor-and-operation-transparent-tribe/",
+			"date_added": "2016-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+			"date_added": "2017-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://nciipc.gov.in/documents/NCIIPC_Newsletter_July18.pdf",
+			"date_added": "2018-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/threat-actor-profile-transparenttribe/",
+			"date_added": "2024-04-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2012-01-01T00:00:00Z"
+}

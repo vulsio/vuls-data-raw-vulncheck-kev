@@ -1,0 +1,66 @@
+{
+	"vendorProject": "Apache",
+	"product": "struts",
+	"shortDescription": "An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.\nUsers are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or greater to fix this issue.\n",
+	"vulnerabilityName": "Apache struts Files or Directories Accessible to External Parties",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-50164"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "83f6fcc57b59",
+			"xdb_url": "https://vulncheck.com/xdb/83f6fcc57b59",
+			"date_added": "2023-12-30T21:37:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:snyk-labs/CVE-2023-50164-POC.git"
+		},
+		{
+			"xdb_id": "78854c0dc088",
+			"xdb_url": "https://vulncheck.com/xdb/78854c0dc088",
+			"date_added": "2024-04-16T16:20:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AsfandAliMemon25/CVE-2023-50164Analysis-.git"
+		},
+		{
+			"xdb_id": "2eedf38daab7",
+			"xdb_url": "https://vulncheck.com/xdb/2eedf38daab7",
+			"date_added": "2023-12-15T21:19:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-50164.git"
+		},
+		{
+			"xdb_id": "6b23f76ae74b",
+			"xdb_url": "https://vulncheck.com/xdb/6b23f76ae74b",
+			"date_added": "2023-12-17T14:18:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dwisiswant0/cve-2023-50164-poc.git"
+		},
+		{
+			"xdb_id": "891b149617f9",
+			"xdb_url": "https://vulncheck.com/xdb/891b149617f9",
+			"date_added": "2024-10-06T14:58:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NikitaPark/CVE-2023-50164-PoC.git"
+		},
+		{
+			"xdb_id": "17870a6362f9",
+			"xdb_url": "https://vulncheck.com/xdb/17870a6362f9",
+			"date_added": "2024-01-09T15:16:23Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:Hamdane10/cve-2023-50164.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/application-security-report-2024-update",
+			"date_added": "2024-07-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-31T00:00:00Z"
+}

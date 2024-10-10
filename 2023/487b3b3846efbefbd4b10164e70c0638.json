@@ -9,8 +9,21 @@
 		"CVE-2020-5741"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://arstechnica.com/information-technology/2023/02/lastpass-hackers-infected-employees-home-computer-and-stole-corporate-vault/",
+			"date_added": "2023-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-plex-bug-after-lastpass-breach/",
+			"date_added": "2023-03-11T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-03-31T00:00:00Z",
 	"cisa_date_added": "2023-03-10T00:00:00Z",
-	"date_added": "2023-03-10T00:00:00Z"
+	"date_added": "2023-02-27T00:00:00Z"
 }

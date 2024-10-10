@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "jenkins",
+	"shortDescription": "Jenkins versions 2.56 and earlier as well as 2.46.1 LTS and earlier are vulnerable to an unauthenticated remote code execution. An unauthenticated remote code execution vulnerability allowed attackers to transfer a serialized Java `SignedObject` object to the Jenkins CLI, that would be deserialized using a new `ObjectInputStream`, bypassing the existing blacklist-based protection mechanism. We're fixing this issue by adding `SignedObject` to the blacklist. We're also backporting the new HTTP CLI protocol from Jenkins 2.54 to LTS 2.46.2, and deprecating the remoting-based (i.e. Java serialization) CLI protocol, disabling it by default.",
+	"vulnerabilityName": "Jenkins jenkins Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-1000353"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "995894c2f1a6",
+			"xdb_url": "https://vulncheck.com/xdb/995894c2f1a6",
+			"date_added": "2021-06-30T15:44:15+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:lxonz/CVE-2017-1000353.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/new-jenkins-campaign-hides-malware--kills-competing-crypto-miner",
+			"date_added": "2018-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2018/12/cryptomining-campaigns-2018.html",
+			"date_added": "2018-12-18T00:00:00Z"
+		}
+	],
+	"date_added": "2018-07-07T00:00:00Z"
+}

@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "win32k.sys in the kernel-mode drivers in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows Server 2012, and Windows RT does not properly handle objects in memory, which allows local users to gain privileges via a crafted application, aka \"Win32k Memory Allocation Vulnerability.\"",
+	"vulnerabilityName": "Win32k Memory Allocation Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-1300"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "81561865ba6b",
+			"xdb_url": "https://vulncheck.com/xdb/81561865ba6b",
+			"date_added": "2013-09-09T14:20:57Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Meatballs1/cve-2013-1300.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2022-11-03T00:00:00Z"
+}

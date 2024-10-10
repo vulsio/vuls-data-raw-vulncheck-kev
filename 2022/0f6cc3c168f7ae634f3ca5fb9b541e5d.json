@@ -17,8 +17,37 @@
 			"clone_ssh_url": "git@github.com:fortra/CVE-2022-37969.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Sep?api-version=2020",
+			"date_added": "2022-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/windows-clfs-exploits-ransomware-september-2022/111584/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/windows-clfs-exploits-ransomware/111560/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37969",
+			"date_added": "2022-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part",
+			"date_added": "2022-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis",
+			"date_added": "2022-10-28T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-10-05T00:00:00Z",
 	"cisa_date_added": "2022-09-14T00:00:00Z",
-	"date_added": "2022-09-14T00:00:00Z"
+	"date_added": "2022-09-13T00:00:00Z"
 }

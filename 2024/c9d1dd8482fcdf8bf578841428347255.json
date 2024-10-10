@@ -1,0 +1,27 @@
+{
+	"vendorProject": "OpenBSD",
+	"product": "openssh",
+	"shortDescription": "A security regression (CVE-2006-5051) was discovered in OpenSSH's server (sshd). There is a race condition which can lead sshd to handle some signals in an unsafe manner. An unauthenticated, remote attacker may be able to trigger it by failing to authenticate within a set time period.",
+	"vulnerabilityName": "OpenBSD openssh Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-6387"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "539f513bea22",
+			"xdb_url": "https://vulncheck.com/xdb/539f513bea22",
+			"date_added": "2024-07-02T02:51:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-6387.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cadosecurity.com/blog/warpscan-cloudflare-warp-abused-to-hijack-cloud-services-blog",
+			"date_added": "2024-07-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-17T00:00:00Z"
+}

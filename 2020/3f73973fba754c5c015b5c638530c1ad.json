@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Nagios",
+	"product": "nagios",
+	"shortDescription": "statuswml.cgi in Nagios before 3.1.1 allows remote attackers to execute arbitrary commands via shell metacharacters in the (1) ping or (2) Traceroute parameters.",
+	"vulnerabilityName": "Nagios nagios Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-2288"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

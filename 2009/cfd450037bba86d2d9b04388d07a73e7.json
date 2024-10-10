@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Media Runtime, as used in DirectShow WMA Voice Codec, Windows Media Audio Voice Decoder, and Audio Compression Manager (ACM), does not properly process Advanced Systems Format (ASF) files, which allows remote attackers to execute arbitrary code via a crafted audio file that uses the Windows Media Speech codec, aka \"Windows Media Runtime Voice Sample Rate Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-0555"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2009/ms09-051",
+			"date_added": "2009-11-10T00:00:00Z"
+		}
+	],
+	"date_added": "2009-11-10T00:00:00Z"
+}

@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Use-after-free vulnerability in Microsoft Internet Explorer allows remote attackers to execute remote code via a crafted web site that triggers access to a deleted object.",
+	"vulnerabilityName": "Microsoft Internet Explorer Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2013-2551"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/cryptolocker-variant-coming-after-gamers/111611/",
+			"date_added": "2015-03-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.oreilly.com/content/threat-intelligence-and-ransomware/",
+			"date_added": "2016-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.malwarebytes.com/cybercrime/2017/08/rig-exploit-kit-distributes-princess-ransomware/",
+			"date_added": "2017-08-31T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/why-old-is-gold-for-ransomware.html",
+			"date_added": "2021-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rig-exploit-kit-diving-deeper-into-the-infrastructure/",
+			"date_added": "2015-02-23T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2015-02-23T00:00:00Z"
+}

@@ -1,0 +1,59 @@
+{
+	"vendorProject": "automattic",
+	"product": "woocommerce_payments",
+	"shortDescription": "An issue in WooCommerce Payments plugin for WordPress (versions 5.6.1 and lower) allows an unauthenticated attacker to send requests on behalf of an elevated user, like administrator. This allows a remote, unauthenticated attacker to gain admin access on a site that has the affected version of the plugin activated.",
+	"vulnerabilityName": "automattic woocommerce_payments Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28121"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "32504a4af454",
+			"xdb_url": "https://vulncheck.com/xdb/32504a4af454",
+			"date_added": "2023-07-12T06:04:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rio128128/Mass-CVE-2023-28121-kdoec.git"
+		},
+		{
+			"xdb_id": "58696e2450dd",
+			"xdb_url": "https://vulncheck.com/xdb/58696e2450dd",
+			"date_added": "2023-07-20T09:28:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Jenderal92/CVE-2023-28121.git"
+		},
+		{
+			"xdb_id": "e41ed16d884e",
+			"xdb_url": "https://vulncheck.com/xdb/e41ed16d884e",
+			"date_added": "2023-11-03T22:02:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1337nemojj/CVE-2023-28121.git"
+		},
+		{
+			"xdb_id": "9092018b0a70",
+			"xdb_url": "https://vulncheck.com/xdb/9092018b0a70",
+			"date_added": "2023-07-12T02:41:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:im-hanzou/Mass-CVE-2023-28121.git"
+		},
+		{
+			"xdb_id": "e34ca4e13dea",
+			"xdb_url": "https://vulncheck.com/xdb/e34ca4e13dea",
+			"date_added": "2023-03-30T23:50:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gbrsh/CVE-2023-28121.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2023/07/massive-targeted-exploit-campaign-against-woocommerce-payments-underway/",
+			"date_added": "2023-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
+			"date_added": "2024-05-06T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-17T00:00:00Z"
+}

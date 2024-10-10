@@ -1,0 +1,31 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "ie",
+	"shortDescription": "Heap-based buffer overflow in the DirectAnimation Path Control (DirectAnimation.PathControl) COM object (daxctle.ocx) for Internet Explorer 6.0 SP1, on Chinese and possibly other Windows distributions, allows remote attackers to execute arbitrary code via unknown manipulations in arguments to the KeyFrame method, possibly related to an integer overflow, as demonstrated by daxctle2, and a different vulnerability than CVE-2006-4446.",
+	"vulnerabilityName": "Microsoft ie Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-4777"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c1465146beb3",
+			"xdb_url": "https://vulncheck.com/xdb/c1465146beb3",
+			"date_added": "2018-02-06T15:55:05Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Mario1234/js-driveby-download-CVE-2006-4777.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/SecurityBulletins/2006/ms06-067",
+			"date_added": "2006-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://archive.f-secure.com/weblog/archives/00001393",
+			"date_added": "2008-03-03T00:00:00Z"
+		}
+	],
+	"date_added": "2006-11-14T00:00:00Z"
+}

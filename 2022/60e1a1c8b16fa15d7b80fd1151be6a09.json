@@ -17,7 +17,20 @@
 			"clone_ssh_url": "git@github.com:ly4k/SpoolFool.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/rare-possible-gelsemium-attack-targets-se-asia/",
+			"date_added": "2023-09-22T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-04-15T00:00:00Z",
 	"cisa_date_added": "2022-03-25T00:00:00Z",
 	"date_added": "2022-03-25T00:00:00Z"

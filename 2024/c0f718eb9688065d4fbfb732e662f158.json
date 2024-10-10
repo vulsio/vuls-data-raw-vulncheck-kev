@@ -1,0 +1,27 @@
+{
+	"vendorProject": "phpMyAdmin",
+	"product": "phpMyAdmin",
+	"shortDescription": "phpMyAdmin 4.0.x before 4.0.10.16, 4.4.x before 4.4.15.7, and 4.6.x before 4.6.3 does not properly choose delimiters to prevent use of the preg_replace e (aka eval) modifier, which might allow remote attackers to execute arbitrary PHP code via a crafted string, as demonstrated by the table search-and-replace implementation.",
+	"vulnerabilityName": "phpMyAdmin phpMyAdmin Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-5734"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "66ae3cd10b7c",
+			"xdb_url": "https://vulncheck.com/xdb/66ae3cd10b7c",
+			"date_added": "2020-05-22T02:37:42Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:HKirito/phpmyadmin4.4_cve-2016-5734.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-05-10T00:00:00Z"
+}

@@ -899,25 +899,11 @@
 			"clone_ssh_url": "git@github.com:EuJin03/CVE-2021-4034-PoC.git"
 		},
 		{
-			"xdb_id": "bdac5d88146f",
-			"xdb_url": "https://vulncheck.com/xdb/bdac5d88146f",
-			"date_added": "2022-01-25T23:51:37Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:berdav/CVE-2021-4034.git"
-		},
-		{
 			"xdb_id": "fcffa308ff36",
 			"xdb_url": "https://vulncheck.com/xdb/fcffa308ff36",
 			"date_added": "2022-01-25T23:11:30Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:ryaagard/CVE-2021-4034.git"
-		},
-		{
-			"xdb_id": "344207902686",
-			"xdb_url": "https://vulncheck.com/xdb/344207902686",
-			"date_added": "2022-01-26T00:56:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "d7f5349cf878",
@@ -948,11 +934,18 @@
 			"clone_ssh_url": "git@github.com:PwnFunction/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "aeecf13a2fe2",
-			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
-			"date_added": "2023-11-12T05:08:25+08:00",
+			"xdb_id": "344207902686",
+			"xdb_url": "https://vulncheck.com/xdb/344207902686",
+			"date_added": "2022-01-26T00:56:36Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
+			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "bdac5d88146f",
+			"xdb_url": "https://vulncheck.com/xdb/bdac5d88146f",
+			"date_added": "2022-01-25T23:51:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:berdav/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "fc91e648cdb7",
@@ -974,6 +967,13 @@
 			"date_added": "2024-01-09T18:23:20+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:li-bai444/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "aeecf13a2fe2",
+			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
+			"date_added": "2023-11-12T05:08:25+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "b46d72a94313",
@@ -1046,8 +1046,101 @@
 			"clone_ssh_url": "git@gitlab.com:Tramadol/cve-2021-4034.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
+			"date_added": "2022-06-07T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.elastic.co/security-labs/betting-on-bots",
+			"date_added": "2022-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://socradar.io/threat-actor-profile-bianlian-the-shape-shifting-ransomware-group/",
+			"date_added": "2023-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/",
+			"date_added": "2022-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q4-2022-threat-report/",
+			"date_added": "2023-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/",
+			"date_added": "2023-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/",
+			"date_added": "2023-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://cloudsecurityalliance.org/blog/2023/12/04/labrat-stealthy-cryptojacking-and-proxyjacking-campaign-targeting-gitlab/",
+			"date_added": "2023-12-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/fritzfrog-botnet-new-capabilities-log4shell",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/anatomy-of-alpha-spider-ransomware/",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html",
+			"date_added": "2022-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf",
+			"date_added": "2024-04-17T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/ex-cobalt-go-red-tehnika-skrytogo-tunnelya/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/excobalt-gored-the-hidden-tunnel-technique/",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
+			"date_added": "2024-08-21T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-07-18T00:00:00Z",
 	"cisa_date_added": "2022-06-27T00:00:00Z",
-	"date_added": "2022-06-27T00:00:00Z"
+	"date_added": "2022-06-07T00:00:00Z"
 }

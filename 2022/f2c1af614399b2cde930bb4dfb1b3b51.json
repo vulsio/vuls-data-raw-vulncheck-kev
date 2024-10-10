@@ -9,8 +9,33 @@
 		"CVE-2014-0780"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/december-2021s-most-wanted-malware-trickbot-emotet-and-the-log4j-plague/",
+			"date_added": "2022-01-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2022s-most-wanted-malware-a-shake-up-in-the-index-but-emotet-is-still-on-top/",
+			"date_added": "2022-05-11T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",
+			"date_added": "2024-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/may-2024s-most-wanted-malware-phorpiex-botnet-unleashes-phishing-frenzy-while-lockbit3-dominates-once-again",
+			"date_added": "2024-06-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/july-2024s-most-wanted-malware-remcos-and-ransomhub-run-rampant/",
+			"date_added": "2024-08-12T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-05-06T00:00:00Z",
 	"cisa_date_added": "2022-04-15T00:00:00Z",
-	"date_added": "2022-04-15T00:00:00Z"
+	"date_added": "2022-01-12T00:00:00Z"
 }

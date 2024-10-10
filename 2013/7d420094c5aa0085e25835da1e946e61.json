@@ -1,0 +1,19 @@
+{
+	"vendorProject": "vBulletin",
+	"product": "vBulletin",
+	"shortDescription": "The install/upgrade.php scripts in vBulletin 4.1 and 5 allow remote attackers to create administrative accounts via the customerid, htmldata[password], htmldata[confirmpassword], and htmldata[email] parameters, as exploited in the wild in October 2013.",
+	"vulnerabilityName": "vBulletin 4.1 and 5 install/upgrade.php Scripts Remote Security Bypass",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-6129"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2013-6129",
+			"date_added": "2013-10-19T00:00:00Z"
+		}
+	],
+	"date_added": "2013-10-19T00:00:00Z"
+}

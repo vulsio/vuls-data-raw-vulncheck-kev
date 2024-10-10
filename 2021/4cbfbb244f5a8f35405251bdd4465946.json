@@ -9,7 +9,12 @@
 		"CVE-2020-5849"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-05-03T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
 	"date_added": "2021-11-03T00:00:00Z"

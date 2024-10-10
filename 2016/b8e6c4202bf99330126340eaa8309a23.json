@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "The Web IDL implementation in Mozilla Firefox before 28.0, Firefox ESR 24.x before 24.4, Thunderbird before 24.4, and SeaMonkey before 2.25 allows remote attackers to execute arbitrary JavaScript code with chrome privileges by using an IDL fragment to trigger a window.open call.",
+	"vulnerabilityName": "Mozilla Firefox Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-1510"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		}
+	],
+	"date_added": "2016-08-04T00:00:00Z"
+}

@@ -1,0 +1,81 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player allows remote attackers to execute arbitrary code via a crafted SWF file.",
+	"vulnerabilityName": "Adobe Flash Player Arbitrary Code Execution Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-7645"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-10-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/teslacrypt-arrives-via-neutrino-exploit-kit/",
+			"date_added": "2016-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.oreilly.com/content/threat-intelligence-and-ransomware/",
+			"date_added": "2016-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/why-old-is-gold-for-ransomware.html",
+			"date_added": "2021-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://blog.trendmicro.com/trendlabs-security-intelligence/new-adobe-flash-zero-day-used-in-pawn-storm-campaign/",
+			"date_added": "2015-10-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-dealerschoice-sofacys-flash-player-exploit-platform/",
+			"date_added": "2016-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-let-ride-sofacy-groups-dealerschoice-attacks-continue/",
+			"date_added": "2016-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.scribd.com/document/516749423/inzimam-2019-ijca-919742",
+			"date_added": "2019-12-26T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2015-10-13T00:00:00Z"
+}

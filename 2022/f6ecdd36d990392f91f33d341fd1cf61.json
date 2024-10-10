@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "WPGateway",
+	"shortDescription": "A privilege escalation flaw exists in the WordPress WPGateway plugin that enables unauthenticated adversaries to add a user with administrator rights.",
+	"vulnerabilityName": "WordPress WPGateway Plugin Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-3180"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/blog/2022/09/psa-zero-day-vulnerability-in-wpgateway-actively-exploited-in-the-wild/",
+			"date_added": "2022-09-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-09-13T00:00:00Z"
+}

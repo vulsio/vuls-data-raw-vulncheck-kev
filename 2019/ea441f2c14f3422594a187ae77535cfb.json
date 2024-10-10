@@ -1,0 +1,48 @@
+{
+	"vendorProject": "Google",
+	"product": "Android",
+	"shortDescription": "An elevation of privilege vulnerability in the Android system (art). Product: Android. Versions: 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID A-64211847.",
+	"vulnerabilityName": "Google Android Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-13156"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f5b5819faf5d",
+			"xdb_url": "https://vulncheck.com/xdb/f5b5819faf5d",
+			"date_added": "2017-12-29T07:11:42Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xyzAsian/Janus-CVE-2017-13156.git"
+		},
+		{
+			"xdb_id": "3373eb57b72a",
+			"xdb_url": "https://vulncheck.com/xdb/3373eb57b72a",
+			"date_added": "2024-02-20T21:56:02Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit.git"
+		},
+		{
+			"xdb_id": "4ffd09616ccf",
+			"xdb_url": "https://vulncheck.com/xdb/4ffd09616ccf",
+			"date_added": "2023-05-16T12:16:34Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ppapadatis/python-janus-vulnerability-scan.git"
+		},
+		{
+			"xdb_id": "a53d146cb86b",
+			"xdb_url": "https://vulncheck.com/xdb/a53d146cb86b",
+			"date_added": "2024-01-24T17:10:16+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:resparkstar/Janus-Exploit2.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/agent-smith-malware-infecting-android-apps-devices-for-adware",
+			"date_added": "2019-07-16T00:00:00Z"
+		}
+	],
+	"date_added": "2019-07-16T00:00:00Z"
+}

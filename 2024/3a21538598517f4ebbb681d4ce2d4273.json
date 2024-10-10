@@ -52,13 +52,6 @@
 			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-23692-EXP.git"
 		},
 		{
-			"xdb_id": "4ac87aa915cb",
-			"xdb_url": "https://vulncheck.com/xdb/4ac87aa915cb",
-			"date_added": "2024-06-17T08:46:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BBD-YZZ/CVE-2024-23692.git"
-		},
-		{
 			"xdb_id": "d5b6ecca1a09",
 			"xdb_url": "https://vulncheck.com/xdb/d5b6ecca1a09",
 			"date_added": "2024-09-15T12:15:35Z",
@@ -71,10 +64,38 @@
 			"date_added": "2024-06-13T06:00:24Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS.git"
+		},
+		{
+			"xdb_id": "4ac87aa915cb",
+			"xdb_url": "https://vulncheck.com/xdb/4ac87aa915cb",
+			"date_added": "2024-06-17T08:46:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BBD-YZZ/CVE-2024-23692.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/ko/67509/",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/6280129",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
 	"dueDate": "2024-07-30T00:00:00Z",
 	"cisa_date_added": "2024-07-09T00:00:00Z",
-	"date_added": "2024-07-09T00:00:00Z"
+	"date_added": "2024-06-28T00:00:00Z"
 }

@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SQL Server",
+	"shortDescription": "Microsoft SQL Server Reporting Services contains a deserialization vulnerability when handling page requests incorrectly. An authenticated attacker can exploit this vulnerability to execute code in the context of the Report Server service account.",
+	"vulnerabilityName": "Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-0618"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-targetcompany",
+			"date_added": "2023-06-05T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/08/21/summary-of-ransomware-threat-actor-activity-in-2023-eng/",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/mallox-ransomware/113529/",
+			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/09/19/summary-of-ransomware-threat-actor-activity-in-2023-jpn/",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-09T00:00:00Z",
+	"cisa_date_added": "2024-09-18T00:00:00Z",
+	"date_added": "2023-06-05T00:00:00Z"
+}

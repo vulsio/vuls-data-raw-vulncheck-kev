@@ -1,0 +1,123 @@
+{
+	"vendorProject": "Samba",
+	"product": "Samba",
+	"shortDescription": "Samba contains a remote code execution vulnerability, allowing a malicious client to upload a shared library to a writable share and then cause the server to load and execute it.",
+	"vulnerabilityName": "Samba Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-7494"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "874bfa3f41cc",
+			"xdb_url": "https://vulncheck.com/xdb/874bfa3f41cc",
+			"date_added": "2022-05-29T16:27:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:00mjk/exploit-CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "6095b3679d4f",
+			"xdb_url": "https://vulncheck.com/xdb/6095b3679d4f",
+			"date_added": "2022-11-01T23:17:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:d3fudd/CVE-2017-7494_SambaCry.git"
+		},
+		{
+			"xdb_id": "e6971e9715d0",
+			"xdb_url": "https://vulncheck.com/xdb/e6971e9715d0",
+			"date_added": "2021-05-09T02:32:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xm4ud/noSAMBAnoCRY-CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "5febf3930e17",
+			"xdb_url": "https://vulncheck.com/xdb/5febf3930e17",
+			"date_added": "2017-06-05T16:25:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:joxeankoret/CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "57e3c5583e71",
+			"xdb_url": "https://vulncheck.com/xdb/57e3c5583e71",
+			"date_added": "2017-05-30T15:08:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:brianwrf/SambaHunter.git"
+		},
+		{
+			"xdb_id": "d60f0bdd37ca",
+			"xdb_url": "https://vulncheck.com/xdb/d60f0bdd37ca",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "6b2fdeea9b0e",
+			"xdb_url": "https://vulncheck.com/xdb/6b2fdeea9b0e",
+			"date_added": "2017-05-25T13:20:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:betab0t/cve-2017-7494.git"
+		},
+		{
+			"xdb_id": "b4a79e992993",
+			"xdb_url": "https://vulncheck.com/xdb/b4a79e992993",
+			"date_added": "2017-05-26T00:58:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "0e1687dfba66",
+			"xdb_url": "https://vulncheck.com/xdb/0e1687dfba66",
+			"date_added": "2022-01-10T17:06:23+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_opsxcq/exploit-CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "5192c6b266c3",
+			"xdb_url": "https://vulncheck.com/xdb/5192c6b266c3",
+			"date_added": "2019-01-20T01:55:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:0x1/CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "03f724914e5d",
+			"xdb_url": "https://vulncheck.com/xdb/03f724914e5d",
+			"date_added": "2021-11-03T10:33:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:baerle/exploit-cve-2017-7494.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/storagecrypt-ransomware-infecting-nas-devices-using-sambacry/",
+			"date_added": "2017-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://bartblaze.blogspot.com/2017/12/storagecrypt-ransomware-coinminer-and.html",
+			"date_added": "2017-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://digital.nhs.uk/cyber-alerts/2017/cc-1858",
+			"date_added": "2017-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-04-20T00:00:00Z",
+	"cisa_date_added": "2023-03-30T00:00:00Z",
+	"date_added": "2017-12-05T00:00:00Z"
+}

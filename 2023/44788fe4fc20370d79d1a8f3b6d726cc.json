@@ -297,8 +297,241 @@
 			"clone_ssh_url": "git@github.com:technicalcorp0/CVE-2023-38831-Exploit.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2023-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/",
+			"date_added": "2023-08-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day",
+			"date_added": "2023-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/5661411",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/1J4JNqLVUST6PsAWwoQ1CQ",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/3033",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/winrar-vulnerability-puts-illicit-content-consumers-at-risk-of-apanyan-stealer-murk-stealer-asyncrat/",
+			"date_added": "2023-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/threat-actor-deploys-mythics-athena-agent-to-target-russian-semiconductor-suppliers/",
+			"date_added": "2023-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cluster25.duskrise.com/2023/10/12/cve-2023-38831-russian-attack",
+			"date_added": "2023-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/OZgDgmUDZSML_NX_Wa_C6A",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/",
+			"date_added": "2023-11-06T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/Ic7wNUWA1OIYI1w74-K52w",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://nsfocusglobal.com/the-new-apt-group-darkcasino-and-the-global-surge-in-winrar-0-day-exploits/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/eng/expertise/blog/mysterious-werewolf-atakuet-rossiyskuyu-promyshlennost/",
+			"date_added": "2023-11-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.rnbo.gov.ua/ua/Diialnist/6708.html",
+			"date_added": "2023-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/pt-esc-threat-intelligence/uzhe-ne-te-ataki-ex-cobalt-na-rossijskie-kompanii-v-2023-godu/",
+			"date_added": "2023-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.uptycs.com/blog/cve-2023-38831-winrar-zero-day",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://threatmon.io/the-anatomy-of-a-sidecopy-attack-from-rar-exploits-to-allakore-rat/",
+			"date_added": "2023-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/ta422s-dedicated-exploitation-loop-same-week-after-week",
+			"date_added": "2023-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://securityintelligence.com/x-force/itg05-ops-leverage-israel-hamas-conflict-lures-to-deliver-headlace-malware/",
+			"date_added": "2023-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepinstinct.com/blog/threat-actor-uac-0099-continues-to-target-ukraine",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://cloudsecurityalliance.org/blog/2023/12/28/winrar-cve-2023-38831-vulnerability-draws-attention-from-apts/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.infosecurity-magazine.com/news/pawn-storms-stealthy-net-ntlmv2/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.isc.360.com/isc-cxo/2023APT_report.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/02/02/dcc93e586f9028c68e7ab34c3326ff31.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html",
+			"date_added": "2024-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/hubfs/Web/Library/Documents_pdf/FaceBook_Ad_Spreads_Novel_Malware.pdf",
+			"date_added": "2024-02-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-buzzes-back-black",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/expertise/blog/mysterious-werewolf-atakuet-vpk-s-pomoshchyu-novogo-bekdora-ringspy/",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.infosecurity-magazine.com/news/ads-zeroday-exploit-sales-surge-70/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://engage.cognyte.com/s/9829b9f8/?page=1",
+			"date_added": "2024-03-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/phantomcore/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://archive.ph/xYFO7",
+			"date_added": "2024-03-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security/a-year-in-review-with-akamai-hunt",
+			"date_added": "2024-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://bi.zone/upload/for_download/Threat_Zone_2024_BI.ZONE_Research_rus.pdf/",
+			"date_added": "2024-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://cert.gov.ua/article/6278620",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-report-q1-2024/112554/",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/phantomdl-loader/",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/14/monthly-threat-actor-group-intelligence-report-march-2024-kor/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/blog/",
+			"date_added": "2024-05-29T00:00:00Z"
+		},
+		{
+			"url": "https://blog.cloudflare.com/disrupting-flyingyeti-campaign-targeting-ukraine",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/05/31/monthly-threat-actor-group-intelligence-report-march-2024-eng/",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/29/2023-activities-summary-of-sectorc-groups-jpn/",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-apt42/",
+			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/08/19/2274f632f6a1d8acd2f1801c24887edb.pdf",
+			"date_added": "2023-08-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.facct.ru/blog/phantomcore-evolution/",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/head-mare-hacktivists/113555/",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.cloudflare.com/en-gb/threat-intelligence/research/report/unraveling-sloppylemmings-operations-across-south-asia/",
+			"date_added": "2023-08-24T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-09-14T00:00:00Z",
 	"cisa_date_added": "2023-08-24T00:00:00Z",
-	"date_added": "2023-08-24T00:00:00Z"
+	"date_added": "2023-07-10T00:00:00Z"
 }

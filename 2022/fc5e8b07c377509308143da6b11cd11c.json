@@ -9,7 +9,12 @@
 		"CVE-2018-18809"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-12-29T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-01-19T00:00:00Z",
 	"cisa_date_added": "2022-12-29T00:00:00Z",
 	"date_added": "2022-12-29T00:00:00Z"

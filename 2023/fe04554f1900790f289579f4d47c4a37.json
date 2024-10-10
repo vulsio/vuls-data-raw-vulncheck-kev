@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Zimbra",
+	"product": "Collaboration Suite (ZCS)",
+	"shortDescription": "Zimbra Collaboration Suite before 8.6 patch 13, 8.7.x before 8.7.11 patch 10, and 8.8.x before 8.8.10 patch 7 or 8.8.x before 8.8.11 patch 3 allows SSRF via the ProxyServlet component.",
+	"vulnerabilityName": "Zimbra Collaboration Suite (ZCS) Server-Side Request Forgery (SSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-9621"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "48e6c0f09cfa",
+			"xdb_url": "https://vulncheck.com/xdb/48e6c0f09cfa",
+			"date_added": "2019-05-06T15:47:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k8gege/ZimbraExploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html",
+			"date_added": "2023-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-18T00:00:00Z"
+}

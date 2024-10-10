@@ -1,0 +1,105 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "Microsoft Win32k kernel-mode driver fails to properly handle objects in memory which allows for privilege escalation. Successful exploitation allows an attacker to run code in kernel mode.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2016-7255"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1dd5ad8d8734",
+			"xdb_url": "https://vulncheck.com/xdb/1dd5ad8d8734",
+			"date_added": "2018-09-13T12:47:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:bbolmin/cve-2016-7255_x86_x64.git"
+		},
+		{
+			"xdb_id": "1e9766c4be72",
+			"xdb_url": "https://vulncheck.com/xdb/1e9766c4be72",
+			"date_added": "2018-06-09T23:14:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:yuvatia/page-table-exploitation.git"
+		},
+		{
+			"xdb_id": "b365d8ec807c",
+			"xdb_url": "https://vulncheck.com/xdb/b365d8ec807c",
+			"date_added": "2017-01-13T15:49:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:heh3/CVE-2016-7255.git"
+		},
+		{
+			"xdb_id": "f21c23b2b8d5",
+			"xdb_url": "https://vulncheck.com/xdb/f21c23b2b8d5",
+			"date_added": "2017-03-02T23:32:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:FSecureLABS/CVE-2016-7255.git"
+		},
+		{
+			"xdb_id": "ab696903a116",
+			"xdb_url": "https://vulncheck.com/xdb/ab696903a116",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2016-Nov?api-version=2020",
+			"date_added": "2016-11-08T00:00:00Z"
+		},
+		{
+			"url": "https://dbac8a2e962120c65098-4d6abce208e5e17c2085b466b98c2083.ssl.cf1.rackcdn.com/evolution-ransomware-gangs-pdf-9-w-6821.pdf",
+			"date_added": "2020-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/",
+			"date_added": "2020-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-let-ride-sofacy-groups-dealerschoice-attacks-continue/",
+			"date_added": "2016-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf",
+			"date_added": "2017-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2017/05/eps-processing-zero-days.html",
+			"date_added": "2017-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html",
+			"date_added": "2017-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.accenture.com/us-en/blogs/cyber-defense/pond-loach-delivers-badcake-malware",
+			"date_added": "2019-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2016-10-21T00:00:00Z"
+}

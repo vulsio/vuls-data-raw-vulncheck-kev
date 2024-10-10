@@ -24,7 +24,32 @@
 			"clone_ssh_url": "git@github.com:rbowes-r7/unrar-cve-2022-30333-poc.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-q3-2023-report/",
+			"date_added": "2023-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-and-statistics-2023-report/",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-228a",
+			"date_added": "2023-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-278a",
+			"date_added": "2023-10-05T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-08-30T00:00:00Z",
 	"cisa_date_added": "2022-08-09T00:00:00Z",
 	"date_added": "2022-08-09T00:00:00Z"

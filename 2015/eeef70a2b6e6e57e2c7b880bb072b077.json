@@ -1,0 +1,81 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "OleAut32.dll in OLE in Microsoft Windows allows remote attackers to remotely execute code via a crafted web site.",
+	"vulnerabilityName": "Microsoft Windows Object Linking & Embedding (OLE) Automation Array Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2014-6332"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.stormshield.com/news/when-elf-billgates-met-windows/",
+			"date_added": "2015-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.zimperium.com/blog/the-case-of-cloud9-chrome-botnet/",
+			"date_added": "2022-11-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.oreilly.com/content/threat-intelligence-and-ransomware/",
+			"date_added": "2016-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.malwarebytes.com/cybercrime/2017/08/rig-exploit-kit-distributes-princess-ransomware/",
+			"date_added": "2017-08-31T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rig-exploit-kit-diving-deeper-into-the-infrastructure/",
+			"date_added": "2015-02-23T00:00:00Z"
+		},
+		{
+			"url": "https://wikileaks.org/vault7/document/2015-08-20150814-256-CSIR-15005-Stalker-Panda/2015-08-20150814-256-CSIR-15005-Stalker-Panda.pdf",
+			"date_added": "2015-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/attack-on-french-diplomat-linked-to-operation-lotus-blossom/",
+			"date_added": "2015-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=62e325ae-f551-4855-b9cf-28a7d52d1534&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+			"date_added": "2016-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=7a60af1f-7786-446c-976b-7c71a16e9d3b&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
+			"date_added": "2016-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/unit42-web-based-threats-2018-q2-u-s-remains-1-malicious-web-addresses-china-falls-2-7/",
+			"date_added": "2018-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/19/i/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell.html",
+			"date_added": "2019-09-09T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-1/",
+			"date_added": "2021-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2015-02-23T00:00:00Z"
+}

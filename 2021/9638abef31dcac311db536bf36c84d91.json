@@ -1,0 +1,19 @@
+{
+	"vendorProject": "linksys",
+	"product": "wvbr0_firmware",
+	"shortDescription": "This vulnerability allows remote attackers to execute arbitrary code on vulnerable installations of Linksys WVBR0. Authentication is not required to exploit this vulnerability. The specific flaw exists within the web management portal. The issue lies in the lack of proper validation of user data before executing a system call. An attacker could leverage this vulnerability to execute code with root privileges. Was ZDI-CAN-4892.",
+	"vulnerabilityName": "linksys wvbr0_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-17411"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

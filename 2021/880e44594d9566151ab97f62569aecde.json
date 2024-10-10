@@ -1,0 +1,27 @@
+{
+	"vendorProject": "xinuos",
+	"product": "openserver",
+	"shortDescription": "Xinuos (formerly SCO) Openserver v5 and v6 allows attackers to execute arbitrary commands via shell metacharacters in outputform or toclevels parameter to cgi-bin/printbook.",
+	"vulnerabilityName": "xinuos openserver Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-25494"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",
+			"date_added": "2021-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/threat-research/necro-python-botnet-goes-after-vulnerable-visualtools-dvr",
+			"date_added": "2021-10-11T00:00:00Z"
+		},
+		{
+			"url": "https://heimdalsecurity.com/blog/vulnerable-video-dvr-devices-now-targeted-by-the-freakout-botnet/",
+			"date_added": "2021-10-13T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-03T00:00:00Z"
+}

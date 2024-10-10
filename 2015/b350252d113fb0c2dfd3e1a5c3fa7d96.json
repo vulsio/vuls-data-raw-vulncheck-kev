@@ -1,0 +1,139 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "An unspecified vulnerability exists in the Win32k.sys kernel-mode driver in Microsoft Windows Server that allows a local attacker to execute arbitrary code with elevated privileges.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-1701"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "eb4a799b8329",
+			"xdb_url": "https://vulncheck.com/xdb/eb4a799b8329",
+			"date_added": "2015-05-12T18:04:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hfiref0x/CVE-2015-1701.git"
+		},
+		{
+			"xdb_id": "ee1abcca5405",
+			"xdb_url": "https://vulncheck.com/xdb/ee1abcca5405",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "6505b117b7db",
+			"xdb_url": "https://vulncheck.com/xdb/6505b117b7db",
+			"date_added": "2021-04-16T11:03:44+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:hfiref0x/CVE-2015-1701.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://blog.trendmicro.com/trendlabs-security-intelligence/locky-ransomware-spreads-flash-windows-kernel-exploits/",
+			"date_added": "2016-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2020/05/27/netwalker-ransomware-tools-give-insight-into-threat-actor/",
+			"date_added": "2020-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-netwalker/",
+			"date_added": "2020-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/netwalker.pdf",
+			"date_added": "2020-09-24T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/",
+			"date_added": "2020-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/04/probable_apt28_useo.html",
+			"date_added": "2015-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/12/the_eps_awakens.html",
+			"date_added": "2015-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html",
+			"date_added": "2015-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/wp-mandiant-matryoshka-mining.pdf",
+			"date_added": "2016-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+			"date_added": "2016-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepwatch.com/blog/profile-of-an-adversary-fin7/",
+			"date_added": "2019-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/19/i/purple-fox-fileless-malware-with-rookit-component-delivered-by-rig-exploit-kit-now-abuses-powershell.html",
+			"date_added": "2019-09-09T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://threatresearch.ext.hp.com/purple-fox-exploit-kit-now-exploits-cve-2021-26411/",
+			"date_added": "2021-04-14T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-1/",
+			"date_added": "2021-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://strapi.eurepoc.eu/uploads/Eu_Repo_C_APT_profile_APT_28_4856c0a0ac.pdf",
+			"date_added": "2023-02-05T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2015-04-18T00:00:00Z"
+}

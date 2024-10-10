@@ -17,8 +17,41 @@
 			"clone_ssh_url": "git@github.com:smokeintheshell/CVE-2023-20273.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-10-23T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/",
+			"date_added": "2023-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxe-webui-privesc-j22SaA4z",
+			"date_added": "2023-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-002.pdf",
+			"date_added": "2024-02-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ww-en/analytics/cybersecurity-threatscape-2023-q4/",
+			"date_added": "2024-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2024-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
+			"date_added": "2024-06-12T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-10-27T00:00:00Z",
 	"cisa_date_added": "2023-10-23T00:00:00Z",
-	"date_added": "2023-10-23T00:00:00Z"
+	"date_added": "2023-10-16T00:00:00Z"
 }

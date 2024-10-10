@@ -1,0 +1,69 @@
+{
+	"vendorProject": "CUPS",
+	"product": "cups-browsed",
+	"shortDescription": "CUPS is a standards-based, open-source printing system, and `cups-browsed` contains network printing functionality including, but not limited to, auto-discovering print services and shared printers. `cups-browsed` binds to `INADDR_ANY:631`, causing it to trust any packet from any source, and can cause the `Get-Printer-Attributes` IPP request to an attacker controlled URL. Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-browsed` can be exploited in sequence to introduce a malicious printer to the system. This chain of exploits ultimately enables an attacker to execute arbitrary commands remotely on the target machine without authentication when a print job is started. This poses a significant security risk over the network. Notably, this vulnerability is particularly concerning as it can be exploited from the public internet, potentially exposing a vast number of systems to remote attacks if their CUPS services are enabled.",
+	"vulnerabilityName": "Cups-browsed INADDR_ANY IPP Request Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-47176"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "051e8715ee9d",
+			"xdb_url": "https://vulncheck.com/xdb/051e8715ee9d",
+			"date_added": "2024-09-28T19:01:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:aytackalinci/CVE-2024-47176.git"
+		},
+		{
+			"xdb_id": "c08def54019d",
+			"xdb_url": "https://vulncheck.com/xdb/c08def54019d",
+			"date_added": "2024-10-02T14:10:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:pearlmansara/CVE-2024-47176-CUPS.git"
+		},
+		{
+			"xdb_id": "86ff6430b11e",
+			"xdb_url": "https://vulncheck.com/xdb/86ff6430b11e",
+			"date_added": "2024-10-05T09:22:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:gumerzzzindo/CVE-2024-47176.git"
+		},
+		{
+			"xdb_id": "60251f133845",
+			"xdb_url": "https://vulncheck.com/xdb/60251f133845",
+			"date_added": "2024-10-07T16:14:37Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:AxthonyV/CVE-2024-47176.git"
+		},
+		{
+			"xdb_id": "01371db3db14",
+			"xdb_url": "https://vulncheck.com/xdb/01371db3db14",
+			"date_added": "2024-10-03T15:53:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-47176.git"
+		},
+		{
+			"xdb_id": "e9a2eadc5ef8",
+			"xdb_url": "https://vulncheck.com/xdb/e9a2eadc5ef8",
+			"date_added": "2024-09-25T01:17:53Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:RickdeJager/cupshax.git"
+		},
+		{
+			"xdb_id": "022e4715a83f",
+			"xdb_url": "https://vulncheck.com/xdb/022e4715a83f",
+			"date_added": "2024-10-07T07:25:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MalwareTech/CVE-2024-47176-Scanner.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securitylabs.datadoghq.com/articles/emerging-vulnerability-cups/",
+			"date_added": "2024-09-27T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-27T00:00:00Z"
+}

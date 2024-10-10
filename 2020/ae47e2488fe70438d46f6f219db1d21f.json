@@ -1,0 +1,53 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "A privilege escalation vulnerability exists when Windows improperly handles authentication requests. An attacker who successfully exploited this vulnerability could run processes in an elevated context.",
+	"vulnerabilityName": "Microsoft Windows Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-1322"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c150d99e80b3",
+			"xdb_url": "https://vulncheck.com/xdb/c150d99e80b3",
+			"date_added": "2019-11-13T16:34:03Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:apt69/COMahawk.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/media/silence_ta505_attacks_in_europe/",
+			"date_added": "2020-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://go.group-ib.com/hubfs/report/protected/group-ib-opera1er-full-threat-research-2022-en.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/56236/",
+			"date_added": "2023-08-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-05T00:00:00Z",
+	"cisa_date_added": "2022-03-15T00:00:00Z",
+	"date_added": "2020-03-27T00:00:00Z"
+}

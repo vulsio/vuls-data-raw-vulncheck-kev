@@ -234,8 +234,105 @@
 			"clone_ssh_url": "git@gitlab.com:andreamariadb/CVE-2021-1675.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.advintel.io/post/ransomware-advisory-log4shell-exploitation-for-initial-access-lateral-movement",
+			"date_added": "2021-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.csoonline.com/article/574109/what-is-ransom-cartel-a-ransomware-gang-focused-on-reputational-damage.html",
+			"date_added": "2022-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/vice-society-targets-education-sector/",
+			"date_added": "2022-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.intrinsec.com/wp-content/uploads/2023/02/20230119_TLPCLEAR_Vice_Society_BLOG_Version_EN.pdf",
+			"date_added": "2023-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/vice-society-ransomware-printnightmare/",
+			"date_added": "2023-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html",
+			"date_added": "2021-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://download.ahnlab.com/global/brochure/Analysis%20Report%20of%20Kimsuky%20Group.pdf",
+			"date_added": "2021-11-16T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-249a",
+			"date_added": "2022-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-249a-0",
+			"date_added": "2022-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/content/files/2023/12/2023_Talos_Year_In_Review.pdf",
+			"date_added": "2023-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/",
+			"date_added": "2024-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-mustang-panda/",
+			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		}
+	],
 	"dueDate": "2021-11-17T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2021-11-03T00:00:00Z"
+	"date_added": "2021-08-10T00:00:00Z"
 }

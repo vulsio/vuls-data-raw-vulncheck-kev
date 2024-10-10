@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "JBoss",
+	"shortDescription": "Unauthenticated access to the JBoss Application Server Web Console (/web-console) is blocked by default. However, it was found that this block was incomplete, and only blocked GET and POST HTTP verbs. A remote attacker could use this flaw to gain access to sensitive information.",
+	"vulnerabilityName": "Red Hat JBoss Information Disclosure Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2010-1428"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://nsarchive.gwu.edu/sites/default/files/documents/5986978/National-Security-Archive-Department-of-Justice.pdf",
+			"date_added": "2016-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/samsam-ransomware-how-to-identify-and-mitigate-the-risk",
+			"date_added": "2018-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2018/05/02/shutting-out-samsam-ransomware/",
+			"date_added": "2018-05-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.securonix.com/securonix-threat-research-samsam-ransomware-detection-using-security-analytics/",
+			"date_added": "2018-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/pdf/ransomware/Spotlight_Ransomware2021.pdf",
+			"date_added": "2021-02-11T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2016-03-25T00:00:00Z"
+}

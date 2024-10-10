@@ -1,0 +1,43 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The Server service in Microsoft Windows 2000 SP4, XP SP2 and SP3, Server 2003 SP1 and SP2, Vista Gold and SP1, Server 2008, and 7 Pre-Beta allows remote attackers to execute arbitrary code via a crafted RPC request that triggers the overflow during path canonicalization, as exploited in the wild by Gimmiv.A in October 2008, aka \"Server Service Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-4250"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://fortiguard.fortinet.com/encyclopedia/ips/15995",
+			"date_added": "2008-10-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/web-attack/54/stuxnet-malware-targets-scada-systems",
+			"date_added": "2010-10-01T00:00:00Z"
+		},
+		{
+			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
+			"date_added": "2012-10-18T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_moving-into-the-darkside.pdf",
+			"date_added": "2018-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		}
+	],
+	"date_added": "2008-10-24T00:00:00Z"
+}

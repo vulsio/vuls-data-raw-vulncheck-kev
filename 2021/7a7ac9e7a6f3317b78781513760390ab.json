@@ -1,0 +1,31 @@
+{
+	"vendorProject": "genexis",
+	"product": "platinum_4410",
+	"shortDescription": "Genexis PLATINUM 4410 2.1 P4410-V2-1.28 devices allow remote attackers to execute arbitrary code via shell metacharacters to sys_config_valid.xgi, as demonstrated by the sys_config_valid.xgi?exeshell=%60telnetd%20%26%60 URI.",
+	"vulnerabilityName": "genexis platinum_4410 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-29003"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",
+			"date_added": "2021-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.juniper.net/en-us/threat-research/necro-python-botnet-goes-after-vulnerable-visualtools-dvr",
+			"date_added": "2021-10-11T00:00:00Z"
+		},
+		{
+			"url": "https://heimdalsecurity.com/blog/vulnerable-video-dvr-devices-now-targeted-by-the-freakout-botnet/",
+			"date_added": "2021-10-13T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-february-april-2021/",
+			"date_added": "2021-06-01T00:00:00Z"
+		}
+	],
+	"date_added": "2021-06-01T00:00:00Z"
+}

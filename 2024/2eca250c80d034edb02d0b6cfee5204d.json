@@ -1,0 +1,118 @@
+{
+	"vendorProject": "Bricks Builder Theme",
+	"product": "Bricks Builder Theme",
+	"shortDescription": "Remote Code Execution vulnerability in Bricks Builder Theme prepare_query_vars_from_settings function",
+	"vulnerabilityName": "Bricks Builder Theme unauthenticated RCE in prepare_query_vars_from_settings",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-25600"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d461f5e95852",
+			"xdb_url": "https://vulncheck.com/xdb/d461f5e95852",
+			"date_added": "2024-04-20T06:36:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:X-Projetion/WORDPRESS-CVE-2024-25600-EXPLOIT-RCE.git"
+		},
+		{
+			"xdb_id": "75346e4543bd",
+			"xdb_url": "https://vulncheck.com/xdb/75346e4543bd",
+			"date_added": "2024-04-17T15:21:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress.git"
+		},
+		{
+			"xdb_id": "430d73cc78f5",
+			"xdb_url": "https://vulncheck.com/xdb/430d73cc78f5",
+			"date_added": "2024-06-06T02:13:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k3lpi3b4nsh33/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "b362ec702b49",
+			"xdb_url": "https://vulncheck.com/xdb/b362ec702b49",
+			"date_added": "2024-06-06T03:59:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:WanLiChangChengWanLiChang/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "18041a4481d0",
+			"xdb_url": "https://vulncheck.com/xdb/18041a4481d0",
+			"date_added": "2024-06-02T10:49:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ivanbg2004/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress.git"
+		},
+		{
+			"xdb_id": "16b1ebadf0c8",
+			"xdb_url": "https://vulncheck.com/xdb/16b1ebadf0c8",
+			"date_added": "2024-02-21T00:27:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Christbowel/CVE-2024-25600_Nuclei-Template.git"
+		},
+		{
+			"xdb_id": "fe8e65815213",
+			"xdb_url": "https://vulncheck.com/xdb/fe8e65815213",
+			"date_added": "2024-02-29T20:53:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hy011121/CVE-2024-25600-wordpress-Exploit-RCE.git"
+		},
+		{
+			"xdb_id": "274dd56fb1c4",
+			"xdb_url": "https://vulncheck.com/xdb/274dd56fb1c4",
+			"date_added": "2024-07-30T09:02:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress.git"
+		},
+		{
+			"xdb_id": "35a94631fff5",
+			"xdb_url": "https://vulncheck.com/xdb/35a94631fff5",
+			"date_added": "2024-05-05T02:18:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RHYru9/CVE-2024-25600-mass.git"
+		},
+		{
+			"xdb_id": "6803eccccfeb",
+			"xdb_url": "https://vulncheck.com/xdb/6803eccccfeb",
+			"date_added": "2024-08-20T12:18:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wh6amiGit/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "bd8997f902e9",
+			"xdb_url": "https://vulncheck.com/xdb/bd8997f902e9",
+			"date_added": "2024-02-22T10:53:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress.git"
+		},
+		{
+			"xdb_id": "bb8a84b010c0",
+			"xdb_url": "https://vulncheck.com/xdb/bb8a84b010c0",
+			"date_added": "2024-05-17T05:23:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:svchostmm/CVE-2024-25600-mass.git"
+		},
+		{
+			"xdb_id": "f8c55bc3fe8e",
+			"xdb_url": "https://vulncheck.com/xdb/f8c55bc3fe8e",
+			"date_added": "2024-02-20T20:16:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "b88a09ceb847",
+			"xdb_url": "https://vulncheck.com/xdb/b88a09ceb847",
+			"date_added": "2024-03-01T09:28:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-25600-EXPLOIT.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/articles/critical-rce-patched-in-bricks-builder-theme/",
+			"date_added": "2024-02-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-02-19T00:00:00Z"
+}

@@ -1,0 +1,49 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Microsoft Internet Explorer contains a memory corruption vulnerability which can allow for remote code execution in the context of the current user.",
+	"vulnerabilityName": "Microsoft Internet Explorer Scripting Engine Memory Corruption Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-1380"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2020-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2020-Aug?api-version=2020",
+			"date_added": "2020-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2020/08/11/microsoft-addresses-rce-and-spoofing-vulnerabilities-under-active",
+			"date_added": "2020-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/ie-and-windows-zero-day-operation-powerfall/97976/",
+			"date_added": "2020-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q2-2021/103517/",
+			"date_added": "2021-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/",
+			"date_added": "2021-08-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2022/11/30/whos-swimming-south-korean-waters-meet-scarcrufts-dolphin/",
+			"date_added": "2022-11-30T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-08-11T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "mlwebtechnologies",
+	"product": "prayercenter",
+	"shortDescription": "SQL Injection exists in the PrayerCenter 3.0.2 component for Joomla! via the sessionid parameter, a different vulnerability than CVE-2008-6429.",
+	"vulnerabilityName": "mlwebtechnologies prayercenter Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-7314"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

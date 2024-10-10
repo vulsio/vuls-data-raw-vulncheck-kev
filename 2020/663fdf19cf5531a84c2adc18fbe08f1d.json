@@ -1,0 +1,27 @@
+{
+	"vendorProject": "micasaverde",
+	"product": "veralite_firmware",
+	"shortDescription": "The HomeAutomationGateway service in MiCasaVerde VeraLite with firmware 1.5.408 allows (1) remote attackers to execute arbitrary Lua code via a RunLua action in a request to upnp/control/hag on port 49451 or (2) remote authenticated users to execute arbitrary Lua code via a RunLua action in a request to port_49451/upnp/control/hag.",
+	"vulnerabilityName": "micasaverde veralite_firmware Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-4863"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "527893ef5ba2",
+			"xdb_url": "https://vulncheck.com/xdb/527893ef5ba2",
+			"date_added": "2016-10-12T13:30:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jacob-baines/veralite_upnp_exploit_poc.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

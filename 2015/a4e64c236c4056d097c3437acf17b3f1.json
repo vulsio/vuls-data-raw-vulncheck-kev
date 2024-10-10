@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player contains an integer underflow vulnerability that allows a remote attacker to execute arbitrary code.",
+	"vulnerabilityName": "Adobe Flash Player Integer Underflow Vulnerablity",
+	"required_action": "The impacted product is end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue utilization of the product.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-0497"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/darkhotels-attacks-in-2015/71713/",
+			"date_added": "2015-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.scribd.com/document/516749423/inzimam-2019-ijca-919742",
+			"date_added": "2019-12-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-10-08T00:00:00Z",
+	"cisa_date_added": "2024-09-17T00:00:00Z",
+	"date_added": "2015-07-21T00:00:00Z"
+}

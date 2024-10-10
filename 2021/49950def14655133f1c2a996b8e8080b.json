@@ -31,8 +31,209 @@
 			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2021-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2021-Mar?api-version=2020",
+			"date_added": "2021-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybereason.com/blog/research/prometei-botnet-exploiting-microsoft-exchange-vulnerabilities",
+			"date_added": "2021-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://socprime.com/blog/prometei-botnet-exploits-unpatched-microsoft-exchange-vulnerabilities-for-propagation/",
+			"date_added": "2021-04-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.bilibili.com/read/cv17634838",
+			"date_added": "2022-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2021/03/15/dearcry-ransomware-attacks-exploit-exchange-server-vulnerabilities/",
+			"date_added": "2021-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/black-kingdom-ransomware/102873/",
+			"date_added": "2021-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
+			"date_added": "2021-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/22/j/lv-ransomware-exploits-proxyshell-in-attack.html",
+			"date_added": "2022-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://ransomware.org/blog/initial-access-vectors-for-ransomware/",
+			"date_added": "2022-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/security/blog/2022/09/07/profiling-dev-0270-phosphorus-ransomware-operations/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackcat",
+			"date_added": "2022-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cuba-ransomware/110533/",
+			"date_added": "2023-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers",
+			"date_added": "2021-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://www.volexity.com/blog/2021/03/02/active-exploitation-of-microsoft-exchange-zero-day-vulnerabilities/",
+			"date_added": "2021-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2021/03/02/microsoft-releases-out-band-security-updates-exchange-server",
+			"date_added": "2021-03-02T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa21-062a",
+			"date_added": "2021-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/falcon-complete-stops-microsoft-exchange-server-zero-day-exploits/",
+			"date_added": "2021-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2021/03/detection-response-to-exploitation-of-microsoft-exchange-zero-day-vulnerabilities.html",
+			"date_added": "2021-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/",
+			"date_added": "2021-03-10T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/microsoft-exchange-servers-apt-attack/164695/",
+			"date_added": "2021-03-11T00:00:00Z"
+		},
+		{
+			"url": "https://securityscorecard.com/blog/microsoft-exchange-attack-surface-was-smaller-and-more-targeted-than-previously-thought",
+			"date_added": "2021-03-15T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa21-062a",
+			"date_added": "2021-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-209a",
+			"date_added": "2021-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://threatpost.com/famoussparrow-spy-hotels-governments/174948/",
+			"date_added": "2021-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-013.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://verfassungsschutz.thueringen.de/fileadmin/Verfassungsschutz/Spionage/BfV_Cyber-Brief_Nr__2022_01_pdf.pdf",
+			"date_added": "2022-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/01/11/understanding-and-mitigating-russian-state-sponsored-cyber-threats-us",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-011a",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-011a",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-117a",
+			"date_added": "2022-04-28T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/witchetty-steganography-espionage",
+			"date_added": "2022-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-277a",
+			"date_added": "2022-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-279a",
+			"date_added": "2022-10-06T00:00:00Z"
+		},
+		{
+			"url": "https://medium.com/@DCSO_CyTec/apt41-the-spy-who-failed-to-encrypt-me-24fc0f49cad1",
+			"date_added": "2022-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-215a",
+			"date_added": "2023-08-03T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://redcanary.com/threat-detection-report/trends/vulnerabilities/",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
 	"dueDate": "2021-04-16T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2021-11-03T00:00:00Z"
+	"date_added": "2021-03-02T00:00:00Z"
 }

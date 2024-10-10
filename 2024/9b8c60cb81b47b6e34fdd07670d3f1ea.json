@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Oracle",
+	"product": "weblogic_server",
+	"shortDescription": "Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0 and  14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server.  Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).",
+	"vulnerabilityName": "Oracle WebLogic Server Core Component T3/IIOP Unauthenticated Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-22069"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zscaler.com/blogs/security-research/shining-light-dark-angels-ransomware-group",
+			"date_added": "2024-10-08T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-08T00:00:00Z"
+}

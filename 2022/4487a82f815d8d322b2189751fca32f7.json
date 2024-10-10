@@ -1,0 +1,38 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Exchange Server",
+	"shortDescription": "Microsoft Exchange Server Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft Exchange Server Privilege Escalation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-34470"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ef51c4fc3f61",
+			"xdb_url": "https://vulncheck.com/xdb/ef51c4fc3f61",
+			"date_added": "2021-07-29T23:50:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:technion/CVE-2021-34470scanner.git"
+		},
+		{
+			"xdb_id": "50036bc0bd40",
+			"xdb_url": "https://vulncheck.com/xdb/50036bc0bd40",
+			"date_added": "2024-01-11T14:08:47Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:tmenochet/ADTamper.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-257a",
+			"date_added": "2022-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf",
+			"date_added": "2022-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2022-09-14T00:00:00Z"
+}

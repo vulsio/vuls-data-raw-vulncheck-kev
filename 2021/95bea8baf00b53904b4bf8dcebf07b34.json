@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Untrusted search path vulnerability in Microsoft Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 allows local users to gain privileges via a Trojan horse DLL in the current working directory, leading to DLL loading during Windows Explorer access to the icon of a crafted shortcut, aka \"DLL Planting Remote Code Execution Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows Untrusted Search Path",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-0096"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		}
+	],
+	"date_added": "2021-12-15T00:00:00Z"
+}

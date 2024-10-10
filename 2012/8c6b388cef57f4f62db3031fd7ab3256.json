@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Integer overflow in Microsoft Paint in Windows 2000 SP4, XP SP2 and SP3, and Server 2003 SP2 allows remote attackers to execute arbitrary code via a crafted JPEG (.JPG) file, aka \"MS Paint Integer Overflow Vulnerability.\"",
+	"vulnerabilityName": "MS Paint Integer Overflow Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-0028"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
+			"date_added": "2012-10-18T00:00:00Z"
+		}
+	],
+	"date_added": "2012-10-18T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Stack-based buffer overflow in the RPC interface in the Domain Name System (DNS) Server Service in Microsoft Windows 2000 Server SP 4, Server 2003 SP 1, and Server 2003 SP 2 allows remote attackers to execute arbitrary code via a long zone name containing character constants represented by escape sequences.",
+	"vulnerabilityName": "Microsoft Windows Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2007-1748"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2007/ms07-029",
+			"date_added": "2007-05-08T00:00:00Z"
+		}
+	],
+	"date_added": "2007-05-08T00:00:00Z"
+}

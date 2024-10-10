@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "Moxilla Firefox allows remote attackers to bypass the Same Origin Policy to read arbitrary files or gain privileges.",
+	"vulnerabilityName": "Mozilla Firefox Security Feature Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-4495"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-08-05T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-15T00:00:00Z",
+	"cisa_date_added": "2022-05-25T00:00:00Z",
+	"date_added": "2015-08-05T00:00:00Z"
+}

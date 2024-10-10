@@ -1,0 +1,40 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox and Thunderbird",
+	"shortDescription": "Mozilla Firefox and Thunderbird contain a type confusion vulnerability that can occur when manipulating JavaScript objects due to issues in Array.pop, allowing for an exploitable crash.",
+	"vulnerabilityName": "Mozilla Firefox and Thunderbird Type Confusion Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-11707"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f32e1037e391",
+			"xdb_url": "https://vulncheck.com/xdb/f32e1037e391",
+			"date_added": "2020-04-13T15:11:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:flabbergastedbd/cve-2019-11707.git"
+		},
+		{
+			"xdb_id": "20099b4eda22",
+			"xdb_url": "https://vulncheck.com/xdb/20099b4eda22",
+			"date_added": "2019-08-18T07:41:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vigneshsrao/CVE-2019-11707.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2019-06-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-13T00:00:00Z",
+	"cisa_date_added": "2022-05-23T00:00:00Z",
+	"date_added": "2019-06-18T00:00:00Z"
+}

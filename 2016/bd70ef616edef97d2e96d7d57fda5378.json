@@ -1,0 +1,308 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Race condition in mm/gup.c in the Linux kernel allows local users to escalate privileges.",
+	"vulnerabilityName": "Linux Kernel Race Condition Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-5195"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6b7028face39",
+			"xdb_url": "https://vulncheck.com/xdb/6b7028face39",
+			"date_added": "2022-11-29T09:56:20Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:fei9747/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "a87c371b3f3f",
+			"xdb_url": "https://vulncheck.com/xdb/a87c371b3f3f",
+			"date_added": "2023-08-13T23:28:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Jekyll-Hyde2022/PrivEsc-Linux.git"
+		},
+		{
+			"xdb_id": "91934bafa64f",
+			"xdb_url": "https://vulncheck.com/xdb/91934bafa64f",
+			"date_added": "2022-03-21T08:35:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:gurpreetsinghsaluja/dirtycow.git"
+		},
+		{
+			"xdb_id": "5b410bd6e523",
+			"xdb_url": "https://vulncheck.com/xdb/5b410bd6e523",
+			"date_added": "2023-10-26T01:54:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NguyenCongHaiNam/Research-CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "72416db5c445",
+			"xdb_url": "https://vulncheck.com/xdb/72416db5c445",
+			"date_added": "2023-11-29T03:34:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:EDLLT/CVE-2016-5195-master.git"
+		},
+		{
+			"xdb_id": "277a1d4bf8a2",
+			"xdb_url": "https://vulncheck.com/xdb/277a1d4bf8a2",
+			"date_added": "2016-10-21T15:54:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xlucas/dirtycow.cr.git"
+		},
+		{
+			"xdb_id": "3259770b0ff4",
+			"xdb_url": "https://vulncheck.com/xdb/3259770b0ff4",
+			"date_added": "2022-02-17T11:57:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:th3-5had0w/DirtyCOW-PoC.git"
+		},
+		{
+			"xdb_id": "b05a18448174",
+			"xdb_url": "https://vulncheck.com/xdb/b05a18448174",
+			"date_added": "2019-10-22T07:18:06Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:imust6226/dirtcow.git"
+		},
+		{
+			"xdb_id": "9fe4e31741bf",
+			"xdb_url": "https://vulncheck.com/xdb/9fe4e31741bf",
+			"date_added": "2022-04-08T18:18:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:TotallyNotAHaxxer/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "bbc108f0e2d3",
+			"xdb_url": "https://vulncheck.com/xdb/bbc108f0e2d3",
+			"date_added": "2023-02-08T13:00:27Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LinuxKernelContent/DirtyCow.git"
+		},
+		{
+			"xdb_id": "01d749b64ad1",
+			"xdb_url": "https://vulncheck.com/xdb/01d749b64ad1",
+			"date_added": "2023-04-03T15:44:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:l0veormiss/l0veormiss.github.io.git"
+		},
+		{
+			"xdb_id": "26759f64e421",
+			"xdb_url": "https://vulncheck.com/xdb/26759f64e421",
+			"date_added": "2016-10-21T06:06:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ASRTeam/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "9125928f7603",
+			"xdb_url": "https://vulncheck.com/xdb/9125928f7603",
+			"date_added": "2020-05-12T20:38:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:KaviDk/dirtyCow.git"
+		},
+		{
+			"xdb_id": "69bd3bc492b9",
+			"xdb_url": "https://vulncheck.com/xdb/69bd3bc492b9",
+			"date_added": "2022-06-28T10:08:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:flux10n/dirtycow.git"
+		},
+		{
+			"xdb_id": "2f99e74166ae",
+			"xdb_url": "https://vulncheck.com/xdb/2f99e74166ae",
+			"date_added": "2017-03-18T03:21:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:droidvoider/dirtycow-replacer.git"
+		},
+		{
+			"xdb_id": "770693b60910",
+			"xdb_url": "https://vulncheck.com/xdb/770693b60910",
+			"date_added": "2024-04-05T07:14:07Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ASUKA39/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "cecbca9ee49f",
+			"xdb_url": "https://vulncheck.com/xdb/cecbca9ee49f",
+			"date_added": "2020-12-20T19:17:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:DanielEbert/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "26aa72694109",
+			"xdb_url": "https://vulncheck.com/xdb/26aa72694109",
+			"date_added": "2016-10-22T07:51:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sideeffect42/DirtyCOWTester.git"
+		},
+		{
+			"xdb_id": "f2204b41dd21",
+			"xdb_url": "https://vulncheck.com/xdb/f2204b41dd21",
+			"date_added": "2019-11-26T01:18:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:zakariamaaraki/Dirty-COW-CVE-2016-5195-.git"
+		},
+		{
+			"xdb_id": "d1c17c081d03",
+			"xdb_url": "https://vulncheck.com/xdb/d1c17c081d03",
+			"date_added": "2021-04-16T05:59:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:arttnba3/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "8caaebd2c120",
+			"xdb_url": "https://vulncheck.com/xdb/8caaebd2c120",
+			"date_added": "2024-05-30T13:42:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:B1ackCat/cve-2016-5195-DirtyCOW.git"
+		},
+		{
+			"xdb_id": "3c59fbbe4941",
+			"xdb_url": "https://vulncheck.com/xdb/3c59fbbe4941",
+			"date_added": "2019-08-13T10:38:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "db0cfa39ee2e",
+			"xdb_url": "https://vulncheck.com/xdb/db0cfa39ee2e",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "0eca479a0f12",
+			"xdb_url": "https://vulncheck.com/xdb/0eca479a0f12",
+			"date_added": "2016-10-23T00:16:33Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:gbonacini/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "4275f34a5224",
+			"xdb_url": "https://vulncheck.com/xdb/4275f34a5224",
+			"date_added": "2022-03-07T18:36:50Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:r1is/CVE-2022-0847.git"
+		},
+		{
+			"xdb_id": "10e422584e38",
+			"xdb_url": "https://vulncheck.com/xdb/10e422584e38",
+			"date_added": "2016-10-21T11:19:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:timwr/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "c702394e39a9",
+			"xdb_url": "https://vulncheck.com/xdb/c702394e39a9",
+			"date_added": "2016-11-25T21:08:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:firefart/dirtycow.git"
+		},
+		{
+			"xdb_id": "4d43856ec877",
+			"xdb_url": "https://vulncheck.com/xdb/4d43856ec877",
+			"date_added": "2021-10-06T17:29:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:talsim/root-dirtyc0w.git"
+		},
+		{
+			"xdb_id": "a84cc3ab3f48",
+			"xdb_url": "https://vulncheck.com/xdb/a84cc3ab3f48",
+			"date_added": "2016-10-22T15:25:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:scumjr/dirtycow-vdso.git"
+		},
+		{
+			"xdb_id": "9ab30651140c",
+			"xdb_url": "https://vulncheck.com/xdb/9ab30651140c",
+			"date_added": "2016-12-08T20:48:51+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zhizhou/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "a73a45d1e2d2",
+			"xdb_url": "https://vulncheck.com/xdb/a73a45d1e2d2",
+			"date_added": "2023-03-28T13:56:08+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:TaoLeonis/dirtycow-vdso.git"
+		},
+		{
+			"xdb_id": "31a0aa69cf4c",
+			"xdb_url": "https://vulncheck.com/xdb/31a0aa69cf4c",
+			"date_added": "2020-09-25T09:03:58+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_ljvblfz/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "56a0d9175e82",
+			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
+			"date_added": "2024-01-26T11:08:45+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "b81caecd21a0",
+			"xdb_url": "https://vulncheck.com/xdb/b81caecd21a0",
+			"date_added": "2020-03-14T21:53:51+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "5c3c3322474d",
+			"xdb_url": "https://vulncheck.com/xdb/5c3c3322474d",
+			"date_added": "2020-04-07T09:32:35+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:xiaozhi1314_admin/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "94c11c970613",
+			"xdb_url": "https://vulncheck.com/xdb/94c11c970613",
+			"date_added": "2021-09-12T17:22:23+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:fanych/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "52f1724c803a",
+			"xdb_url": "https://vulncheck.com/xdb/52f1724c803a",
+			"date_added": "2023-12-29T16:11:00+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:benu_yang/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "bbdb7a7979da",
+			"xdb_url": "https://vulncheck.com/xdb/bbdb7a7979da",
+			"date_added": "2022-01-10T16:01:05+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_timwr/CVE-2016-5195.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-10-18T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/new-sophisticated-magento-campaign-xurum-webshell",
+			"date_added": "2023-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf",
+			"date_added": "2024-05-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2016-10-18T00:00:00Z"
+}

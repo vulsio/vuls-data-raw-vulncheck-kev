@@ -346,7 +346,32 @@
 			"clone_ssh_url": "git@gitee.com:vvshuai/CVE-2022-0847.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2022-0825.pdf",
+			"date_added": "2022-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/tortoise-and-malwahare.html",
+			"date_added": "2022-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://thedfirreport.com/wp-content/uploads/2024/03/WordPress-Plugin-Exploit-Leads-to-Godzilla-Web-Shell-Discovery-New-CVE.pdf.pdf",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
+			"date_added": "2024-08-21T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-05-16T00:00:00Z",
 	"cisa_date_added": "2022-04-25T00:00:00Z",
 	"date_added": "2022-04-25T00:00:00Z"

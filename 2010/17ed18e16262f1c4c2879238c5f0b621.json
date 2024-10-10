@@ -1,0 +1,45 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Acrobat and Reader",
+	"shortDescription": "Use-after-free vulnerability in Adobe Acrobat and Reader allows remote attackers to execute code via a crafted PDF file.",
+	"vulnerabilityName": "Adobe Acrobat and Reader Use-After-Free Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2009-4324"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/wham-bam-the-cutwailblackhole-combo/",
+			"date_added": "2012-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/acrobat-javascript-blacklist-framework/",
+			"date_added": "2010-01-20T00:00:00Z"
+		},
+		{
+			"url": "https://citizenlab.ca/wp-content/uploads/2017/05/shadows-in-the-cloud.pdf",
+			"date_added": "2010-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp_ixeshe.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20120907091804/http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp_the_taidoor_campaign.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf",
+			"date_added": "2012-10-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2010-01-20T00:00:00Z"
+}

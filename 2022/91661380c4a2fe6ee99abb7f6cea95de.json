@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:HuskyHacks/ShadowSteal.git"
 		},
 		{
-			"xdb_id": "3995834c206a",
-			"xdb_url": "https://vulncheck.com/xdb/3995834c206a",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "9a45af3ec16c",
 			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
 			"date_added": "2021-07-20T11:35:43Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
+		},
+		{
+			"xdb_id": "3995834c206a",
+			"xdb_url": "https://vulncheck.com/xdb/3995834c206a",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "80999bdcfa69",
@@ -150,8 +150,33 @@
 			"clone_ssh_url": "git@gitlab.com:gvillegas/vsssam.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2022/02/eset_threat_report_t32021.pdf",
+			"date_added": "2022-02-09T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/sidewinder-apt/",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/03/19/activity-of-hacking-group-targeted-financial-industry-in-2023-kor/",
+			"date_added": "2024-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/04/12/activity-of-hacking-group-targeted-financial-industry-in-2023-eng/",
+			"date_added": "2024-04-12T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-02-24T00:00:00Z",
 	"cisa_date_added": "2022-02-10T00:00:00Z",
-	"date_added": "2022-02-10T00:00:00Z"
+	"date_added": "2022-02-09T00:00:00Z"
 }

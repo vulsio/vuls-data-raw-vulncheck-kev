@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Google",
+	"product": "Chromium V8",
+	"shortDescription": "Google Chromium V8 Engine contains an integer overflow vulnerability that allows a remote attacker to potentially exploit heap corruption via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
+	"vulnerabilityName": "Google Chromium V8 Integer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-6065"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e7c218d4bb1a",
+			"xdb_url": "https://vulncheck.com/xdb/e7c218d4bb1a",
+			"date_added": "2021-04-24T12:04:27Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:b1tg/CVE-2018-6065-exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-08T00:00:00Z"
+		},
+		{
+			"url": "https://citizenlab.ca/2019/09/poison-carp-tibetan-groups-targeted-with-1-click-mobile-exploits/",
+			"date_added": "2019-09-24T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-22T00:00:00Z",
+	"cisa_date_added": "2022-06-08T00:00:00Z",
+	"date_added": "2019-09-24T00:00:00Z"
+}

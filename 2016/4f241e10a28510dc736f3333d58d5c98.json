@@ -1,0 +1,233 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SMBv1",
+	"shortDescription": "The SMBv1 server in multiple Microsoft Windows versions allows remote attackers to execute arbitrary code via crafted packets.",
+	"vulnerabilityName": "Microsoft SMBv1 Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-0144"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "72e1c61d88d7",
+			"xdb_url": "https://vulncheck.com/xdb/72e1c61d88d7",
+			"date_added": "2019-06-02T03:41:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kimocoder/eternalblue.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.alibabacloud.com/blog/threat-alert-multiple-cryptocurrency-miner-botnets-start-to-exploit-the-new-thinkphp-vulnerability_594369",
+			"date_added": "2019-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/19/f/blacksquid-slithers-into-servers-and-drives-with-8-notorious-exploits-to-drop-xmrig-miner.html",
+			"date_added": "2019-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://s.tencent.com/research/report/737.html",
+			"date_added": "2019-06-11T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/prometei-botnet-and-its-quest-for-monero/",
+			"date_added": "2020-07-22T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/",
+			"date_added": "2020-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/vulnerabilities-threat-research/2022/01/06/emotet-re-emerges-with-help-from-trickbot",
+			"date_added": "2022-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",
+			"date_added": "2022-04-21T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/",
+			"date_added": "2023-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/16/d/lesson-patching-rise-samsam-crypto-ransomware.html",
+			"date_added": "2016-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf",
+			"date_added": "2017-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://minerva-labs.com/post/uiwix-evasive-ransomware-exploiting-eternalblue",
+			"date_added": "2017-05-18T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/TA17-181A",
+			"date_added": "2017-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/vulnerabilities-and-exploits/2017-notable-vulnerabilities-and-exploits",
+			"date_added": "2017-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",
+			"date_added": "2020-02-25T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/cyber-hygiene-ransomware-is-causing-critical-care-disruption-in-hospitals.html",
+			"date_added": "2020-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.bd.com/bulletins-and-patches/ryuk-ransomware",
+			"date_added": "2020-10-30T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.pathfactory.com/assets/10753/contents/298161/03f15d14-01bb-462b-a8d4-d8c6149f5604.pdf",
+			"date_added": "2021-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.qualys.com/product-tech/2021/10/05/assess-risk-ransomware-attacks-qualys-research",
+			"date_added": "2021-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://digital.nhs.uk/cyber-alerts/2017/cc-1353",
+			"date_added": "2017-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/global-outbreak-wanacryptor/",
+			"date_added": "2017-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.secureworks.com/blog/wcry-ransomware-campaign",
+			"date_added": "2017-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://blog.checkpoint.com/research/brokers-shadows-analyzing-vulnerabilities-attacks-spawned-leaked-nsa-hacking-tools/",
+			"date_added": "2017-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://auscert.org.au/publications/major-security-incidents/2017-05-13-wannacry-ransomware-incident/",
+			"date_added": "2017-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/ncas/alerts/TA17-181A",
+			"date_added": "2018-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/fastcash-lazarus-atm-malware",
+			"date_added": "2018-11-08T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/apt-trends-report-q2-2019/91897/",
+			"date_added": "2019-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2020/06/ESET_InvisiMole.pdf",
+			"date_added": "2020-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://cloudsek.com/threatintelligence/north-korean-threat-group-apt38-threat-intel-advisory/",
+			"date_added": "2021-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-1/",
+			"date_added": "2021-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://paratusgroup.ru/en/blog/cybersecurity-and-its-role/",
+			"date_added": "2021-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/wp-content/uploads/2021/12/eset_jumping_the_air_gap_wp.pdf",
+			"date_added": "2021-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/martinchlumecky/dirtymoe-5/",
+			"date_added": "2022-03-16T00:00:00Z"
+		},
+		{
+			"url": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2023/11/09055246/Modern-Asian-APT-groups-TTPs_report_eng.pdf",
+			"date_added": "2023-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.horizon3.ai/wp-content/uploads/2024/03/Proactive_Cybersecurity_Unleashed.pdf",
+			"date_added": "2024-03-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security/a-year-in-review-with-akamai-hunt",
+			"date_added": "2024-04-03T00:00:00Z"
+		},
+		{
+			"url": "https://services.google.com/fh/files/misc/m-trends-2024.pdf",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-kimsuky/",
+			"date_added": "2024-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://notes.netbytesec.com/2024/10/lemonduck-unleashes-cryptomining.html",
+			"date_added": "2024-10-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-10T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2016-04-22T00:00:00Z"
+}

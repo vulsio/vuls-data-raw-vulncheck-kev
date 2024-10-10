@@ -1,0 +1,23 @@
+{
+	"vendorProject": "webnus",
+	"product": "modern_events_calendar_lite",
+	"shortDescription": "The Modern Events Calendar Lite WordPress plugin before 6.1.5 does not sanitise and escape the time parameter before using it in a SQL statement in the mec_load_single_page AJAX action, available to unauthenticated users, leading to an unauthenticated SQL injection issue",
+	"vulnerabilityName": "webnus modern_events_calendar_lite Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24946"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/modern-events-calendar-lite/wordpress-modern-events-calendar-lite-plugin-6-1-0-unauthenticated-blind-sql-injection-sqli-vulnerability",
+			"date_added": "2021-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
+			"date_added": "2022-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2021-11-15T00:00:00Z"
+}

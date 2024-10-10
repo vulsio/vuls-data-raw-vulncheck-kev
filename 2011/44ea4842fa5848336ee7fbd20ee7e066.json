@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The Ancillary Function Driver (AFD) in afd.sys in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly validate user-mode input, which allows local users to gain privileges via a crafted application, aka \"Ancillary Function Driver Elevation of Privilege Vulnerability.\"",
+	"vulnerabilityName": "Ancillary Function Driver Elevation of Privilege Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-1249"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2864639bfda3",
+			"xdb_url": "https://vulncheck.com/xdb/2864639bfda3",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2011/ms11-046",
+			"date_added": "2011-06-30T00:00:00Z"
+		}
+	],
+	"date_added": "2011-06-30T00:00:00Z"
+}

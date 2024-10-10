@@ -1,0 +1,129 @@
+{
+	"vendorProject": "Exim",
+	"product": "Mail Transfer Agent (MTA)",
+	"shortDescription": "Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.",
+	"vulnerabilityName": "Exim Mail Transfer Agent (MTA) Improper Input Validation",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-10149"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "eeb36c51b81d",
+			"xdb_url": "https://vulncheck.com/xdb/eeb36c51b81d",
+			"date_added": "2021-07-29T16:44:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Stick-U235/CVE-2019-10149-Exploit.git"
+		},
+		{
+			"xdb_id": "12238eca37ff",
+			"xdb_url": "https://vulncheck.com/xdb/12238eca37ff",
+			"date_added": "2023-10-25T02:25:17Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hyim0810/CVE-2019-10149.git"
+		},
+		{
+			"xdb_id": "ca604e67a881",
+			"xdb_url": "https://vulncheck.com/xdb/ca604e67a881",
+			"date_added": "2019-09-05T20:04:14Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Chris-dev1/exim.exp.git"
+		},
+		{
+			"xdb_id": "ca73aedc1e14",
+			"xdb_url": "https://vulncheck.com/xdb/ca73aedc1e14",
+			"date_added": "2019-06-13T23:21:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:MNEMO-CERT/PoC--CVE-2019-10149_Exim.git"
+		},
+		{
+			"xdb_id": "16dc2d42770c",
+			"xdb_url": "https://vulncheck.com/xdb/16dc2d42770c",
+			"date_added": "2019-10-27T01:03:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Diefunction/CVE-2019-10149.git"
+		},
+		{
+			"xdb_id": "1a1f3a4ff3c8",
+			"xdb_url": "https://vulncheck.com/xdb/1a1f3a4ff3c8",
+			"date_added": "2019-10-21T08:13:27Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:darsigovrustam/CVE-2019-10149.git"
+		},
+		{
+			"xdb_id": "49992cce5b1c",
+			"xdb_url": "https://vulncheck.com/xdb/49992cce5b1c",
+			"date_added": "2019-06-27T01:34:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:AzizMea/CVE-2019-10149-privilege-escalation.git"
+		},
+		{
+			"xdb_id": "2e73af25d4a9",
+			"xdb_url": "https://vulncheck.com/xdb/2e73af25d4a9",
+			"date_added": "2024-09-06T16:21:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:qlusec/CVE-2019-10149.git"
+		},
+		{
+			"xdb_id": "20346f31ab54",
+			"xdb_url": "https://vulncheck.com/xdb/20346f31ab54",
+			"date_added": "2017-07-12T14:40:55Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0xdea/exploits.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sonicwall.com/en-us/2019/12/top-cves-exploited-in-the-wild-in-the-year-2019/",
+			"date_added": "2019-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2020/May/28/2002306626/-1/-1/0/CSA%20Sandworm%20Actors%20Exploiting%20Vulnerability%20in%20Exim%20Transfer%20Agent%2020200528.pdf",
+			"date_added": "2020-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2020/May/28/2002306626/-1/-1/0/CSA-Sandworm-Actors-Exploiting-Vulnerability-in-Exim-Transfer-Agent-20200528.pdf",
+			"date_added": "2020-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/current-activity/2020/05/28/nsa-releases-advisory-sandworm-actors-exploiting-exim",
+			"date_added": "2020-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/news-events/alerts/2020/05/28/nsa-releases-advisory-sandworm-actors-exploiting-exim-vulnerability",
+			"date_added": "2020-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/ncas/alerts/aa20-296a",
+			"date_added": "2020-10-22T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-296a",
+			"date_added": "2020-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2022/01/11/understanding-and-mitigating-russian-state-sponsored-cyber-threats-us",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-011a",
+			"date_added": "2022-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-011a",
+			"date_added": "2022-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf",
+			"date_added": "2024-04-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-07-10T00:00:00Z",
+	"cisa_date_added": "2022-01-10T00:00:00Z",
+	"date_added": "2019-12-27T00:00:00Z"
+}

@@ -1,0 +1,33 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Ancillary Function Driver (afd.sys)",
+	"shortDescription": "afd.sys in the Ancillary Function Driver in Microsoft Windows does not properly validate user-mode input passed to kernel mode, which allows local users to gain privileges via a crafted application.",
+	"vulnerabilityName": "Microsoft Ancillary Function Driver (afd.sys) Improper Input Validation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-2005"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f986d5f654bf",
+			"xdb_url": "https://vulncheck.com/xdb/f986d5f654bf",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-28T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
+			"date_added": "2016-04-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-18T00:00:00Z",
+	"cisa_date_added": "2022-03-28T00:00:00Z",
+	"date_added": "2016-04-01T00:00:00Z"
+}

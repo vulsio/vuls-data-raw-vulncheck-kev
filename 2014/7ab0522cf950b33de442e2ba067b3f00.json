@@ -1,0 +1,41 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows NDProxy.sys in the kernel contains an improper input validation vulnerability which can allow a local attacker to escalate privileges.",
+	"vulnerabilityName": "Microsoft Windows Kernel Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2013-5065"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://learn.microsoft.com/en-us/security-updates/securitybulletins/2014/ms14-002",
+			"date_added": "2014-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/the-epic-turla-operation/65545/",
+			"date_added": "2014-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://strapi.eurepoc.eu/uploads/Eu_Repo_C_APT_profile_Turla_c9c7d8ed38.pdf",
+			"date_added": "2022-12-15T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2014-01-14T00:00:00Z"
+}

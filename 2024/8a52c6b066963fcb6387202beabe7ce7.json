@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Zoho",
+	"product": "manageengine_opmanager",
+	"shortDescription": "Zoho ManageEngine OpManager before 12.5.329 allows unauthenticated Remote Code Execution due to a general bypass in the deserialization class.",
+	"vulnerabilityName": "Zoho manageengine_opmanager Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-3287"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-13&host_type=src&vulnerability=cve-2021-3287",
+			"date_added": "2024-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2021-3287",
+			"date_added": "2024-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-13&host_type=src&vulnerability=cve-2021-3287",
+			"date_added": "2024-09-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-13T00:00:00Z"
+}

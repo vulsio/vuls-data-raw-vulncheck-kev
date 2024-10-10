@@ -31,8 +31,97 @@
 			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2023-27532.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://blogs.blackberry.com/en/2023/08/cuba-ransomware-deploys-new-tools-targets-critical-infrastructure-sector-in-the-usa-and-it-integrator-in-latin-america",
+			"date_added": "2023-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2023/12/21/akira-again-the-ransomware-that-keeps-on-taking/",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2023-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2024-0321.pdf",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://blog.talosintelligence.com/talos-ir-quarterly-trends-q1-2024/",
+			"date_added": "2024-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
+			"date_added": "2023-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html",
+			"date_added": "2023-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/estate-ransomware/",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/qilin-revisited/",
+			"date_added": "2024-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/07/26/the-activities-summary-of-ransomware-threat-actors-in-2023-kor/",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/tracking-ransomware-july-2024/",
+			"date_added": "2024-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/08/21/summary-of-ransomware-threat-actor-activity-in-2023-eng/",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/09/19/summary-of-ransomware-threat-actor-activity-in-2023-jpn/",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/publications/fin7-target-veeam-servers",
+			"date_added": "2023-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://thehackernews.com/2023/05/notorious-cyber-gang-fin7-returns-cl0p.html",
+			"date_added": "2023-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
+			"date_added": "2023-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://blog.sekoia.io/sekoia-io-mid-2023-ransomware-threat-landscape",
+			"date_added": "2023-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://25491742.fs1.hubspotusercontent-eu1.net/hubfs/25491742/WAZAWAKA_TLPCLEAR_Report.pdf",
+			"date_added": "2023-12-20T00:00:00Z"
+		},
+		{
+			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/GlobalThreatReport2024.pdf",
+			"date_added": "2024-02-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/",
+			"date_added": "2024-09-10T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-09-12T00:00:00Z",
 	"cisa_date_added": "2023-08-22T00:00:00Z",
-	"date_added": "2023-08-22T00:00:00Z"
+	"date_added": "2023-04-26T00:00:00Z"
 }

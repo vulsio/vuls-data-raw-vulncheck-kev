@@ -1,0 +1,19 @@
+{
+	"vendorProject": "freepbx",
+	"product": "freepbx",
+	"shortDescription": "htdocs_ari/includes/login.php in the ARI Framework module/Asterisk Recording Interface (ARI) in FreePBX before 2.9.0.9, 2.10.x, and 2.11 before 2.11.1.5 allows remote attackers to execute arbitrary code via the ari_auth cookie, related to the PHP unserialize function, as exploited in the wild in September 2014.",
+	"vulnerabilityName": "freepbx freepbx Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-7235"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2014-7235",
+			"date_added": "2014-10-07T00:00:00Z"
+		}
+	],
+	"date_added": "2014-10-07T00:00:00Z"
+}

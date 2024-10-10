@@ -1,0 +1,19 @@
+{
+	"vendorProject": "PHP",
+	"product": "PHP",
+	"shortDescription": "Buffer overflow in the com_print_typeinfo function in PHP 5.4.3 and earlier on Windows allows remote attackers to execute arbitrary code via crafted arguments that trigger incorrect handling of COM object VARIANT types, as exploited in the wild in May 2012.",
+	"vulnerabilityName": "PHP PHP Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2012-2376"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2012-2376",
+			"date_added": "2012-05-21T00:00:00Z"
+		}
+	],
+	"date_added": "2012-05-21T00:00:00Z"
+}

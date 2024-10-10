@@ -1,0 +1,19 @@
+{
+	"vendorProject": "learndash",
+	"product": "learndash",
+	"shortDescription": "The LearnDash LMS plugin for WordPress is vulnerable to Insecure Direct Object References in versions up to, and including, 4.6.0. This is due to the plugin providing user-controlled access to objects, letting a user bypass authorization and access system resources. This makes it possible for attackers with with existing account access at any level, to change user passwords and potentially take over administrator accounts.",
+	"vulnerabilityName": "LearnDash LMS plugin for WordPress Insecure Direct Object References Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3105"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sfwd-lms/learndash-lms-460-authenticated-subscriber-insecure-direct-object-reference-to-arbitrary-user-password-change",
+			"date_added": "2023-06-27T00:00:00Z"
+		}
+	],
+	"date_added": "2023-06-27T00:00:00Z"
+}

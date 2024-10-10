@@ -1,0 +1,34 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "script_security",
+	"shortDescription": "A sandbox bypass vulnerability exists in Script Security Plugin 1.49 and earlier in src/main/java/org/jenkinsci/plugins/scriptsecurity/sandbox/groovy/GroovySandbox.java that allows attackers with the ability to provide sandboxed scripts to execute arbitrary code on the Jenkins master JVM.",
+	"vulnerabilityName": "Script Security Plugin Sandboxed Script Execution Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-1003000"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "de51fcf4903b",
+			"xdb_url": "https://vulncheck.com/xdb/de51fcf4903b",
+			"date_added": "2019-02-15T05:59:24Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:adamyordan/cve-2019-1003000-jenkins-rce-poc.git"
+		},
+		{
+			"xdb_id": "c796372de90d",
+			"xdb_url": "https://vulncheck.com/xdb/c796372de90d",
+			"date_added": "2019-04-24T23:52:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1NTheKut/CVE-2019-1003000_RCE-DETECTION.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-december-2019",
+			"date_added": "2020-01-31T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-31T00:00:00Z"
+}

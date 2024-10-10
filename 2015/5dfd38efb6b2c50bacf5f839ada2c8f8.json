@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "win32k.sys in the kernel-mode drivers in Microsoft Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, and Windows RT Gold and 8.1 allows local users to gain privileges or cause a denial of service (NULL pointer dereference) via a crafted application, aka \"Win32k Elevation of Privilege Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Windows NULL Pointer Dereference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-0003"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2019d62d30fc",
+			"xdb_url": "https://vulncheck.com/xdb/2019d62d30fc",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2015/11/shifu-rise-self-destructive-banking-trojan",
+			"date_added": "2015-11-02T00:00:00Z"
+		}
+	],
+	"date_added": "2015-11-02T00:00:00Z"
+}

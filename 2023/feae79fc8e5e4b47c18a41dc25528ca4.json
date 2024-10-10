@@ -31,8 +31,17 @@
 			"clone_ssh_url": "git@github.com:R0rt1z2/CVE-2022-38181.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-03-30T00:00:00Z"
+		},
+		{
+			"url": "https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/",
+			"date_added": "2023-03-29T00:00:00Z"
+		}
+	],
 	"dueDate": "2023-04-20T00:00:00Z",
 	"cisa_date_added": "2023-03-30T00:00:00Z",
-	"date_added": "2023-03-30T00:00:00Z"
+	"date_added": "2023-03-29T00:00:00Z"
 }

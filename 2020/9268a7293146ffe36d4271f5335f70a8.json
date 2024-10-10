@@ -1,0 +1,60 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "Jenkins Stapler Web Framework",
+	"shortDescription": "A code execution vulnerability exists in the Stapler web framework used by Jenkins",
+	"vulnerabilityName": "Jenkins Stapler Web Framework Deserialization of Untrusted Data Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2018-1000861"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0fa5309130e4",
+			"xdb_url": "https://vulncheck.com/xdb/0fa5309130e4",
+			"date_added": "2023-09-13T18:52:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:smokeintheshell/CVE-2018-1000861.git"
+		},
+		{
+			"xdb_id": "456a6baaa89d",
+			"xdb_url": "https://vulncheck.com/xdb/456a6baaa89d",
+			"date_added": "2019-04-24T23:52:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:1NTheKut/CVE-2019-1003000_RCE-DETECTION.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-10T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
+			"date_added": "2020-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2020/rudeminer-blacksquid-and-lucifer-walk-into-a-bar/",
+			"date_added": "2020-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-sysrv-botnet-and-how-it-evolved/",
+			"date_added": "2021-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
+			"date_added": "2022-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-08-10T00:00:00Z",
+	"cisa_date_added": "2022-02-10T00:00:00Z",
+	"date_added": "2020-06-24T00:00:00Z"
+}

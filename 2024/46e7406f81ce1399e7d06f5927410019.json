@@ -1,0 +1,50 @@
+{
+	"vendorProject": "thinkadmin",
+	"product": "thinkadmin",
+	"shortDescription": "ThinkAdmin v6 is affected by a directory traversal vulnerability. An unauthorized attacker can read arbitrarily file on a remote server via GET request encode parameter.",
+	"vulnerabilityName": "thinkadmin thinkadmin Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-25540"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1489d74cdbea",
+			"xdb_url": "https://vulncheck.com/xdb/1489d74cdbea",
+			"date_added": "2022-03-09T13:08:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Rajchowdhury420/ThinkAdmin-CVE-2020-25540.git"
+		},
+		{
+			"xdb_id": "e93468a91b57",
+			"xdb_url": "https://vulncheck.com/xdb/e93468a91b57",
+			"date_added": "2024-07-11T07:59:52Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:simonlee-hello/CVE-2020-25540.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-21&host_type=src&vulnerability=cve-2020-25540",
+			"date_added": "2024-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-10&host_type=src&vulnerability=cve-2020-25540",
+			"date_added": "2024-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-11&host_type=src&vulnerability=cve-2020-25540",
+			"date_added": "2024-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2020-25540",
+			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-12&host_type=src&vulnerability=cve-2020-25540",
+			"date_added": "2024-09-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-21T00:00:00Z"
+}

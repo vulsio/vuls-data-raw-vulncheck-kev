@@ -80,7 +80,60 @@
 			"clone_ssh_url": "git@github.com:sanan2004/CVE-2022-27925.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-08-11T00:00:00Z"
+		},
+		{
+			"url": "https://socradar.io/threat-actor-profile-bianlian-the-shape-shifting-ransomware-group/",
+			"date_added": "2023-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-q3-2023-report/",
+			"date_added": "2023-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://cyberint.com/blog/research/ransomware-trends-and-statistics-2023-report/",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20230318134256/https://unit42.paloaltonetworks.com/network-security-trends-aug-oct-2022/",
+			"date_added": "2023-01-12T00:00:00Z"
+		},
+		{
+			"url": "https://assets.sentinelone.com/wt-reports/watchtower_2022_eoy",
+			"date_added": "2023-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-001.pdf",
+			"date_added": "2023-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa22-228a",
+			"date_added": "2023-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf",
+			"date_added": "2023-02-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa23-278a",
+			"date_added": "2023-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-09-01T00:00:00Z",
 	"cisa_date_added": "2022-08-11T00:00:00Z",
 	"date_added": "2022-08-11T00:00:00Z"

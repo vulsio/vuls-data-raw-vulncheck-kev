@@ -1,0 +1,19 @@
+{
+	"vendorProject": "opensuse",
+	"product": "leap",
+	"shortDescription": "The AliasHandler component in PostfixAdmin before 3.0.2 allows remote authenticated domain admins to delete protected aliases via the delete parameter to delete.php, involving a missing permission check.",
+	"vulnerabilityName": "opensuse leap Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-5930"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.ic3.gov/Media/News/2022/220126.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		}
+	],
+	"date_added": "2022-01-26T00:00:00Z"
+}

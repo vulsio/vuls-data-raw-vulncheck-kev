@@ -1,0 +1,39 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Internet Explorer",
+	"shortDescription": "Use-after-free vulnerability in the Peer Objects component (aka iepeers.dll) in Microsoft Internet Explorer 6, 6 SP1, and 7 allows remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object, as exploited in the wild in March 2010, aka \"Uninitialized Memory Corruption Vulnerability.\"",
+	"vulnerabilityName": "Microsoft Internet Explorer iepeers.dll Uninitialized Memory Corruption",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-0806"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/monthly-malware-statistics-may-2010/36304/",
+			"date_added": "2010-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cybercrime-raiders/36323/",
+			"date_added": "2010-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
+			"date_added": "2013-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20150108035644/https://www.fireeye.com/blog/threat-research/2014/09/forced-to-adapt-xslcmd-backdoor-now-on-os-x.html",
+			"date_added": "2014-09-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/04/29/top-30-targeted-high-risk-vulnerabilities",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.us-cert.gov/ncas/alerts/TA15-119A",
+			"date_added": "2016-09-29T00:00:00Z"
+		}
+	],
+	"date_added": "2010-06-03T00:00:00Z"
+}

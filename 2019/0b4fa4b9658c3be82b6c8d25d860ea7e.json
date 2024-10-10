@@ -1,0 +1,63 @@
+{
+	"vendorProject": "Joomla!",
+	"product": "Joomla!",
+	"shortDescription": "Joomla! 1.5.x, 2.x, and 3.x before 3.4.6 allow remote attackers to conduct PHP object injection attacks and execute arbitrary PHP code via the HTTP User-Agent header, as exploited in the wild in December 2015.",
+	"vulnerabilityName": "Joomla! Joomla! Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-8562"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "78c8cc0252ba",
+			"xdb_url": "https://vulncheck.com/xdb/78c8cc0252ba",
+			"date_added": "2017-09-17T15:03:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VoidSec/Joomla_CVE-2015-8562.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-18&host_type=src&vulnerability=cve-2015-8562",
+			"date_added": "2023-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-18&host_type=src&vulnerability=cve-2015-8562",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-22&host_type=src&vulnerability=cve-2015-8562",
+			"date_added": "2023-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2015-8562",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2015-8562",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-sysrv-botnet-and-how-it-evolved/",
+			"date_added": "2021-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
+			"date_added": "2022-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-july-2019",
+			"date_added": "2019-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/Security%20Quarterly%20Report.pdf",
+			"date_added": "2021-06-02T00:00:00Z"
+		}
+	],
+	"date_added": "2019-08-28T00:00:00Z"
+}

@@ -1,0 +1,34 @@
+{
+	"vendorProject": "siteeditor",
+	"product": "site_editor",
+	"shortDescription": "A Local File Inclusion vulnerability in the Site Editor plugin through 1.1.1 for WordPress allows remote attackers to retrieve arbitrary files via the ajax_path parameter to editor/extensions/pagebuilder/includes/ajax_shortcode_pattern.php, aka absolute path traversal.",
+	"vulnerabilityName": "siteeditor site_editor Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-7422"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "bcdd6092f636",
+			"xdb_url": "https://vulncheck.com/xdb/bcdd6092f636",
+			"date_added": "2018-11-09T14:42:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2018-7422.git"
+		},
+		{
+			"xdb_id": "ee0a8a694cfd",
+			"xdb_url": "https://vulncheck.com/xdb/ee0a8a694cfd",
+			"date_added": "2022-12-06T20:23:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:JacobEbben/CVE-2018-7422.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

@@ -1,0 +1,35 @@
+{
+	"vendorProject": "phpMyAdmin",
+	"product": "phpMyAdmin",
+	"shortDescription": "An issue was discovered in phpMyAdmin 4.8.x before 4.8.2, in which an attacker can include (view and potentially execute) files on the server. The vulnerability comes from a portion of code where pages are redirected and loaded within phpMyAdmin, and an improper test for whitelisted pages. An attacker must be authenticated, except in the \"$cfg['AllowArbitraryServer'] = true\" case (where an attacker can specify any host he/she is already in control of, and execute arbitrary code on phpMyAdmin) and the \"$cfg['ServerDefault'] = 0\" case (which bypasses the login requirement and runs the vulnerable code without any authentication).",
+	"vulnerabilityName": "phpMyAdmin phpMyAdmin Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-12613"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1bf5460a7dbe",
+			"xdb_url": "https://vulncheck.com/xdb/1bf5460a7dbe",
+			"date_added": "2018-11-09T14:10:20Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2018-12613.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/zerobot-new-go-based-botnet-campaign-targets-multiple-vulnerabilities",
+			"date_added": "2022-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://blog.netlab.360.com/new-ddos-botnet-wszeor/",
+			"date_added": "2022-12-07T00:00:00Z"
+		},
+		{
+			"url": "https://fortiguard.fortinet.com/threat-signal-report/4926/new-zerobot-variant-exploits-additional-vulnerabilities-for-propagation",
+			"date_added": "2022-12-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-06T00:00:00Z"
+}

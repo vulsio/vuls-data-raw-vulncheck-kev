@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Jenkins",
+	"product": "Script Security Plugin",
+	"shortDescription": "Jenkins Script Security Plugin contains a protection mechanism failure, allowing an attacker to bypass the sandbox.",
+	"vulnerabilityName": "Jenkins Script Security Plugin Sandbox Bypass Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-1003029"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.lacework.com/blog/spytech-necro-keksecs-latest-python-malware/",
+			"date_added": "2021-10-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-16T00:00:00Z",
+	"cisa_date_added": "2022-04-25T00:00:00Z",
+	"date_added": "2021-10-13T00:00:00Z"
+}

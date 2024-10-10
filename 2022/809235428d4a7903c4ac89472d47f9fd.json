@@ -17,7 +17,16 @@
 			"clone_ssh_url": "git@github.com:vah13/SAP_exploit.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://onapsis.com/blog/three-actively-exploited-sap-vulnerabilities-identified-onapsis-research-labs",
+			"date_added": "2022-06-09T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-06-30T00:00:00Z",
 	"cisa_date_added": "2022-06-09T00:00:00Z",
 	"date_added": "2022-06-09T00:00:00Z"

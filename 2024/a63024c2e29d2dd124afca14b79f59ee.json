@@ -17,6 +17,10 @@
 		{
 			"url": "https://api.msrc.microsoft.com/cvrf/2024-Oct?api-version=2020",
 			"date_added": "2024-10-08T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-43572",
+			"date_added": "2024-10-08T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-29T00:00:00Z",

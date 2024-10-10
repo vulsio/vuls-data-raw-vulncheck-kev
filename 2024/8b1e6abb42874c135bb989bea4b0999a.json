@@ -101,8 +101,269 @@
 			"clone_ssh_url": "git@github.com:geniuszlyy/GenCrushSSTIExploit.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-14&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-15&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-16&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-21&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-27&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-28&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-30&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-05-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-05&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-09&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-11&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-12&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-13&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-18&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-21&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-24&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-28&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-01&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-02&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-03&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-04&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-05&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-08&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-11&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-12&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-13&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-22&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-23&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-26&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-29&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-01&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-02&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-05&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-06&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-09&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-10&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-12&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-15&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-16&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-20&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-21&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-02&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-03&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-07&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-13&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-14&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-19&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-21&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-22&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-25&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-26&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-28&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-02&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-10-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2024-10-04T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-attacks-rebound",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://www.reddit.com/r/crowdstrike/comments/1c88788/situational_awareness_20240419_crushftp_virtual/",
+			"date_added": "2024-04-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/04/23/etr-unauthenticated-crushftp-zero-day-enables-complete-server-compromise/",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/20oYjlmfXa/cve-2024-4040#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
+			"date_added": "2024-09-26T00:00:00Z"
+		}
+	],
 	"dueDate": "2024-05-01T00:00:00Z",
 	"cisa_date_added": "2024-04-24T00:00:00Z",
-	"date_added": "2024-04-24T00:00:00Z"
+	"date_added": "2024-04-19T00:00:00Z"
 }

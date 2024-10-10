@@ -178,8 +178,493 @@
 			"clone_ssh_url": "git@github.com:helloexp/0day.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-19&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-24&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-11-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-12&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-13&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-14&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-16&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-17&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-21&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-22&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-23&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-12-29&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2023-12-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-16&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-21&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-01-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-31&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-01&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-02-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-05&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-02-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-12&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-02-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-22&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-02-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-29&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-02-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-01&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-03&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-11&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-13&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-24&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-27&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-31&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-02&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-06&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-07&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-12&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-19&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-21&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-23&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-04-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-06&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-07&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-17&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-23&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-25&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-26&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-27&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-28&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-03&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-13&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-14&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-16&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-17&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-19&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-25&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-27&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-28&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-30&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-06-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-01&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-02&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-03&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-04&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-05&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-06&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-07&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-08&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-09&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-10&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-11&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-12&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-13&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-14&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-15&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-16&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-17&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-19&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-21&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-23&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-25&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-07-28&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-07-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-07&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-10&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-12&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-14&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-16&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-21&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-22&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-25&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-08-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-01&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-02&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-03&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-04&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-05&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-06&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-10&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-11&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-11T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-18&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-24&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-25&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-26&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-29&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-03&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-10-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-04&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-10-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
+			"date_added": "2022-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/microsoft-sysrv-botnet-targets-windows-linux-servers-with-new-exploits/",
+			"date_added": "2022-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.malwarebytes.com/blog/news/2022/05/sysrv-botnet-is-out-to-mine-monero-on-your-windows-and-linux-servers",
+			"date_added": "2022-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/rapidly-evolving-iot-malware-enemybot-now-targeting-content-management-system-servers",
+			"date_added": "2022-05-26T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
+			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
+			"date_added": "2022-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://cujo.com/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
+			"date_added": "2023-04-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/2024-ddos-attack-trends",
+			"date_added": "2024-07-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
+			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
+			"date_added": "2024-09-19T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-06-06T00:00:00Z",
 	"cisa_date_added": "2022-05-16T00:00:00Z",
-	"date_added": "2022-05-16T00:00:00Z"
+	"date_added": "2022-04-27T00:00:00Z"
 }

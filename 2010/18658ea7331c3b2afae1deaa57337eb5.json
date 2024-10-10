@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "linux",
+	"shortDescription": "The passwd.php3 CGI script in the Red Hat Piranha Virtual Server Package allows local users to execute arbitrary commands via shell metacharacters.",
+	"vulnerabilityName": "Red Hat linux Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2000-0322"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://packetstormsecurity.com/files/86303/RedHat-Piranha-Virtual-Server-Package-passwd.php3-Arbitrary-Command-Execution.html",
+			"date_added": "2010-02-15T00:00:00Z"
+		}
+	],
+	"date_added": "2010-02-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apache",
+	"product": "olingo",
+	"shortDescription": "The XML content type entity deserializer in Apache Olingo versions 4.0.0 to 4.6.0 is not configured to deny the resolution of external entities. Request with content type \"application/xml\", which trigger the deserialization of entities, can be used to trigger XXE attacks.",
+	"vulnerabilityName": "Apache olingo Improper Restriction of XML External Entity Reference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-17554"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
+			"date_added": "2021-04-12T00:00:00Z"
+		}
+	],
+	"date_added": "2021-04-12T00:00:00Z"
+}

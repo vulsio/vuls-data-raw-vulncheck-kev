@@ -1,0 +1,111 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows Server Message Block 1.0 (SMBv1) contains an unspecified vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft Windows Server Message Block (SMBv1) Remote Code Execution Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-0143"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "7747a27fc61c",
+			"xdb_url": "https://vulncheck.com/xdb/7747a27fc61c",
+			"date_added": "2021-07-08T17:35:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NyxByt3/MS17-010_CVE-2017-0143.git"
+		},
+		{
+			"xdb_id": "3e4890416f69",
+			"xdb_url": "https://vulncheck.com/xdb/3e4890416f69",
+			"date_added": "2022-12-15T19:25:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fanicia/security-notes.git"
+		},
+		{
+			"xdb_id": "5a99b35253e9",
+			"xdb_url": "https://vulncheck.com/xdb/5a99b35253e9",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2017-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.govcert.ch/blog/severe-ransomware-attacks-against-swiss-smes/",
+			"date_added": "2019-05-09T00:00:00Z"
+		},
+		{
+			"url": "https://us-cert.cisa.gov/sites/default/files/FactSheets/NCCIC%20ICS_FactSheet_WannaCry_Ransomware_S508C.pdf",
+			"date_added": "2017-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://cyware.com/news/satan-ransomware-an-overview-of-the-ransomwares-variants-and-exploits-35acecd3",
+			"date_added": "2019-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20220227045141/https://risksense.com/wp-content/uploads/2019/09/RiskSense-Spotlight-Report-Ransomware.pdf",
+			"date_added": "2019-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/cyber-hygiene-ransomware-is-causing-critical-care-disruption-in-hospitals.html",
+			"date_added": "2020-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/affiliates-cookbook-firsthand-peek-into-operations-and-tradecraft-of-conti",
+			"date_added": "2021-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.securin.io/articles/all-about-conti-ransomware/",
+			"date_added": "2022-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://digital.nhs.uk/cyber-alerts/2017/cc-1353",
+			"date_added": "2017-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/from-nsa-exploit-to-widespread-ransomware-wannacry-is-on-the-loose-26847",
+			"date_added": "2017-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/threat-research/silence_moving-into-the-darkside.pdf",
+			"date_added": "2018-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/buckeye-windows-zero-day-exploit",
+			"date_added": "2019-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://cyware.com/blog/apt10-a-chinese-hacking-group-targeting-managed-service-providers-through-spear-phishing-8da0",
+			"date_added": "2019-07-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-133a",
+			"date_added": "2020-05-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.bitdefender.com/files/News/CaseStudies/study/429/2023-IoT-Security-Landscape-Report.pdf",
+			"date_added": "2023-04-25T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2017-03-14T00:00:00Z"
+}

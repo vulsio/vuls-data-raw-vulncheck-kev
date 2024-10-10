@@ -1,0 +1,19 @@
+{
+	"vendorProject": "nuuo",
+	"product": "nvrmini_2",
+	"shortDescription": "cgi-bin/cgi_main in NUUO NVRmini 2 1.7.6 through 3.0.0 and NETGEAR ReadyNAS Surveillance 1.1.2 allows remote authenticated users to execute arbitrary commands via shell metacharacters in the sn parameter to the transfer_license command.",
+	"vulnerabilityName": "nuuo nvrmini_2 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-5679"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20200319160240/https://labs.bitdefender.com/2020/01/hold-my-beer-mirai-spinoff-named-liquorbot-incorporates-cryptomining/",
+			"date_added": "2020-01-08T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-08T00:00:00Z"
+}

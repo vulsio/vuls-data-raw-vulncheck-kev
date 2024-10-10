@@ -1,0 +1,27 @@
+{
+	"vendorProject": "openmrs",
+	"product": "openmrs",
+	"shortDescription": "OpenMRS before 2.24.0 is affected by an Insecure Object Deserialization vulnerability that allows an unauthenticated user to execute arbitrary commands on the targeted system via crafted XML data in a request body.",
+	"vulnerabilityName": "openmrs openmrs Deserialization of Untrusted Data",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-19276"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ed34846a059d",
+			"xdb_url": "https://vulncheck.com/xdb/ed34846a059d",
+			"date_added": "2019-03-11T21:28:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mpgn/CVE-2018-19276.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/iot-vulnerabilities-mirai-payloads/",
+			"date_added": "2020-10-14T00:00:00Z"
+		}
+	],
+	"date_added": "2020-10-14T00:00:00Z"
+}

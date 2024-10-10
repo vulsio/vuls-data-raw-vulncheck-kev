@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "Adobe Flash Player before 9.0.289.0 and 10.x before 10.1.102.64 on Windows, Mac OS X, Linux, and Solaris and 10.1.95.1 on Android, and authplay.dll (aka AuthPlayLib.bundle or libauthplay.so.0.0.0) in Adobe Reader and Acrobat 9.x through 9.4, allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption and application crash) via crafted SWF content, as exploited in the wild in October 2010.",
+	"vulnerabilityName": "Adobe Flash Player Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2010-3654"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://documents.trendmicro.com/assets/wp/wp_luckycat_redux.pdf",
+			"date_added": "2012-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurity.att.com/blogs/labs-research/new-sykipot-developments",
+			"date_added": "2013-03-21T00:00:00Z"
+		}
+	],
+	"date_added": "2012-01-01T00:00:00Z"
+}

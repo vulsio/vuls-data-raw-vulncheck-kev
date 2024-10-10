@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "A certain ActiveX control in WkImgSrv.dll 7.03.0616.0, as distributed in Microsoft Works 7 and Microsoft Office 2003 and 2007, allows remote attackers to execute arbitrary code or cause a denial of service (browser crash) via an invalid WksPictureInterface property value, which triggers an improper function call.",
+	"vulnerabilityName": "Microsoft Office Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2008-1898"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20110827052151/http://community.websense.com/blogs/securitylabs/archive/2011/04/21/presley-walker-google-image-search-results-poisoned.aspx",
+			"date_added": "2011-04-21T00:00:00Z"
+		}
+	],
+	"date_added": "2011-04-21T00:00:00Z"
+}

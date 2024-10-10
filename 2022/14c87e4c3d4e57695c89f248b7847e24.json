@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wp_visitor_statistics_\\(real_time_traffic\\)_project",
+	"product": "wp_visitor_statistics_\\(real_time_traffic\\)",
+	"shortDescription": "The WP Visitor Statistics (Real Time Traffic) WordPress plugin before 4.8 does not properly sanitise and escape the refUrl in the refDetails AJAX action, available to any authenticated user, which could allow users with a role as low as subscriber to perform SQL injection attacks",
+	"vulnerabilityName": "wp_visitor_statistics_\\(real_time_traffic\\)_project wp_visitor_statistics_\\(real_time_traffic\\) Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24750"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://unit42.paloaltonetworks.com/network-security-trends-cross-site-scripting/",
+			"date_added": "2022-05-31T00:00:00Z"
+		}
+	],
+	"date_added": "2022-05-31T00:00:00Z"
+}

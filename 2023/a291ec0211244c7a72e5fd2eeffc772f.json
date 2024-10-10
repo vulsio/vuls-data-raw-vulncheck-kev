@@ -1,6 +1,6 @@
 {
-	"vendorProject": "",
-	"product": "Microsoft",
+	"vendorProject": "Microsoft",
+	"product": "Windows",
 	"shortDescription": "",
 	"vulnerabilityName": "",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

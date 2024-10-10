@@ -1,0 +1,19 @@
+{
+	"vendorProject": "rocketsoftware",
+	"product": "rocket_servergraph",
+	"shortDescription": "Directory traversal vulnerability in the Admin Center for Tivoli Storage Manager (TSM) in Rocket ServerGraph 1.2 allows remote attackers to (1) create arbitrary files via a .. (dot dot) in the query parameter in a writeDataFile action to the fileRequestor servlet, execute arbitrary files via a .. (dot dot) in the query parameter in a (2) run or (3) runClear action to the fileRequestor servlet, (4) read arbitrary files via a readDataFile action to the fileRequestor servlet, (5) execute arbitrary code via a save_server_groups action to the userRequest servlet, or (6) delete arbitrary files via a del action in the fileRequestServlet servlet.",
+	"vulnerabilityName": "rocketsoftware rocket_servergraph Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-3914"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"date_added": "2020-12-01T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "userproplugin",
+	"product": "userpro",
+	"shortDescription": "The UserPro plugin for WordPress is vulnerable to sensitive information disclosure via the 'userpro' shortcode in versions up to, and including 5.1.1. This is due to insufficient restriction on sensitive user meta values that can be called via that shortcode. This makes it possible for authenticated attackers, with subscriber-level permissions, and above to retrieve sensitive user meta that can be used to gain access to a high privileged user account.",
+	"vulnerabilityName": "UserPro plugin for WordPress userpro shortcut Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-2446"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/userpro/userpro-511-sensitive-information-disclosure-via-shortcode",
+			"date_added": "2023-11-21T00:00:00Z"
+		}
+	],
+	"date_added": "2023-11-21T00:00:00Z"
+}

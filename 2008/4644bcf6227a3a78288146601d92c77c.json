@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The Graphics Rendering Engine in Microsoft Windows 2000 through 2000 SP4 and Windows XP through SP2 maps GDI Kernel structures on a global shared memory section that is mapped with read-only permissions, but can be remapped by other processes as read-write, which allows local users to cause a denial of service (memory corruption and crash) and gain privileges by modifying the kernel structures.",
+	"vulnerabilityName": "Microsoft Windows Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2006-5758"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://archive.f-secure.com/weblog/archives/00001507",
+			"date_added": "2008-09-26T00:00:00Z"
+		}
+	],
+	"date_added": "2008-09-26T00:00:00Z"
+}

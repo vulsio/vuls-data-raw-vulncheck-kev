@@ -1,0 +1,60 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+	"shortDescription": "A buffer overflow vulnerability in the Simple Network Management Protocol (SNMP) code of Cisco ASA software could allow an attacker to cause a reload of the affected system or to remotely execute code.",
+	"vulnerabilityName": "Cisco Adaptive Security Appliance (ASA) SNMP Buffer Overflow Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-6366"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4d9d31fa7b9e",
+			"xdb_url": "https://vulncheck.com/xdb/4d9d31fa7b9e",
+			"date_added": "2016-09-20T23:19:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:RiskSense-Ops/CVE-2016-6366.git"
+		},
+		{
+			"xdb_id": "b78b17da0cfd",
+			"xdb_url": "https://vulncheck.com/xdb/b78b17da0cfd",
+			"date_added": "2023-09-08T09:54:33+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_RiskSense-Ops/CVE-2016-6366.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-08-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/ncas/alerts/TA16-250A",
+			"date_added": "2016-09-28T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/08/01/recent-email-phishing-campaigns-mitigation-and-response",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.dropbox.com/s/buxkfotx1kei0ce/Whitepaper%20Shadow%20Broker%20-%20Equation%20Group%20Hack.pdf?dl=0",
+			"date_added": "2016-10-05T00:00:00Z"
+		},
+		{
+			"url": "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=a9c54f79-d780-437b-a7f5-a74960e299d5&CommunityKey=8af7f28f-02f1-4107-8639-93a60b6546d4&tab=librarydocuments",
+			"date_added": "2017-06-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2018/03/vb2017-paper-router-all-evil-more-just-default-passwords-and-silly-scripts/",
+			"date_added": "2018-03-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-06-14T00:00:00Z",
+	"cisa_date_added": "2022-05-24T00:00:00Z",
+	"date_added": "2016-08-15T00:00:00Z"
+}

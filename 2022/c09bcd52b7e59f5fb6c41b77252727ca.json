@@ -136,7 +136,12 @@
 			"clone_ssh_url": "git@gitee.com:xdawn/cve-2018-2628-2.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-09-08T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-09-29T00:00:00Z",
 	"cisa_date_added": "2022-09-08T00:00:00Z",
 	"date_added": "2022-09-08T00:00:00Z"

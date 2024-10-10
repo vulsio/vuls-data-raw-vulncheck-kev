@@ -31,7 +31,40 @@
 			"clone_ssh_url": "git@github.com:segfault-it/cve-2022-41352.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/blog/bablock-ransomware/",
+			"date_added": "2023-04-04T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2024-0208.pdf",
+			"date_added": "2024-02-08T00:00:00Z"
+		},
+		{
+			"url": "https://sosintel.co.uk/flash-alert-cves-of-note-being-exploited-in-the-wild/",
+			"date_added": "2023-07-26T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4333/",
+			"date_added": "2024-05-24T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil",
+			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/4527/",
+			"date_added": "2024-07-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-11-10T00:00:00Z",
 	"cisa_date_added": "2022-10-20T00:00:00Z",
 	"date_added": "2022-10-20T00:00:00Z"

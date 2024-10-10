@@ -1,0 +1,124 @@
+{
+	"vendorProject": "Adobe",
+	"product": "Flash Player",
+	"shortDescription": "A use-after-free vulnerability exists within the ActionScript 3 ByteArray class in Adobe Flash Player that allows an attacker to perform remote code execution.",
+	"vulnerabilityName": "Adobe Flash Player Use-After-Free Vulnerability",
+	"required_action": "The impacted product is end-of-life and should be disconnected if still in use.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2015-5119"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5f97b5ae8b1d",
+			"xdb_url": "https://vulncheck.com/xdb/5f97b5ae8b1d",
+			"date_added": "2021-09-19T17:49:56Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Xattam1/Adobe-Flash-Exploits_17-18.git"
+		},
+		{
+			"xdb_id": "74176149f723",
+			"xdb_url": "https://vulncheck.com/xdb/74176149f723",
+			"date_added": "2015-09-10T10:10:36Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:CiscoCXSecurity/CVE-2015-5119_walkthrough.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-07-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.malwarebytes.com/resources/files/2018/06/zerodaybrief.pdf",
+			"date_added": "2018-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/blog/ransomware/why-old-is-gold-for-ransomware.html",
+			"date_added": "2021-04-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://resources.infosecinstitute.com/topic/the-hacking-team-hack-when-hackers-have-become-the-target/",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/15/g/hacking-team-leak-uncovers-another-windows-zero-day-ms-releases-patch.html",
+			"date_added": "2015-07-21T00:00:00Z"
+		},
+		{
+			"url": "https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2015/Aug.10.The_Italian_Connection_An_analysis_of_exploit_supply_chains_and_digital_quartermasters/HTExploitTelemetry.pdf",
+			"date_added": "2015-08-10T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/new-activity-of-the-blue-termite-apt/71876/",
+			"date_added": "2015-08-20T00:00:00Z"
+		},
+		{
+			"url": "https://freebeacon.com/wp-content/uploads/2016/02/Report_lowres.pdf",
+			"date_added": "2016-02-03T00:00:00Z"
+		},
+		{
+			"url": "https://securityaffairs.co/wordpress/47741/cyber-crime/wekby-apt-malware.html",
+			"date_added": "2016-05-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.recordedfuture.com/russian-apt-toolkits",
+			"date_added": "2016-08-04T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2015/08/01/recent-email-phishing-campaigns-mitigation-and-response",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/ncas/alerts/TA15-213A",
+			"date_added": "2016-09-29T00:00:00Z"
+		},
+		{
+			"url": "https://documents.trendmicro.com/assets/appendix-following-the-trail-of-blacktechs-cyber-espionage-campaigns.pdf",
+			"date_added": "2017-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/17/f/following-trail-blacktech-cyber-espionage-campaigns.html",
+			"date_added": "2017-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/",
+			"date_added": "2017-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://web.archive.org/web/20200229012206/https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1574947724.pdf",
+			"date_added": "2019-11-25T00:00:00Z"
+		},
+		{
+			"url": "https://marcoramilli.com/2019/12/05/apt28-attacks-evolution/",
+			"date_added": "2019-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.scribd.com/document/516749423/inzimam-2019-ijca-919742",
+			"date_added": "2019-12-26T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.logpoint.com/wp-content/uploads/2024/06/logpoint-etpr-forest-blizzard.pdf",
+			"date_added": "2024-05-31T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2015-07-05T00:00:00Z"
+}

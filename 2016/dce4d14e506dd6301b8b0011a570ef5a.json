@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Win32k",
+	"shortDescription": "Microsoft Win32k contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Microsoft Win32k Privilege Escalation Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-0165"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2016-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2023-07-13T00:00:00Z",
+	"cisa_date_added": "2023-06-22T00:00:00Z",
+	"date_added": "2016-04-12T00:00:00Z"
+}

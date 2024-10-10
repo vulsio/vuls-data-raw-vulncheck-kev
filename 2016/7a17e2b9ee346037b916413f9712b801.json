@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Oracle",
+	"product": "linux",
+	"shortDescription": "buffer.c in named in ISC BIND 9 before 9.9.9-P3, 9.10.x before 9.10.4-P3, and 9.11.x before 9.11.0rc3 does not properly construct responses, which allows remote attackers to cause a denial of service (assertion failure and daemon exit) via a crafted query.",
+	"vulnerabilityName": "Oracle linux Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-2776"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20170309182143/http://www.npa.go.jp/cyberpolice/topics/?seq=19301",
+			"date_added": "2016-10-05T00:00:00Z"
+		}
+	],
+	"date_added": "2016-10-05T00:00:00Z"
+}

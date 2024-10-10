@@ -59,8 +59,33 @@
 			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2022-21882.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2022-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2022-Jan?api-version=2020",
+			"date_added": "2022-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/38156/",
+			"date_added": "2022-09-01T00:00:00Z"
+		},
+		{
+			"url": "https://raw.githubusercontent.com/blackorbird/APT_REPORT/master/summary/2023/360_APT_Annual_Research_Report_2022.pdf",
+			"date_added": "2023-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
 	"dueDate": "2022-02-18T00:00:00Z",
 	"cisa_date_added": "2022-02-04T00:00:00Z",
-	"date_added": "2022-02-04T00:00:00Z"
+	"date_added": "2022-01-11T00:00:00Z"
 }

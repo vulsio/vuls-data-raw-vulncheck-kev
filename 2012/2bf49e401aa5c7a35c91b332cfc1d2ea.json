@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "The CaseInsensitiveHashProvider.getHashCode function in the HashTable implementation in the ASP.NET subsystem in Microsoft .NET Framework 1.1 SP1, 2.0 SP2, 3.5 SP1, 3.5.1, and 4.0 computes hash values for form parameters without restricting the ability to trigger hash collisions predictably, which allows remote attackers to cause a denial of service (CPU consumption) by sending many crafted parameters, aka \"Collisions in HashTable May Cause DoS Vulnerability.\"",
+	"vulnerabilityName": "Microsoft .NET Framework CaseInsensitiveHashProvider.getHashCode Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2011-3414"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20120304003736/http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/reports/rpt_a-look-back-at-2011_information-is-currency.pdf",
+			"date_added": "2012-01-17T00:00:00Z"
+		}
+	],
+	"date_added": "2012-01-17T00:00:00Z"
+}

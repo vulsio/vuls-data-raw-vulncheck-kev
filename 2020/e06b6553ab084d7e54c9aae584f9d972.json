@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Citrix",
+	"product": "SD-WAN and NetScaler",
+	"shortDescription": "Authenticated Command Injection in Citrix SD-WAN Appliance and NetScaler SD-WAN Appliance.",
+	"vulnerabilityName": "Citrix SD-WAN and NetScaler Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-12991"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.researchgate.net/publication/348602660_An_analysis_of_the_use_of_CVEs_by_IoT_malware",
+			"date_added": "2020-12-01T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-04-15T00:00:00Z",
+	"cisa_date_added": "2022-03-25T00:00:00Z",
+	"date_added": "2020-12-01T00:00:00Z"
+}

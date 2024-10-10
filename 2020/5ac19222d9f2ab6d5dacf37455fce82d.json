@@ -1,0 +1,27 @@
+{
+	"vendorProject": "jquery_file_upload_project",
+	"product": "jquery_file_upload",
+	"shortDescription": "Unauthenticated arbitrary file upload vulnerability in Blueimp jQuery-File-Upload <= v9.22.0",
+	"vulnerabilityName": "jquery_file_upload_project jquery_file_upload Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-9206"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "686936ca9734",
+			"xdb_url": "https://vulncheck.com/xdb/686936ca9734",
+			"date_added": "2018-10-24T20:24:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Stahlz/JQShell.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.imperva.com/blog/crimeops-of-the-kashmirblack-botnet-part-ii/",
+			"date_added": "2020-11-22T00:00:00Z"
+		}
+	],
+	"date_added": "2020-11-22T00:00:00Z"
+}

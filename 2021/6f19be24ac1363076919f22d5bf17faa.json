@@ -24,7 +24,48 @@
 			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2021-44077.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/tiltedtemple-manageengine-servicedesk-plus/",
+			"date_added": "2021-12-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/alerts/2021/12/02/cisa-and-fbi-release-alert-active-exploitation-cve-2021-44077-zoho",
+			"date_added": "2021-12-02T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa21-336a",
+			"date_added": "2021-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2022GTR.pdf",
+			"date_added": "2022-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/sockdetour/",
+			"date_added": "2022-02-24T00:00:00Z"
+		},
+		{
+			"url": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE5bUvv",
+			"date_added": "2022-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.group-ib.com/resources/research-hub/hi-tech-crime-trends-2022/",
+			"date_added": "2021-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2023-1107.pdf",
+			"date_added": "2023-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://redcanary.com/threat-detection-report/trends/vulnerabilities/",
+			"date_added": "2024-03-13T00:00:00Z"
+		}
+	],
 	"dueDate": "2021-12-15T00:00:00Z",
 	"cisa_date_added": "2021-12-01T00:00:00Z",
 	"date_added": "2021-12-01T00:00:00Z"

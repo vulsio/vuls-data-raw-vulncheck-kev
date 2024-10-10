@@ -17,7 +17,48 @@
 			"clone_ssh_url": "git@github.com:fortra/CVE-2024-30051.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-May?api-version=2020",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cve-2024-30051/112618/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/akamai-perspective-patch-tuesday-may-2024#vulnerabilities",
+			"date_added": "2024-05-17T00:00:00Z"
+		},
+		{
+			"url": "https://blog.snapattack.com/hunting-cve-2024-30051-8de021f0cf77",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/08/19/2274f632f6a1d8acd2f1801c24887edb.pdf",
+			"date_added": "2024-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/it-threat-evolution-q2-2024/113669/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-30051",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.zerodayinitiative.com/blog/2024/5/14/the-may-2024-security-update-review",
+			"date_added": "2024-05-14T00:00:00Z"
+		}
+	],
 	"dueDate": "2024-06-04T00:00:00Z",
 	"cisa_date_added": "2024-05-14T00:00:00Z",
 	"date_added": "2024-05-14T00:00:00Z"

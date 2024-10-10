@@ -1,0 +1,19 @@
+{
+	"vendorProject": "icegram",
+	"product": "email_subscribers_\\&_newsletters",
+	"shortDescription": "The WordPress plugin, Email Subscribers & Newsletters, before 4.2.3 had a flaw that allowed unauthenticated file download with user information disclosure.",
+	"vulnerabilityName": "icegram email_subscribers_\\&_newsletters Missing Authorization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-19985"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/email-subscribers/email-subscribers-newsletters-422-unauthenticated-file-download-w-information-disclosure",
+			"date_added": "2019-11-13T00:00:00Z"
+		}
+	],
+	"date_added": "2019-11-13T00:00:00Z"
+}

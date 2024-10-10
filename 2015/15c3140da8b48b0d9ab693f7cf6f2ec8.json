@@ -1,0 +1,65 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Office",
+	"shortDescription": "Microsoft Office allows remote attackers to execute arbitrary code via a crafted EPS image.",
+	"vulnerabilityName": "Microsoft Office Malformed EPS File Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2015-2545"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2015-09-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.fireeye.com/blog/threat-research/2015/12/the_eps_awakens.html",
+			"date_added": "2015-12-16T00:00:00Z"
+		},
+		{
+			"url": "http://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
+			"date_added": "2016-04-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/operation-ke3chang-resurfaces-with-new-tidepool-malware/",
+			"date_added": "2016-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/cve-2015-2545-overview-of-current-threats/74828/",
+			"date_added": "2016-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+			"date_added": "2016-05-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.proofpoint.com/us/threat-insight/post/microsoft-word-intruder-integrates-cve-2017-0199-utilized-cobalt-group-target",
+			"date_added": "2017-06-01T00:00:00Z"
+		},
+		{
+			"url": "https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf",
+			"date_added": "2018-02-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/",
+			"date_added": "2018-08-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.deepwatch.com/blog/profile-of-an-adversary-fin7/",
+			"date_added": "2019-05-13T00:00:00Z"
+		},
+		{
+			"url": "https://dl.acm.org/doi/pdf/10.1145/3465481.3465758",
+			"date_added": "2021-08-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-03-24T00:00:00Z",
+	"cisa_date_added": "2022-03-03T00:00:00Z",
+	"date_added": "2015-09-08T00:00:00Z"
+}

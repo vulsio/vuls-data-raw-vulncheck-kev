@@ -45,8 +45,69 @@
 			"clone_ssh_url": "git@github.com:Crowdfense/CVE-2024-21338.git"
 		}
 	],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Feb?api-version=2020",
+			"date_added": "2024-02-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.sentinelone.com/labs/kryptina-raas-from-unsellable-cast-off-to-enterprise-ransomware/",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21338",
+			"date_added": "2024-02-28T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/luiginocamastra/from-byovd-to-a-0-day-unveiling-advanced-exploits-in-cyber-recruiting-scams/",
+			"date_added": "2024-04-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-quarterly-highlights-q1-2024/",
+			"date_added": "2024-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://decoded.avast.io/threatresearch/avast-q1-2024-threat-report/",
+			"date_added": "2024-05-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-quarterlyhighlights-q2-2024/",
+			"date_added": "2024-07-19T00:00:00Z"
+		},
+		{
+			"url": "https://ti.qianxin.com/uploads/2024/08/19/2274f632f6a1d8acd2f1801c24887edb.pdf",
+			"date_added": "2024-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/",
+			"date_added": "2024-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/apt-profile-kimsuky/",
+			"date_added": "2024-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.gendigital.com/blog/news/innovation/lazarus-fudmodule-v3",
+			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://research.checkpoint.com/2024/breaking-boundaries-investigating-vulnerable-drivers-and-mitigating-risks/",
+			"date_added": "2024-09-30T00:00:00Z"
+		}
+	],
 	"dueDate": "2024-03-25T00:00:00Z",
 	"cisa_date_added": "2024-03-04T00:00:00Z",
-	"date_added": "2024-03-04T00:00:00Z"
+	"date_added": "2024-02-13T00:00:00Z"
 }

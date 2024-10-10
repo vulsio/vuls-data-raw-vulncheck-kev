@@ -1,0 +1,61 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Pulse Connect Secure and Pulse Policy Secure",
+	"shortDescription": "Ivanti Pulse Connect Secure and Policy Secure allows an authenticated attacker from the admin web interface to inject and execute commands.",
+	"vulnerabilityName": "Ivanti Pulse Connect Secure and Policy Secure Command Injection Vulnerability",
+	"required_action": "Apply updates per vendor instructions.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2019-11539"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "35b5c0219071",
+			"xdb_url": "https://vulncheck.com/xdb/35b5c0219071",
+			"date_added": "2019-09-04T13:06:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0xDezzy/CVE-2019-11539.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.esentire.com/security-advisories/ransomware-groups-exploit-remote-access-services",
+			"date_added": "2020-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://cdn.pathfactory.com/assets/10753/contents/298161/03f15d14-01bb-462b-a8d4-d8c6149f5604.pdf",
+			"date_added": "2021-03-05T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/patchwatch/patch-watch-csw-analysis-of-pulse-secure-vulnerabilities.html",
+			"date_added": "2021-05-21T00:00:00Z"
+		},
+		{
+			"url": "https://www.hhs.gov/sites/default/files/revil-update-tlpwhite.pdf",
+			"date_added": "2021-08-19T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert-in.org.in/PDF/RANSOMWARE_Report_2022.pdf",
+			"date_added": "2023-04-22T00:00:00Z"
+		},
+		{
+			"url": "https://cisa.gov/news-events/cybersecurity-advisories/aa20-259a",
+			"date_added": "2020-09-15T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement",
+			"date_added": "2024-04-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2022-05-03T00:00:00Z",
+	"cisa_date_added": "2021-11-03T00:00:00Z",
+	"date_added": "2020-09-15T00:00:00Z"
+}

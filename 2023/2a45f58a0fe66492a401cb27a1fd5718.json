@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows NTLM Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Windows NTLM Elevation of Privilege Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-21746"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "08eae8850638",
+			"xdb_url": "https://vulncheck.com/xdb/08eae8850638",
+			"date_added": "2023-01-04T18:22:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:decoder-it/LocalPotato.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf",
+			"date_added": "2023-09-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-09-18T00:00:00Z"
+}
