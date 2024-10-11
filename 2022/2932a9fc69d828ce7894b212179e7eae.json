@@ -290,18 +290,18 @@
 			"clone_ssh_url": "git@github.com:BobTheShoplifter/Spring4Shell-POC.git"
 		},
 		{
-			"xdb_id": "5978e9609a96",
-			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
-			"date_added": "2023-01-29T01:11:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
-		},
-		{
 			"xdb_id": "697638d15686",
 			"xdb_url": "https://vulncheck.com/xdb/697638d15686",
 			"date_added": "2022-03-26T01:40:04Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:hktalent/spring-spel-0day-poc.git"
+		},
+		{
+			"xdb_id": "5978e9609a96",
+			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
+			"date_added": "2023-01-29T01:11:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
 		},
 		{
 			"xdb_id": "f1130a964b4f",

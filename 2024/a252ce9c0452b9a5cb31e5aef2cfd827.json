@@ -36,6 +36,10 @@
 		{
 			"url": "https://x.com/threatinsight/status/1841089939905134793",
 			"date_added": "2024-10-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/zimbra-collaboration-rce",
+			"date_added": "2024-10-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-24T00:00:00Z",
