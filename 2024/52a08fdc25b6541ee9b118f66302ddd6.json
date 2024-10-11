@@ -41,6 +41,10 @@
 		{
 			"url": "https://www.tenable.com/blog/microsoft-october-2024-patch-tuesday-addresses-117-cves-cve-2024-43572-cve-2024-43573",
 			"date_added": "2024-07-09T00:00:00Z"
+		},
+		{
+			"url": "https://redalert.nshc.net/2024/10/10/monthly-threat-actor-group-intelligence-report-july-2024-eng/",
+			"date_added": "2024-10-10T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-07-30T00:00:00Z",

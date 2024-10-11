@@ -19,7 +19,7 @@
 		{
 			"xdb_id": "e1abb7641447",
 			"xdb_url": "https://vulncheck.com/xdb/e1abb7641447",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-09-08T16:19:29+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:xl1605368195/spring-cloud-config-server.git"
 		}

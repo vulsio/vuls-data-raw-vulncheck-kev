@@ -262,13 +262,6 @@
 			"clone_ssh_url": "git@gitee.com:mibrony/BlueKeep.git"
 		},
 		{
-			"xdb_id": "c67a96a54a2f",
-			"xdb_url": "https://vulncheck.com/xdb/c67a96a54a2f",
-			"date_added": "2020-05-27T11:35:59+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708-1.git"
-		},
-		{
 			"xdb_id": "3785316d7fc5",
 			"xdb_url": "https://vulncheck.com/xdb/3785316d7fc5",
 			"date_added": "2019-05-31T22:11:08+08:00",
@@ -309,6 +302,13 @@
 			"date_added": "2022-01-11T21:46:22+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:mirrors_k8gege/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "c67a96a54a2f",
+			"xdb_url": "https://vulncheck.com/xdb/c67a96a54a2f",
+			"date_added": "2020-05-27T11:35:59+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708-1.git"
 		},
 		{
 			"xdb_id": "3a02e0152437",

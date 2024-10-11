@@ -769,6 +769,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/cyble-honeypot-sensors-detect-d-link-cisco-qnap-and-linux-attacks/",
+			"date_added": "2024-10-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-07-03T00:00:00Z",

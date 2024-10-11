@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Red Hat",
+	"product": "satellite",
+	"shortDescription": "An arithmetic overflow flaw was found in Satellite when creating a new personal access token. This flaw allows an attacker who uses this arithmetic overflow to create personal access tokens that are valid indefinitely, resulting in damage to the system's integrity.",
+	"vulnerabilityName": "Red Hat satellite Insufficient Session Expiration",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2023-4320"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://censys.com/state-of-internet-of-healthcare-things/",
+			"date_added": "2024-10-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-10T00:00:00Z"
+}

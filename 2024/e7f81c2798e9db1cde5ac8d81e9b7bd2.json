@@ -1,0 +1,19 @@
+{
+	"vendorProject": "HP",
+	"product": "pagewide_352dw_j6u57a",
+	"shortDescription": "Certain HP PageWide Pro Printers may be vulnerable to a potential denial of service attack.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-2794"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://media.defense.gov/2024/Oct/09/2003562611/-1/-1/0/CSA-UPDATE-ON-SVR-CYBER-OPS.PDF",
+			"date_added": "2024-10-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-10T00:00:00Z"
+}

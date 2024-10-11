@@ -4,7 +4,7 @@
 	"shortDescription": "A remote command execution (RCE) vulnerability in NextGen Mirth Connect v4.3.0 allows attackers to execute arbitrary commands on the hosting server.",
 	"vulnerabilityName": "nextgen mirth_connect Improper Neutralization of Special Elements used in a Command ('Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2023-37679"
 	],
@@ -369,6 +369,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-09&host_type=src&vulnerability=cve-2023-37679",
 			"date_added": "2024-10-09T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/state-of-internet-of-healthcare-things/",
+			"date_added": "2024-10-10T00:00:00Z"
 		},
 		{
 			"url": "https://x.com/MsftSecIntel/status/1781353319341928668",
