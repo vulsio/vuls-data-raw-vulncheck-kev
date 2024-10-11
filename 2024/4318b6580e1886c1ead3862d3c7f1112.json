@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9707"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/hunk-companion/hunk-companion-184-missing-authorization-to-unauthenticated-arbitrary-plugin-installationactivation",
+			"date_added": "2024-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-11T00:00:00Z"
+}
