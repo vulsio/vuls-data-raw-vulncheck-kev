@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:u0pattern/Remove-IIS-RIIS.git"
 		},
 		{
-			"xdb_id": "cc565f9efdc5",
-			"xdb_url": "https://vulncheck.com/xdb/cc565f9efdc5",
-			"date_added": "2021-07-12T00:37:54Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:N3rdyN3xus/CVE-2015-1635.git"
-		},
-		{
 			"xdb_id": "3de61e4e1dad",
 			"xdb_url": "https://vulncheck.com/xdb/3de61e4e1dad",
 			"date_added": "2021-07-12T00:23:30Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:NyxByt3/CVE-2015-1635-POC.git"
+		},
+		{
+			"xdb_id": "0b9739c5d257",
+			"xdb_url": "https://vulncheck.com/xdb/0b9739c5d257",
+			"date_added": "2021-07-12T00:37:54Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:NyxByt3/CVE-2015-1635.git"
 		},
 		{
 			"xdb_id": "640f8e881740",

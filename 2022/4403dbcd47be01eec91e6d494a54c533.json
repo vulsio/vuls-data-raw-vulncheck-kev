@@ -616,6 +616,10 @@
 			"date_added": "2024-10-04T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-10&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-10-10T00:00:00Z"
+		},
+		{
 			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
 			"date_added": "2022-04-27T00:00:00Z"
 		},
