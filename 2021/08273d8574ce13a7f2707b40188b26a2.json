@@ -360,18 +360,18 @@
 			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
 		},
 		{
-			"xdb_id": "f57f14ebef6c",
-			"xdb_url": "https://vulncheck.com/xdb/f57f14ebef6c",
-			"date_added": "2024-03-23T05:03:44Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sec13b/CVE-2021-44228-POC.git"
-		},
-		{
 			"xdb_id": "9516d10f9dc1",
 			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
 			"date_added": "2021-12-10T23:19:28Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
+		},
+		{
+			"xdb_id": "f57f14ebef6c",
+			"xdb_url": "https://vulncheck.com/xdb/f57f14ebef6c",
+			"date_added": "2024-03-23T05:03:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sec13b/CVE-2021-44228-POC.git"
 		},
 		{
 			"xdb_id": "a57024d99795",

@@ -25,6 +25,10 @@
 		{
 			"url": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-Cloud-Service-Appliance-CSA-CVE-2024-8190",
 			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa",
+			"date_added": "2024-10-11T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-04T00:00:00Z",

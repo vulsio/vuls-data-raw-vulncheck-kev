@@ -19,6 +19,14 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://infosec.exchange/@SophosXOps/113284564225476186",
+			"date_added": "2024-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://digital.nhs.uk/cyber-alerts/2024/cc-4563",
+			"date_added": "2024-10-11T00:00:00Z"
+		},
+		{
 			"url": "https://vulnera.com/newswire/critical-remote-code-execution-vulnerability-detected-in-veeam-backup-replication-software/",
 			"date_added": "2024-09-05T00:00:00Z"
 		},

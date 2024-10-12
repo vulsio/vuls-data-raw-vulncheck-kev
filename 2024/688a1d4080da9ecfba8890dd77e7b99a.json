@@ -1,0 +1,55 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Windows Kernel Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft Windows Time-of-check Time-of-use (TOCTOU) Race Condition",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-30088"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "84d8f14d4ea2",
+			"xdb_url": "https://vulncheck.com/xdb/84d8f14d4ea2",
+			"date_added": "2024-06-27T07:05:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NextGenPentesters/CVE-2024-30088-.git"
+		},
+		{
+			"xdb_id": "3fd3632fa1a2",
+			"xdb_url": "https://vulncheck.com/xdb/3fd3632fa1a2",
+			"date_added": "2024-07-27T10:41:33Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Admin9961/CVE-2024-30088.git"
+		},
+		{
+			"xdb_id": "80c76b2faf7e",
+			"xdb_url": "https://vulncheck.com/xdb/80c76b2faf7e",
+			"date_added": "2024-07-05T16:02:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Zombie-Kaiser/CVE-2024-30088-Windows-poc.git"
+		},
+		{
+			"xdb_id": "8ca084cd8bf8",
+			"xdb_url": "https://vulncheck.com/xdb/8ca084cd8bf8",
+			"date_added": "2024-06-24T10:37:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-30088.git"
+		},
+		{
+			"xdb_id": "30cfb6a2ab0d",
+			"xdb_url": "https://vulncheck.com/xdb/30cfb6a2ab0d",
+			"date_added": "2024-07-15T08:07:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:exploits-forsale/collateral-damage.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks-uae-gulf-regions.html",
+			"date_added": "2024-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-11T00:00:00Z"
+}
