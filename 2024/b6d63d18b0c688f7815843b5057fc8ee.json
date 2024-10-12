@@ -6,14 +6,14 @@
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2024-9707"
+		"CVE-2024-37383"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
-			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/hunk-companion/hunk-companion-184-missing-authorization-to-unauthenticated-arbitrary-plugin-installationactivation",
-			"date_added": "2024-10-11T00:00:00Z"
+			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/dajdzhest-trendovyh-uyazvimostej-sentyabr-2024-goda/",
+			"date_added": "2024-10-09T00:00:00Z"
 		}
 	],
-	"date_added": "2024-10-11T00:00:00Z"
+	"date_added": "2024-10-09T00:00:00Z"
 }

@@ -1,0 +1,31 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-40711"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "1adc56f6da25",
+			"xdb_url": "https://vulncheck.com/xdb/1adc56f6da25",
+			"date_added": "2024-09-15T17:25:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-40711.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://vulnera.com/newswire/critical-remote-code-execution-vulnerability-detected-in-veeam-backup-replication-software/",
+			"date_added": "2024-09-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/dajdzhest-trendovyh-uyazvimostej-sentyabr-2024-goda/",
+			"date_added": "2024-10-09T00:00:00Z"
+		}
+	],
+	"date_added": "2024-09-05T00:00:00Z"
+}
