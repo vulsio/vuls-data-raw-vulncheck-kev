@@ -234,18 +234,18 @@
 			"clone_ssh_url": "git@github.com:aaddmin1122345/cve-2024-4577.git"
 		},
 		{
-			"xdb_id": "d06e30d57aaf",
-			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
-			"date_added": "2024-06-15T02:49:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "e294281b4747",
 			"xdb_url": "https://vulncheck.com/xdb/e294281b4747",
 			"date_added": "2024-09-10T17:31:07Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ywChen-NTUST/PHP-CGI-RCE-Scanner.git"
+		},
+		{
+			"xdb_id": "d06e30d57aaf",
+			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
+			"date_added": "2024-06-15T02:49:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
 		},
 		{
 			"xdb_id": "64046c52ba42",
@@ -283,13 +283,6 @@
 			"clone_ssh_url": "git@github.com:0xPugal/my-nuclei-templates.git"
 		},
 		{
-			"xdb_id": "cc11323372a3",
-			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
-			"date_added": "2024-06-08T13:04:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
-		},
-		{
 			"xdb_id": "4f6effc389cd",
 			"xdb_url": "https://vulncheck.com/xdb/4f6effc389cd",
 			"date_added": "2024-10-04T13:10:19Z",
@@ -323,6 +316,13 @@
 			"date_added": "2024-06-07T05:50:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "cc11323372a3",
+			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
+			"date_added": "2024-06-08T13:04:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -701,6 +701,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-10&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-11&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-10-11T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

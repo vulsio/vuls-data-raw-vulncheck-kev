@@ -935,6 +935,10 @@
 			"date_added": "2024-10-10T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-11&host_type=src&vulnerability=cve-2023-46805",
+			"date_added": "2024-10-11T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation",
 			"date_added": "2024-05-07T00:00:00Z"
 		},

@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:dshabani96/CVE-2024-21413.git"
 		},
 		{
-			"xdb_id": "9d1931bf8b43",
-			"xdb_url": "https://vulncheck.com/xdb/9d1931bf8b43",
-			"date_added": "2024-02-23T12:13:11Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability.git"
-		},
-		{
 			"xdb_id": "7e98d318e5ee",
 			"xdb_url": "https://vulncheck.com/xdb/7e98d318e5ee",
 			"date_added": "2024-05-11T12:28:22Z",
@@ -120,6 +113,13 @@
 			"date_added": "2024-02-15T19:57:38Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:duy-31/CVE-2024-21413.git"
+		},
+		{
+			"xdb_id": "9d1931bf8b43",
+			"xdb_url": "https://vulncheck.com/xdb/9d1931bf8b43",
+			"date_added": "2024-02-23T12:13:11Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
