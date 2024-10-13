@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2020-10826",
+			"date_added": "2024-10-12T00:00:00Z"
+		},
+		{
 			"url": "https://blog.checkpoint.com/security/december-2021s-most-wanted-malware-trickbot-emotet-and-the-log4j-plague/",
 			"date_added": "2022-01-12T00:00:00Z"
 		},

@@ -31,20 +31,6 @@
 			"clone_ssh_url": "git@github.com:luanoliveira350/GameOverlayFS.git"
 		},
 		{
-			"xdb_id": "e23a0ab892f7",
-			"xdb_url": "https://vulncheck.com/xdb/e23a0ab892f7",
-			"date_added": "2023-11-11T14:33:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:k4but0/Ubuntu-LPE.git"
-		},
-		{
-			"xdb_id": "504d2e538afb",
-			"xdb_url": "https://vulncheck.com/xdb/504d2e538afb",
-			"date_added": "2024-05-21T23:39:02Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:K5LK/CVE-2023-2640-32629.git"
-		},
-		{
 			"xdb_id": "128ea6c187b0",
 			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
 			"date_added": "2023-11-09T09:19:23Z",
@@ -64,6 +50,20 @@
 			"date_added": "2023-11-02T20:19:57Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:musorblyat/CVE-2023-2640-CVE-2023-32629.git"
+		},
+		{
+			"xdb_id": "e23a0ab892f7",
+			"xdb_url": "https://vulncheck.com/xdb/e23a0ab892f7",
+			"date_added": "2023-11-11T14:33:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:k4but0/Ubuntu-LPE.git"
+		},
+		{
+			"xdb_id": "504d2e538afb",
+			"xdb_url": "https://vulncheck.com/xdb/504d2e538afb",
+			"date_added": "2024-05-21T23:39:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:K5LK/CVE-2023-2640-32629.git"
 		},
 		{
 			"xdb_id": "388d1cda03e1",

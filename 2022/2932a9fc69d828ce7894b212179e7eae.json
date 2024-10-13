@@ -1388,6 +1388,10 @@
 			"date_added": "2024-10-09T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2022-22965",
+			"date_added": "2024-10-12T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/22/d/cve-2022-22965-analyzing-the-exploitation-of-spring4shell-vulner.html",
 			"date_added": "2022-04-08T00:00:00Z"
 		},

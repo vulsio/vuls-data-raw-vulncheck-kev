@@ -1,0 +1,19 @@
+{
+	"vendorProject": "trendnet",
+	"product": "tew-652brp_firmware",
+	"shortDescription": "A vulnerability, which was classified as critical, has been found in TRENDnet TEW-652BRP 3.04B01. This issue affects some unknown processing of the file get_set.ccp of the component Web Management Interface. The manipulation leads to command injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-219935.",
+	"vulnerabilityName": "trendnet tew-652brp_firmware Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-0611"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2023-0611",
+			"date_added": "2024-10-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-12T00:00:00Z"
+}

@@ -239,6 +239,10 @@
 			"date_added": "2024-10-07T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2017-16959",
+			"date_added": "2024-10-12T00:00:00Z"
+		},
+		{
 			"url": "https://www.forescout.com/resources/state-of-otiot-routers-in-the-software-supply-chain/",
 			"date_added": "2024-08-07T00:00:00Z"
 		}
