@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Veeam",
+	"product": "Veeam Backup & Replication",
+	"shortDescription": "A deserialization of untrusted data vulnerability with a malicious payload can allow an unauthenticated remote code execution (RCE).",
+	"vulnerabilityName": "Veeam Backup & Replication Unauthenticated Remote Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
