@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:sherlocksecurity/VMware-CVE-2022-22954.git"
 		},
 		{
-			"xdb_id": "3cac1b8f8b74",
-			"xdb_url": "https://vulncheck.com/xdb/3cac1b8f8b74",
-			"date_added": "2013-10-01T15:05:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:pedrib/PoC.git"
-		},
-		{
 			"xdb_id": "3129d733dec5",
 			"xdb_url": "https://vulncheck.com/xdb/3129d733dec5",
 			"date_added": "2022-06-03T08:51:44Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:orwagodfather/CVE-2022-22954.git"
+		},
+		{
+			"xdb_id": "3cac1b8f8b74",
+			"xdb_url": "https://vulncheck.com/xdb/3cac1b8f8b74",
+			"date_added": "2013-10-01T15:05:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pedrib/PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
