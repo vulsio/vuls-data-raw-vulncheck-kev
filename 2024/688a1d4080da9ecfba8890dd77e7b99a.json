@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "84d8f14d4ea2",
-			"xdb_url": "https://vulncheck.com/xdb/84d8f14d4ea2",
-			"date_added": "2024-06-27T07:05:46Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:NextGenPentesters/CVE-2024-30088-.git"
-		},
-		{
 			"xdb_id": "3fd3632fa1a2",
 			"xdb_url": "https://vulncheck.com/xdb/3fd3632fa1a2",
 			"date_added": "2024-07-27T10:41:33Z",
@@ -31,11 +24,11 @@
 			"clone_ssh_url": "git@github.com:Zombie-Kaiser/CVE-2024-30088-Windows-poc.git"
 		},
 		{
-			"xdb_id": "8ca084cd8bf8",
-			"xdb_url": "https://vulncheck.com/xdb/8ca084cd8bf8",
-			"date_added": "2024-06-24T10:37:26Z",
+			"xdb_id": "84d8f14d4ea2",
+			"xdb_url": "https://vulncheck.com/xdb/84d8f14d4ea2",
+			"date_added": "2024-06-27T07:05:46Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-30088.git"
+			"clone_ssh_url": "git@github.com:NextGenPentesters/CVE-2024-30088-.git"
 		},
 		{
 			"xdb_id": "30cfb6a2ab0d",
@@ -43,6 +36,13 @@
 			"date_added": "2024-07-15T08:07:05Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:exploits-forsale/collateral-damage.git"
+		},
+		{
+			"xdb_id": "8ca084cd8bf8",
+			"xdb_url": "https://vulncheck.com/xdb/8ca084cd8bf8",
+			"date_added": "2024-06-24T10:37:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-30088.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
