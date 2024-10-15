@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Mozilla",
+	"product": "Firefox",
+	"shortDescription": "Mozilla Firefox and Firefox ESR contain a use-after-free vulnerability in Animation timelines that allows for code execution in the content process.",
+	"vulnerabilityName": "Mozilla Firefox Use-After-Free Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9680"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.mozilla.org/en-US/security/advisories/mfsa2024-51/",
+			"date_added": "2024-10-09T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-11-05T00:00:00Z",
+	"cisa_date_added": "2024-10-15T00:00:00Z",
+	"date_added": "2024-10-09T00:00:00Z"
+}

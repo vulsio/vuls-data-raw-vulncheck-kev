@@ -206,18 +206,18 @@
 			"clone_ssh_url": "git@github.com:Vozec/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "5f45754388ab",
-			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
-			"date_added": "2024-01-29T19:47:17+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
-		},
-		{
 			"xdb_id": "0450095821bb",
 			"xdb_url": "https://vulncheck.com/xdb/0450095821bb",
 			"date_added": "2024-01-29T19:45:24+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:river3587/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "5f45754388ab",
+			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
+			"date_added": "2024-01-29T19:47:17+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
 		},
 		{
 			"xdb_id": "f520f4462657",

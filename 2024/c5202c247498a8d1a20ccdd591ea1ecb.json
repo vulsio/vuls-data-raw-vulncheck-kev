@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Windows",
-	"shortDescription": "Windows Kernel Elevation of Privilege Vulnerability",
-	"vulnerabilityName": "Microsoft Windows Time-of-check Time-of-use (TOCTOU) Race Condition",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"product": "Windows ",
+	"shortDescription": "Microsoft Windows Kernel contains a time-of-check to time-of-use (TOCTOU) race condition vulnerability that could allow for privilege escalation. ",
+	"vulnerabilityName": "Microsoft Windows Kernel TOCTOU Race Condition Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-30088"
@@ -51,5 +51,7 @@
 			"date_added": "2024-10-11T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-11-05T00:00:00Z",
+	"cisa_date_added": "2024-10-15T00:00:00Z",
 	"date_added": "2024-10-11T00:00:00Z"
 }
