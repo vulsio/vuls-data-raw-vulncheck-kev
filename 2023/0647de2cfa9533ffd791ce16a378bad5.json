@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-43798-EXPLOIT.git"
 		},
 		{
-			"xdb_id": "aaf92101142b",
-			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
-			"date_added": "2021-12-07T15:11:34Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
-		},
-		{
 			"xdb_id": "3580302b2997",
 			"xdb_url": "https://vulncheck.com/xdb/3580302b2997",
 			"date_added": "2024-04-24T20:47:29Z",
@@ -185,6 +178,13 @@
 			"clone_ssh_url": "git@github.com:sazzad1337/Grafana-CVE-2021-43798.git"
 		},
 		{
+			"xdb_id": "aaf92101142b",
+			"xdb_url": "https://vulncheck.com/xdb/aaf92101142b",
+			"date_added": "2021-12-07T15:11:34Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
+		},
+		{
 			"xdb_id": "5ef2f8e69303",
 			"xdb_url": "https://vulncheck.com/xdb/5ef2f8e69303",
 			"date_added": "2021-12-07T09:02:16Z",
@@ -199,18 +199,18 @@
 			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-43798-mass_scanner.git"
 		},
 		{
-			"xdb_id": "c0cccaf08786",
-			"xdb_url": "https://vulncheck.com/xdb/c0cccaf08786",
-			"date_added": "2021-12-10T06:05:32Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitlab.com:bybsecs/Grafana_POC-CVE-2021-43798.git"
-		},
-		{
 			"xdb_id": "2a0d639ed860",
 			"xdb_url": "https://vulncheck.com/xdb/2a0d639ed860",
 			"date_added": "2021-12-10T06:10:26Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitlab.com:bybsecs/CVE-2021-43798-Grafana-Exp.git"
+		},
+		{
+			"xdb_id": "c0cccaf08786",
+			"xdb_url": "https://vulncheck.com/xdb/c0cccaf08786",
+			"date_added": "2021-12-10T06:05:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitlab.com:bybsecs/Grafana_POC-CVE-2021-43798.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -437,6 +437,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2021-43798",
 			"date_added": "2024-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-14&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2024-10-14T00:00:00Z"
 		},
 		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
