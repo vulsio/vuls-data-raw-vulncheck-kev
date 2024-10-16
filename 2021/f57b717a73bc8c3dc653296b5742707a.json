@@ -171,18 +171,18 @@
 			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "35724c55fdc0",
-			"xdb_url": "https://vulncheck.com/xdb/35724c55fdc0",
-			"date_added": "2021-03-19T10:07:18+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3129.git"
-		},
-		{
 			"xdb_id": "ef7d2df1ab88",
 			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
 			"date_added": "2021-09-17T12:51:18+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/cve-2021-3129-1.git"
+		},
+		{
+			"xdb_id": "35724c55fdc0",
+			"xdb_url": "https://vulncheck.com/xdb/35724c55fdc0",
+			"date_added": "2021-03-19T10:07:18+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3129.git"
 		},
 		{
 			"xdb_id": "fcb02bd261db",
