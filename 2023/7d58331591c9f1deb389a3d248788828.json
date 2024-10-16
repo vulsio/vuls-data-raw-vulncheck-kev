@@ -4,7 +4,7 @@
 	"shortDescription": "Adobe ColdFusion contains a deserialization of untrusted data vulnerability that allows for code execution.",
 	"vulnerabilityName": "Adobe ColdFusion Deserialization of Untrusted Data Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
-	"knownRansomwareCampaignUse": "Unknown",
+	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2023-29300"
 	],

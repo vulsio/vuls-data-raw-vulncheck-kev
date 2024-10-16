@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "5a912a811eae",
-			"xdb_url": "https://vulncheck.com/xdb/5a912a811eae",
-			"date_added": "2024-09-01T10:59:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-7954-RCE.git"
-		},
-		{
 			"xdb_id": "072d11b86eb1",
 			"xdb_url": "https://vulncheck.com/xdb/072d11b86eb1",
 			"date_added": "2024-08-28T14:54:56Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-7954.git"
+		},
+		{
+			"xdb_id": "23ea2959c4ac",
+			"xdb_url": "https://vulncheck.com/xdb/23ea2959c4ac",
+			"date_added": "2024-08-10T20:15:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-7954.git"
 		},
 		{
 			"xdb_id": "61aa1623c7a2",
@@ -38,11 +38,11 @@
 			"clone_ssh_url": "git@github.com:TheCyberguy-17/RCE_CVE-2024-7954.git"
 		},
 		{
-			"xdb_id": "23ea2959c4ac",
-			"xdb_url": "https://vulncheck.com/xdb/23ea2959c4ac",
-			"date_added": "2024-08-10T20:15:41Z",
+			"xdb_id": "5a912a811eae",
+			"xdb_url": "https://vulncheck.com/xdb/5a912a811eae",
+			"date_added": "2024-09-01T10:59:45Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-7954.git"
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-7954-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

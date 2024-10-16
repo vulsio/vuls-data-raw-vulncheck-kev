@@ -17,20 +17,6 @@
 			"clone_ssh_url": "git@github.com:UMU618/CVE-2024-21338.git"
 		},
 		{
-			"xdb_id": "0c0b9d5ca67d",
-			"xdb_url": "https://vulncheck.com/xdb/0c0b9d5ca67d",
-			"date_added": "2024-06-23T06:03:44Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-21338_PoC.git"
-		},
-		{
-			"xdb_id": "0319939c028f",
-			"xdb_url": "https://vulncheck.com/xdb/0319939c028f",
-			"date_added": "2024-04-23T19:09:22Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:varwara/CVE-2024-21338.git"
-		},
-		{
 			"xdb_id": "d4686f78dfae",
 			"xdb_url": "https://vulncheck.com/xdb/d4686f78dfae",
 			"date_added": "2024-07-29T13:18:06Z",
@@ -38,11 +24,25 @@
 			"clone_ssh_url": "git@github.com:Crowdfense/CVE-2024-21338.git"
 		},
 		{
+			"xdb_id": "0c0b9d5ca67d",
+			"xdb_url": "https://vulncheck.com/xdb/0c0b9d5ca67d",
+			"date_added": "2024-06-23T06:03:44Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-21338_PoC.git"
+		},
+		{
 			"xdb_id": "b1beae9b4cef",
 			"xdb_url": "https://vulncheck.com/xdb/b1beae9b4cef",
 			"date_added": "2024-04-13T05:53:02Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:hakaioffsec/CVE-2024-21338.git"
+		},
+		{
+			"xdb_id": "0319939c028f",
+			"xdb_url": "https://vulncheck.com/xdb/0319939c028f",
+			"date_added": "2024-04-23T19:09:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:varwara/CVE-2024-21338.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -105,6 +105,10 @@
 		{
 			"url": "https://research.checkpoint.com/2024/breaking-boundaries-investigating-vulnerable-drivers-and-mitigating-risks/",
 			"date_added": "2024-09-30T00:00:00Z"
+		},
+		{
+			"url": "https://dam.tenable.com/23e27766-3065-4904-95d7-b1fe015e7d59/tenable-cloud-risk-report-2024.pdf",
+			"date_added": "2024-10-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-03-25T00:00:00Z",
