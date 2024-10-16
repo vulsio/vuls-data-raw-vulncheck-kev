@@ -21,6 +21,10 @@
 		{
 			"url": "https://patchstack.com/database/vulnerability/download-monitor/wordpress-download-monitor-plugin-4-7-60-sensitive-data-exposure-vulnerability",
 			"date_added": "2023-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-monitor/download-monitor-4760-sensitive-information-exposure-via-rest-api",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"date_added": "2023-05-10T00:00:00Z"
