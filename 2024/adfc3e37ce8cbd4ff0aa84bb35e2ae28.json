@@ -220,18 +220,18 @@
 			"clone_ssh_url": "git@github.com:aaddmin1122345/cve-2024-4577.git"
 		},
 		{
-			"xdb_id": "d06e30d57aaf",
-			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
-			"date_added": "2024-06-15T02:49:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "e294281b4747",
 			"xdb_url": "https://vulncheck.com/xdb/e294281b4747",
 			"date_added": "2024-09-10T17:31:07Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ywChen-NTUST/PHP-CGI-RCE-Scanner.git"
+		},
+		{
+			"xdb_id": "d06e30d57aaf",
+			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
+			"date_added": "2024-06-15T02:49:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
 		},
 		{
 			"xdb_id": "64046c52ba42",
@@ -297,11 +297,11 @@
 			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "cc11323372a3",
-			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
-			"date_added": "2024-06-08T13:04:45Z",
+			"xdb_id": "acfef3dab7ab",
+			"xdb_url": "https://vulncheck.com/xdb/acfef3dab7ab",
+			"date_added": "2024-06-08T12:23:35Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
+			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
 		},
 		{
 			"xdb_id": "912529ac004f",
@@ -311,18 +311,18 @@
 			"clone_ssh_url": "git@github.com:huseyinstif/CVE-2024-4577-Nuclei-Template.git"
 		},
 		{
-			"xdb_id": "acfef3dab7ab",
-			"xdb_url": "https://vulncheck.com/xdb/acfef3dab7ab",
-			"date_added": "2024-06-08T12:23:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ZephrFish/CVE-2024-4577-PHP-RCE.git"
-		},
-		{
 			"xdb_id": "5d63cc33def4",
 			"xdb_url": "https://vulncheck.com/xdb/5d63cc33def4",
 			"date_added": "2024-06-07T09:51:39Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:11whoami99/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "cc11323372a3",
+			"xdb_url": "https://vulncheck.com/xdb/cc11323372a3",
+			"date_added": "2024-06-08T13:04:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:xcanwin/CVE-2024-4577-PHP-RCE.git"
 		},
 		{
 			"xdb_id": "5a6770491004",
@@ -724,6 +724,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-14&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-10-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-15&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-10-15T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

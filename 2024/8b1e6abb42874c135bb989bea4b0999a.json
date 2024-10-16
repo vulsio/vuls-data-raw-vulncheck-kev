@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:airbus-cert/CVE-2024-4040.git"
 		},
 		{
-			"xdb_id": "6e43a515753d",
-			"xdb_url": "https://vulncheck.com/xdb/6e43a515753d",
-			"date_added": "2024-09-18T04:45:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:safeer-accuknox/CrushFTP-cve-2024-4040-poc.git"
-		},
-		{
 			"xdb_id": "c046e180c9e7",
 			"xdb_url": "https://vulncheck.com/xdb/c046e180c9e7",
 			"date_added": "2024-04-30T13:27:34Z",
@@ -99,6 +92,13 @@
 			"date_added": "2024-04-25T19:51:38Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-4040-SSTI-LFI-PoC.git"
+		},
+		{
+			"xdb_id": "6e43a515753d",
+			"xdb_url": "https://vulncheck.com/xdb/6e43a515753d",
+			"date_added": "2024-09-18T04:45:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:safeer-accuknox/CrushFTP-cve-2024-4040-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

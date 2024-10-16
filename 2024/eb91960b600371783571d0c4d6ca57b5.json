@@ -1,0 +1,19 @@
+{
+	"vendorProject": "riello-ups",
+	"product": "netman_204_firmware",
+	"shortDescription": "Improper neutralization of special elements results in a SQL Injection vulnerability in Riello Netman 204. It is only limited to the SQLite database of measurement data.This issue affects Netman 204: through 4.05.",
+	"vulnerabilityName": "riello-ups netman_204_firmware Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8877"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-15&host_type=src&vulnerability=cve-2024-8877",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}
