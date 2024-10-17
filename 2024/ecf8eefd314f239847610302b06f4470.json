@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "VMware",
+	"product": "ESXi/Workstation/Fusion",
+	"shortDescription": "VMware ESXi, Workstation, and Fusion contain an information disclosure vulnerability in the UHCI USB controller. A malicious actor with administrative access to a virtual machine may be able to exploit this issue to leak memory from the vmx process.",
+	"vulnerabilityName": "VMware ESXi, Workstation, and Fusion UHCI USB Controller Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [

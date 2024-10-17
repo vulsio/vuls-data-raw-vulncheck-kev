@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "VMware",
+	"product": "ESXi",
+	"shortDescription": "VMware ESXi contains an out-of-bounds write vulnerability. A malicious actor with privileges within the VMX process may trigger an out-of-bounds write leading to an escape of the sandbox.",
+	"vulnerabilityName": "VMware ESXi Out-of-bounds Write Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [

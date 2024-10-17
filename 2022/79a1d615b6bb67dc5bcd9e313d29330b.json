@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:WyAtu/CVE-2018-8581.git"
 		},
 		{
-			"xdb_id": "3d3434d62f82",
-			"xdb_url": "https://vulncheck.com/xdb/3d3434d62f82",
-			"date_added": "2018-06-06T22:30:00Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:thezdi/PoC.git"
-		},
-		{
 			"xdb_id": "7730cd30a582",
 			"xdb_url": "https://vulncheck.com/xdb/7730cd30a582",
 			"date_added": "2019-01-24T06:08:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Ridter/Exchange2domain.git"
+		},
+		{
+			"xdb_id": "3d3434d62f82",
+			"xdb_url": "https://vulncheck.com/xdb/3d3434d62f82",
+			"date_added": "2018-06-06T22:30:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thezdi/PoC.git"
 		},
 		{
 			"xdb_id": "276c34c7f74f",
