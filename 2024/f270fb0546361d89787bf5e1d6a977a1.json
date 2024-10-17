@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-22254"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://medium.com/s2wblog/ransomware-landscape-in-h1-2024-statistics-and-key-issues-b7502d9f4068",
+			"date_added": "2024-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-11T00:00:00Z"
+}

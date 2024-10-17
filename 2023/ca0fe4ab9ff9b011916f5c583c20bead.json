@@ -115,6 +115,10 @@
 		{
 			"url": "https://www.cybereason.com/blog/cuckoo-spear-analyzing-noopdoor",
 			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2023/",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-07-04T00:00:00Z",

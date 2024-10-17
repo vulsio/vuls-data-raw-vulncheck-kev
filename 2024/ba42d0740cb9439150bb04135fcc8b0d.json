@@ -25,6 +25,10 @@
 		{
 			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-38178",
 			"date_added": "2024-08-13T00:00:00Z"
+		},
+		{
+			"url": "https://asec.ahnlab.com/en/83877/",
+			"date_added": "2024-10-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-03T00:00:00Z",

@@ -53,6 +53,10 @@
 		{
 			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
 			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://cloud.google.com/blog/topics/threat-intelligence/time-to-exploit-trends-2023/",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"date_added": "2023-07-17T00:00:00Z"

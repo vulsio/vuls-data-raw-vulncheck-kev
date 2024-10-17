@@ -757,7 +757,7 @@
 			"date_added": "2024-07-19T00:00:00Z"
 		},
 		{
-			"url": "https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?",
+			"url": "https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea",
 			"date_added": "2024-07-25T00:00:00Z"
 		},
 		{
@@ -787,6 +787,10 @@
 		{
 			"url": "https://www.cyfirma.com/research/apt-profile-kimsuky/",
 			"date_added": "2024-09-12T00:00:00Z"
+		},
+		{
+			"url": "https://securelist.com/sidewinder-apt/114089/",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
