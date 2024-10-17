@@ -302,6 +302,20 @@
 			"date_added": "2023-08-28T04:56:10Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:HDCE-inc/CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "65412b86f301",
+			"xdb_url": "https://vulncheck.com/xdb/65412b86f301",
+			"date_added": "2024-10-17T04:17:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vilonachan/CVE-2023-38831-Winrar-Exploit-Generator-POC.git"
+		},
+		{
+			"xdb_id": "7a05812bb7c2",
+			"xdb_url": "https://vulncheck.com/xdb/7a05812bb7c2",
+			"date_added": "2024-10-17T04:43:38Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vilonachan/CVE-2023-38831-winrar-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

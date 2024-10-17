@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:ss256100/CVE-2018-19320.git"
 		},
 		{
-			"xdb_id": "9f7285db8cd7",
-			"xdb_url": "https://vulncheck.com/xdb/9f7285db8cd7",
-			"date_added": "2020-04-13T11:34:24Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ASkyeye/CVE-2018-19320.git"
-		},
-		{
 			"xdb_id": "60a5b5fb8d11",
 			"xdb_url": "https://vulncheck.com/xdb/60a5b5fb8d11",
 			"date_added": "2021-08-19T16:43:52Z",
@@ -43,6 +36,13 @@
 			"date_added": "2022-11-12T05:48:13Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:zer0condition/GDRVLoader.git"
+		},
+		{
+			"xdb_id": "9f7285db8cd7",
+			"xdb_url": "https://vulncheck.com/xdb/9f7285db8cd7",
+			"date_added": "2020-04-13T11:34:24Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ASkyeye/CVE-2018-19320.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -136,13 +136,6 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "e9e5a0e896a8",
-			"xdb_url": "https://vulncheck.com/xdb/e9e5a0e896a8",
-			"date_added": "2020-10-05T13:44:06+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xdawn/cve-2017-10271-2.git"
-		},
-		{
 			"xdb_id": "560237e691a7",
 			"xdb_url": "https://vulncheck.com/xdb/560237e691a7",
 			"date_added": "2020-05-19T09:53:13+08:00",
@@ -155,6 +148,13 @@
 			"date_added": "2020-10-05T12:41:06+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-10271.git"
+		},
+		{
+			"xdb_id": "e9e5a0e896a8",
+			"xdb_url": "https://vulncheck.com/xdb/e9e5a0e896a8",
+			"date_added": "2020-10-05T13:44:06+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/cve-2017-10271-2.git"
 		},
 		{
 			"xdb_id": "5d3fcd41baa9",
@@ -1248,6 +1248,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-15&host_type=src&vulnerability=cve-2017-10271",
 			"date_added": "2024-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-16&host_type=src&vulnerability=cve-2017-10271",
+			"date_added": "2024-10-16T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/botnet-muhstik-is-actively-exploiting-drupal-cve-2018-7600-in-a-worm-style-en/",
