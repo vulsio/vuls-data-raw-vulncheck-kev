@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WordPress",
+	"product": "WordPress Core",
+	"shortDescription": "WordPress Core, in versions up to 6.0.2, is vulnerable to Authenticated Stored Cross-Site Scripting that can be exploited by users with access to the WordPress post and page editor, typically consisting of Authors, Contributors, and Editors making it possible to inject arbitrary web scripts into posts and pages that execute if the the_meta(); function is called on that page.",
+	"vulnerabilityName": "WordPress Core the_meta Function Stored Cross-Site Scripting Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-4973"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-core/wordpress-core-602-authenticated-contributor-stored-cross-site-scripting-via-use-of-the-meta-function?asset_slug=wordpress",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WPvivid",
+	"product": "Migration, Backup, Staging -WPvivid plugin for WordPress",
+	"shortDescription": "The Migration, Backup, Staging -WPvivid plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the wpvivid_upload_import_files and wpvivid_upload_files AJAX actions that allows low-level authenticated attackers to upload zip files that can be subsequently extracted. This affects versions up to, and including 0.9.35.",
+	"vulnerabilityName": "Migration, Backup, Staging -WPvivid plugin for WordPress wpvivid_upload_import_files and wpvivid_upload_files Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36842"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpvivid-backuprestore/migration-backup-staging-wpvivid-0935-authenticated-subscriber-arbitrary-file-upload",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

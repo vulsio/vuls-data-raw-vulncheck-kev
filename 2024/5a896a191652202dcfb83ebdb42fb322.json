@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Rich Review",
+	"product": "Rich Review plugin for WordPress",
+	"shortDescription": "The Rich Review plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the POST body 'update' parameter in versions up to, and including, 1.7.4 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": "Rich Review plugin for WordPress POST Body Update Parameter Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-25216"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/rich-reviews/rich-reviews-174-stored-cross-site-scripting",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

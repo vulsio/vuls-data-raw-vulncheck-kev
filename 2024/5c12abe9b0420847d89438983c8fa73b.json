@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WBW",
+	"product": "Product Filter by WooBeWoo plugin for WordPress",
+	"shortDescription": "The Product Filter by WooBeWoo plugin for WordPress is vulnerable to authorization bypass in versions up to, and including 1.4.9 due to missing authorization checks on various functions. This makes it possible for unauthenticated attackers to perform unauthorized actions such as creating new filters and injecting malicious javascript into a vulnerable site. This was actively exploited at the time of discovery.",
+	"vulnerabilityName": "Product Filter by WooBeWoo plugin for WordPress Javascript Injection Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4444"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-product-filter/product-filter-by-woobewoo-149-missing-authorization",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

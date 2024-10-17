@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Flycart",
+	"product": "Discount Rules for WooCommerce plugin for WordPress",
+	"shortDescription": "The Discount Rules for WooCommerce plugin for WordPress is vulnerable to missing authorization via several AJAX actions in versions up to, and including, 2.0.2 due to missing capability checks on various functions. This makes it possible for subscriber-level attackers to execute various actions and perform a wide variety of actions such as modifying rules and saving configurations.",
+	"vulnerabilityName": "Discount Rules for WooCommerce plugin for WordPress AJAX Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36834"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-discount-rules/discount-rules-for-woocommerce-202-missing-authorization",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

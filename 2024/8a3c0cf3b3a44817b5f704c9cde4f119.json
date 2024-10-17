@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Strategy11 Form Builder",
+	"product": "Formidable Form Builder plugin for WordPress",
+	"shortDescription": "The Formidable Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via multiple parameters submitted during form entries like 'after_html' in versions before 2.05.03 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts that execute in a victim's browser.",
+	"vulnerabilityName": "Formidable Form Builder plugin for WordPress after_html Stored Cross-Site Scripting Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-20192"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/formidable/formidable-form-builder-20503-unauthenticated-stored-cross-site-scripting",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

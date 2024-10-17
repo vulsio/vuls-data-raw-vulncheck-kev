@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Adones Pitogo",
+	"product": "angular-base64-upload",
+	"shortDescription": "angular-base64-upload prior to v0.1.21 is vulnerable to unauthenticated remote code execution via demo/server.php. Exploiting this vulnerability allows an attacker to upload arbitrary content to the server, which can subsequently be accessed through demo/uploads. This leads to the execution of previously uploaded content and enables the attacker to achieve code execution on the server. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.",
+	"vulnerabilityName": "Angular-base64-upload demo/server.php Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-42640"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "70c286e0f6bc",
+			"xdb_url": "https://vulncheck.com/xdb/70c286e0f6bc",
+			"date_added": "2024-10-09T14:35:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rvizx/CVE-2024-42640.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Angularbase64update+Demo+Script+Exploited+CVE202442640/31354",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "SiteGround",
+	"product": "SiteGround Optimizer plugin for WordPress",
+	"shortDescription": "The SiteGround Optimizer plugin for WordPress is vulnerable to authorization bypass leading to Remote Code Execution and Local File Inclusion in versions up to, and including, 5.0.12 due to incorrect use of an access control attribute on the switch_php function called via the /switch-php REST API route. This allows attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other \"safe\" file types can be uploaded and included.",
+	"vulnerabilityName": "SiteGround Optimizer plugin for WordPress switch_php Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-25217"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/sg-cachepress/siteground-optimizer-5012-missing-authorization",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

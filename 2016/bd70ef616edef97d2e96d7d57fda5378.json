@@ -241,18 +241,18 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_ljvblfz/CVE-2016-5195.git"
 		},
 		{
-			"xdb_id": "56a0d9175e82",
-			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
-			"date_added": "2024-01-26T11:08:45+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
-		},
-		{
 			"xdb_id": "b81caecd21a0",
 			"xdb_url": "https://vulncheck.com/xdb/b81caecd21a0",
 			"date_added": "2020-03-14T21:53:51+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "56a0d9175e82",
+			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
+			"date_added": "2024-01-26T11:08:45+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
 		},
 		{
 			"xdb_id": "5c3c3322474d",
@@ -302,7 +302,7 @@
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html",
-			"date_added": "2022-03-03T00:00:00Z"
+			"date_added": "2024-03-18T00:00:00Z"
 		},
 		{
 			"url": "https://web-assets.esetstatic.com/wls/en/papers/white-papers/ebury-is-alive-but-unseen.pdf",

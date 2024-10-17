@@ -1,0 +1,19 @@
+{
+	"vendorProject": "QuadLayers",
+	"product": "WordPress Mega Menu plugin for WordPress",
+	"shortDescription": "The WordPress Mega Menu plugin for WordPress is vulnerable to Arbitrary File Creation in versions up to, and including, 2.0.6 via the compiler_save AJAX action. This makes it possible for unauthenticated attackers to create arbitrary PHP files that can be used to execute malicious code.",
+	"vulnerabilityName": "WordPress Mega Menu plugin for WordPress compiler_save AJAX Action Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-4443"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/quadmenu/wordpress-mega-menu-206-arbitrary-file-creation",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Jorn Lund",
+	"product": "ACF Quick Edit Fields Plugin for WordPress",
+	"shortDescription": "The plugin ACF Quick Edit Fields for WordPress is vulnerable to Insecure Direct Object Reference in versions up to, and including, 3.2.2. This makes it possible for attackers without the edit_users capability to access metadata of other users, this includes contributor-level users and above.",
+	"vulnerabilityName": "ACF Quick Edit Fields Plugin for WordPress Insecure Direct Object Reference Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-7286"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/acf-quickedit-fields/acf-quick-edit-fields-322-authenticated-contributor-insecure-direct-object-reference",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

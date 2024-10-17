@@ -1,0 +1,19 @@
+{
+	"vendorProject": "David de Boer",
+	"product": "Paytium: Mollie payment forms & donations plugin for WordPress",
+	"shortDescription": "The Paytium: Mollie payment forms & donations plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the check_for_verified_profiles function in versions up to, and including, 4.3.7. This makes it possible for authenticated attackers with subscriber-level access to check profile statuses.",
+	"vulnerabilityName": "Paytium: Mollie payment forms & donations plugin for WordPress check_for_verified_profiles Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-7290"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/paytium/paytium-mollie-payment-forms-donations-437-missing-authorization-in-check-for-verified-profiles",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

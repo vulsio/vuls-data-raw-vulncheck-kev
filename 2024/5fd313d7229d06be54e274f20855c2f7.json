@@ -1,0 +1,19 @@
+{
+	"vendorProject": "azzaroco",
+	"product": "Ultimate Membership Pro plugin for WordPress",
+	"shortDescription": "The Ultimate Membership Pro plugin for WordPress is vulnerable to Authentication Bypass in versions between, and including, 7.3 to 8.6. This makes it possible for unauthenticated attackers to login as any user, including the site administrator with a default user ID of 1, via the username or user ID.",
+	"vulnerabilityName": "Ultimate Membership Pro plugin for WordPress Authentication Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36832"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/indeed-membership-pro/indeed-membership-pro-73-86-authentication-bypass",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "NextScripts",
+	"product": "NextScripts: Social Networks Auto-Poster plugin for WordPress",
+	"shortDescription": "The NextScripts: Social Networks Auto-Poster plugin for WordPress is vulnerable to authorization bypass due to missing capability checks on multiple user privilege/security functions provided in versions up to, and including 4.3.17. This makes it possible for low-privileged attackers, like subscribers, to perform restricted actions that would be otherwise locked to a administrative-level user.",
+	"vulnerabilityName": "NextScripts: Social Networks Auto-Poster plugin for WordPress Multiple User privilege/security Functions Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36831"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/social-networks-auto-poster-facebook-twitter-g/nextscripts-social-networks-auto-poster-4317-missing-authorization",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

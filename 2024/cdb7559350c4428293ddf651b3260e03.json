@@ -1,0 +1,19 @@
+{
+	"vendorProject": "KentoThemes",
+	"product": "Kento Post View Counter plugin for WordPress",
+	"shortDescription": "The Kento Post View Counter plugin for WordPress is vulnerable to SQL Injection via the 'kento_pvc_geo' parameter in versions up to, and including, 2.8 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.",
+	"vulnerabilityName": "Kento Post View Counter plugin for WordPress kento_pvc_geo Parameter Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2016-15040"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/kento-post-view-counter/kento-post-view-counter-28-sql-injection",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

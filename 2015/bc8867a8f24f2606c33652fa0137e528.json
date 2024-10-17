@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:sUbc0ol/Microsoft-Word-CVE-2017-0199-.git"
 		},
 		{
-			"xdb_id": "306bb11d6afe",
-			"xdb_url": "https://vulncheck.com/xdb/306bb11d6afe",
-			"date_added": "2024-09-10T13:31:55Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:kash-123/CVE-2017-0199.git"
-		},
-		{
 			"xdb_id": "970b6cfbc7fb",
 			"xdb_url": "https://vulncheck.com/xdb/970b6cfbc7fb",
 			"date_added": "2017-04-17T08:10:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:bhdresh/CVE-2017-0199.git"
+		},
+		{
+			"xdb_id": "306bb11d6afe",
+			"xdb_url": "https://vulncheck.com/xdb/306bb11d6afe",
+			"date_added": "2024-09-10T13:31:55Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:kash-123/CVE-2017-0199.git"
 		},
 		{
 			"xdb_id": "aacae3861886",
@@ -328,7 +328,7 @@
 		},
 		{
 			"url": "https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/",
-			"date_added": "2021-11-03T00:00:00Z"
+			"date_added": "2022-01-13T00:00:00Z"
 		},
 		{
 			"url": "https://www.mandiant.com/sites/default/files/2022-02/rt-apt41-dual-operation.pdf",

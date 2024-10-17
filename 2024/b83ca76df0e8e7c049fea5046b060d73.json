@@ -1,0 +1,19 @@
+{
+	"vendorProject": "WPvivid",
+	"product": "Migration, Backup, Staging - WPvivid plugin for WordPress",
+	"shortDescription": "The Migration, Backup, Staging - WPvivid plugin for WordPress is vulnerable to sensitive information disclosure of a WordPress site's database due to missing capability checks on the wp_ajax_wpvivid_add_remote AJAX action that allows low-level authenticated attackers to send back-ups to a remote location of their choice for review. This affects versions up to, and including 0.9.35.",
+	"vulnerabilityName": "Migration, Backup, Staging - WPvivid plugin for WordPress wp_ajax_wpvivid_add_remote AJAX Action Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36835"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpvivid-backuprestore/migration-backup-staging-wpvivid-0935-sensitive-information-disclosure",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}

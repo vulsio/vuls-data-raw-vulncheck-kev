@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ThemeGrill",
+	"product": "ThemeGrill Demo Importer plugin for WordPress",
+	"shortDescription": "The ThemeGrill Demo Importer plugin for WordPress is vulnerable to authentication bypass due to a missing capability check on the reset_wizard_actions function in versions 1.3.4 through 1.6.1. This makes it possible for authenticated attackers to reset the WordPress database. After which, if there is a user named 'admin', the attacker will become automatically logged in as an administrator.",
+	"vulnerabilityName": "ThemeGrill Demo Importer plugin for WordPress reset_wizard_actions Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-36837"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/themegrill-demo-importer/themegrill-demo-importer-134-161-authorization-bypass-to-site-reset",
+			"date_added": "2024-10-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-15T00:00:00Z"
+}
