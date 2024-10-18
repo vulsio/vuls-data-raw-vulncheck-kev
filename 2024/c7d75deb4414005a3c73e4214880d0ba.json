@@ -57,6 +57,13 @@
 			"date_added": "2024-10-07T07:25:18Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:MalwareTech/CVE-2024-47176-Scanner.git"
+		},
+		{
+			"xdb_id": "73b14afa89f2",
+			"xdb_url": "https://vulncheck.com/xdb/73b14afa89f2",
+			"date_added": "2024-10-17T18:21:10Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:gianlu111/CUPS-CVE-2024-47176.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

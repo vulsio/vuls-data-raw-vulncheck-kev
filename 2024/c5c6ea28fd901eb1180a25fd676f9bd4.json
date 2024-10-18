@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:Pypi-Project/RCity-CVE-2024-27198.git"
 		},
 		{
-			"xdb_id": "6a5fa09515e2",
-			"xdb_url": "https://vulncheck.com/xdb/6a5fa09515e2",
-			"date_added": "2024-04-22T22:14:24Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Stuub/RCity-CVE-2024-27198.git"
-		},
-		{
 			"xdb_id": "ecfac8d6c561",
 			"xdb_url": "https://vulncheck.com/xdb/ecfac8d6c561",
 			"date_added": "2024-03-06T03:15:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2024-27198-RCE.git"
+		},
+		{
+			"xdb_id": "6a5fa09515e2",
+			"xdb_url": "https://vulncheck.com/xdb/6a5fa09515e2",
+			"date_added": "2024-04-22T22:14:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Stuub/RCity-CVE-2024-27198.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -427,6 +427,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-16&host_type=src&vulnerability=cve-2024-27199",
 			"date_added": "2024-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-17&host_type=src&vulnerability=cve-2024-27199",
+			"date_added": "2024-10-17T00:00:00Z"
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/24/c/teamcity-vulnerability-exploits-lead-to-jasmin-ransomware.html",

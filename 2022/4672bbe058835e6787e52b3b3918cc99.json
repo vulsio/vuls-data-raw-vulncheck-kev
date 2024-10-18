@@ -192,18 +192,18 @@
 			"clone_ssh_url": "git@github.com:cai-niao98/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "36e25b480581",
-			"xdb_url": "https://vulncheck.com/xdb/36e25b480581",
-			"date_added": "2022-06-03T13:59:19Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jbaines-r7/through_the_wire.git"
-		},
-		{
 			"xdb_id": "14047453ba17",
 			"xdb_url": "https://vulncheck.com/xdb/14047453ba17",
 			"date_added": "2024-05-29T03:20:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BBD-YZZ/Confluence-RCE.git"
+		},
+		{
+			"xdb_id": "36e25b480581",
+			"xdb_url": "https://vulncheck.com/xdb/36e25b480581",
+			"date_added": "2022-06-03T13:59:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:jbaines-r7/through_the_wire.git"
 		},
 		{
 			"xdb_id": "ccf22111c515",
@@ -1618,6 +1618,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-16&host_type=src&vulnerability=cve-2022-26134",
 			"date_added": "2024-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-17&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2024-10-17T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
