@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "b8a62e91d313",
-			"xdb_url": "https://vulncheck.com/xdb/b8a62e91d313",
-			"date_added": "2018-10-27T10:12:05Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-14665.git"
-		},
-		{
 			"xdb_id": "aab96d127c7b",
 			"xdb_url": "https://vulncheck.com/xdb/aab96d127c7b",
 			"date_added": "2017-07-12T14:40:55Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0xdea/exploits.git"
+		},
+		{
+			"xdb_id": "b8a62e91d313",
+			"xdb_url": "https://vulncheck.com/xdb/b8a62e91d313",
+			"date_added": "2018-10-27T10:12:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-14665.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
