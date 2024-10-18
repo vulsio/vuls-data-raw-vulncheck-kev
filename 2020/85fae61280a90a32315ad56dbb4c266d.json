@@ -1713,6 +1713,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.greynoise.io/blog/u-s-and-uk-warn-of-russian-cyber-threats-9-of-24-vulnerabilities-in-the-advisory-are-being-probed-right-now",
+			"date_added": "2024-10-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

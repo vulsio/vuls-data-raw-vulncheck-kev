@@ -1447,6 +1447,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://pt-global.storage.yandexcloud.net/positive_research_2024_a9c4fb10c2.pdf",
+			"date_added": "2021-11-03T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",

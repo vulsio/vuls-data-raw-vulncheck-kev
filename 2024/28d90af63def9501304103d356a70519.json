@@ -73,6 +73,10 @@
 		{
 			"url": "https://darktrace.com/blog/forticlient-ems-exploited-inside-the-attack-chain-and-post-exploitation-tactics",
 			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/Qqg45PUi87/cve-2023-48788#exploited-in-the-wild_419a883d-f8ee-4ec2-986a-74385865d11a",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-15T00:00:00Z",

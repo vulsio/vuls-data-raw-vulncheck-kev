@@ -1,8 +1,8 @@
 {
-	"vendorProject": "David de Boer",
-	"product": "Paytium: Mollie payment forms & donations plugin for WordPress",
+	"vendorProject": "paytium",
+	"product": "paytium",
 	"shortDescription": "The Paytium: Mollie payment forms & donations plugin for WordPress is vulnerable to unauthorized access of data due to a missing capability check on the check_mollie_account_details function in versions up to, and including, 4.3.7. This makes it possible for authenticated attackers with subscriber-level access to verify the existence of a mollie account.",
-	"vulnerabilityName": "Paytium: Mollie payment forms & donations plugin for WordPress check_mollie_account_details Function Vulnerability",
+	"vulnerabilityName": "paytium paytium Missing Authorization",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

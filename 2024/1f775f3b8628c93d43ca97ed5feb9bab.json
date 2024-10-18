@@ -426,6 +426,10 @@
 		{
 			"url": "https://www.secureworks.com/-/media/Files/US/Reports/state%20of%20the%20threat/secureworks-state-of-the-threat-report-2024.ashx",
 			"date_added": "2024-10-08T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400#exploited-in-the-wild_419a883d-f8ee-4ec2-986a-74385865d11a",
+			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-19T00:00:00Z",
