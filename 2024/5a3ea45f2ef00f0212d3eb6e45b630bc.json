@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-9707"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "43421d90db76",
+			"xdb_url": "https://vulncheck.com/xdb/43421d90db76",
+			"date_added": "2024-10-11T06:21:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-9707.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/hunk-companion/hunk-companion-184-missing-authorization-to-unauthenticated-arbitrary-plugin-installationactivation",
