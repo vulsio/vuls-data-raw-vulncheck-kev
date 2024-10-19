@@ -826,6 +826,10 @@
 			"date_added": "2024-10-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-18&host_type=src&vulnerability=cve-2021-33564",
+			"date_added": "2024-10-18T00:00:00Z"
+		},
+		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
 			"date_added": "2024-07-25T00:00:00Z"
 		},

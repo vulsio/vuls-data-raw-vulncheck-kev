@@ -1208,6 +1208,10 @@
 			"date_added": "2024-10-17T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-18&host_type=src&vulnerability=cve-2019-19781",
+			"date_added": "2024-10-18T00:00:00Z"
+		},
+		{
 			"url": "https://redcanary.com/blog/kinsing-malware-citrix-saltstack/",
 			"date_added": "2020-07-22T00:00:00Z"
 		},

@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-8529"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "517d39197a11",
+			"xdb_url": "https://vulncheck.com/xdb/517d39197a11",
+			"date_added": "2024-10-12T20:52:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-8529.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://patchstack.com/database/vulnerability/learnpress/wordpress-learnpress-wordpress-lms-plugin-plugin-4-2-7-unauthenticated-sql-injection-via-c-fields-vulnerability",
