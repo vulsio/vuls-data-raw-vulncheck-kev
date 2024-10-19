@@ -297,18 +297,18 @@
 			"clone_ssh_url": "git@github.com:blasty/CVE-2021-3156.git"
 		},
 		{
-			"xdb_id": "1db9ceee140b",
-			"xdb_url": "https://vulncheck.com/xdb/1db9ceee140b",
-			"date_added": "2021-02-03T19:57:56Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:CptGibbon/CVE-2021-3156.git"
-		},
-		{
 			"xdb_id": "1add099f19fc",
 			"xdb_url": "https://vulncheck.com/xdb/1add099f19fc",
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "1db9ceee140b",
+			"xdb_url": "https://vulncheck.com/xdb/1db9ceee140b",
+			"date_added": "2021-02-03T19:57:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:CptGibbon/CVE-2021-3156.git"
 		},
 		{
 			"xdb_id": "9fbcde6203e1",

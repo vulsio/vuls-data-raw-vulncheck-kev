@@ -185,13 +185,6 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
 		},
 		{
-			"xdb_id": "f148343ee61b",
-			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
-			"date_added": "2023-11-30T18:12:58+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
-		},
-		{
 			"xdb_id": "5df1c82ae620",
 			"xdb_url": "https://vulncheck.com/xdb/5df1c82ae620",
 			"date_added": "2020-04-30T10:39:14+08:00",
@@ -204,6 +197,13 @@
 			"date_added": "2019-11-19T09:33:21+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "f148343ee61b",
+			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
+			"date_added": "2023-11-30T18:12:58+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
 		},
 		{
 			"xdb_id": "a5f8a5153c43",
@@ -790,6 +790,10 @@
 		},
 		{
 			"url": "https://securelist.com/sidewinder-apt/114089/",
+			"date_added": "2024-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://mp.weixin.qq.com/s/qCcuU0E6d84tdQ1r2dCsjA",
 			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],

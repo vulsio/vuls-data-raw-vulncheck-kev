@@ -29,6 +29,10 @@
 		{
 			"url": "https://asec.ahnlab.com/en/83877/",
 			"date_added": "2024-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://medium.com/s2wblog/unmasking-cve-2024-38178-the-silent-threat-of-windows-scripting-engine-91ad954dbf83",
+			"date_added": "2024-10-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-03T00:00:00Z",
