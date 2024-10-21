@@ -73,20 +73,6 @@
 			"clone_ssh_url": "git@github.com:passwa11/CVE-2024-27198-RCE.git"
 		},
 		{
-			"xdb_id": "2158f022af16",
-			"xdb_url": "https://vulncheck.com/xdb/2158f022af16",
-			"date_added": "2024-10-09T13:36:56Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-27198.git"
-		},
-		{
-			"xdb_id": "3b8d28478979",
-			"xdb_url": "https://vulncheck.com/xdb/3b8d28478979",
-			"date_added": "2024-10-14T16:40:58Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Cythonic1/CVE-2024-27198_POC.git"
-		},
-		{
 			"xdb_id": "fc7ed36dfb86",
 			"xdb_url": "https://vulncheck.com/xdb/fc7ed36dfb86",
 			"date_added": "2024-03-06T03:15:03Z",
@@ -99,6 +85,20 @@
 			"date_added": "2024-04-22T22:14:24Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Stuub/RCity-CVE-2024-27198.git"
+		},
+		{
+			"xdb_id": "2158f022af16",
+			"xdb_url": "https://vulncheck.com/xdb/2158f022af16",
+			"date_added": "2024-10-09T13:36:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-27198.git"
+		},
+		{
+			"xdb_id": "3b8d28478979",
+			"xdb_url": "https://vulncheck.com/xdb/3b8d28478979",
+			"date_added": "2024-10-14T16:40:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Cythonic1/CVE-2024-27198_POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -913,6 +913,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-19&host_type=src&vulnerability=cve-2024-27198",
 			"date_added": "2024-10-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-20&host_type=src&vulnerability=cve-2024-27198",
+			"date_added": "2024-10-20T00:00:00Z"
 		},
 		{
 			"url": "https://www.guidepointsecurity.com/blog/bianlian-gos-for-powershell-after-teamcity-exploitation/",

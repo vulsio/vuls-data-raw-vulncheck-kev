@@ -38,25 +38,11 @@
 			"clone_ssh_url": "git@github.com:f4alireza/CVE.git"
 		},
 		{
-			"xdb_id": "fb5181ef3b37",
-			"xdb_url": "https://vulncheck.com/xdb/fb5181ef3b37",
-			"date_added": "2022-06-29T12:37:31Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyShell.git"
-		},
-		{
 			"xdb_id": "578064e03f67",
 			"xdb_url": "https://vulncheck.com/xdb/578064e03f67",
 			"date_added": "2021-08-10T15:01:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:cyberheartmi9/Proxyshell-Scanner.git"
-		},
-		{
-			"xdb_id": "d56981175d63",
-			"xdb_url": "https://vulncheck.com/xdb/d56981175d63",
-			"date_added": "2021-08-13T14:45:38Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:dmaasland/proxyshell-poc.git"
 		},
 		{
 			"xdb_id": "02834fa0ca2d",
@@ -85,6 +71,20 @@
 			"date_added": "2021-08-13T09:38:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ktecv2000/ProxyShell.git"
+		},
+		{
+			"xdb_id": "d56981175d63",
+			"xdb_url": "https://vulncheck.com/xdb/d56981175d63",
+			"date_added": "2021-08-13T14:45:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dmaasland/proxyshell-poc.git"
+		},
+		{
+			"xdb_id": "fb5181ef3b37",
+			"xdb_url": "https://vulncheck.com/xdb/fb5181ef3b37",
+			"date_added": "2022-06-29T12:37:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyShell.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1119,6 +1119,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-19&host_type=src&vulnerability=cve-2021-34473",
 			"date_added": "2024-10-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-20&host_type=src&vulnerability=cve-2021-34473",
+			"date_added": "2024-10-20T00:00:00Z"
 		},
 		{
 			"url": "https://www.bilibili.com/read/cv17634838",

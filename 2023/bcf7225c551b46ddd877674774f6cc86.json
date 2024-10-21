@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:dream434/CVE-2023-27372.git"
 		},
 		{
-			"xdb_id": "a7444b0210e4",
-			"xdb_url": "https://vulncheck.com/xdb/a7444b0210e4",
-			"date_added": "2023-06-19T14:36:47Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:nuts7/CVE-2023-27372.git"
-		},
-		{
 			"xdb_id": "04607676aadb",
 			"xdb_url": "https://vulncheck.com/xdb/04607676aadb",
 			"date_added": "2023-07-05T14:41:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0SPwn/CVE-2023-27372-PoC.git"
+		},
+		{
+			"xdb_id": "a7444b0210e4",
+			"xdb_url": "https://vulncheck.com/xdb/a7444b0210e4",
+			"date_added": "2023-06-19T14:36:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nuts7/CVE-2023-27372.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

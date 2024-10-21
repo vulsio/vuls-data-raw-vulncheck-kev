@@ -36,6 +36,13 @@
 			"date_added": "2024-09-08T10:37:29Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:s4botai/CVE-2024-23334-PoC.git"
+		},
+		{
+			"xdb_id": "9dc7cef76d0d",
+			"xdb_url": "https://vulncheck.com/xdb/9dc7cef76d0d",
+			"date_added": "2024-10-20T15:28:58Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wizarddos/CVE-2024-23334.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
