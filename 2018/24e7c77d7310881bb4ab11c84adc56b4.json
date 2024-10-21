@@ -227,18 +227,18 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_a2u/CVE-2018-7600.git"
 		},
 		{
-			"xdb_id": "53767629a229",
-			"xdb_url": "https://vulncheck.com/xdb/53767629a229",
-			"date_added": "2024-02-07T03:27:00Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitlab.com:thehappydinoa/CVE-2018-7600.git"
-		},
-		{
 			"xdb_id": "85edc13d35ba",
 			"xdb_url": "https://vulncheck.com/xdb/85edc13d35ba",
 			"date_added": "2018-06-06T08:15:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitlab.com:SeppPenner/CVE-2018-7600.git"
+		},
+		{
+			"xdb_id": "53767629a229",
+			"xdb_url": "https://vulncheck.com/xdb/53767629a229",
+			"date_added": "2024-02-07T03:27:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:thehappydinoa/CVE-2018-7600.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

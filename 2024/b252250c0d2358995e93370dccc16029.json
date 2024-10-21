@@ -1,0 +1,16 @@
+{
+	"vendorProject": "ScienceLogic",
+	"product": "SL1",
+	"shortDescription": "ScienceLogic SL1 (formerly EM7) is affected by an unspecified vulnerability involving an unspecified third-party component.",
+	"vulnerabilityName": "ScienceLogic SL1 Unspecified Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9537"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-11-11T00:00:00Z",
+	"cisa_date_added": "2024-10-21T00:00:00Z",
+	"date_added": "2024-10-21T00:00:00Z"
+}
