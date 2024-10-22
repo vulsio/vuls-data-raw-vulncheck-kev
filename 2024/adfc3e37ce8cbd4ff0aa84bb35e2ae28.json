@@ -220,18 +220,18 @@
 			"clone_ssh_url": "git@github.com:aaddmin1122345/cve-2024-4577.git"
 		},
 		{
-			"xdb_id": "d06e30d57aaf",
-			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
-			"date_added": "2024-06-15T02:49:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "e294281b4747",
 			"xdb_url": "https://vulncheck.com/xdb/e294281b4747",
 			"date_added": "2024-09-10T17:31:07Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ywChen-NTUST/PHP-CGI-RCE-Scanner.git"
+		},
+		{
+			"xdb_id": "d06e30d57aaf",
+			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
+			"date_added": "2024-06-15T02:49:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
 		},
 		{
 			"xdb_id": "64046c52ba42",
