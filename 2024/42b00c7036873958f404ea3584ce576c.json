@@ -1,0 +1,23 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-44068"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://googleprojectzero.github.io/0days-in-the-wild//0day-RCAs/2024/CVE-2024-44068.html",
+			"date_added": "2024-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://x.com/1ce0ear/status/1847011128846741572",
+			"date_added": "2024-10-17T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-17T00:00:00Z"
+}

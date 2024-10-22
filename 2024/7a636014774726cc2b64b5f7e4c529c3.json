@@ -15,6 +15,10 @@
 			"date_added": "2024-10-08T00:00:00Z"
 		},
 		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-07-29T00:00:00Z"
+		},
+		{
 			"url": "https://docs.qualcomm.com/product/publicresources/securitybulletin/october-2024-bulletin.html",
 			"date_added": "2024-10-07T00:00:00Z"
 		},
@@ -25,5 +29,5 @@
 	],
 	"dueDate": "2024-10-29T00:00:00Z",
 	"cisa_date_added": "2024-10-08T00:00:00Z",
-	"date_added": "2024-10-07T00:00:00Z"
+	"date_added": "2024-07-29T00:00:00Z"
 }
