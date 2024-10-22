@@ -1379,6 +1379,10 @@
 			"date_added": "2024-10-20T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-21&host_type=src&vulnerability=cve-2023-26801",
+			"date_added": "2024-10-21T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortiguard.com/outbreak-alert/router-malware-attack",
 			"date_added": "2023-02-01T00:00:00Z"
 		},
