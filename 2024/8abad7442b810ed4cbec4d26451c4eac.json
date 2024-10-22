@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SharePoint",
+	"shortDescription": "Microsoft SharePoint contains a deserialization vulnerability that allows for remote code execution.",
+	"vulnerabilityName": "Microsoft SharePoint Deserialization Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38094"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-10-22T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/Ev24ZWs2iT/cve-2024-38094#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
+			"date_added": "2024-10-17T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-11-12T00:00:00Z",
+	"cisa_date_added": "2024-10-22T00:00:00Z",
+	"date_added": "2024-10-17T00:00:00Z"
+}

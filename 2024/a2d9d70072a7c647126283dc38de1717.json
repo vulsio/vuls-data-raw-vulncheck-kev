@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Samsung",
+	"product": "Mobile Processor and Wearable Processor Exynos",
+	"shortDescription": "An issue was discovered in the m2m scaler driver in Samsung Mobile Processor and Wearable Processor Exynos 9820, 9825, 980, 990, 850,and W920. A Use-After-Free in the mobile processor leads to privilege escalation.",
+	"vulnerabilityName": "Samsung Mobile Processor and Wearable Processor Exynos m2m Scaler Driver Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
