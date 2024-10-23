@@ -1,0 +1,34 @@
+{
+	"vendorProject": "VMware Tanzu",
+	"product": "Spring Framework",
+	"shortDescription": "Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vulnerable to path traversal attacks. An attacker can craft malicious HTTP requests and obtain any file on the file system that is also accessible to the process in which the Spring application is running. Specifically, an application is vulnerable when both of the following are true: * the web application uses RouterFunctions to serve static resources * resource handling is explicitly configured with a FileSystemResource location However, malicious requests are blocked and rejected when any of the following is true: * the Spring Security HTTP Firewall https://docs.spring.io/spring-security/reference/servlet/exploits/firewall.html  is in use * the application runs on Tomcat or Jetty",
+	"vulnerabilityName": "Spring Framework WebMvc.fn or WebFlux.fn Path Traversal Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38816"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "79bbdef007d7",
+			"xdb_url": "https://vulncheck.com/xdb/79bbdef007d7",
+			"date_added": "2024-09-25T09:36:59Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:masa42/CVE-2024-38816-PoC.git"
+		},
+		{
+			"xdb_id": "802a28ccc80c",
+			"xdb_url": "https://vulncheck.com/xdb/802a28ccc80c",
+			"date_added": "2024-09-28T23:16:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:WULINPIN/CVE-2024-38816-PoC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-java-framework-iot-devices/",
+			"date_added": "2024-10-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-22T00:00:00Z"
+}
