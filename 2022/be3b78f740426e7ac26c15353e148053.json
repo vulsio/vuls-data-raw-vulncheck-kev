@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2022-03-03T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-java-framework-iot-devices/",
+			"date_added": "2024-10-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-03-17T00:00:00Z",

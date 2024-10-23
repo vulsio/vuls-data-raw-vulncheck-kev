@@ -1,0 +1,19 @@
+{
+	"vendorProject": "treck",
+	"product": "tcp\\/ip",
+	"shortDescription": "The Treck TCP/IP stack before 6.0.1.41 has an IPv4 tunneling Double Free.",
+	"vulnerabilityName": "treck tcp\\/ip Double Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-11900"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-java-framework-iot-devices/",
+			"date_added": "2024-10-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-22T00:00:00Z"
+}
