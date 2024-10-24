@@ -1132,6 +1132,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/threat-signal-report/5563/metabase-information-disclosure-vulnerability-cve-2021-41277",
+			"date_added": "2024-10-21T00:00:00Z"
 		}
 	],
 	"date_added": "2022-05-31T00:00:00Z"

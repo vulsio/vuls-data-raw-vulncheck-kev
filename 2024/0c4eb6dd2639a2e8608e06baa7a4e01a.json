@@ -1,0 +1,27 @@
+{
+	"vendorProject": "templateinvaders",
+	"product": "ti_woocommerce_wishlist",
+	"shortDescription": "Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TemplateInvaders TI WooCommerce Wishlist allows SQL Injection.This issue affects TI WooCommerce Wishlist: from n/a through 2.8.2.",
+	"vulnerabilityName": "templateinvaders ti_woocommerce_wishlist Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-43917"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "63d4ae92afa9",
+			"xdb_url": "https://vulncheck.com/xdb/63d4ae92afa9",
+			"date_added": "2024-09-29T06:23:35Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:p33d/CVE-2024-43917.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/ti-woocommerce-wishlist/wordpress-ti-woocommerce-wishlist-plugin-2-8-2-sql-injection-vulnerability",
+			"date_added": "2024-08-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-08-24T00:00:00Z"
+}

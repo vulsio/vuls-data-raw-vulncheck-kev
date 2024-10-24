@@ -1,0 +1,19 @@
+{
+	"vendorProject": "generatepress",
+	"product": "generatepress",
+	"shortDescription": "The GP Premium plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via the message parameter in all versions up to, and including, 2.4.0 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an action such as clicking on a link.",
+	"vulnerabilityName": "generatepress generatepress Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-3469"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/gp-premium/wordpress-gp-premium-plugin-2-4-0-reflected-cross-site-scripting-vulnerability",
+			"date_added": "2024-06-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-06-05T00:00:00Z"
+}

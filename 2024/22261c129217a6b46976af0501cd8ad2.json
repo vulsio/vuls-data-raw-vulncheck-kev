@@ -1,0 +1,19 @@
+{
+	"vendorProject": "wpwebinfotech",
+	"product": "social_auto_poster",
+	"shortDescription": "The Social Auto Poster plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘mapTypes’ parameter in the 'wpw_auto_poster_map_wordpress_post_type' AJAX function in all versions up to, and including, 5.3.14 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.",
+	"vulnerabilityName": "wpwebinfotech social_auto_poster Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-6753"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/social-auto-poster/wordpress-social-auto-poster-plugin-5-3-14-unauthenticated-stored-cross-site-scripting-vulnerability",
+			"date_added": "2024-07-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-24T00:00:00Z"
+}
