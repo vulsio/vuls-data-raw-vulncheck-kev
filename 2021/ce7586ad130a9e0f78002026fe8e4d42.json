@@ -213,18 +213,18 @@
 			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "97af0436c96d",
-			"xdb_url": "https://vulncheck.com/xdb/97af0436c96d",
-			"date_added": "2022-01-15T11:46:41Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitlab.com:Cyberfury101/CVE-2021-1675.git"
-		},
-		{
 			"xdb_id": "ffee1c151af9",
 			"xdb_url": "https://vulncheck.com/xdb/ffee1c151af9",
 			"date_added": "2023-05-30T09:21:44Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitlab.com:digipenguin/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "97af0436c96d",
+			"xdb_url": "https://vulncheck.com/xdb/97af0436c96d",
+			"date_added": "2022-01-15T11:46:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:Cyberfury101/CVE-2021-1675.git"
 		},
 		{
 			"xdb_id": "60402fe4962c",

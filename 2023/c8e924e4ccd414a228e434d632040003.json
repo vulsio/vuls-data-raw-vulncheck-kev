@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:assetnote/exploits.git"
 		},
 		{
-			"xdb_id": "fad40eedba5f",
-			"xdb_url": "https://vulncheck.com/xdb/fad40eedba5f",
-			"date_added": "2024-02-15T14:21:43Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:spmonkey/GHR.git"
-		},
-		{
 			"xdb_id": "f0d1f1f65636",
 			"xdb_url": "https://vulncheck.com/xdb/f0d1f1f65636",
 			"date_added": "2023-10-24T17:19:32Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-4966.git"
+		},
+		{
+			"xdb_id": "fad40eedba5f",
+			"xdb_url": "https://vulncheck.com/xdb/fad40eedba5f",
+			"date_added": "2024-02-15T14:21:43Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:spmonkey/GHR.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

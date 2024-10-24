@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:slimpagey/IIS_6.0_WebDAV_Ruby.git"
 		},
 		{
-			"xdb_id": "0048fce3c892",
-			"xdb_url": "https://vulncheck.com/xdb/0048fce3c892",
-			"date_added": "2017-05-16T18:47:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:zcgonvh/cve-2017-7269-tool.git"
-		},
-		{
 			"xdb_id": "f2530a961c06",
 			"xdb_url": "https://vulncheck.com/xdb/f2530a961c06",
 			"date_added": "2017-03-29T11:20:19Z",
@@ -101,11 +94,11 @@
 			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2017-7269.git"
 		},
 		{
-			"xdb_id": "275925d21df7",
-			"xdb_url": "https://vulncheck.com/xdb/275925d21df7",
-			"date_added": "2020-03-07T08:40:01+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:kiang70/CVE-2017-7269-Echo-PoC.git"
+			"xdb_id": "0048fce3c892",
+			"xdb_url": "https://vulncheck.com/xdb/0048fce3c892",
+			"date_added": "2017-05-16T18:47:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zcgonvh/cve-2017-7269-tool.git"
 		},
 		{
 			"xdb_id": "a36c0cf57665",
@@ -113,6 +106,13 @@
 			"date_added": "2021-08-19T19:49:20+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:liuziyann/CVE-2017-7269.git"
+		},
+		{
+			"xdb_id": "275925d21df7",
+			"xdb_url": "https://vulncheck.com/xdb/275925d21df7",
+			"date_added": "2020-03-07T08:40:01+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:kiang70/CVE-2017-7269-Echo-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
