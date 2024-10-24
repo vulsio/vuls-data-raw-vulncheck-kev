@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:whalebone7/CVE-2023-24489-poc.git"
 		},
 		{
-			"xdb_id": "4339d2e00b3e",
-			"xdb_url": "https://vulncheck.com/xdb/4339d2e00b3e",
-			"date_added": "2023-07-12T13:01:33Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:adhikara13/CVE-2023-24489-ShareFile.git"
-		},
-		{
 			"xdb_id": "7ccdbf38419f",
 			"xdb_url": "https://vulncheck.com/xdb/7ccdbf38419f",
 			"date_added": "2022-01-20T02:48:42Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:lal0ne/vulnerability.git"
+		},
+		{
+			"xdb_id": "4339d2e00b3e",
+			"xdb_url": "https://vulncheck.com/xdb/4339d2e00b3e",
+			"date_added": "2023-07-12T13:01:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:adhikara13/CVE-2023-24489-ShareFile.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

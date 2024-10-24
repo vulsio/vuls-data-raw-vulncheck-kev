@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiManager",
+	"shortDescription": "Fortinet FortiManager contains a missing authentication vulnerability in the fgfmd daemon that allows a remote, unauthenticated attacker to execute arbitrary code or commands via specially crafted requests.",
+	"vulnerabilityName": "Fortinet FortiManager Missing Authentication Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-47575"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-10-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/psirt/FG-IR-24-423",
+			"date_added": "2024-10-23T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-11-13T00:00:00Z",
+	"cisa_date_added": "2024-10-23T00:00:00Z",
+	"date_added": "2024-10-23T00:00:00Z"
+}

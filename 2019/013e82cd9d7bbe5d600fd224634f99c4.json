@@ -171,6 +171,13 @@
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2019-15107-EXPLOIT.git"
 		},
 		{
+			"xdb_id": "bfb7ca362af4",
+			"xdb_url": "https://vulncheck.com/xdb/bfb7ca362af4",
+			"date_added": "2024-04-05T02:38:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:gunzf0x/HackTools.git"
+		},
+		{
 			"xdb_id": "a6c954e87af6",
 			"xdb_url": "https://vulncheck.com/xdb/a6c954e87af6",
 			"date_added": "2020-10-07T00:33:04+08:00",

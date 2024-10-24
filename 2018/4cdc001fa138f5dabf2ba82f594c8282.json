@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:ruthlezs/ie11_vbscript_exploit.git"
 		},
 		{
-			"xdb_id": "e1a613e9e771",
-			"xdb_url": "https://vulncheck.com/xdb/e1a613e9e771",
-			"date_added": "2018-07-10T19:31:25Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:piotrflorczyk/cve-2018-8174_analysis.git"
-		},
-		{
 			"xdb_id": "2799542f34cf",
 			"xdb_url": "https://vulncheck.com/xdb/2799542f34cf",
 			"date_added": "2018-06-01T22:12:54Z",
@@ -57,6 +50,13 @@
 			"date_added": "2018-05-22T21:50:32Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:0x09AL/CVE-2018-8174-msf.git"
+		},
+		{
+			"xdb_id": "e1a613e9e771",
+			"xdb_url": "https://vulncheck.com/xdb/e1a613e9e771",
+			"date_added": "2018-07-10T19:31:25Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:piotrflorczyk/cve-2018-8174_analysis.git"
 		},
 		{
 			"xdb_id": "803f22a963ca",

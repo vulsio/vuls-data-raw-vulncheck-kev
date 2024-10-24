@@ -276,13 +276,6 @@
 			"clone_ssh_url": "git@github.com:reznok/Spring4Shell-POC.git"
 		},
 		{
-			"xdb_id": "5978e9609a96",
-			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
-			"date_added": "2023-01-29T01:11:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
-		},
-		{
 			"xdb_id": "f1130a964b4f",
 			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
 			"date_added": "2022-05-31T07:44:01Z",
@@ -304,13 +297,6 @@
 			"clone_ssh_url": "git@github.com:Kirill89/CVE-2022-22965-PoC.git"
 		},
 		{
-			"xdb_id": "30d6ff807f1f",
-			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
-			"date_added": "2023-10-05T11:00:32Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
-		},
-		{
 			"xdb_id": "1d2c273a6a58",
 			"xdb_url": "https://vulncheck.com/xdb/1d2c273a6a58",
 			"date_added": "2022-04-03T06:43:07Z",
@@ -318,11 +304,18 @@
 			"clone_ssh_url": "git@github.com:itsecurityco/CVE-2022-22965.git"
 		},
 		{
-			"xdb_id": "43e4620d8285",
-			"xdb_url": "https://vulncheck.com/xdb/43e4620d8285",
-			"date_added": "2022-04-01T02:29:00+08:00",
+			"xdb_id": "5978e9609a96",
+			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
+			"date_added": "2023-01-29T01:11:21Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_ceki/CVE-2022-22965-PoC.git"
+			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
+		},
+		{
+			"xdb_id": "30d6ff807f1f",
+			"xdb_url": "https://vulncheck.com/xdb/30d6ff807f1f",
+			"date_added": "2023-10-05T11:00:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
 		},
 		{
 			"xdb_id": "c5654abe65dd",
@@ -330,6 +323,13 @@
 			"date_added": "2022-04-04T21:55:15+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:any0ne-sec/spring-check.git"
+		},
+		{
+			"xdb_id": "43e4620d8285",
+			"xdb_url": "https://vulncheck.com/xdb/43e4620d8285",
+			"date_added": "2022-04-01T02:29:00+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_ceki/CVE-2022-22965-PoC.git"
 		},
 		{
 			"xdb_id": "a73d53d733d9",

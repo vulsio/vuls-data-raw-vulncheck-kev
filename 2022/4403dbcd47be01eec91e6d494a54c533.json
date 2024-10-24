@@ -150,13 +150,6 @@
 			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		},
 		{
-			"xdb_id": "06a474d9b7ec",
-			"xdb_url": "https://vulncheck.com/xdb/06a474d9b7ec",
-			"date_added": "2023-02-01T01:37:56Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Londly01/poc-hub.git"
-		},
-		{
 			"xdb_id": "a48d3f6ecc63",
 			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
 			"date_added": "2022-04-07T04:28:29Z",
@@ -176,6 +169,13 @@
 			"date_added": "2020-01-25T08:55:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
+		},
+		{
+			"xdb_id": "06a474d9b7ec",
+			"xdb_url": "https://vulncheck.com/xdb/06a474d9b7ec",
+			"date_added": "2023-02-01T01:37:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Londly01/poc-hub.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
