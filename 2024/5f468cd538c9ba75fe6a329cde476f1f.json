@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "WP Time Capsule",
+	"product": "Revmakx Backup and Staging",
+	"shortDescription": "Improper Privilege Management vulnerability in Revmakx Backup and Staging by WP Time Capsule allows Privilege Escalation, Authentication Bypass.This issue affects Backup and Staging by WP Time Capsule: from n/a through 1.22.20.",
+	"vulnerabilityName": "WP Time Capsule Revmakx Backup and Staging Privilege Escalation Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

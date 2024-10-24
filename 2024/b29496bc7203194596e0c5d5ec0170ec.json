@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "ARForms",
+	"product": "ARForms - Premium WordPress Form Builder Plugin for WordPress",
+	"shortDescription": "The ARForms - Premium WordPress Form Builder Plugin WordPress plugin before 6.6 allows unauthenticated users to modify uploaded files in such a way that PHP code can be uploaded when an upload file input is included on a form.",
+	"vulnerabilityName": "ARForms - Premium WordPress Form Builder Plugin for WordPress PHP Code Upload Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

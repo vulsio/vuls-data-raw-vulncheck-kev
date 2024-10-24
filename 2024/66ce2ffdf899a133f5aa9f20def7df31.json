@@ -95,6 +95,10 @@
 			"date_added": "2024-10-21T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-23&host_type=src&vulnerability=cve-2024-7120",
+			"date_added": "2024-10-23T00:00:00Z"
+		},
+		{
 			"url": "https://isc.sans.edu/diary/Exploitation%20of%20RAISECOM%20Gateway%20Devices%20Vulnerability%20CVE-2024-7120/31292",
 			"date_added": "2024-09-24T00:00:00Z"
 		}

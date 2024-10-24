@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Roundcube",
 	"product": "Roundcube Webmail",
-	"shortDescription": "Roundcube Webmail before 1.5.7 and 1.6.x before 1.6.7 allows XSS via SVG animate attributes.",
-	"vulnerabilityName": "Roundcube Webmail SVG Animate Attributes Cross Site Scripting Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "RoundCube Webmail contains a cross-site scripting (XSS) vulnerability in the handling of SVG animate attributes that allows a remote attacker to run malicious JavaScript code.",
+	"vulnerabilityName": "RoundCube Webmail Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-37383"
@@ -27,5 +27,7 @@
 			"date_added": "2024-10-15T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-11-14T00:00:00Z",
+	"cisa_date_added": "2024-10-24T00:00:00Z",
 	"date_added": "2024-10-09T00:00:00Z"
 }
