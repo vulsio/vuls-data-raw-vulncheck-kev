@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "07b9ec25ec52",
-			"xdb_url": "https://vulncheck.com/xdb/07b9ec25ec52",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "1f273f25f0fa",
 			"xdb_url": "https://vulncheck.com/xdb/1f273f25f0fa",
 			"date_added": "2019-03-05T14:18:07Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:ze0r/CVE-2018-8639-exp.git"
+		},
+		{
+			"xdb_id": "07b9ec25ec52",
+			"xdb_url": "https://vulncheck.com/xdb/07b9ec25ec52",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "103ce63ab269",

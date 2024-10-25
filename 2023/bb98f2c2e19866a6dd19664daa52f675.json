@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:4ra1n/CVE-2023-21839.git"
 		},
 		{
-			"xdb_id": "da2508c4c86e",
-			"xdb_url": "https://vulncheck.com/xdb/da2508c4c86e",
-			"date_added": "2023-02-21T16:08:56Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:DXask88MA/Weblogic-CVE-2023-21839.git"
-		},
-		{
 			"xdb_id": "592e612813ca",
 			"xdb_url": "https://vulncheck.com/xdb/592e612813ca",
 			"date_added": "2023-04-15T08:57:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:houqe/POC_CVE-2023-21839.git"
+		},
+		{
+			"xdb_id": "da2508c4c86e",
+			"xdb_url": "https://vulncheck.com/xdb/da2508c4c86e",
+			"date_added": "2023-02-21T16:08:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:DXask88MA/Weblogic-CVE-2023-21839.git"
 		},
 		{
 			"xdb_id": "cd2f75e7d0eb",

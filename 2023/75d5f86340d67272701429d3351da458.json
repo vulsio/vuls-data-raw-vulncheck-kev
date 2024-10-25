@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:imabee101/CVE-2023-44487.git"
 		},
 		{
-			"xdb_id": "95898a14699a",
-			"xdb_url": "https://vulncheck.com/xdb/95898a14699a",
-			"date_added": "2023-10-10T14:20:42Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-44487.git"
-		},
-		{
 			"xdb_id": "1a4725458b4a",
 			"xdb_url": "https://vulncheck.com/xdb/1a4725458b4a",
 			"date_added": "2023-11-10T08:38:51Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:nxenon/cve-2023-44487.git"
+		},
+		{
+			"xdb_id": "95898a14699a",
+			"xdb_url": "https://vulncheck.com/xdb/95898a14699a",
+			"date_added": "2023-10-10T14:20:42Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:bcdannyboy/CVE-2023-44487.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
