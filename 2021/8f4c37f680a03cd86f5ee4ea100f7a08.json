@@ -444,6 +444,20 @@
 			"clone_ssh_url": "git@github.com:blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution.git"
 		},
 		{
+			"xdb_id": "d0972a06acee",
+			"xdb_url": "https://vulncheck.com/xdb/d0972a06acee",
+			"date_added": "2021-10-11T11:57:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:lvyyevd/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "e53c96b7f8c4",
+			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
+			"date_added": "2023-09-17T13:57:58+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
+		},
+		{
 			"xdb_id": "56fc1e32325a",
 			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
 			"date_added": "2021-11-19T02:09:08+08:00",
@@ -456,20 +470,6 @@
 			"date_added": "2021-10-09T15:36:32+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
-		},
-		{
-			"xdb_id": "e53c96b7f8c4",
-			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
-			"date_added": "2023-09-17T13:57:58+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
-		},
-		{
-			"xdb_id": "d0972a06acee",
-			"xdb_url": "https://vulncheck.com/xdb/d0972a06acee",
-			"date_added": "2021-10-11T11:57:54+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:lvyyevd/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "ff16564070fa",
