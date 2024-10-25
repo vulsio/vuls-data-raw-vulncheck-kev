@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:rip1s/CVE-2019-1458.git"
 		},
 		{
-			"xdb_id": "72337ebb34f1",
-			"xdb_url": "https://vulncheck.com/xdb/72337ebb34f1",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "a26d41dd78ca",
 			"xdb_url": "https://vulncheck.com/xdb/a26d41dd78ca",
 			"date_added": "2020-03-03T17:55:07Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:piotrflorczyk/cve-2019-1458_POC.git"
+		},
+		{
+			"xdb_id": "72337ebb34f1",
+			"xdb_url": "https://vulncheck.com/xdb/72337ebb34f1",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:STP5940/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "8781e0635d5a",
-			"xdb_url": "https://vulncheck.com/xdb/8781e0635d5a",
-			"date_added": "2019-02-23T01:20:34Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:easis/CVE-2018-20250-WinRAR-ACE.git"
-		},
-		{
 			"xdb_id": "0e24e0f3c860",
 			"xdb_url": "https://vulncheck.com/xdb/0e24e0f3c860",
 			"date_added": "2019-02-22T04:52:08Z",
@@ -94,11 +87,25 @@
 			"clone_ssh_url": "git@github.com:WyAtu/CVE-2018-20250.git"
 		},
 		{
+			"xdb_id": "8781e0635d5a",
+			"xdb_url": "https://vulncheck.com/xdb/8781e0635d5a",
+			"date_added": "2019-02-23T01:20:34Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:easis/CVE-2018-20250-WinRAR-ACE.git"
+		},
+		{
 			"xdb_id": "4cf24d124675",
 			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
 			"date_added": "2020-08-06T15:31:27+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
+		},
+		{
+			"xdb_id": "2f088777b403",
+			"xdb_url": "https://vulncheck.com/xdb/2f088777b403",
+			"date_added": "2022-04-29T10:14:55+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:liu-xiange5763/cve-2018-20250.git"
 		},
 		{
 			"xdb_id": "07d3492b35b0",
@@ -134,13 +141,6 @@
 			"date_added": "2020-04-26T09:30:59+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:vantler/CVE-2018-20250.git"
-		},
-		{
-			"xdb_id": "2f088777b403",
-			"xdb_url": "https://vulncheck.com/xdb/2f088777b403",
-			"date_added": "2022-04-29T10:14:55+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:liu-xiange5763/cve-2018-20250.git"
 		},
 		{
 			"xdb_id": "f92a55a02a71",

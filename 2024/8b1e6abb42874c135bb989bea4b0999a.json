@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:olebris/CVE-2024-4040.git"
 		},
 		{
-			"xdb_id": "c76b89de33ef",
-			"xdb_url": "https://vulncheck.com/xdb/c76b89de33ef",
-			"date_added": "2024-05-03T23:29:53Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4040.git"
-		},
-		{
 			"xdb_id": "1a53f981a558",
 			"xdb_url": "https://vulncheck.com/xdb/1a53f981a558",
 			"date_added": "2024-04-25T04:45:38Z",
@@ -106,6 +99,13 @@
 			"date_added": "2024-10-23T06:29:19Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:rahisec/CVE-2024-4040.git"
+		},
+		{
+			"xdb_id": "c76b89de33ef",
+			"xdb_url": "https://vulncheck.com/xdb/c76b89de33ef",
+			"date_added": "2024-05-03T23:29:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4040.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
