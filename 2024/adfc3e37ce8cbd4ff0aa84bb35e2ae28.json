@@ -318,18 +318,18 @@
 			"clone_ssh_url": "git@github.com:11whoami99/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "7ee6ed2bc73f",
-			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
-			"date_added": "2024-06-07T09:52:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "d06e30d57aaf",
 			"xdb_url": "https://vulncheck.com/xdb/d06e30d57aaf",
 			"date_added": "2024-06-15T02:49:37Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "7ee6ed2bc73f",
+			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
+			"date_added": "2024-06-07T09:52:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

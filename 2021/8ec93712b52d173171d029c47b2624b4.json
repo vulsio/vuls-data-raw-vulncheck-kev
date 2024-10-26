@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:Kashkovsky/CVE-2021-40438.git"
 		},
 		{
-			"xdb_id": "e06f4c13b530",
-			"xdb_url": "https://vulncheck.com/xdb/e06f4c13b530",
-			"date_added": "2023-12-12T11:56:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit.git"
-		},
-		{
 			"xdb_id": "fa2660f09705",
 			"xdb_url": "https://vulncheck.com/xdb/fa2660f09705",
 			"date_added": "2021-10-24T10:18:08Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:sixpacksecurity/CVE-2021-40438.git"
+		},
+		{
+			"xdb_id": "e06f4c13b530",
+			"xdb_url": "https://vulncheck.com/xdb/e06f4c13b530",
+			"date_added": "2023-12-12T11:56:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
