@@ -122,18 +122,18 @@
 			"clone_ssh_url": "git@gitee.com:xiaocainiao149/CVE-2021-40444.git"
 		},
 		{
-			"xdb_id": "8bc0a3fef89c",
-			"xdb_url": "https://vulncheck.com/xdb/8bc0a3fef89c",
-			"date_added": "2021-10-04T05:01:03+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444_1.git"
-		},
-		{
 			"xdb_id": "834486323132",
 			"xdb_url": "https://vulncheck.com/xdb/834486323132",
 			"date_added": "2021-09-12T12:47:49+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-40444.git"
+		},
+		{
+			"xdb_id": "8bc0a3fef89c",
+			"xdb_url": "https://vulncheck.com/xdb/8bc0a3fef89c",
+			"date_added": "2021-10-04T05:01:03+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444_1.git"
 		},
 		{
 			"xdb_id": "f40045a34384",

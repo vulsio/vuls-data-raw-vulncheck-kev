@@ -283,13 +283,6 @@
 			"clone_ssh_url": "git@github.com:bbaranoff/CVE-2022-0847.git"
 		},
 		{
-			"xdb_id": "a3b3ce85d0a5",
-			"xdb_url": "https://vulncheck.com/xdb/a3b3ce85d0a5",
-			"date_added": "2022-03-09T02:47:08Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/CVE-2022-0847.git"
-		},
-		{
 			"xdb_id": "d3a70ff7bafd",
 			"xdb_url": "https://vulncheck.com/xdb/d3a70ff7bafd",
 			"date_added": "2023-10-15T20:13:11Z",
@@ -323,6 +316,13 @@
 			"date_added": "2022-03-12T20:57:24Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits.git"
+		},
+		{
+			"xdb_id": "a3b3ce85d0a5",
+			"xdb_url": "https://vulncheck.com/xdb/a3b3ce85d0a5",
+			"date_added": "2022-03-09T02:47:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/CVE-2022-0847.git"
 		},
 		{
 			"xdb_id": "e4ea692dc95e",

@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:1337nemojj/CVE-2023-28121.git"
 		},
 		{
-			"xdb_id": "9092018b0a70",
-			"xdb_url": "https://vulncheck.com/xdb/9092018b0a70",
-			"date_added": "2023-07-12T02:41:26Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:im-hanzou/Mass-CVE-2023-28121.git"
-		},
-		{
 			"xdb_id": "e34ca4e13dea",
 			"xdb_url": "https://vulncheck.com/xdb/e34ca4e13dea",
 			"date_added": "2023-03-30T23:50:39Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:gbrsh/CVE-2023-28121.git"
+		},
+		{
+			"xdb_id": "9092018b0a70",
+			"xdb_url": "https://vulncheck.com/xdb/9092018b0a70",
+			"date_added": "2023-07-12T02:41:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:im-hanzou/Mass-CVE-2023-28121.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

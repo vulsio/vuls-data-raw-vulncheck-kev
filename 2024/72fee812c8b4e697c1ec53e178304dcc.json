@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:dawnl3ss/CVE-2023-32784.git"
 		},
 		{
-			"xdb_id": "37c27e3338ae",
-			"xdb_url": "https://vulncheck.com/xdb/37c27e3338ae",
-			"date_added": "2023-05-20T14:37:00Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:und3sc0n0c1d0/BruteForce-to-KeePass.git"
-		},
-		{
 			"xdb_id": "c729ddbb79da",
 			"xdb_url": "https://vulncheck.com/xdb/c729ddbb79da",
 			"date_added": "2024-02-01T09:41:24Z",
@@ -78,6 +71,13 @@
 			"date_added": "2023-01-27T13:59:38Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Orange-Cyberdefense/KeePwn.git"
+		},
+		{
+			"xdb_id": "37c27e3338ae",
+			"xdb_url": "https://vulncheck.com/xdb/37c27e3338ae",
+			"date_added": "2023-05-20T14:37:00Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:und3sc0n0c1d0/BruteForce-to-KeePass.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
