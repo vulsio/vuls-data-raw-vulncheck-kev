@@ -115,18 +115,18 @@
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2020-3452.git"
 		},
 		{
-			"xdb_id": "6f0ce488573d",
-			"xdb_url": "https://vulncheck.com/xdb/6f0ce488573d",
-			"date_added": "2020-09-28T05:00:37Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:3ndG4me/CVE-2020-3452-Exploit.git"
-		},
-		{
 			"xdb_id": "2844089d4205",
 			"xdb_url": "https://vulncheck.com/xdb/2844089d4205",
 			"date_added": "2020-11-18T21:31:50Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:grim3/CVE-2020-3452.git"
+		},
+		{
+			"xdb_id": "6f0ce488573d",
+			"xdb_url": "https://vulncheck.com/xdb/6f0ce488573d",
+			"date_added": "2020-09-28T05:00:37Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:3ndG4me/CVE-2020-3452-Exploit.git"
 		},
 		{
 			"xdb_id": "9bf142c2d239",
