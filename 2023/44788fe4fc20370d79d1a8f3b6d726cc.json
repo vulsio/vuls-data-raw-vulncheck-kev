@@ -297,18 +297,18 @@
 			"clone_ssh_url": "git@github.com:Maalfer/CVE-2023-38831_ReverseShell_Winrar-RCE.git"
 		},
 		{
-			"xdb_id": "f3b016e52591",
-			"xdb_url": "https://vulncheck.com/xdb/f3b016e52591",
-			"date_added": "2023-08-24T16:03:07Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc.git"
-		},
-		{
 			"xdb_id": "3e5e3d32361a",
 			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
 			"date_added": "2023-08-25T09:44:08Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
+		},
+		{
+			"xdb_id": "f3b016e52591",
+			"xdb_url": "https://vulncheck.com/xdb/f3b016e52591",
+			"date_added": "2023-08-24T16:03:07Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc.git"
 		},
 		{
 			"xdb_id": "6ddb49c0b30f",

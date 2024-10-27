@@ -234,6 +234,13 @@
 			"clone_ssh_url": "git@gitee.com:TaoLeonis/dirtycow-vdso.git"
 		},
 		{
+			"xdb_id": "56a0d9175e82",
+			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
+			"date_added": "2024-01-26T11:08:45+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
+		},
+		{
 			"xdb_id": "31a0aa69cf4c",
 			"xdb_url": "https://vulncheck.com/xdb/31a0aa69cf4c",
 			"date_added": "2020-09-25T09:03:58+08:00",
@@ -274,13 +281,6 @@
 			"date_added": "2022-01-10T16:01:05+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:mirrors_timwr/CVE-2016-5195.git"
-		},
-		{
-			"xdb_id": "56a0d9175e82",
-			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
-			"date_added": "2024-01-26T11:08:45+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
