@@ -699,6 +699,10 @@
 			"date_added": "2024-10-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2018-14558",
+			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
 			"url": "https://otx.alienvault.com/pulse/6075b645942d5adf9bb8949b",
 			"date_added": "2021-04-13T00:00:00Z"
 		},

@@ -375,6 +375,10 @@
 			"date_added": "2024-10-20T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2023-26256",
+			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
 			"url": "https://isc.sans.edu/diary/rss/30038",
 			"date_added": "2023-07-18T00:00:00Z"
 		},
