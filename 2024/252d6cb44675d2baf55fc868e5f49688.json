@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Rank Math SEO",
+	"product": "AI SEO Tools to Dominate SEO Rankings Plugin for WordPress",
+	"shortDescription": "The Rank Math SEO – AI SEO Tools to Dominate SEO Rankings plugin for WordPress is vulnerable to unauthorized modification and loss of data due to a missing capability check on the 'update_metadata' function in all versions up to, and including, 1.0.228. This makes it possible for unauthenticated attackers to insert new and update existing metadata beginning with 'rank_math', and delete arbitrary existing user metadata and term metadata. Deleting existing usermeta can cause a loss of access to the administrator dashboard for any registered users, including Administrators.",
+	"vulnerabilityName": "Rank Math SEO – AI SEO Tools to Dominate SEO Rankings Plugin for WordPress update_metadata Function Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9161"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/seo-by-rank-math/wordpress-rank-math-seo-plugin-1-0-228-missing-authorization-to-unauthenticated-user-and-term-metadata-insert-update-and-delete-vulnerability",
+			"date_added": "2024-10-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-25T00:00:00Z"
+}
