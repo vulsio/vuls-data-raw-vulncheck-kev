@@ -265,6 +265,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2018-10942",
 			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-27&host_type=src&vulnerability=cve-2018-10942",
+			"date_added": "2024-10-27T00:00:00Z"
 		}
 	],
 	"date_added": "2024-06-28T00:00:00Z"

@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:Jev1337/CVE-2023-29357-Check.git"
 		},
 		{
-			"xdb_id": "fd8cdbf188d1",
-			"xdb_url": "https://vulncheck.com/xdb/fd8cdbf188d1",
-			"date_added": "2023-09-26T16:18:41Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-29357.git"
-		},
-		{
 			"xdb_id": "c611323c5060",
 			"xdb_url": "https://vulncheck.com/xdb/c611323c5060",
 			"date_added": "2023-09-30T23:17:04Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:LuemmelSec/CVE-2023-29357.git"
+		},
+		{
+			"xdb_id": "fd8cdbf188d1",
+			"xdb_url": "https://vulncheck.com/xdb/fd8cdbf188d1",
+			"date_added": "2023-09-26T16:18:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-29357.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -490,6 +490,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2023-29357",
 			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-27&host_type=src&vulnerability=cve-2023-29357",
+			"date_added": "2024-10-27T00:00:00Z"
 		},
 		{
 			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
