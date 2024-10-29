@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-27954"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "f2aa03a2f38d",
+			"xdb_url": "https://vulncheck.com/xdb/f2aa03a2f38d",
+			"date_added": "2024-10-29T00:46:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-27954.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-29&host_type=src&vulnerability=cve-2024-27954",

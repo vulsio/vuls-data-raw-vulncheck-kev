@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:watchtowrlabs/connectwise-screenconnect_auth-bypass-add-user-poc.git"
 		},
 		{
-			"xdb_id": "bdf9efcfdbbe",
-			"xdb_url": "https://vulncheck.com/xdb/bdf9efcfdbbe",
-			"date_added": "2024-02-21T09:42:04Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/ScreenConnect-AuthBypass-RCE.git"
-		},
-		{
 			"xdb_id": "9e69f54b1bd0",
 			"xdb_url": "https://vulncheck.com/xdb/9e69f54b1bd0",
 			"date_added": "2024-10-16T08:05:35Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:AMRICHASFUCK/Mass-CVE-2024-1709.git"
+		},
+		{
+			"xdb_id": "bdf9efcfdbbe",
+			"xdb_url": "https://vulncheck.com/xdb/bdf9efcfdbbe",
+			"date_added": "2024-02-21T09:42:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/ScreenConnect-AuthBypass-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -848,6 +848,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2024-1709",
 			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-28&host_type=src&vulnerability=cve-2024-1709",
+			"date_added": "2024-10-28T00:00:00Z"
 		},
 		{
 			"url": "https://blog.checkpoint.com/security/april-2024s-most-wanted-malware-surge-in-androxgh0st-attacks-and-the-decline-of-lockbit3/",

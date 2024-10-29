@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "8be89dc68d9f",
-			"xdb_url": "https://vulncheck.com/xdb/8be89dc68d9f",
-			"date_added": "2019-11-01T13:46:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Rapidsafeguard/Solr-RCE-CVE-2019-0192.git"
-		},
-		{
 			"xdb_id": "54759569be2d",
 			"xdb_url": "https://vulncheck.com/xdb/54759569be2d",
 			"date_added": "2019-03-10T11:35:26Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:mpgn/CVE-2019-0192.git"
+		},
+		{
+			"xdb_id": "8be89dc68d9f",
+			"xdb_url": "https://vulncheck.com/xdb/8be89dc68d9f",
+			"date_added": "2019-11-01T13:46:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Rapidsafeguard/Solr-RCE-CVE-2019-0192.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

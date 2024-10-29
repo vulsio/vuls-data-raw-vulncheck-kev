@@ -325,18 +325,18 @@
 			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-24919.git"
 		},
 		{
-			"xdb_id": "ac33617aef51",
-			"xdb_url": "https://vulncheck.com/xdb/ac33617aef51",
-			"date_added": "2024-05-31T13:11:40Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:GoatSecurity/CVE-2024-24919.git"
-		},
-		{
 			"xdb_id": "7b331d4560e7",
 			"xdb_url": "https://vulncheck.com/xdb/7b331d4560e7",
 			"date_added": "2024-09-29T08:20:56Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2024-24919.git"
+		},
+		{
+			"xdb_id": "ac33617aef51",
+			"xdb_url": "https://vulncheck.com/xdb/ac33617aef51",
+			"date_added": "2024-05-31T13:11:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:GoatSecurity/CVE-2024-24919.git"
 		},
 		{
 			"xdb_id": "35dff2afdcc0",
@@ -365,6 +365,13 @@
 			"date_added": "2024-05-31T10:18:36Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-24919.git"
+		},
+		{
+			"xdb_id": "73f0d5b75fbd",
+			"xdb_url": "https://vulncheck.com/xdb/73f0d5b75fbd",
+			"date_added": "2024-10-28T21:54:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sar-3mar/CVE-2024-24919_POC.git"
 		},
 		{
 			"xdb_id": "3e1daa797bf9",
@@ -902,6 +909,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-26&host_type=src&vulnerability=cve-2024-24919",
 			"date_added": "2024-10-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-28&host_type=src&vulnerability=cve-2024-24919",
+			"date_added": "2024-10-28T00:00:00Z"
 		},
 		{
 			"url": "https://blog.checkpoint.com/security/enhance-your-vpn-security-posture",
