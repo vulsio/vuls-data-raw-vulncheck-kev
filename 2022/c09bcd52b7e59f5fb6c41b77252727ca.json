@@ -94,13 +94,6 @@
 			"clone_ssh_url": "git@github.com:tdy218/ysoserial-cve-2018-2628.git"
 		},
 		{
-			"xdb_id": "f5c1eb50cf55",
-			"xdb_url": "https://vulncheck.com/xdb/f5c1eb50cf55",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "7459b9092084",
 			"xdb_url": "https://vulncheck.com/xdb/7459b9092084",
 			"date_added": "2018-04-18T02:56:39Z",
@@ -108,11 +101,11 @@
 			"clone_ssh_url": "git@github.com:forlin/CVE-2018-2628.git"
 		},
 		{
-			"xdb_id": "c7bbf0a3a56c",
-			"xdb_url": "https://vulncheck.com/xdb/c7bbf0a3a56c",
-			"date_added": "2020-10-05T14:08:30+08:00",
+			"xdb_id": "f5c1eb50cf55",
+			"xdb_url": "https://vulncheck.com/xdb/f5c1eb50cf55",
+			"date_added": "2020-01-15T04:26:29Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xdawn/cve-2018-2628-2.git"
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
 			"xdb_id": "d5a92dce5856",
@@ -127,6 +120,13 @@
 			"date_added": "2020-02-05T01:43:07+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:moonoon20/ysoserial-cve-2018-2628.git"
+		},
+		{
+			"xdb_id": "c7bbf0a3a56c",
+			"xdb_url": "https://vulncheck.com/xdb/c7bbf0a3a56c",
+			"date_added": "2020-10-05T14:08:30+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/cve-2018-2628-2.git"
 		},
 		{
 			"xdb_id": "eed7ace69d37",

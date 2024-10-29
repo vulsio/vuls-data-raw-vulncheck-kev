@@ -94,18 +94,18 @@
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-34102.git"
 		},
 		{
-			"xdb_id": "f7ec53083d00",
-			"xdb_url": "https://vulncheck.com/xdb/f7ec53083d00",
-			"date_added": "2024-06-28T23:33:21Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-34102.git"
-		},
-		{
 			"xdb_id": "771b0f9ad8b9",
 			"xdb_url": "https://vulncheck.com/xdb/771b0f9ad8b9",
 			"date_added": "2024-10-08T17:02:11Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:bka/magento-cve-2024-34102-exploit-cosmicstring.git"
+		},
+		{
+			"xdb_id": "f7ec53083d00",
+			"xdb_url": "https://vulncheck.com/xdb/f7ec53083d00",
+			"date_added": "2024-06-28T23:33:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-34102.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
