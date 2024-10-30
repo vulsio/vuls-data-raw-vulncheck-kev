@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:hotplugin0x01/CVE-2023-42793.git"
 		},
 		{
-			"xdb_id": "cd1c718f6e87",
-			"xdb_url": "https://vulncheck.com/xdb/cd1c718f6e87",
-			"date_added": "2023-10-05T18:12:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Zenmovie/CVE-2023-42793.git"
-		},
-		{
 			"xdb_id": "c3ff544301c1",
 			"xdb_url": "https://vulncheck.com/xdb/c3ff544301c1",
 			"date_added": "2024-05-27T03:31:57Z",
@@ -73,18 +66,25 @@
 			"clone_ssh_url": "git@github.com:SwiftSecur/teamcity-exploit-cve-2023-42793.git"
 		},
 		{
-			"xdb_id": "abf957d8f6ce",
-			"xdb_url": "https://vulncheck.com/xdb/abf957d8f6ce",
-			"date_added": "2024-04-24T16:33:20Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Zyad-Elsayed/CVE-2023-42793.git"
-		},
-		{
 			"xdb_id": "5559dd30ebb6",
 			"xdb_url": "https://vulncheck.com/xdb/5559dd30ebb6",
 			"date_added": "2023-09-29T06:43:35Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:H454NSec/CVE-2023-42793.git"
+		},
+		{
+			"xdb_id": "cd1c718f6e87",
+			"xdb_url": "https://vulncheck.com/xdb/cd1c718f6e87",
+			"date_added": "2023-10-05T18:12:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zenmovie/CVE-2023-42793.git"
+		},
+		{
+			"xdb_id": "abf957d8f6ce",
+			"xdb_url": "https://vulncheck.com/xdb/abf957d8f6ce",
+			"date_added": "2024-04-24T16:33:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zyad-Elsayed/CVE-2023-42793.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1303,6 +1303,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-28&host_type=src&vulnerability=cve-2023-42793",
 			"date_added": "2024-10-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-29&host_type=src&vulnerability=cve-2023-42793",
+			"date_added": "2024-10-29T00:00:00Z"
 		},
 		{
 			"url": "https://x.com/PRODAFT/status/1708586257444430019",

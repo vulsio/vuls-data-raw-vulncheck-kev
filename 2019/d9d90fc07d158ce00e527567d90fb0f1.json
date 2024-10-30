@@ -66,6 +66,10 @@
 			"date_added": "2024-06-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-29&host_type=src&vulnerability=cve-2017-8046",
+			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/closer-look-satan-ransomwares-propagation-technics",
 			"date_added": "2019-05-20T00:00:00Z"
 		},
