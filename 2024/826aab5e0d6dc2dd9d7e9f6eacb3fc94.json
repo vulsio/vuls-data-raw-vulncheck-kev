@@ -227,13 +227,6 @@
 			"clone_ssh_url": "git@github.com:Rug4lo/CVE-2024-24919-Exploit.git"
 		},
 		{
-			"xdb_id": "4cae1121ac6d",
-			"xdb_url": "https://vulncheck.com/xdb/4cae1121ac6d",
-			"date_added": "2024-06-10T01:29:19Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:protonnegativo/CVE-2024-24919.git"
-		},
-		{
 			"xdb_id": "2df82d697c50",
 			"xdb_url": "https://vulncheck.com/xdb/2df82d697c50",
 			"date_added": "2024-07-14T23:26:51Z",
@@ -372,6 +365,13 @@
 			"date_added": "2024-10-28T21:54:41Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:sar-3mar/CVE-2024-24919_POC.git"
+		},
+		{
+			"xdb_id": "4cae1121ac6d",
+			"xdb_url": "https://vulncheck.com/xdb/4cae1121ac6d",
+			"date_added": "2024-06-10T01:29:19Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:protonnegativo/CVE-2024-24919.git"
 		},
 		{
 			"xdb_id": "3e1daa797bf9",

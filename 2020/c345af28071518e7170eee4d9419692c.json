@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:Graham382/CVE-2020-1054.git"
 		},
 		{
-			"xdb_id": "515b78d81889",
-			"xdb_url": "https://vulncheck.com/xdb/515b78d81889",
-			"date_added": "2020-06-16T23:22:15Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:0xeb-bp/cve-2020-1054.git"
-		},
-		{
 			"xdb_id": "12c12764e783",
 			"xdb_url": "https://vulncheck.com/xdb/12c12764e783",
 			"date_added": "2020-07-25T11:56:48Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2020-1054.git"
+		},
+		{
+			"xdb_id": "515b78d81889",
+			"xdb_url": "https://vulncheck.com/xdb/515b78d81889",
+			"date_added": "2020-06-16T23:22:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0xeb-bp/cve-2020-1054.git"
 		},
 		{
 			"xdb_id": "665dc3f05a7d",

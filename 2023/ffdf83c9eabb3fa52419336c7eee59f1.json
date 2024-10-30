@@ -38,6 +38,13 @@
 			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2023-22518.git"
 		},
 		{
+			"xdb_id": "801156c7d35c",
+			"xdb_url": "https://vulncheck.com/xdb/801156c7d35c",
+			"date_added": "2024-10-29T13:29:15Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:zgimszhd61/CVE-2023-22518.git"
+		},
+		{
 			"xdb_id": "9577c6fee8f6",
 			"xdb_url": "https://vulncheck.com/xdb/9577c6fee8f6",
 			"date_added": "2023-11-03T09:11:14+08:00",
