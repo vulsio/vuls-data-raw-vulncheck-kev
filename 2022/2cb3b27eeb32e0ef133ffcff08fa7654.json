@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:superzerosec/cve-2020-7247.git"
 		},
 		{
-			"xdb_id": "84f50ceb9674",
-			"xdb_url": "https://vulncheck.com/xdb/84f50ceb9674",
-			"date_added": "2017-07-12T14:40:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xdea/exploits.git"
-		},
-		{
 			"xdb_id": "15de84180d62",
 			"xdb_url": "https://vulncheck.com/xdb/15de84180d62",
 			"date_added": "2021-06-19T07:34:42Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:f4T1H21/CVE-2020-7247.git"
+		},
+		{
+			"xdb_id": "84f50ceb9674",
+			"xdb_url": "https://vulncheck.com/xdb/84f50ceb9674",
+			"date_added": "2017-07-12T14:40:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xdea/exploits.git"
 		},
 		{
 			"xdb_id": "aaf43d820afe",
