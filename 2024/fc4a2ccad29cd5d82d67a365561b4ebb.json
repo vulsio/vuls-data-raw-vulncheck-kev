@@ -1,8 +1,8 @@
 {
-	"vendorProject": "WPChill",
-	"product": "Download Monitor plugin for WordPress",
+	"vendorProject": "wpchill",
+	"product": "download_monitor",
 	"shortDescription": "The Download Monitor plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on several REST-API routes related to reporting in versions up to, and including, 4.7.51. This makes it possible for unauthenticated attackers to view user data and other sensitive information intended for administrators.",
-	"vulnerabilityName": "Download Monitor plugin for WordPress REST-API Routes Vulnerability",
+	"vulnerabilityName": "wpchill download_monitor Missing Authorization",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

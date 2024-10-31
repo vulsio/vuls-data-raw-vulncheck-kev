@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:Veraxy00/Flink-Kafka-Vul.git"
 		},
 		{
-			"xdb_id": "687d3e9b5e55",
-			"xdb_url": "https://vulncheck.com/xdb/687d3e9b5e55",
-			"date_added": "2024-04-17T13:36:34Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-25194.git"
-		},
-		{
 			"xdb_id": "ffb10502c90f",
 			"xdb_url": "https://vulncheck.com/xdb/ffb10502c90f",
 			"date_added": "2023-02-09T10:49:46Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ohnonoyesyes/CVE-2023-25194.git"
+		},
+		{
+			"xdb_id": "687d3e9b5e55",
+			"xdb_url": "https://vulncheck.com/xdb/687d3e9b5e55",
+			"date_added": "2024-04-17T13:36:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-25194.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

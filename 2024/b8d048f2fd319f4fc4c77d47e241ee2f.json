@@ -1,0 +1,35 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-51378"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "a3aa6ae8056c",
+			"xdb_url": "https://vulncheck.com/xdb/a3aa6ae8056c",
+			"date_added": "2024-10-29T23:34:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:refr4g/CVE-2024-51378.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://gist.github.com/gboddin/d78823245b518edd54bfc2301c5f8882",
+			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
+			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-51378",
+			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
+			"url": "https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/",
+			"date_added": "2024-10-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-29T00:00:00Z"
+}

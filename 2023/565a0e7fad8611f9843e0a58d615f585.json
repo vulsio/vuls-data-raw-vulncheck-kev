@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:JaneMandy/ActiveMQ_RCE_Pro_Max.git"
 		},
 		{
-			"xdb_id": "9af52ad961ce",
-			"xdb_url": "https://vulncheck.com/xdb/9af52ad961ce",
-			"date_added": "2024-04-17T13:10:34Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-46604.git"
-		},
-		{
 			"xdb_id": "cc4ca3b4d289",
 			"xdb_url": "https://vulncheck.com/xdb/cc4ca3b4d289",
 			"date_added": "2024-02-14T18:39:49Z",
@@ -169,6 +162,13 @@
 			"date_added": "2023-11-04T11:58:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:evkl1d/CVE-2023-46604.git"
+		},
+		{
+			"xdb_id": "9af52ad961ce",
+			"xdb_url": "https://vulncheck.com/xdb/9af52ad961ce",
+			"date_added": "2024-04-17T13:10:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-46604.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
