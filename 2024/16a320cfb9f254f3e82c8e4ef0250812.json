@@ -1,8 +1,8 @@
 {
-	"vendorProject": "N-Media",
-	"product": "Frontend File Manager and N-Media Post Front-end Form plugins for WordPress",
+	"vendorProject": "najeebmedia",
+	"product": "frontend_file_manager",
 	"shortDescription": "The Frontend File Manager (versions < 4.0), N-Media Post Front-end Form (versions < 1.1) plugins for WordPress are vulnerable to arbitrary file uploads due to missing file type validation via the `nm_filemanager_upload_file` and `nm_postfront_upload_file` AJAX actions. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected sites server which may make remote code execution possible.",
-	"vulnerabilityName": "Frontend File Manager and N-Media Post Front-end Form plugins for WordPress nm_filemanager_upload_file and nm_postfront_upload_file AJAX Vulnerability",
+	"vulnerabilityName": "najeebmedia frontend_file_manager Unrestricted Upload of File with Dangerous Type",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

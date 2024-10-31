@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipados",
+	"shortDescription": "A logic issue was addressed with improved validation. This issue is fixed in iOS 13.6 and iPadOS 13.6, macOS Catalina 10.15.6, tvOS 13.4.8. An attacker with memory write capability may be able to bypass pointer authentication codes and run arbitrary code.",
+	"vulnerabilityName": "Apple ipados Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-9870"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.threatfabric.com/blogs/lightspy-implant-for-ios",
+			"date_added": "2024-10-29T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-29T00:00:00Z"
+}

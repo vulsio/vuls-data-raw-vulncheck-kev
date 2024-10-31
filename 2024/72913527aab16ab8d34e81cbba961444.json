@@ -1,8 +1,8 @@
 {
-	"vendorProject": "AAM",
-	"product": "Advanced Access Manager plugin for WordPress",
+	"vendorProject": "vasyltech",
+	"product": "advanced_access_manager",
 	"shortDescription": "The Advanced Access Manager plugin for WordPress is vulnerable to Unauthenticated Arbitrary File Read in versions up to, and including, 5.9.8.1 due to insufficient validation on the aam-media parameter. This allows unauthenticated attackers to read any file on the server, including sensitive files such as wp-config.php",
-	"vulnerabilityName": "Advanced Access Manager plugin for WordPress aam-media Parameter Vulnerability",
+	"vulnerabilityName": "vasyltech advanced_access_manager Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

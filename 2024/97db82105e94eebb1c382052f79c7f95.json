@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ozette",
+	"product": "simple_mobile_url_redirect",
+	"shortDescription": "Cross-Site Request Forgery (CSRF) vulnerability in Ozette Plugins Simple Mobile URL Redirect plugin <= 1.7.2 versions.",
+	"vulnerabilityName": "ozette simple_mobile_url_redirect Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-23897"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.reliaquest.com/blog/5-critical-threat-actors-you-need-to-know-about/",
+			"date_added": "2024-10-30T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-30T00:00:00Z"
+}

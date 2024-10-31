@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Connect Secure and Policy Secure",
+	"shortDescription": "A heap overflow vulnerability in IPSec component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure allows an unauthenticated malicious user to send specially crafted requests in-order-to crash the service thereby causing a DoS attack. In certain conditions this may lead to execution of arbitrary code ",
+	"vulnerabilityName": "Ivanti Connect Secure and Policy Secure Out-of-bounds Write",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-21894"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.reliaquest.com/blog/5-critical-threat-actors-you-need-to-know-about/",
+			"date_added": "2024-10-30T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-30T00:00:00Z"
+}
