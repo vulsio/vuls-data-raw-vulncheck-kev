@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Sophos",
+	"product": "xg_firewall_firmware",
+	"shortDescription": "Sophos XG Firewall 17.x through v17.5 MR12 allows a Buffer Overflow and remote code execution via the HTTP/S Bookmarks feature for clientless access. Hotfix HF062020.1 was published for all firewalls running v17.x.",
+	"vulnerabilityName": "Sophos xg_firewall_firmware Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-15069"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/",
+			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline/",
+			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-whats-it-to-you/",
+			"date_added": "2024-10-31T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-31T00:00:00Z"
+}

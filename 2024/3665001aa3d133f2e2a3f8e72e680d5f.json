@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Sophos",
+	"product": "cyberoamos",
+	"shortDescription": "An SQL injection vulnerability in the WebAdmin of Cyberoam OS through 2020-12-04 allows unauthenticated attackers to execute arbitrary SQL statements remotely.",
+	"vulnerabilityName": "Sophos cyberoamos Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2020-29574"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/",
+			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline/",
+			"date_added": "2024-10-31T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-31T00:00:00Z"
+}

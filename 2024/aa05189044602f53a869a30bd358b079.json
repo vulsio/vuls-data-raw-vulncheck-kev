@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "9fce86dd34dc",
-			"xdb_url": "https://vulncheck.com/xdb/9fce86dd34dc",
-			"date_added": "2024-09-24T22:24:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:D3N14LD15K/CVE-2024-7593_PoC_Exploit.git"
-		},
-		{
 			"xdb_id": "54d14d965160",
 			"xdb_url": "https://vulncheck.com/xdb/54d14d965160",
 			"date_added": "2024-10-12T02:17:14Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:skyrowalker/CVE-2024-7593.git"
+		},
+		{
+			"xdb_id": "9fce86dd34dc",
+			"xdb_url": "https://vulncheck.com/xdb/9fce86dd34dc",
+			"date_added": "2024-09-24T22:24:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:D3N14LD15K/CVE-2024-7593_PoC_Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

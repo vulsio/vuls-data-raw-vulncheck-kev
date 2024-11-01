@@ -10,11 +10,11 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "80af55ef8cb8",
-			"xdb_url": "https://vulncheck.com/xdb/80af55ef8cb8",
+			"xdb_id": "ecc5d1fad142",
+			"xdb_url": "https://vulncheck.com/xdb/ecc5d1fad142",
 			"date_added": "2024-10-30T14:52:35Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Weisant/CVE-2017-12635-EXP.git"
+			"clone_ssh_url": "git@github.com:Weisant/CVE-2017-12635-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -17,6 +17,10 @@
 		{
 			"url": "https://attackerkb.com/topics/Ev24ZWs2iT/cve-2024-38094#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
 			"date_added": "2024-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/10/30/investigating-a-sharepoint-compromise-ir-tales-from-the-field/",
+			"date_added": "2024-10-30T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-11-12T00:00:00Z",

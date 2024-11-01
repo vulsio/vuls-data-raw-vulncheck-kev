@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-8957",
 			"date_added": "2024-09-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.labs.greynoise.io/grimoire/2024-10-31-sift-0-day-rce/",
+			"date_added": "2024-10-31T00:00:00Z"
 		}
 	],
 	"date_added": "2024-09-17T00:00:00Z"

@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:bughuntar/CVE-2024-34102.git"
 		},
 		{
-			"xdb_id": "b740eaf30da0",
-			"xdb_url": "https://vulncheck.com/xdb/b740eaf30da0",
-			"date_added": "2024-07-01T08:19:28Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento.git"
-		},
-		{
 			"xdb_id": "18320f3f459c",
 			"xdb_url": "https://vulncheck.com/xdb/18320f3f459c",
 			"date_added": "2024-08-13T07:33:20Z",
@@ -106,6 +99,13 @@
 			"date_added": "2024-06-28T23:33:21Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-34102.git"
+		},
+		{
+			"xdb_id": "b740eaf30da0",
+			"xdb_url": "https://vulncheck.com/xdb/b740eaf30da0",
+			"date_added": "2024-07-01T08:19:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
