@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2023-36844.git"
 		},
 		{
-			"xdb_id": "4b17b4566e33",
-			"xdb_url": "https://vulncheck.com/xdb/4b17b4566e33",
-			"date_added": "2023-09-24T13:30:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:r3dcl1ff/CVE-2023-36844_Juniper_RCE.git"
-		},
-		{
 			"xdb_id": "0bb1b8378b4d",
 			"xdb_url": "https://vulncheck.com/xdb/0bb1b8378b4d",
 			"date_added": "2023-08-25T07:28:06Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:watchtowrlabs/juniper-rce_cve-2023-36844.git"
+		},
+		{
+			"xdb_id": "4b17b4566e33",
+			"xdb_url": "https://vulncheck.com/xdb/4b17b4566e33",
+			"date_added": "2023-09-24T13:30:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:r3dcl1ff/CVE-2023-36844_Juniper_RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
