@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-51567"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c7fb9952eb0e",
+			"xdb_url": "https://vulncheck.com/xdb/c7fb9952eb0e",
+			"date_added": "2024-10-31T21:55:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ajayalf/CVE-2024-51567.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://gist.github.com/gboddin/d78823245b518edd54bfc2301c5f8882",

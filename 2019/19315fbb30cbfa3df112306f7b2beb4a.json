@@ -803,6 +803,10 @@
 			"date_added": "2024-10-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-31&host_type=src&vulnerability=cve-2019-9978",
+			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2019-9978",
 			"date_added": "2019-03-24T00:00:00Z"
 		},
