@@ -271,6 +271,10 @@
 			"date_added": "2024-10-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2021-28149",
+			"date_added": "2024-11-01T00:00:00Z"
+		},
+		{
 			"url": "https://vblocalhost.com/uploads/VB2021-50.pdf",
 			"date_added": "2021-10-07T00:00:00Z"
 		}

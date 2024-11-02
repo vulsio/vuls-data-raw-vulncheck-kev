@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:GodOfServer/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "9612bcbc8150",
-			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
-			"date_added": "2024-01-15T07:12:07Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
-		},
-		{
 			"xdb_id": "d6fabfe71d88",
 			"xdb_url": "https://vulncheck.com/xdb/d6fabfe71d88",
 			"date_added": "2021-02-18T05:42:13Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:zhzyker/CVE-2021-3129.git"
+		},
+		{
+			"xdb_id": "9612bcbc8150",
+			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
+			"date_added": "2024-01-15T07:12:07Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
 			"xdb_id": "fcb02bd261db",
@@ -192,6 +192,13 @@
 			"clone_ssh_url": "git@gitee.com:grenader/CVE-2021-3129.git"
 		},
 		{
+			"xdb_id": "e9d83dcde53d",
+			"xdb_url": "https://vulncheck.com/xdb/e9d83dcde53d",
+			"date_added": "2022-03-07T20:51:21+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-3129.git"
+		},
+		{
 			"xdb_id": "ef7d2df1ab88",
 			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
 			"date_added": "2021-09-17T12:51:18+08:00",
@@ -204,13 +211,6 @@
 			"date_added": "2021-03-19T10:07:18+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3129.git"
-		},
-		{
-			"xdb_id": "e9d83dcde53d",
-			"xdb_url": "https://vulncheck.com/xdb/e9d83dcde53d",
-			"date_added": "2022-03-07T20:51:21+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-3129.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1625,6 +1625,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-31&host_type=src&vulnerability=cve-2021-3129",
 			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2021-3129",
+			"date_added": "2024-11-01T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",

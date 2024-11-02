@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:OracleNep/CVE-2019-9670-DtdFilegeneration.git"
 		},
 		{
-			"xdb_id": "ff28b3d82e69",
-			"xdb_url": "https://vulncheck.com/xdb/ff28b3d82e69",
-			"date_added": "2019-08-16T04:37:11Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:rek7/Zimbra-RCE.git"
-		},
-		{
 			"xdb_id": "95c2412ff469",
 			"xdb_url": "https://vulncheck.com/xdb/95c2412ff469",
 			"date_added": "2022-06-28T20:01:11Z",
@@ -43,6 +36,13 @@
 			"date_added": "2022-08-15T00:54:44Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:oppsec/zaber.git"
+		},
+		{
+			"xdb_id": "ff28b3d82e69",
+			"xdb_url": "https://vulncheck.com/xdb/ff28b3d82e69",
+			"date_added": "2019-08-16T04:37:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rek7/Zimbra-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1353,6 +1353,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-31&host_type=src&vulnerability=cve-2019-9670",
 			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2019-9670",
+			"date_added": "2024-11-01T00:00:00Z"
 		},
 		{
 			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",

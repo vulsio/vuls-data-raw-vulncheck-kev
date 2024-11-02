@@ -1008,6 +1008,10 @@
 			"date_added": "2024-10-31T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2022-35914",
+			"date_added": "2024-11-01T00:00:00Z"
+		},
+		{
 			"url": "https://glpi-project.org/security-update-10-0-3-and-9-5-9/",
 			"date_added": "2022-10-05T00:00:00Z"
 		},

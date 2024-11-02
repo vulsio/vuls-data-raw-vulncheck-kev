@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:Admin9961/CVE-2024-30088.git"
 		},
 		{
-			"xdb_id": "84d8f14d4ea2",
-			"xdb_url": "https://vulncheck.com/xdb/84d8f14d4ea2",
-			"date_added": "2024-06-27T07:05:46Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:NextGenPentesters/CVE-2024-30088-.git"
-		},
-		{
 			"xdb_id": "80c76b2faf7e",
 			"xdb_url": "https://vulncheck.com/xdb/80c76b2faf7e",
 			"date_added": "2024-07-05T16:02:56Z",
@@ -43,6 +36,13 @@
 			"date_added": "2024-06-24T10:37:26Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:tykawaii98/CVE-2024-30088.git"
+		},
+		{
+			"xdb_id": "84d8f14d4ea2",
+			"xdb_url": "https://vulncheck.com/xdb/84d8f14d4ea2",
+			"date_added": "2024-06-27T07:05:46Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NextGenPentesters/CVE-2024-30088-.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
