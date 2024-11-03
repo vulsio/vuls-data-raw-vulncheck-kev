@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-15982_EXP_IE.git"
 		},
 		{
-			"xdb_id": "99b3d4ffd491",
-			"xdb_url": "https://vulncheck.com/xdb/99b3d4ffd491",
-			"date_added": "2018-12-10T04:53:31Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Ridter/CVE-2018-15982_EXP.git"
-		},
-		{
 			"xdb_id": "5506775f16d6",
 			"xdb_url": "https://vulncheck.com/xdb/5506775f16d6",
 			"date_added": "2018-12-11T16:31:21Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:kphongagsorn/adobe-flash-cve2018-15982.git"
+		},
+		{
+			"xdb_id": "99b3d4ffd491",
+			"xdb_url": "https://vulncheck.com/xdb/99b3d4ffd491",
+			"date_added": "2018-12-10T04:53:31Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2018-15982_EXP.git"
 		},
 		{
 			"xdb_id": "dbe63aaa31cf",

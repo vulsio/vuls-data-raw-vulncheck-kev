@@ -73,11 +73,11 @@
 			"clone_ssh_url": "git@gitee.com:jadore/jboss-_CVE-2017-12149.git"
 		},
 		{
-			"xdb_id": "4f659f46be37",
-			"xdb_url": "https://vulncheck.com/xdb/4f659f46be37",
-			"date_added": "2022-09-19T00:54:38+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:abcall/jboss-_CVE-2017-12149.git"
+			"xdb_id": "288d8baf4ead",
+			"xdb_url": "https://vulncheck.com/xdb/288d8baf4ead",
+			"date_added": "2021-05-22T09:28:17+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:weiuwang/jboss-_CVE-2017-12149.git"
 		},
 		{
 			"xdb_id": "d9f3bd9b80b5",
@@ -87,11 +87,11 @@
 			"clone_ssh_url": "git@gitee.com:prajnashipsailor/jboss-_CVE-2017-12149.git"
 		},
 		{
-			"xdb_id": "288d8baf4ead",
-			"xdb_url": "https://vulncheck.com/xdb/288d8baf4ead",
-			"date_added": "2021-05-22T09:28:17+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:weiuwang/jboss-_CVE-2017-12149.git"
+			"xdb_id": "4f659f46be37",
+			"xdb_url": "https://vulncheck.com/xdb/4f659f46be37",
+			"date_added": "2022-09-19T00:54:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:abcall/jboss-_CVE-2017-12149.git"
 		},
 		{
 			"xdb_id": "07509b590e3a",
@@ -240,6 +240,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-31&host_type=src&vulnerability=cve-2017-12149",
 			"date_added": "2024-10-31T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-02&host_type=src&vulnerability=cve-2017-12149",
+			"date_added": "2024-11-02T00:00:00Z"
 		},
 		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/sysrv-botnet-expands-and-gains-persistence",

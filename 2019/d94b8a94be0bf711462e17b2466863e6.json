@@ -101,18 +101,18 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "927806a24931",
-			"xdb_url": "https://vulncheck.com/xdb/927806a24931",
-			"date_added": "2020-03-31T15:49:46+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:nico555360/CVE-2019-2725.git"
-		},
-		{
 			"xdb_id": "1e4c0da55540",
 			"xdb_url": "https://vulncheck.com/xdb/1e4c0da55540",
 			"date_added": "2022-01-11T23:35:03+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_lufeirider/CVE-2019-2725.git"
+		},
+		{
+			"xdb_id": "927806a24931",
+			"xdb_url": "https://vulncheck.com/xdb/927806a24931",
+			"date_added": "2020-03-31T15:49:46+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:nico555360/CVE-2019-2725.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1399,6 +1399,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2019-2725",
 			"date_added": "2024-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-02&host_type=src&vulnerability=cve-2019-2725",
+			"date_added": "2024-11-02T00:00:00Z"
 		},
 		{
 			"url": "https://unit42.paloaltonetworks.com/new-mirai-variant-adds-8-new-exploits-targets-additional-iot-devices/",
