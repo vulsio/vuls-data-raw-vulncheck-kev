@@ -94,13 +94,6 @@
 			"clone_ssh_url": "git@github.com:xem6/CVE-2023-4911.git"
 		},
 		{
-			"xdb_id": "d7f283c48b1a",
-			"xdb_url": "https://vulncheck.com/xdb/d7f283c48b1a",
-			"date_added": "2023-10-17T07:44:16Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:chaudharyarjun/LooneyPwner.git"
-		},
-		{
 			"xdb_id": "1bf2c7948d0a",
 			"xdb_url": "https://vulncheck.com/xdb/1bf2c7948d0a",
 			"date_added": "2023-10-11T14:49:22Z",
@@ -141,6 +134,13 @@
 			"date_added": "2023-10-04T14:12:16Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:leesh3288/CVE-2023-4911.git"
+		},
+		{
+			"xdb_id": "d7f283c48b1a",
+			"xdb_url": "https://vulncheck.com/xdb/d7f283c48b1a",
+			"date_added": "2023-10-17T07:44:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:chaudharyarjun/LooneyPwner.git"
 		},
 		{
 			"xdb_id": "d9dc0002293f",
