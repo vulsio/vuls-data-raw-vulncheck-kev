@@ -171,13 +171,6 @@
 			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2021-21972.git"
 		},
 		{
-			"xdb_id": "4dc77b48cf47",
-			"xdb_url": "https://vulncheck.com/xdb/4dc77b48cf47",
-			"date_added": "2022-10-04T03:39:27Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Schira4396/VcenterKiller.git"
-		},
-		{
 			"xdb_id": "faddcda29d3c",
 			"xdb_url": "https://vulncheck.com/xdb/faddcda29d3c",
 			"date_added": "2021-02-24T16:31:34Z",
@@ -185,11 +178,18 @@
 			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2021-21972.git"
 		},
 		{
-			"xdb_id": "087036e51a0a",
-			"xdb_url": "https://vulncheck.com/xdb/087036e51a0a",
-			"date_added": "2021-03-16T15:35:37+08:00",
+			"xdb_id": "4dc77b48cf47",
+			"xdb_url": "https://vulncheck.com/xdb/4dc77b48cf47",
+			"date_added": "2022-10-04T03:39:27Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:binbee/CVE-2021-21972.git"
+			"clone_ssh_url": "git@github.com:Schira4396/VcenterKiller.git"
+		},
+		{
+			"xdb_id": "93708da6b80f",
+			"xdb_url": "https://vulncheck.com/xdb/93708da6b80f",
+			"date_added": "2021-02-28T22:36:23+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-21972.git"
 		},
 		{
 			"xdb_id": "51d9db6c8498",
@@ -199,11 +199,11 @@
 			"clone_ssh_url": "git@gitee.com:shmilylty/CVE-2021-21972.git"
 		},
 		{
-			"xdb_id": "93708da6b80f",
-			"xdb_url": "https://vulncheck.com/xdb/93708da6b80f",
-			"date_added": "2021-02-28T22:36:23+08:00",
+			"xdb_id": "087036e51a0a",
+			"xdb_url": "https://vulncheck.com/xdb/087036e51a0a",
+			"date_added": "2021-03-16T15:35:37+08:00",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-21972.git"
+			"clone_ssh_url": "git@gitee.com:binbee/CVE-2021-21972.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -674,6 +674,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-29&host_type=src&vulnerability=cve-2021-21972",
 			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-03&host_type=src&vulnerability=cve-2021-21972",
+			"date_added": "2024-11-03T00:00:00Z"
 		},
 		{
 			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",

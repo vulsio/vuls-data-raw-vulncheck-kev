@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-03&host_type=src&vulnerability=cve-2022-26186",
+			"date_added": "2024-11-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
 			"date_added": "2022-04-01T00:00:00Z"
 		},
