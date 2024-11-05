@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:CalegariMindSec/Exploit-CVE-2023-22515.git"
 		},
 		{
-			"xdb_id": "101896665425",
-			"xdb_url": "https://vulncheck.com/xdb/101896665425",
-			"date_added": "2023-10-22T23:37:56Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:joaoviictorti/CVE-2023-22515.git"
-		},
-		{
 			"xdb_id": "ce588e7e7050",
 			"xdb_url": "https://vulncheck.com/xdb/ce588e7e7050",
 			"date_added": "2023-10-13T08:19:07Z",
@@ -108,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:ad-calcium/CVE-2023-22515.git"
 		},
 		{
-			"xdb_id": "cd9c98c483ee",
-			"xdb_url": "https://vulncheck.com/xdb/cd9c98c483ee",
-			"date_added": "2023-10-10T21:40:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-22515.git"
-		},
-		{
 			"xdb_id": "4482a214bee0",
 			"xdb_url": "https://vulncheck.com/xdb/4482a214bee0",
 			"date_added": "2024-04-26T17:57:33Z",
@@ -141,6 +127,20 @@
 			"date_added": "2024-02-24T16:04:35Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:rxerium/CVE-2023-22515.git"
+		},
+		{
+			"xdb_id": "cd9c98c483ee",
+			"xdb_url": "https://vulncheck.com/xdb/cd9c98c483ee",
+			"date_added": "2023-10-10T21:40:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-22515.git"
+		},
+		{
+			"xdb_id": "101896665425",
+			"xdb_url": "https://vulncheck.com/xdb/101896665425",
+			"date_added": "2023-10-22T23:37:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:joaoviictorti/CVE-2023-22515.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1303,6 +1303,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-03&host_type=src&vulnerability=cve-2023-22515",
 			"date_added": "2024-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-04&host_type=src&vulnerability=cve-2023-22515",
+			"date_added": "2024-11-04T00:00:00Z"
 		},
 		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",

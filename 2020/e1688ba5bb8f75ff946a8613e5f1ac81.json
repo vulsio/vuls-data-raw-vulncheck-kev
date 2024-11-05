@@ -223,6 +223,10 @@
 			"date_added": "2024-11-01T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-04&host_type=src&vulnerability=cve-2020-10189",
+			"date_added": "2024-11-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.mandiant.com/resources/blog/apt41-initiates-global-intrusion-campaign-using-multiple-exploits",
 			"date_added": "2020-03-25T00:00:00Z"
 		},

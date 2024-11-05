@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:k8gege/PyLadon.git"
 		},
 		{
-			"xdb_id": "fefe091030d4",
-			"xdb_url": "https://vulncheck.com/xdb/fefe091030d4",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "84f7f1a5d499",
 			"xdb_url": "https://vulncheck.com/xdb/84f7f1a5d499",
 			"date_added": "2018-10-07T10:07:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jas502n/CVE-2018-2894.git"
+		},
+		{
+			"xdb_id": "fefe091030d4",
+			"xdb_url": "https://vulncheck.com/xdb/fefe091030d4",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -949,6 +949,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2018-2894",
 			"date_added": "2024-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-04&host_type=src&vulnerability=cve-2018-2894",
+			"date_added": "2024-11-04T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/elf-of-the-month-new-lucky-ransomware-sample/",
