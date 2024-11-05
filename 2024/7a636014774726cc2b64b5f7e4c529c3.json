@@ -25,6 +25,10 @@
 		{
 			"url": "https://www.androidpolice.com/qualcomm-android-vulnerability-exploited/",
 			"date_added": "2024-10-10T00:00:00Z"
+		},
+		{
+			"url": "https://source.android.com/docs/security/bulletin/2024-11-01",
+			"date_added": "2024-11-04T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-29T00:00:00Z",
