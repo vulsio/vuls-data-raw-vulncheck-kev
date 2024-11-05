@@ -21,6 +21,10 @@
 		{
 			"url": "https://www.fortiguard.com/psirt/FG-IR-24-423",
 			"date_added": "2024-10-23T00:00:00Z"
+		},
+		{
+			"url": "https://darktrace.com/blog/post-exploitation-activities-on-fortinet-devices-a-network-based-analysis",
+			"date_added": "2024-10-30T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-11-13T00:00:00Z",

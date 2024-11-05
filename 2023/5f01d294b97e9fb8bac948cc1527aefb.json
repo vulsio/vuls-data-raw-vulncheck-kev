@@ -199,18 +199,18 @@
 			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2022-42889-text4shell.git"
 		},
 		{
-			"xdb_id": "be7e0fe71d54",
-			"xdb_url": "https://vulncheck.com/xdb/be7e0fe71d54",
-			"date_added": "2022-10-18T09:58:00Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:karthikuj/cve-2022-42889-text4shell-docker.git"
-		},
-		{
 			"xdb_id": "47c953546f47",
 			"xdb_url": "https://vulncheck.com/xdb/47c953546f47",
 			"date_added": "2022-11-04T19:26:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:cryxnet/CVE-2022-42889-RCE.git"
+		},
+		{
+			"xdb_id": "be7e0fe71d54",
+			"xdb_url": "https://vulncheck.com/xdb/be7e0fe71d54",
+			"date_added": "2022-10-18T09:58:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:karthikuj/cve-2022-42889-text4shell-docker.git"
 		},
 		{
 			"xdb_id": "62c7fee2481d",
