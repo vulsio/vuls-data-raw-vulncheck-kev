@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-48217"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://attackerkb.com/topics/Vuz6btXpLQ/cve-2024-48217#exploited-in-the-wild_20df5a8e-76b9-439f-9cb7-59a1a701053d",
+			"date_added": "2024-11-02T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-02T00:00:00Z"
+}
