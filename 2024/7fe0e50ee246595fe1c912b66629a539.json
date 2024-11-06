@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Google",
+	"product": "Android Framework",
+	"shortDescription": "A security bypass in the Android Framework could allow unauthorized access to \"Android/data,\" \"Android/obb,\" and \"Android/sandbox\" directories and its sub-directories.",
+	"vulnerabilityName": "Android Framework Android/data, Android/obb and Android/sandbox Vulnerbaility",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
