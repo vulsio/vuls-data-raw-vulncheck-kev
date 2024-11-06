@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "a1ec325bed83",
-			"xdb_url": "https://vulncheck.com/xdb/a1ec325bed83",
-			"date_added": "2018-01-10T09:14:34Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:vah13/SAP_exploit.git"
-		},
-		{
 			"xdb_id": "a6e1ca13fa66",
 			"xdb_url": "https://vulncheck.com/xdb/a6e1ca13fa66",
 			"date_added": "2020-08-13T12:07:09Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2016-2386.git"
+		},
+		{
+			"xdb_id": "a1ec325bed83",
+			"xdb_url": "https://vulncheck.com/xdb/a1ec325bed83",
+			"date_added": "2018-01-10T09:14:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vah13/SAP_exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

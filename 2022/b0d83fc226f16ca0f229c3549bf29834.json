@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:Inplex-sys/CVE-2022-27925.git"
 		},
 		{
-			"xdb_id": "c3794744db87",
-			"xdb_url": "https://vulncheck.com/xdb/c3794744db87",
-			"date_added": "2022-08-14T22:22:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:mohamedbenchikh/CVE-2022-27925.git"
-		},
-		{
 			"xdb_id": "941aad11c8ff",
 			"xdb_url": "https://vulncheck.com/xdb/941aad11c8ff",
 			"date_added": "2022-08-26T20:19:48Z",
@@ -78,6 +71,13 @@
 			"date_added": "2024-08-19T17:17:24Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sanan2004/CVE-2022-27925.git"
+		},
+		{
+			"xdb_id": "c3794744db87",
+			"xdb_url": "https://vulncheck.com/xdb/c3794744db87",
+			"date_added": "2022-08-14T22:22:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mohamedbenchikh/CVE-2022-27925.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

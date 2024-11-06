@@ -157,18 +157,18 @@
 			"clone_ssh_url": "git@github.com:tomasmussi-mulesoft/activemq-cve-2023-46604.git"
 		},
 		{
-			"xdb_id": "111d5aa9554f",
-			"xdb_url": "https://vulncheck.com/xdb/111d5aa9554f",
-			"date_added": "2023-11-20T11:57:24Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:nitzanoligo/CVE-2023-46604-demo.git"
-		},
-		{
 			"xdb_id": "07dca85f6442",
 			"xdb_url": "https://vulncheck.com/xdb/07dca85f6442",
 			"date_added": "2023-11-06T04:05:51Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sule01u/CVE-2023-46604.git"
+		},
+		{
+			"xdb_id": "111d5aa9554f",
+			"xdb_url": "https://vulncheck.com/xdb/111d5aa9554f",
+			"date_added": "2023-11-20T11:57:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nitzanoligo/CVE-2023-46604-demo.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
