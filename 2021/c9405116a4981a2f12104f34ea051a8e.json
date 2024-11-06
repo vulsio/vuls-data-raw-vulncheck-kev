@@ -24,20 +24,6 @@
 			"clone_ssh_url": "git@github.com:BL0odz/CVE-2021-40449-NtGdiResetDC-UAF.git"
 		},
 		{
-			"xdb_id": "0361271769af",
-			"xdb_url": "https://vulncheck.com/xdb/0361271769af",
-			"date_added": "2021-10-20T09:24:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2021-40449-Exploit.git"
-		},
-		{
-			"xdb_id": "313e377808dd",
-			"xdb_url": "https://vulncheck.com/xdb/313e377808dd",
-			"date_added": "2021-10-25T04:58:49Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:hakivvi/CVE-2021-40449.git"
-		},
-		{
 			"xdb_id": "32687d6a60ea",
 			"xdb_url": "https://vulncheck.com/xdb/32687d6a60ea",
 			"date_added": "2022-03-04T17:55:52Z",
@@ -64,6 +50,20 @@
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "0361271769af",
+			"xdb_url": "https://vulncheck.com/xdb/0361271769af",
+			"date_added": "2021-10-20T09:24:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2021-40449-Exploit.git"
+		},
+		{
+			"xdb_id": "313e377808dd",
+			"xdb_url": "https://vulncheck.com/xdb/313e377808dd",
+			"date_added": "2021-10-25T04:58:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hakivvi/CVE-2021-40449.git"
 		},
 		{
 			"xdb_id": "83a3a8086e22",
