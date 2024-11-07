@@ -1,0 +1,19 @@
+{
+	"vendorProject": "micron",
+	"product": "ballistix_memory_overview_display_utility",
+	"shortDescription": "Ballistix MOD Utility through 2.0.2.5 is vulnerable to privilege escalation in the MODAPI.sys driver component. The vulnerability is triggered by sending a specific IOCTL request that allows low-privileged users to directly interact with physical memory via the MmMapIoSpace function call (mapping physical memory into a virtual address space). Attackers could exploit this issue to achieve local privilege escalation to NT AUTHORITY\\SYSTEM.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-41285"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/steelfox-trojan-drops-stealer-and-miner/114414/",
+			"date_added": "2024-11-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-06T00:00:00Z"
+}

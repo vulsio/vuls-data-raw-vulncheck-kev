@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipados",
+	"shortDescription": "This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.",
+	"vulnerabilityName": "Apple ipados Improper Link Resolution Before File Access ('Link Following')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-44258"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b56fb57e881d",
+			"xdb_url": "https://vulncheck.com/xdb/b56fb57e881d",
+			"date_added": "2024-10-29T09:45:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ifpdz/CVE-2024-44258.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://github.com/ifpdz/CVE-2024-44258",
+			"date_added": "2024-11-02T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-02T00:00:00Z"
+}
