@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Android",
+	"product": "Framework",
+	"shortDescription": "Android Framework contains an unspecified vulnerability that allows for privilege escalation.",
+	"vulnerabilityName": "Android Framework Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-43093"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://source.android.com/docs/security/bulletin/2024-11-01",
+			"date_added": "2024-11-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-11-28T00:00:00Z",
+	"cisa_date_added": "2024-11-07T00:00:00Z",
+	"date_added": "2024-11-04T00:00:00Z"
+}

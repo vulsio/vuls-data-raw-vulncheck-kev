@@ -1,9 +1,9 @@
 {
-	"vendorProject": "CyberPanel Web Hosting Panel",
+	"vendorProject": "CyberPersons",
 	"product": "CyberPanel",
-	"shortDescription": "upgrademysqlstatus in databases/views.py in CyberPanel (aka Cyber Panel) before 5b08cd6 allows remote attackers to bypass authentication and execute arbitrary commands via /dataBases/upgrademysqlstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.",
-	"vulnerabilityName": "CyberPanel /dataBases/upgrademysqlstatus Command Injection Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "CyberPanel contains an incorrect default permissions vulnerability that allows a remote, unauthenticated attacker to execute commands as root.",
+	"vulnerabilityName": "CyberPanel Incorrect Default Permissions Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2024-51567"
@@ -55,5 +55,7 @@
 			"date_added": "2024-10-29T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-11-28T00:00:00Z",
+	"cisa_date_added": "2024-11-07T00:00:00Z",
 	"date_added": "2024-10-29T00:00:00Z"
 }

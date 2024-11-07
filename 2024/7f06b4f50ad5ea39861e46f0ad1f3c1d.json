@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Palo Alto",
+	"product": "Expedition",
+	"shortDescription": "Palo Alto Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
+	"vulnerabilityName": "Palo Alto Expedition Missing Authentication Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-5910"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2024-11-28T00:00:00Z",
+	"cisa_date_added": "2024-11-07T00:00:00Z",
+	"date_added": "2024-11-07T00:00:00Z"
+}

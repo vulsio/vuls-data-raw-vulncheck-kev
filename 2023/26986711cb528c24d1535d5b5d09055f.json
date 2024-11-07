@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:ThatNotEasy/CVE-2023-34960.git"
 		},
 		{
-			"xdb_id": "4b31504a988b",
-			"xdb_url": "https://vulncheck.com/xdb/4b31504a988b",
-			"date_added": "2023-07-09T11:24:33Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:YongYe-Security/Chamilo_CVE-2023-34960-EXP.git"
-		},
-		{
 			"xdb_id": "f7c25d3f64de",
 			"xdb_url": "https://vulncheck.com/xdb/f7c25d3f64de",
 			"date_added": "2024-07-13T08:30:18Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:dvtarsoul/ChExp.git"
+		},
+		{
+			"xdb_id": "4b31504a988b",
+			"xdb_url": "https://vulncheck.com/xdb/4b31504a988b",
+			"date_added": "2023-07-09T11:24:33Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:YongYe-Security/Chamilo_CVE-2023-34960-EXP.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
