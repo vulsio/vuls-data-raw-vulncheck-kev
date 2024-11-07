@@ -73,25 +73,11 @@
 			"clone_ssh_url": "git@github.com:kkhackz0013/CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "a4b1ddfc8280",
-			"xdb_url": "https://vulncheck.com/xdb/a4b1ddfc8280",
-			"date_added": "2024-10-05T10:08:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "432db9e70d9e",
 			"xdb_url": "https://vulncheck.com/xdb/432db9e70d9e",
 			"date_added": "2024-08-27T15:28:04Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:justin-p/geoexplorer.git"
-		},
-		{
-			"xdb_id": "f4801e6b28d5",
-			"xdb_url": "https://vulncheck.com/xdb/f4801e6b28d5",
-			"date_added": "2024-07-17T02:25:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
 		},
 		{
 			"xdb_id": "e908c49bab48",
@@ -113,6 +99,20 @@
 			"date_added": "2024-07-06T01:10:28Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "a4b1ddfc8280",
+			"xdb_url": "https://vulncheck.com/xdb/a4b1ddfc8280",
+			"date_added": "2024-10-05T10:08:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "f4801e6b28d5",
+			"xdb_url": "https://vulncheck.com/xdb/f4801e6b28d5",
+			"date_added": "2024-07-17T02:25:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -495,6 +495,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-05&host_type=src&vulnerability=cve-2024-36401",
 			"date_added": "2024-11-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-06&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-11-06T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sonicwall.com/en-us/2024/07/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild/",

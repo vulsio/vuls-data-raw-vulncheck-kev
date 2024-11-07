@@ -192,13 +192,6 @@
 			"clone_ssh_url": "git@github.com:a2u/CVE-2018-7600.git"
 		},
 		{
-			"xdb_id": "18441ff73017",
-			"xdb_url": "https://vulncheck.com/xdb/18441ff73017",
-			"date_added": "2018-04-17T15:38:15Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:pimps/CVE-2018-7600.git"
-		},
-		{
 			"xdb_id": "e00c4f0f2628",
 			"xdb_url": "https://vulncheck.com/xdb/e00c4f0f2628",
 			"date_added": "2020-08-10T02:46:18Z",
@@ -213,11 +206,11 @@
 			"clone_ssh_url": "git@github.com:dreadlocked/Drupalgeddon2.git"
 		},
 		{
-			"xdb_id": "a91d4aaab05c",
-			"xdb_url": "https://vulncheck.com/xdb/a91d4aaab05c",
-			"date_added": "2021-11-18T23:34:26+08:00",
+			"xdb_id": "18441ff73017",
+			"xdb_url": "https://vulncheck.com/xdb/18441ff73017",
+			"date_added": "2018-04-17T15:38:15Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:yunyan521/CVE-2018-7600.git"
+			"clone_ssh_url": "git@github.com:pimps/CVE-2018-7600.git"
 		},
 		{
 			"xdb_id": "2c29ea901266",
@@ -225,6 +218,13 @@
 			"date_added": "2022-01-11T14:11:33+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_a2u/CVE-2018-7600.git"
+		},
+		{
+			"xdb_id": "a91d4aaab05c",
+			"xdb_url": "https://vulncheck.com/xdb/a91d4aaab05c",
+			"date_added": "2021-11-18T23:34:26+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:yunyan521/CVE-2018-7600.git"
 		},
 		{
 			"xdb_id": "85edc13d35ba",
@@ -1525,6 +1525,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-05&host_type=src&vulnerability=cve-2018-7600",
 			"date_added": "2024-11-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-06&host_type=src&vulnerability=cve-2018-7600",
+			"date_added": "2024-11-06T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/botnet-muhstik-is-actively-exploiting-drupal-cve-2018-7600-in-a-worm-style-en/",

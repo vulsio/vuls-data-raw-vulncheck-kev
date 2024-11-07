@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:K5LK/CVE-2023-2640-32629.git"
 		},
 		{
-			"xdb_id": "128ea6c187b0",
-			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
-			"date_added": "2023-11-09T09:19:23Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation.git"
-		},
-		{
 			"xdb_id": "1db18c71756c",
 			"xdb_url": "https://vulncheck.com/xdb/1db18c71756c",
 			"date_added": "2024-03-19T22:56:24Z",
@@ -78,6 +71,13 @@
 			"date_added": "2023-08-15T19:07:02Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:OllaPapito/gameoverlay.git"
+		},
+		{
+			"xdb_id": "128ea6c187b0",
+			"xdb_url": "https://vulncheck.com/xdb/128ea6c187b0",
+			"date_added": "2023-11-09T09:19:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
