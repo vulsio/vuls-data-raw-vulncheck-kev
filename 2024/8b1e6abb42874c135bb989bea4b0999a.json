@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:rahisec/CVE-2024-4040.git"
 		},
 		{
-			"xdb_id": "c76b89de33ef",
-			"xdb_url": "https://vulncheck.com/xdb/c76b89de33ef",
-			"date_added": "2024-05-03T23:29:53Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4040.git"
-		},
-		{
 			"xdb_id": "247af1523302",
 			"xdb_url": "https://vulncheck.com/xdb/247af1523302",
 			"date_added": "2024-04-23T09:31:29Z",
@@ -106,6 +99,13 @@
 			"date_added": "2024-04-25T19:51:38Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-4040-SSTI-LFI-PoC.git"
+		},
+		{
+			"xdb_id": "c76b89de33ef",
+			"xdb_url": "https://vulncheck.com/xdb/c76b89de33ef",
+			"date_added": "2024-05-03T23:29:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-4040.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

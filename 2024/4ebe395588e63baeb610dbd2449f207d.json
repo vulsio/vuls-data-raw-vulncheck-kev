@@ -45,6 +45,13 @@
 			"clone_ssh_url": "git@github.com:wizarddos/CVE-2024-23334.git"
 		},
 		{
+			"xdb_id": "77981ccbbfd1",
+			"xdb_url": "https://vulncheck.com/xdb/77981ccbbfd1",
+			"date_added": "2024-11-07T21:37:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Pylonet/CVE-2024-23334.git"
+		},
+		{
 			"xdb_id": "e5449a962b26",
 			"xdb_url": "https://vulncheck.com/xdb/e5449a962b26",
 			"date_added": "2024-10-21T05:37:33Z",

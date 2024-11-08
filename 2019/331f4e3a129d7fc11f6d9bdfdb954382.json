@@ -1139,6 +1139,10 @@
 			"date_added": "2024-11-05T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-07&host_type=src&vulnerability=cve-2019-16662",
+			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities-exploits-and-malware-driving-attack-campaigns-in-november-2019",
 			"date_added": "2019-12-24T00:00:00Z"
 		}

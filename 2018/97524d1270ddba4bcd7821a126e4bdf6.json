@@ -1451,6 +1451,10 @@
 			"date_added": "2024-11-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-07&host_type=src&vulnerability=cve-2014-8361",
+			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
 			"url": "https://blog.netlab.360.com/art-of-steal-satori-variant-is-robbing-eth-bitcoin-by-replacing-wallet-address-en/",
 			"date_added": "2018-01-17T00:00:00Z"
 		},
