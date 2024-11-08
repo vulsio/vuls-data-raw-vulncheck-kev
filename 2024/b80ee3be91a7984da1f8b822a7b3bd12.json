@@ -25,6 +25,10 @@
 		{
 			"url": "https://www.welivesecurity.com/en/eset-research/analysis-of-two-arbitrary-code-execution-vulnerabilities-affecting-wps-office/",
 			"date_added": "2024-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2024-q3-2024.pdf",
+			"date_added": "2024-11-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-09-24T00:00:00Z",
