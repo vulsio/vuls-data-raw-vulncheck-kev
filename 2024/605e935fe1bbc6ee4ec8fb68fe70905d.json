@@ -1,0 +1,19 @@
+{
+	"vendorProject": "AI Power",
+	"product": "AI Power: Complete AI Pack plugin for WordPress",
+	"shortDescription": "The AI Power: Complete AI Pack plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'handle_image_upload' function in all versions up to, and including, 1.8.89. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.",
+	"vulnerabilityName": "AI Power: Complete AI Pack plugin for WordPress handle_image_upload Function Arbitrary File Upload Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-10392"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/gpt3-ai-content-generator/wordpress-ai-power-complete-ai-pack-plugin-1-8-89-unauthenticated-arbitrary-file-upload-vulnerability",
+			"date_added": "2024-10-30T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-30T00:00:00Z"
+}

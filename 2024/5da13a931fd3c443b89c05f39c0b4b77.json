@@ -10,6 +10,13 @@
 	],
 	"vulncheck_xdb": [
 		{
+			"xdb_id": "04399b4b752c",
+			"xdb_url": "https://vulncheck.com/xdb/04399b4b752c",
+			"date_added": "2024-11-07T13:52:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thehash007/CVE-2024-51567-RCE-EXPLOIT.git"
+		},
+		{
 			"xdb_id": "c7fb9952eb0e",
 			"xdb_url": "https://vulncheck.com/xdb/c7fb9952eb0e",
 			"date_added": "2024-10-31T21:55:57Z",
@@ -18,6 +25,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-07T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-01&host_type=src&vulnerability=cve-2024-51567",
 			"date_added": "2024-11-01T00:00:00Z"

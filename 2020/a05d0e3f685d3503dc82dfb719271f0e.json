@@ -61,6 +61,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-21&host_type=src&vulnerability=cve-2019-16278",
 			"date_added": "2023-11-21T00:00:00Z"
 		},

@@ -297,13 +297,6 @@
 			"clone_ssh_url": "git@github.com:0nin0hanz0/CVE-2024-24919-PoC.git"
 		},
 		{
-			"xdb_id": "307191685e1f",
-			"xdb_url": "https://vulncheck.com/xdb/307191685e1f",
-			"date_added": "2024-06-09T06:54:51Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-24919.git"
-		},
-		{
 			"xdb_id": "7b331d4560e7",
 			"xdb_url": "https://vulncheck.com/xdb/7b331d4560e7",
 			"date_added": "2024-09-29T08:20:56Z",
@@ -353,13 +346,6 @@
 			"clone_ssh_url": "git@github.com:protonnegativo/CVE-2024-24919.git"
 		},
 		{
-			"xdb_id": "ac33617aef51",
-			"xdb_url": "https://vulncheck.com/xdb/ac33617aef51",
-			"date_added": "2024-05-31T13:11:40Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:GoatSecurity/CVE-2024-24919.git"
-		},
-		{
 			"xdb_id": "6d752fbb937c",
 			"xdb_url": "https://vulncheck.com/xdb/6d752fbb937c",
 			"date_added": "2024-05-30T07:55:53Z",
@@ -372,6 +358,20 @@
 			"date_added": "2024-06-03T18:17:45Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:GuayoyoCyber/CVE-2024-24919.git"
+		},
+		{
+			"xdb_id": "307191685e1f",
+			"xdb_url": "https://vulncheck.com/xdb/307191685e1f",
+			"date_added": "2024-06-09T06:54:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-24919.git"
+		},
+		{
+			"xdb_id": "ac33617aef51",
+			"xdb_url": "https://vulncheck.com/xdb/ac33617aef51",
+			"date_added": "2024-05-31T13:11:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:GoatSecurity/CVE-2024-24919.git"
 		},
 		{
 			"xdb_id": "3e1daa797bf9",

@@ -2,7 +2,7 @@
 	"vendorProject": "evga",
 	"product": "precision_x1",
 	"shortDescription": "The WinRing0.sys and WinRing0x64.sys drivers 1.2.0 in EVGA Precision X1 through 1.0.6 allow local users, including low integrity processes, to read and write to arbitrary memory locations. This allows any user to gain NT AUTHORITY\\SYSTEM privileges by mapping \\Device\\PhysicalMemory into the calling process.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "EVGA Precision WinRing0.sys and WinRing0x64.sys Privilege Escalation Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

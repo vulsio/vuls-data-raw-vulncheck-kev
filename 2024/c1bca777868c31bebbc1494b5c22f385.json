@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
 			"url": "https://source.android.com/docs/security/bulletin/2024-11-01",
 			"date_added": "2024-11-04T00:00:00Z"
 		}
