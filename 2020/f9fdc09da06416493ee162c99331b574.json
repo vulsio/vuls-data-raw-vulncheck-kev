@@ -57,6 +57,10 @@
 		{
 			"url": "https://resources.securityscorecard.com/research/volt-typhoon",
 			"date_added": "2024-01-11T00:00:00Z"
+		},
+		{
+			"url": "https://cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-010.pdf",
+			"date_added": "2024-11-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-03-17T00:00:00Z",

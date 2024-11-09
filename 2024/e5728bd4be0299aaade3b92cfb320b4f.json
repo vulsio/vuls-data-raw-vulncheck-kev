@@ -78,6 +78,13 @@
 			"date_added": "2024-02-05T17:47:01Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:V0WKeep3r/CVE-2024-21626-runcPOC.git"
+		},
+		{
+			"xdb_id": "219fbba229f0",
+			"xdb_url": "https://vulncheck.com/xdb/219fbba229f0",
+			"date_added": "2024-11-07T11:17:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Sk3pper/CVE-2024-21626-old-docker-versions.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

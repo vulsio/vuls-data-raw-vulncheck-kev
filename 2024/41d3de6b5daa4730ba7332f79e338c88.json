@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Cisco",
+	"product": "Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD)",
+	"shortDescription": "Cross-site scripting (XSS) vulnerability in the WebVPN login page in Cisco Adaptive Security Appliance (ASA) Software allows remote attackers to inject arbitrary web script or HTML via an unspecified parameter, aka Bug ID CSCun19025.",
+	"vulnerabilityName": "Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-2120"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave",
+			"date_added": "2024-11-07T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-07T00:00:00Z"
+}

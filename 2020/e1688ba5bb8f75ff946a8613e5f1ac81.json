@@ -265,6 +265,10 @@
 		{
 			"url": "https://www.hhs.gov/sites/default/files/apt41-recent-activity.pdf",
 			"date_added": "2022-09-22T00:00:00Z"
+		},
+		{
+			"url": "https://cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-010.pdf",
+			"date_added": "2024-11-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

@@ -451,18 +451,18 @@
 			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "56fc1e32325a",
-			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
-			"date_added": "2021-11-19T02:09:08+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
-		},
-		{
 			"xdb_id": "846a361d532a",
 			"xdb_url": "https://vulncheck.com/xdb/846a361d532a",
 			"date_added": "2021-10-09T15:36:32+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "56fc1e32325a",
+			"xdb_url": "https://vulncheck.com/xdb/56fc1e32325a",
+			"date_added": "2021-11-19T02:09:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "d0972a06acee",
@@ -523,6 +523,10 @@
 		{
 			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
 			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave",
+			"date_added": "2024-11-07T00:00:00Z"
 		},
 		{
 			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",

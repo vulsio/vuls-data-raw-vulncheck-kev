@@ -982,6 +982,10 @@
 		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
 			"date_added": "2024-09-26T00:00:00Z"
+		},
+		{
+			"url": "https://cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-010.pdf",
+			"date_added": "2024-11-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-02-13T00:00:00Z",

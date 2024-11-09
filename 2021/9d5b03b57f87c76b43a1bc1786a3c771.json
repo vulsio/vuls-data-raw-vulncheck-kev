@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:BBurgarella/An-Ethical-Hacking-Journey.git"
 		},
 		{
-			"xdb_id": "c1144f28258f",
-			"xdb_url": "https://vulncheck.com/xdb/c1144f28258f",
-			"date_added": "2022-02-21T11:07:19Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:mr-tuhin/CVE-2021-22204-exiftool.git"
-		},
-		{
 			"xdb_id": "2e739ce176b6",
 			"xdb_url": "https://vulncheck.com/xdb/2e739ce176b6",
 			"date_added": "2023-05-14T03:43:28Z",
@@ -78,6 +71,13 @@
 			"date_added": "2022-04-16T22:49:47Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:UNICORDev/exploit-CVE-2021-22204.git"
+		},
+		{
+			"xdb_id": "c1144f28258f",
+			"xdb_url": "https://vulncheck.com/xdb/c1144f28258f",
+			"date_added": "2022-02-21T11:07:19Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:mr-tuhin/CVE-2021-22204-exiftool.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
