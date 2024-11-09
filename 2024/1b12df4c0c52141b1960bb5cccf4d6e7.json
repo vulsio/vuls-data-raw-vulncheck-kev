@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:justin-p/geoexplorer.git"
 		},
 		{
-			"xdb_id": "1dbce5a4766b",
-			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
-			"date_added": "2024-07-30T18:43:40Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "46abf92ec267",
 			"xdb_url": "https://vulncheck.com/xdb/46abf92ec267",
 			"date_added": "2024-07-06T01:10:28Z",
@@ -113,6 +106,13 @@
 			"date_added": "2024-10-05T10:08:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "1dbce5a4766b",
+			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
+			"date_added": "2024-07-30T18:43:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -503,6 +503,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-07&host_type=src&vulnerability=cve-2024-36401",
 			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-08&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-11-08T00:00:00Z"
 		},
 		{
 			"url": "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave",
