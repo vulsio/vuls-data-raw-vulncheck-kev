@@ -115,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:batmoshka55/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
-			"xdb_id": "0bb1e6df735b",
-			"xdb_url": "https://vulncheck.com/xdb/0bb1e6df735b",
-			"date_added": "2016-03-30T11:43:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
-		},
-		{
 			"xdb_id": "8b058986f896",
 			"xdb_url": "https://vulncheck.com/xdb/8b058986f896",
 			"date_added": "2024-02-18T12:46:32Z",
@@ -129,11 +122,18 @@
 			"clone_ssh_url": "git@github.com:X3RX3SSec/DVR_Sploit.git"
 		},
 		{
-			"xdb_id": "68e84da49d7d",
-			"xdb_url": "https://vulncheck.com/xdb/68e84da49d7d",
-			"date_added": "2021-08-20T23:48:11+08:00",
+			"xdb_id": "0bb1e6df735b",
+			"xdb_url": "https://vulncheck.com/xdb/0bb1e6df735b",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "3d97c3fdd793",
+			"xdb_url": "https://vulncheck.com/xdb/3d97c3fdd793",
+			"date_added": "2019-07-05T09:21:35+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2018-9995-2.git"
+			"clone_ssh_url": "git@gitee.com:jijingchenai/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
 			"xdb_id": "07eb5a6f90b8",
@@ -143,11 +143,11 @@
 			"clone_ssh_url": "git@gitee.com:mengqingyu100/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
-			"xdb_id": "3d97c3fdd793",
-			"xdb_url": "https://vulncheck.com/xdb/3d97c3fdd793",
-			"date_added": "2019-07-05T09:21:35+08:00",
+			"xdb_id": "68e84da49d7d",
+			"xdb_url": "https://vulncheck.com/xdb/68e84da49d7d",
+			"date_added": "2021-08-20T23:48:11+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:jijingchenai/CVE-2018-9995_dvr_credentials.git"
+			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2018-9995-2.git"
 		},
 		{
 			"xdb_id": "7eaf338f4f14",
