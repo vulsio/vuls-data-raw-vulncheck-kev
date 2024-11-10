@@ -52,6 +52,13 @@
 			"clone_ssh_url": "git@github.com:Pylonet/CVE-2024-23334.git"
 		},
 		{
+			"xdb_id": "3b0121cf65f7",
+			"xdb_url": "https://vulncheck.com/xdb/3b0121cf65f7",
+			"date_added": "2024-11-09T13:59:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Arc4he/CVE-2024-23334-PoC.git"
+		},
+		{
 			"xdb_id": "e5449a962b26",
 			"xdb_url": "https://vulncheck.com/xdb/e5449a962b26",
 			"date_added": "2024-10-21T05:37:33Z",
