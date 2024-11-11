@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2018-1000001.git"
 		},
 		{
-			"xdb_id": "ef732ac75768",
-			"xdb_url": "https://vulncheck.com/xdb/ef732ac75768",
-			"date_added": "2018-01-22T05:57:41Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:5H311-1NJ3C706/local-root-exploits.git"
-		},
-		{
 			"xdb_id": "468c0c6fe03f",
 			"xdb_url": "https://vulncheck.com/xdb/468c0c6fe03f",
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "ef732ac75768",
+			"xdb_url": "https://vulncheck.com/xdb/ef732ac75768",
+			"date_added": "2018-01-22T05:57:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:5H311-1NJ3C706/local-root-exploits.git"
 		},
 		{
 			"xdb_id": "e9ecb9b40edc",

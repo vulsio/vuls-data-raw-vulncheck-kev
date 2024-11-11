@@ -199,13 +199,6 @@
 			"clone_ssh_url": "git@github.com:whokilleddb/CVE-2022-26134-Confluence-RCE.git"
 		},
 		{
-			"xdb_id": "0e38e7f0c998",
-			"xdb_url": "https://vulncheck.com/xdb/0e38e7f0c998",
-			"date_added": "2022-06-07T09:19:02Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL.git"
-		},
-		{
 			"xdb_id": "610e8ac40120",
 			"xdb_url": "https://vulncheck.com/xdb/610e8ac40120",
 			"date_added": "2022-07-05T07:04:50Z",
@@ -234,6 +227,13 @@
 			"clone_ssh_url": "git@github.com:crowsec-edtech/CVE-2022-26134.git"
 		},
 		{
+			"xdb_id": "e68dc3f67ff5",
+			"xdb_url": "https://vulncheck.com/xdb/e68dc3f67ff5",
+			"date_added": "2022-06-06T02:43:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hev0x/CVE-2022-26134.git"
+		},
+		{
 			"xdb_id": "afb357664032",
 			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
 			"date_added": "2022-05-31T07:44:01Z",
@@ -241,11 +241,11 @@
 			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
-			"xdb_id": "e68dc3f67ff5",
-			"xdb_url": "https://vulncheck.com/xdb/e68dc3f67ff5",
-			"date_added": "2022-06-06T02:43:06Z",
+			"xdb_id": "0e38e7f0c998",
+			"xdb_url": "https://vulncheck.com/xdb/0e38e7f0c998",
+			"date_added": "2022-06-07T09:19:02Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:hev0x/CVE-2022-26134.git"
+			"clone_ssh_url": "git@github.com:BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL.git"
 		},
 		{
 			"xdb_id": "66716e60c64a",
@@ -1714,6 +1714,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-09&host_type=src&vulnerability=cve-2022-26134",
 			"date_added": "2024-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-10&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2024-11-10T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",

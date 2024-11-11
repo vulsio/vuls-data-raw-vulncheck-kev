@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:geekben/towelroot.git"
 		},
 		{
-			"xdb_id": "c58b69fea619",
-			"xdb_url": "https://vulncheck.com/xdb/c58b69fea619",
-			"date_added": "2021-03-30T07:09:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
-		},
-		{
 			"xdb_id": "5a9f900eacd4",
 			"xdb_url": "https://vulncheck.com/xdb/5a9f900eacd4",
 			"date_added": "2018-09-27T03:16:15Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:dangtunguyen/TowelRoot.git"
+		},
+		{
+			"xdb_id": "c58b69fea619",
+			"xdb_url": "https://vulncheck.com/xdb/c58b69fea619",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
