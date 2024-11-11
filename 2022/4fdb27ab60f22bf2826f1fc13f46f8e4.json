@@ -927,13 +927,6 @@
 			"clone_ssh_url": "git@github.com:c3l3si4n/pwnkit.git"
 		},
 		{
-			"xdb_id": "722d83b48dd0",
-			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
-			"date_added": "2022-01-26T14:26:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
-		},
-		{
 			"xdb_id": "942f4234ebaf",
 			"xdb_url": "https://vulncheck.com/xdb/942f4234ebaf",
 			"date_added": "2022-04-01T19:51:18Z",
@@ -946,6 +939,13 @@
 			"date_added": "2022-01-30T10:34:28Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Almorabea/pkexec-exploit.git"
+		},
+		{
+			"xdb_id": "722d83b48dd0",
+			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
+			"date_added": "2022-01-26T14:26:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
 		},
 		{
 			"xdb_id": "fe47fe6ea534",
@@ -1032,18 +1032,18 @@
 			"clone_ssh_url": "git@gitee.com:ruoziyou/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "5cdf60043d8c",
-			"xdb_url": "https://vulncheck.com/xdb/5cdf60043d8c",
-			"date_added": "2022-01-26T16:35:08Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitlab.com:Tramadol/cve-2021-4034.git"
-		},
-		{
 			"xdb_id": "5cbdc401e4c7",
 			"xdb_url": "https://vulncheck.com/xdb/5cbdc401e4c7",
 			"date_added": "2022-03-03T05:16:34Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitlab.com:RekGRpth/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "5cdf60043d8c",
+			"xdb_url": "https://vulncheck.com/xdb/5cdf60043d8c",
+			"date_added": "2022-01-26T16:35:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitlab.com:Tramadol/cve-2021-4034.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -346,13 +346,6 @@
 			"clone_ssh_url": "git@github.com:Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.git"
 		},
 		{
-			"xdb_id": "bc6bb6bf5116",
-			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
-			"date_added": "2021-12-13T03:57:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
-		},
-		{
 			"xdb_id": "f57f14ebef6c",
 			"xdb_url": "https://vulncheck.com/xdb/f57f14ebef6c",
 			"date_added": "2024-03-23T05:03:44Z",
@@ -374,11 +367,11 @@
 			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
 		},
 		{
-			"xdb_id": "94dd05cb788b",
-			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
-			"date_added": "2022-01-08T02:15:48+08:00",
+			"xdb_id": "bc6bb6bf5116",
+			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
+			"date_added": "2021-12-13T03:57:50Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
+			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
 		},
 		{
 			"xdb_id": "c555ac264c6e",
@@ -393,6 +386,13 @@
 			"date_added": "2021-12-13T14:39:20+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "94dd05cb788b",
+			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
+			"date_added": "2022-01-08T02:15:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
 		},
 		{
 			"xdb_id": "60c07310e663",

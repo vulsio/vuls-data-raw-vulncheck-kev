@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:0xf15h/mtk_su.git"
 		},
 		{
-			"xdb_id": "c9d83d8c80bb",
-			"xdb_url": "https://vulncheck.com/xdb/c9d83d8c80bb",
-			"date_added": "2020-03-24T13:10:39Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:quarkslab/CVE-2020-0069_poc.git"
-		},
-		{
 			"xdb_id": "9a931c619e3c",
 			"xdb_url": "https://vulncheck.com/xdb/9a931c619e3c",
 			"date_added": "2019-09-06T12:12:48Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:R0rt1z2/AutomatedRoot.git"
+		},
+		{
+			"xdb_id": "c9d83d8c80bb",
+			"xdb_url": "https://vulncheck.com/xdb/c9d83d8c80bb",
+			"date_added": "2020-03-24T13:10:39Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:quarkslab/CVE-2020-0069_poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

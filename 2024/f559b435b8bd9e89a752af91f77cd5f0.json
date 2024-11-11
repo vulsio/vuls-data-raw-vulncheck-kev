@@ -143,13 +143,6 @@
 			"clone_ssh_url": "git@github.com:Vozec/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "bafdcb3d292c",
-			"xdb_url": "https://vulncheck.com/xdb/bafdcb3d292c",
-			"date_added": "2024-05-16T09:32:51Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Maalfer/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "98fe8aa360ae",
 			"xdb_url": "https://vulncheck.com/xdb/98fe8aa360ae",
 			"date_added": "2024-02-16T07:16:04Z",
@@ -199,13 +192,6 @@
 			"clone_ssh_url": "git@github.com:xaitax/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "f240e8d471e6",
-			"xdb_url": "https://vulncheck.com/xdb/f240e8d471e6",
-			"date_added": "2024-09-30T16:38:28Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "e7f68889c96b",
 			"xdb_url": "https://vulncheck.com/xdb/e7f68889c96b",
 			"date_added": "2024-01-26T08:02:00Z",
@@ -218,6 +204,20 @@
 			"date_added": "2024-02-07T15:07:37Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability.git"
+		},
+		{
+			"xdb_id": "bafdcb3d292c",
+			"xdb_url": "https://vulncheck.com/xdb/bafdcb3d292c",
+			"date_added": "2024-05-16T09:32:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Maalfer/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "f240e8d471e6",
+			"xdb_url": "https://vulncheck.com/xdb/f240e8d471e6",
+			"date_added": "2024-09-30T16:38:28Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
 		},
 		{
 			"xdb_id": "0450095821bb",
