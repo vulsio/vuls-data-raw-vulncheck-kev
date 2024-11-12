@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:SyFi/CVE-2018-8174.git"
 		},
 		{
-			"xdb_id": "a9ca59449e4a",
-			"xdb_url": "https://vulncheck.com/xdb/a9ca59449e4a",
-			"date_added": "2018-05-30T03:12:32Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2018-8174_EXP.git"
-		},
-		{
 			"xdb_id": "4a0ac8d91b55",
 			"xdb_url": "https://vulncheck.com/xdb/4a0ac8d91b55",
 			"date_added": "2018-05-22T21:50:32Z",
@@ -57,6 +50,13 @@
 			"date_added": "2018-07-10T19:31:25Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:piotrflorczyk/cve-2018-8174_analysis.git"
+		},
+		{
+			"xdb_id": "a9ca59449e4a",
+			"xdb_url": "https://vulncheck.com/xdb/a9ca59449e4a",
+			"date_added": "2018-05-30T03:12:32Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2018-8174_EXP.git"
 		},
 		{
 			"xdb_id": "803f22a963ca",

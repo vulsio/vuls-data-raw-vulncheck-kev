@@ -199,18 +199,18 @@
 			"clone_ssh_url": "git@github.com:Maalfer/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "f240e8d471e6",
-			"xdb_url": "https://vulncheck.com/xdb/f240e8d471e6",
-			"date_added": "2024-09-30T16:38:28Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "ea61ab6382c6",
 			"xdb_url": "https://vulncheck.com/xdb/ea61ab6382c6",
 			"date_added": "2024-01-26T09:44:32Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "f5619d4199d8",
+			"xdb_url": "https://vulncheck.com/xdb/f5619d4199d8",
+			"date_added": "2024-11-11T01:43:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC.git"
 		},
 		{
 			"xdb_id": "6028cfd20f54",
@@ -220,11 +220,11 @@
 			"clone_ssh_url": "git@github.com:xaitax/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "f5619d4199d8",
-			"xdb_url": "https://vulncheck.com/xdb/f5619d4199d8",
-			"date_added": "2024-11-11T01:43:18Z",
+			"xdb_id": "f240e8d471e6",
+			"xdb_url": "https://vulncheck.com/xdb/f240e8d471e6",
+			"date_added": "2024-09-30T16:38:28Z",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC.git"
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
 		},
 		{
 			"xdb_id": "5f45754388ab",

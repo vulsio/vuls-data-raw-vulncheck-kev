@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:0x20c/CVE-2024-23692-EXP.git"
 		},
 		{
-			"xdb_id": "d5b6ecca1a09",
-			"xdb_url": "https://vulncheck.com/xdb/d5b6ecca1a09",
-			"date_added": "2024-09-15T12:15:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23692.git"
-		},
-		{
 			"xdb_id": "6274be6d1fb5",
 			"xdb_url": "https://vulncheck.com/xdb/6274be6d1fb5",
 			"date_added": "2024-06-13T06:00:24Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS.git"
+		},
+		{
+			"xdb_id": "d5b6ecca1a09",
+			"xdb_url": "https://vulncheck.com/xdb/d5b6ecca1a09",
+			"date_added": "2024-09-15T12:15:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23692.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

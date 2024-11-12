@@ -66,6 +66,10 @@
 			"date_added": "2024-11-10T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-11&host_type=src&vulnerability=cve-2024-51567",
+			"date_added": "2024-11-11T00:00:00Z"
+		},
+		{
 			"url": "https://gist.github.com/gboddin/d78823245b518edd54bfc2301c5f8882",
 			"date_added": "2024-10-29T00:00:00Z"
 		},
