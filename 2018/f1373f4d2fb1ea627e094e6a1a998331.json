@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "856bda943936",
-			"xdb_url": "https://vulncheck.com/xdb/856bda943936",
-			"date_added": "2020-07-28T00:23:15+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2018-2893.git"
-		},
-		{
 			"xdb_id": "93955bfa2ac3",
 			"xdb_url": "https://vulncheck.com/xdb/93955bfa2ac3",
 			"date_added": "2022-03-24T11:15:15+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mi666/CVE-2018-2893.git"
+		},
+		{
+			"xdb_id": "856bda943936",
+			"xdb_url": "https://vulncheck.com/xdb/856bda943936",
+			"date_added": "2020-07-28T00:23:15+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2018-2893.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

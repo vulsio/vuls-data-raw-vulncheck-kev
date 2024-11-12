@@ -29,6 +29,10 @@
 		{
 			"url": "https://source.android.com/docs/security/bulletin/2024-11-01",
 			"date_added": "2024-11-04T00:00:00Z"
+		},
+		{
+			"url": "https://www.cybersecurity-help.cz/vdb/SB2024110465",
+			"date_added": "2024-11-04T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-29T00:00:00Z",

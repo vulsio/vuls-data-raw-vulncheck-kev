@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:z-jxy/keepass_dump.git"
 		},
 		{
-			"xdb_id": "21ffd01290ad",
-			"xdb_url": "https://vulncheck.com/xdb/21ffd01290ad",
-			"date_added": "2023-01-27T13:59:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Orange-Cyberdefense/KeePwn.git"
-		},
-		{
 			"xdb_id": "069e9eeb2f02",
 			"xdb_url": "https://vulncheck.com/xdb/069e9eeb2f02",
 			"date_added": "2023-08-30T16:42:19Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:dawnl3ss/CVE-2023-32784.git"
+		},
+		{
+			"xdb_id": "21ffd01290ad",
+			"xdb_url": "https://vulncheck.com/xdb/21ffd01290ad",
+			"date_added": "2023-01-27T13:59:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Orange-Cyberdefense/KeePwn.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

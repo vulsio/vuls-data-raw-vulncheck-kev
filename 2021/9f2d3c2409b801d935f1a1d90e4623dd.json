@@ -115,6 +115,13 @@
 			"clone_ssh_url": "git@github.com:klezVirus/CVE-2021-40444.git"
 		},
 		{
+			"xdb_id": "f40045a34384",
+			"xdb_url": "https://vulncheck.com/xdb/f40045a34384",
+			"date_added": "2021-09-13T05:02:34+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444.git"
+		},
+		{
 			"xdb_id": "488dd6b83a3a",
 			"xdb_url": "https://vulncheck.com/xdb/488dd6b83a3a",
 			"date_added": "2021-10-08T15:46:41+08:00",
@@ -134,13 +141,6 @@
 			"date_added": "2021-09-12T12:47:49+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-40444.git"
-		},
-		{
-			"xdb_id": "f40045a34384",
-			"xdb_url": "https://vulncheck.com/xdb/f40045a34384",
-			"date_added": "2021-09-13T05:02:34+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-40444.git"
 		},
 		{
 			"xdb_id": "82c5f73256d8",
