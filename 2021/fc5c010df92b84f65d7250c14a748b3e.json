@@ -1142,6 +1142,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",

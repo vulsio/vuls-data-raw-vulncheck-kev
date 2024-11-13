@@ -1224,6 +1224,10 @@
 			"date_added": "2024-11-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-12&host_type=src&vulnerability=cve-2023-27350",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
 			"url": "https://twitter.com/MsftSecIntel/status/1651346653901725696",
 			"date_added": "2023-04-21T00:00:00Z"
 		},
@@ -1398,6 +1402,10 @@
 		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/",
 			"date_added": "2024-07-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-05-12T00:00:00Z",

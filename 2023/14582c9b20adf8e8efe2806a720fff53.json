@@ -345,6 +345,10 @@
 		{
 			"url": "https://www.infostealers.com/article/massive-moveit-vulnerability-breach-hacker-leaks-employee-data-from-amazon-mcdonalds-hsbc-hp-and-potentially-1000-other-companies/",
 			"date_added": "2024-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-06-23T00:00:00Z",

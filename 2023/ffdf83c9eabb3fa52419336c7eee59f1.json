@@ -1250,6 +1250,10 @@
 			"date_added": "2024-11-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-12&host_type=src&vulnerability=cve-2023-22518",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
 			"url": "https://redcanary.com/blog/confluence-exploit-ransomware/",
 			"date_added": "2023-11-06T00:00:00Z"
 		},
@@ -1352,6 +1356,10 @@
 		{
 			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/itogi-proektov-po-rassledovaniyu-inczidentov-i-retrospektivnomu-analizu-2023-2024/#id1",
 			"date_added": "2024-11-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-11-28T00:00:00Z",

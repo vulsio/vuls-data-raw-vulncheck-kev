@@ -1313,6 +1313,10 @@
 			"date_added": "2024-11-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-12&host_type=src&vulnerability=cve-2019-11510",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
 			"url": "https://digital.nhs.uk/cyber-alerts/2019/cc-3044",
 			"date_added": "2019-05-01T00:00:00Z"
 		},
@@ -1567,6 +1571,10 @@
 		{
 			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h12024.pdf",
 			"date_added": "2024-06-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-04-23T00:00:00Z",

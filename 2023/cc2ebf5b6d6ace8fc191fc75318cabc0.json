@@ -986,6 +986,10 @@
 		{
 			"url": "https://cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-010.pdf",
 			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-02-13T00:00:00Z",

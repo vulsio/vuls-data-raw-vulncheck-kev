@@ -1492,6 +1492,10 @@
 			"date_added": "2024-11-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-12&host_type=src&vulnerability=cve-2021-26084",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/muhstik-takes-aim-at-confluence-cve-2021-26084/",
 			"date_added": "2021-09-08T00:00:00Z"
 		},
@@ -1658,6 +1662,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",

@@ -49,6 +49,10 @@
 		{
 			"url": "https://labs.withsecure.com/publications/mass-exploitation-the-vulnerable-edge-of-enterprise-security",
 			"date_added": "2024-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-27T00:00:00Z",

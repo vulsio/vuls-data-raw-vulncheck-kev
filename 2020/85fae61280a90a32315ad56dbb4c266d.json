@@ -1535,6 +1535,10 @@
 			"date_added": "2024-11-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-12&host_type=src&vulnerability=cve-2018-13379",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
 			"url": "https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf",
 			"date_added": "2020-12-01T00:00:00Z"
 		},
@@ -1821,6 +1825,10 @@
 		{
 			"url": "https://www.greynoise.io/blog/u-s-and-uk-warn-of-russian-cyber-threats-9-of-24-vulnerabilities-in-the-advisory-are-being-probed-right-now",
 			"date_added": "2024-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
