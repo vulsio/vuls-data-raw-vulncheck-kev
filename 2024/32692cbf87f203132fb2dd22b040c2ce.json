@@ -17,6 +17,10 @@
 		{
 			"url": "https://api.msrc.microsoft.com/cvrf/2024-Nov?api-version=2020",
 			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49039",
+			"date_added": "2024-11-12T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-03T00:00:00Z",
