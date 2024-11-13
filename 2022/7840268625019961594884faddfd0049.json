@@ -1,9 +1,9 @@
 {
-	"vendorProject": "metabase",
-	"product": "metabase",
-	"shortDescription": "Metabase is an open source data analytics platform. In affected versions a security issue has been discovered with the custom GeoJSON map (`admin->settings->maps->custom maps->add a map`) support and potential local file inclusion (including environment variables). URLs were not validated prior to being loaded. This issue is fixed in a new maintenance release (0.40.5 and 1.40.5), and any subsequent release after that. If you’re unable to upgrade immediately, you can mitigate this by including rules in your reverse proxy or load balancer or WAF to provide a validation filter before the application.",
-	"vulnerabilityName": "metabase metabase Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"vendorProject": "Metabase",
+	"product": "Metabase",
+	"shortDescription": "Metabase contains a local file inclusion vulnerability in the custom map support in the API to read GeoJSON formatted data.",
+	"vulnerabilityName": "Metabase GeoJSON API Local File Inclusion Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2021-41277"
@@ -25,6 +25,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-13&host_type=src&vulnerability=cve-2021-41277",
 			"date_added": "2023-11-13T00:00:00Z"
@@ -1194,5 +1198,7 @@
 			"date_added": "2024-10-21T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-12-03T00:00:00Z",
+	"cisa_date_added": "2024-11-12T00:00:00Z",
 	"date_added": "2022-05-31T00:00:00Z"
 }

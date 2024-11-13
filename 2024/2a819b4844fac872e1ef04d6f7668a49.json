@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "Microsoft Windows contains an NTLMv2 hash spoofing vulnerability that could result in disclosing a user's NTLMv2 hash to an attacker via a file open operation. The attacker could then leverage this hash to impersonate that user.",
+	"vulnerabilityName": "Microsoft Windows NTLMv2 Hash Disclosure Spoofing Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-43451"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-12T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-03T00:00:00Z",
+	"cisa_date_added": "2024-11-12T00:00:00Z",
+	"date_added": "2024-11-12T00:00:00Z"
+}

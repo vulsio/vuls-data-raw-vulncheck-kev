@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:TheUnknownSoul/CVE-2023-23397-PoW.git"
 		},
 		{
-			"xdb_id": "99246ea573d0",
-			"xdb_url": "https://vulncheck.com/xdb/99246ea573d0",
-			"date_added": "2023-05-07T18:21:35Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:vlad-a-man/CVE-2023-23397.git"
-		},
-		{
 			"xdb_id": "205fe7e2ef61",
 			"xdb_url": "https://vulncheck.com/xdb/205fe7e2ef61",
 			"date_added": "2023-03-15T17:03:38Z",
@@ -141,6 +134,13 @@
 			"date_added": "2023-03-20T16:31:54Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Trackflaw/CVE-2023-23397.git"
+		},
+		{
+			"xdb_id": "99246ea573d0",
+			"xdb_url": "https://vulncheck.com/xdb/99246ea573d0",
+			"date_added": "2023-05-07T18:21:35Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vlad-a-man/CVE-2023-23397.git"
 		},
 		{
 			"xdb_id": "fe69ab5a1930",
