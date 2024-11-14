@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:5gstudent/CVE-2021-22005-.git"
 		},
 		{
-			"xdb_id": "ba93a3b960a8",
-			"xdb_url": "https://vulncheck.com/xdb/ba93a3b960a8",
-			"date_added": "2021-12-18T08:18:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:shmilylty/cve-2021-22005-exp.git"
-		},
-		{
 			"xdb_id": "bc4416405b99",
 			"xdb_url": "https://vulncheck.com/xdb/bc4416405b99",
 			"date_added": "2021-10-27T08:36:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Jun-5heng/CVE-2021-22005.git"
+		},
+		{
+			"xdb_id": "ba93a3b960a8",
+			"xdb_url": "https://vulncheck.com/xdb/ba93a3b960a8",
+			"date_added": "2021-12-18T08:18:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:shmilylty/cve-2021-22005-exp.git"
 		},
 		{
 			"xdb_id": "bfc1743eb154",
@@ -676,6 +676,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-05&host_type=src&vulnerability=cve-2021-22005",
 			"date_added": "2024-11-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-13&host_type=src&vulnerability=cve-2021-22005",
+			"date_added": "2024-11-13T00:00:00Z"
 		},
 		{
 			"url": "https://www.tenable.com/blog/contileaks-chats-reveal-over-30-vulnerabilities-used-by-conti-ransomware-affiliates",
