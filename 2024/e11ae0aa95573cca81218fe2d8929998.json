@@ -1,8 +1,8 @@
 {
-	"vendorProject": "Palo Alto",
+	"vendorProject": "Palo Alto Networks",
 	"product": "Expedition",
-	"shortDescription": "Palo Alto Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
-	"vulnerabilityName": "Palo Alto Expedition Missing Authentication Vulnerability",
+	"shortDescription": "Palo Alto Networks Expedition contains a missing authentication vulnerability that allows an attacker with network access to takeover an Expedition admin account and potentially access configuration secrets, credentials, and other data.",
+	"vulnerabilityName": "Palo Alto Networks Expedition Missing Authentication Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
