@@ -78,6 +78,13 @@
 			"date_added": "2023-01-13T13:31:34Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:WellingtonEspindula/SSI-CVE-2022-21661.git"
+		},
+		{
+			"xdb_id": "19f907e66923",
+			"xdb_url": "https://vulncheck.com/xdb/19f907e66923",
+			"date_added": "2024-11-12T13:23:12Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:w0r1i0g1ht/CVE-2022-21661.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
