@@ -1033,6 +1033,10 @@
 			"date_added": "2024-11-13T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-14&host_type=src&vulnerability=cve-2020-17519",
+			"date_added": "2024-11-14T00:00:00Z"
+		},
+		{
 			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
 			"date_added": "2024-05-10T00:00:00Z"
 		},
