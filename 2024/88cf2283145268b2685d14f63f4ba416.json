@@ -1,15 +1,19 @@
 {
-	"vendorProject": "paloaltonetworks",
-	"product": "expedition",
-	"shortDescription": "An OS command injection vulnerability in Palo Alto Networks Expedition allows an unauthenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.",
-	"vulnerabilityName": "paloaltonetworks expedition Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"vendorProject": "Palo Alto Networks",
+	"product": "Expedition",
+	"shortDescription": "Palo Alto Networks Expedition contains an OS command injection vulnerability that allows an unauthenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.",
+	"vulnerabilityName": "Palo Alto Networks Expedition OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-9463"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-14T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-15&host_type=src&vulnerability=cve-2024-9463",
 			"date_added": "2024-10-15T00:00:00Z"
@@ -67,5 +71,7 @@
 			"date_added": "2024-11-13T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-12-05T00:00:00Z",
+	"cisa_date_added": "2024-11-14T00:00:00Z",
 	"date_added": "2024-10-15T00:00:00Z"
 }

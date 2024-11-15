@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-8963"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "c1b270462e6a",
+			"xdb_url": "https://vulncheck.com/xdb/c1b270462e6a",
+			"date_added": "2024-11-13T14:12:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:patfire94/CVE-2024-8963.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
