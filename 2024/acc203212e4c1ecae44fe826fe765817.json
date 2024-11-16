@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-8068"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://infosec.exchange/@shadowserver/113471909797234133",
+			"date_added": "2024-11-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-12T00:00:00Z"
+}

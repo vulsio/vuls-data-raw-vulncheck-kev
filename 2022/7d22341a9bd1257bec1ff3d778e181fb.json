@@ -164,6 +164,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
 			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/lessons-from-a-honeypot-with-us-citizens-data/",
+			"date_added": "2024-11-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-10-21T00:00:00Z",
