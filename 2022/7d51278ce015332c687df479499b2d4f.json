@@ -33,6 +33,10 @@
 		{
 			"url": "https://cisa.gov/news-events/alerts/2023/07/06/cisa-and-partners-release-joint-cybersecurity-advisory-newly-identified-truebot-malware-variants",
 			"date_added": "2023-07-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
+			"date_added": "2024-11-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-08-01T00:00:00Z",

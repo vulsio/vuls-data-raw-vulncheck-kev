@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "66ae016baa3b",
-			"xdb_url": "https://vulncheck.com/xdb/66ae016baa3b",
-			"date_added": "2024-11-09T19:30:39Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:imnotcha0s/CVE-2024-10914.git"
-		},
-		{
 			"xdb_id": "2eaa329a97eb",
 			"xdb_url": "https://vulncheck.com/xdb/2eaa329a97eb",
 			"date_added": "2024-11-15T07:56:21Z",
@@ -29,6 +22,13 @@
 			"date_added": "2024-11-10T12:01:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-10914.git"
+		},
+		{
+			"xdb_id": "66ae016baa3b",
+			"xdb_url": "https://vulncheck.com/xdb/66ae016baa3b",
+			"date_added": "2024-11-09T19:30:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:imnotcha0s/CVE-2024-10914.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -39,6 +39,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-14&host_type=src&vulnerability=cve-2024-10914",
 			"date_added": "2024-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-15&host_type=src&vulnerability=cve-2024-10914",
+			"date_added": "2024-11-15T00:00:00Z"
 		},
 		{
 			"url": "https://infosec.exchange/@shadowserver/113475031465908584",

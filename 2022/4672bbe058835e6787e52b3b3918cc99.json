@@ -1736,6 +1736,10 @@
 			"date_added": "2024-11-14T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-15&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2024-11-15T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
 			"date_added": "2022-06-02T00:00:00Z"
 		},
@@ -1918,6 +1922,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
 			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
+			"date_added": "2024-11-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-06T00:00:00Z",

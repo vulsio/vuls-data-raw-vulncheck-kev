@@ -47,7 +47,7 @@
 		{
 			"xdb_id": "7caf699a1681",
 			"xdb_url": "https://vulncheck.com/xdb/7caf699a1681",
-			"date_added": "2021-07-03T10:44:02+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/SIGRed_RCE_PoC.git"
 		},
