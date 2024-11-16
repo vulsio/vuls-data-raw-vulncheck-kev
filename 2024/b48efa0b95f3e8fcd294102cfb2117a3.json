@@ -17,6 +17,13 @@
 			"clone_ssh_url": "git@github.com:imnotcha0s/CVE-2024-10914.git"
 		},
 		{
+			"xdb_id": "2eaa329a97eb",
+			"xdb_url": "https://vulncheck.com/xdb/2eaa329a97eb",
+			"date_added": "2024-11-15T07:56:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Bu0uCat/D-Link-NAS-CVE-2024-10914-.git"
+		},
+		{
 			"xdb_id": "44163f579aeb",
 			"xdb_url": "https://vulncheck.com/xdb/44163f579aeb",
 			"date_added": "2024-11-10T12:01:21Z",

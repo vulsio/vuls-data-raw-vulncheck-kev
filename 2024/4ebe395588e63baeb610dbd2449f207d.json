@@ -59,6 +59,13 @@
 			"clone_ssh_url": "git@github.com:s4botai/CVE-2024-23334-PoC.git"
 		},
 		{
+			"xdb_id": "50842d6b7234",
+			"xdb_url": "https://vulncheck.com/xdb/50842d6b7234",
+			"date_added": "2024-11-14T21:43:29Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC.git"
+		},
+		{
 			"xdb_id": "e5449a962b26",
 			"xdb_url": "https://vulncheck.com/xdb/e5449a962b26",
 			"date_added": "2024-10-21T05:37:33Z",

@@ -122,13 +122,6 @@
 			"clone_ssh_url": "git@github.com:Arlenhiack/ActiveMQ-RCE-Exploit.git"
 		},
 		{
-			"xdb_id": "5f38a93c3fe0",
-			"xdb_url": "https://vulncheck.com/xdb/5f38a93c3fe0",
-			"date_added": "2023-10-27T05:57:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:X1r0z/ActiveMQ-RCE.git"
-		},
-		{
 			"xdb_id": "936ade5704ce",
 			"xdb_url": "https://vulncheck.com/xdb/936ade5704ce",
 			"date_added": "2023-11-29T18:30:02Z",
@@ -169,6 +162,13 @@
 			"date_added": "2023-11-03T22:06:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:SaumyajeetDas/CVE-2023-46604-RCE-Reverse-Shell-Apache-ActiveMQ.git"
+		},
+		{
+			"xdb_id": "5f38a93c3fe0",
+			"xdb_url": "https://vulncheck.com/xdb/5f38a93c3fe0",
+			"date_added": "2023-10-27T05:57:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:X1r0z/ActiveMQ-RCE.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
