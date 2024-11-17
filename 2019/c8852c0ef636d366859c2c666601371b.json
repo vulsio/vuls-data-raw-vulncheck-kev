@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:elbiazo/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "570fb66ac36f",
-			"xdb_url": "https://vulncheck.com/xdb/570fb66ac36f",
-			"date_added": "2024-02-04T16:08:02Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:willboka/CVE-2019-2215-HuaweiP20Lite.git"
-		},
-		{
 			"xdb_id": "958e996c14b3",
 			"xdb_url": "https://vulncheck.com/xdb/958e996c14b3",
 			"date_added": "2022-02-28T02:34:31Z",
@@ -141,6 +134,13 @@
 			"date_added": "2024-05-20T10:58:53Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:R0rt1z2/huawei-unlock.git"
+		},
+		{
+			"xdb_id": "570fb66ac36f",
+			"xdb_url": "https://vulncheck.com/xdb/570fb66ac36f",
+			"date_added": "2024-02-04T16:08:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:willboka/CVE-2019-2215-HuaweiP20Lite.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

@@ -22,6 +22,13 @@
 			"date_added": "2024-10-14T13:02:26Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:shanglyu/CVE-2024-1698.git"
+		},
+		{
+			"xdb_id": "86934ba93e59",
+			"xdb_url": "https://vulncheck.com/xdb/86934ba93e59",
+			"date_added": "2024-11-16T15:21:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jesicatjan/WordPress-NotificationX-CVE-2024-1698.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -380,6 +387,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-13&host_type=src&vulnerability=cve-2024-1698",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-16&host_type=src&vulnerability=cve-2024-1698",
+			"date_added": "2024-11-16T00:00:00Z"
 		}
 	],
 	"date_added": "2024-03-29T00:00:00Z"
