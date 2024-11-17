@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:h1bAna/CVE-2023-21768.git"
 		},
 		{
-			"xdb_id": "fd03247f1aa9",
-			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
-			"date_added": "2024-05-15T17:42:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:xboxoneresearch/CVE-2023-21768-dotnet.git"
-		},
-		{
 			"xdb_id": "8c8d45e50b41",
 			"xdb_url": "https://vulncheck.com/xdb/8c8d45e50b41",
 			"date_added": "2024-04-07T02:26:36Z",
@@ -71,6 +64,13 @@
 			"date_added": "2023-03-10T19:08:28Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:SamuelTulach/nullmap.git"
+		},
+		{
+			"xdb_id": "fd03247f1aa9",
+			"xdb_url": "https://vulncheck.com/xdb/fd03247f1aa9",
+			"date_added": "2024-05-15T17:42:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:xboxoneresearch/CVE-2023-21768-dotnet.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -297,13 +297,6 @@
 			"clone_ssh_url": "git@github.com:LucasPDiniz/CVE-2021-44228.git"
 		},
 		{
-			"xdb_id": "a6af622ffa8b",
-			"xdb_url": "https://vulncheck.com/xdb/a6af622ffa8b",
-			"date_added": "2021-12-14T06:37:59Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xInfection/LogMePwn.git"
-		},
-		{
 			"xdb_id": "bb0d040b4903",
 			"xdb_url": "https://vulncheck.com/xdb/bb0d040b4903",
 			"date_added": "2021-12-13T21:47:41Z",
@@ -323,13 +316,6 @@
 			"date_added": "2024-03-23T05:03:44Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sec13b/CVE-2021-44228-POC.git"
-		},
-		{
-			"xdb_id": "586ef33d6a3a",
-			"xdb_url": "https://vulncheck.com/xdb/586ef33d6a3a",
-			"date_added": "2021-12-28T01:37:20Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:NS-Sp4ce/Vm4J.git"
 		},
 		{
 			"xdb_id": "3d55c6b2d5fb",
@@ -372,6 +358,20 @@
 			"date_added": "2021-12-11T07:19:11Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
+		},
+		{
+			"xdb_id": "a6af622ffa8b",
+			"xdb_url": "https://vulncheck.com/xdb/a6af622ffa8b",
+			"date_added": "2021-12-14T06:37:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xInfection/LogMePwn.git"
+		},
+		{
+			"xdb_id": "586ef33d6a3a",
+			"xdb_url": "https://vulncheck.com/xdb/586ef33d6a3a",
+			"date_added": "2021-12-28T01:37:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NS-Sp4ce/Vm4J.git"
 		},
 		{
 			"xdb_id": "c555ac264c6e",

@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:jsongmax/terraMaster-CVE-2022-24990.git"
 		},
 		{
-			"xdb_id": "ddb92a8e6f44",
-			"xdb_url": "https://vulncheck.com/xdb/ddb92a8e6f44",
-			"date_added": "2022-03-10T03:16:04Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:VVeakee/CVE-2022-24990-POC.git"
-		},
-		{
 			"xdb_id": "7b15adc7f2a9",
 			"xdb_url": "https://vulncheck.com/xdb/7b15adc7f2a9",
 			"date_added": "2022-03-20T05:15:16Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0xf4n9x/CVE-2022-24990.git"
+		},
+		{
+			"xdb_id": "ddb92a8e6f44",
+			"xdb_url": "https://vulncheck.com/xdb/ddb92a8e6f44",
+			"date_added": "2022-03-10T03:16:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:VVeakee/CVE-2022-24990-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

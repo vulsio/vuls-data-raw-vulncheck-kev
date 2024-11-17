@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "d999871da31f",
-			"xdb_url": "https://vulncheck.com/xdb/d999871da31f",
-			"date_added": "2021-04-06T23:24:38Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:rabidwh0re/REALITY_SMASHER.git"
-		},
-		{
 			"xdb_id": "4474f6f9d4f9",
 			"xdb_url": "https://vulncheck.com/xdb/4474f6f9d4f9",
 			"date_added": "2021-04-01T01:14:20Z",
@@ -64,6 +57,13 @@
 			"date_added": "2021-04-10T12:36:07Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Vulnmachines/VMWare-CVE-2021-21975.git"
+		},
+		{
+			"xdb_id": "d999871da31f",
+			"xdb_url": "https://vulncheck.com/xdb/d999871da31f",
+			"date_added": "2021-04-06T23:24:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:rabidwh0re/REALITY_SMASHER.git"
 		},
 		{
 			"xdb_id": "ea8505e383e2",

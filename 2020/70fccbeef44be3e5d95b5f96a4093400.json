@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:Udyz/Proxylogon.git"
 		},
 		{
-			"xdb_id": "28a1acb64734",
-			"xdb_url": "https://vulncheck.com/xdb/28a1acb64734",
-			"date_added": "2021-03-08T11:54:32Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
-		},
-		{
 			"xdb_id": "f1d2fcb25c52",
 			"xdb_url": "https://vulncheck.com/xdb/f1d2fcb25c52",
 			"date_added": "2021-03-11T19:35:35Z",
@@ -211,6 +204,13 @@
 			"date_added": "2021-03-24T01:12:48Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
+		},
+		{
+			"xdb_id": "28a1acb64734",
+			"xdb_url": "https://vulncheck.com/xdb/28a1acb64734",
+			"date_added": "2021-03-08T11:54:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
 		},
 		{
 			"xdb_id": "2036c9063358",

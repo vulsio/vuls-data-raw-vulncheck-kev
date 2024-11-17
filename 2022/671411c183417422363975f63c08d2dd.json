@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "ab074460fbb8",
-			"xdb_url": "https://vulncheck.com/xdb/ab074460fbb8",
-			"date_added": "2022-07-30T07:14:52Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:z92g/CVE-2022-26138.git"
-		},
-		{
 			"xdb_id": "873623f6c96a",
 			"xdb_url": "https://vulncheck.com/xdb/873623f6c96a",
 			"date_added": "2022-07-21T09:28:06Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:alcaparra/CVE-2022-26138.git"
+		},
+		{
+			"xdb_id": "ab074460fbb8",
+			"xdb_url": "https://vulncheck.com/xdb/ab074460fbb8",
+			"date_added": "2022-07-30T07:14:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:z92g/CVE-2022-26138.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

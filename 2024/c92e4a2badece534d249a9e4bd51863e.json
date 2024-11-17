@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "15f2f3bafd84",
-			"xdb_url": "https://vulncheck.com/xdb/15f2f3bafd84",
-			"date_added": "2023-12-31T05:23:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:aalexpereira/CVE-2023-35813.git"
-		},
-		{
 			"xdb_id": "8edf2b601bd1",
 			"xdb_url": "https://vulncheck.com/xdb/8edf2b601bd1",
 			"date_added": "2024-01-15T14:14:42Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BagheeraAltered/CVE-2023-35813-PoC.git"
+		},
+		{
+			"xdb_id": "15f2f3bafd84",
+			"xdb_url": "https://vulncheck.com/xdb/15f2f3bafd84",
+			"date_added": "2023-12-31T05:23:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:aalexpereira/CVE-2023-35813.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
