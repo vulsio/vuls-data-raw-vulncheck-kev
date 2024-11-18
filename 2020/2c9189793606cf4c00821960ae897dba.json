@@ -262,20 +262,6 @@
 			"clone_ssh_url": "git@gitee.com:tfxcould/CVE-2020-0796-SMB.git"
 		},
 		{
-			"xdb_id": "5f415b7a9395",
-			"xdb_url": "https://vulncheck.com/xdb/5f415b7a9395",
-			"date_added": "2022-01-10T17:47:01+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_eerykitty/CVE-2020-0796-PoC.git"
-		},
-		{
-			"xdb_id": "c349096df32e",
-			"xdb_url": "https://vulncheck.com/xdb/c349096df32e",
-			"date_added": "2020-04-01T14:05:50+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2020-0796.git"
-		},
-		{
 			"xdb_id": "d69aadafc43a",
 			"xdb_url": "https://vulncheck.com/xdb/d69aadafc43a",
 			"date_added": "2022-01-11T23:22:35+08:00",
@@ -295,6 +281,20 @@
 			"date_added": "2020-05-06T15:20:09+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:mstir/SMBGhost.git"
+		},
+		{
+			"xdb_id": "5f415b7a9395",
+			"xdb_url": "https://vulncheck.com/xdb/5f415b7a9395",
+			"date_added": "2022-01-10T17:47:01+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_eerykitty/CVE-2020-0796-PoC.git"
+		},
+		{
+			"xdb_id": "c349096df32e",
+			"xdb_url": "https://vulncheck.com/xdb/c349096df32e",
+			"date_added": "2020-04-01T14:05:50+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2020-0796.git"
 		},
 		{
 			"xdb_id": "04badb202b58",
