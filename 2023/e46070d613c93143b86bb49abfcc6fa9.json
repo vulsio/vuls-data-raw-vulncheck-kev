@@ -643,6 +643,10 @@
 			"date_added": "2024-11-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-17&host_type=src&vulnerability=cve-2017-7921",
+			"date_added": "2024-11-17T00:00:00Z"
+		},
+		{
 			"url": "https://attackerkb.com/topics/PlLehGSmxT/cve-2017-7921#exploited-in-the-wild_f492eb0d-2c8d-4c2d-ad21-1d0759455fe4",
 			"date_added": "2024-09-23T00:00:00Z"
 		}

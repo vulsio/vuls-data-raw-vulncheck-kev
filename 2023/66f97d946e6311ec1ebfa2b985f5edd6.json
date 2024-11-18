@@ -564,6 +564,10 @@
 			"date_added": "2024-11-13T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-17&host_type=src&vulnerability=cve-2022-47986",
+			"date_added": "2024-11-17T00:00:00Z"
+		},
+		{
 			"url": "https://twitter.com/raphaelmendonca/status/1626288868898004993",
 			"date_added": "2023-02-16T00:00:00Z"
 		},
