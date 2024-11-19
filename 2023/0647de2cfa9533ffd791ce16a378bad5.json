@@ -178,18 +178,18 @@
 			"clone_ssh_url": "git@github.com:A-D-Team/grafanaExp.git"
 		},
 		{
-			"xdb_id": "558378a73ba5",
-			"xdb_url": "https://vulncheck.com/xdb/558378a73ba5",
-			"date_added": "2021-12-06T20:10:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:taythebot/CVE-2021-43798.git"
-		},
-		{
 			"xdb_id": "5ef2f8e69303",
 			"xdb_url": "https://vulncheck.com/xdb/5ef2f8e69303",
 			"date_added": "2021-12-07T09:02:16Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:jas502n/Grafana-CVE-2021-43798.git"
+		},
+		{
+			"xdb_id": "558378a73ba5",
+			"xdb_url": "https://vulncheck.com/xdb/558378a73ba5",
+			"date_added": "2021-12-06T20:10:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:taythebot/CVE-2021-43798.git"
 		},
 		{
 			"xdb_id": "5489d7843c65",

@@ -115,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:c3r34lk1ll3r/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "034793af86bc",
-			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
-			"date_added": "2019-10-14T17:27:37Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
-		},
-		{
 			"xdb_id": "30246787d03d",
 			"xdb_url": "https://vulncheck.com/xdb/30246787d03d",
 			"date_added": "2021-03-30T07:09:45Z",
@@ -141,6 +134,13 @@
 			"date_added": "2024-02-04T16:08:02Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:willboka/CVE-2019-2215-HuaweiP20Lite.git"
+		},
+		{
+			"xdb_id": "034793af86bc",
+			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
+			"date_added": "2019-10-14T17:27:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

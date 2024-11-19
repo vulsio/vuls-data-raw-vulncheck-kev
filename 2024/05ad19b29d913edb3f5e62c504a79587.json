@@ -1,9 +1,9 @@
 {
-	"vendorProject": "Progress Kemp",
-	"product": "Loadmaster",
-	"shortDescription": "Unauthenticated remote attackers can access the system through the LoadMaster management interface, enabling arbitrary system command execution.",
-	"vulnerabilityName": "Progress Kemp LoadMaster Management Interface Security Bypass",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"vendorProject": "Progress",
+	"product": "Kemp LoadMaster",
+	"shortDescription": "Progress Kemp LoadMaster contains an OS command injection vulnerability that allows an unauthenticated, remote attacker to access the system through the LoadMaster management interface, enabling arbitrary system command execution.",
+	"vulnerabilityName": "Progress Kemp LoadMaster OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-1212"
@@ -39,6 +39,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-18T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-29&host_type=src&vulnerability=cve-2024-1212",
 			"date_added": "2024-03-29T00:00:00Z"
@@ -576,5 +580,7 @@
 			"date_added": "2024-11-17T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-12-09T00:00:00Z",
+	"cisa_date_added": "2024-11-18T00:00:00Z",
 	"date_added": "2024-03-29T00:00:00Z"
 }
