@@ -19,6 +19,10 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://patchstack.com/database/vulnerability/really-simple-ssl-pro/wordpress-really-simple-security-pro-plugin-9-0-0-9-1-1-1-unauthenticated-authentication-bypass-vulnerability",
+			"date_added": "2024-11-14T00:00:00Z"
+		},
+		{
 			"url": "https://patchstack.com/database/vulnerability/really-simple-ssl/wordpress-really-simple-security-plugin-9-0-0-9-1-1-1-unauthenticated-authentication-bypass-vulnerability",
 			"date_added": "2024-11-14T00:00:00Z"
 		}
