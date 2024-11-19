@@ -31,13 +31,6 @@
 			"clone_ssh_url": "git@github.com:Chris-dev1/exim.exp.git"
 		},
 		{
-			"xdb_id": "ca73aedc1e14",
-			"xdb_url": "https://vulncheck.com/xdb/ca73aedc1e14",
-			"date_added": "2019-06-13T23:21:53Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:MNEMO-CERT/PoC--CVE-2019-10149_Exim.git"
-		},
-		{
 			"xdb_id": "16dc2d42770c",
 			"xdb_url": "https://vulncheck.com/xdb/16dc2d42770c",
 			"date_added": "2019-10-27T01:03:11Z",
@@ -71,6 +64,13 @@
 			"date_added": "2017-07-12T14:40:55Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0xdea/exploits.git"
+		},
+		{
+			"xdb_id": "ca73aedc1e14",
+			"xdb_url": "https://vulncheck.com/xdb/ca73aedc1e14",
+			"date_added": "2019-06-13T23:21:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:MNEMO-CERT/PoC--CVE-2019-10149_Exim.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
