@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-44309"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/en-us/121752",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-19T00:00:00Z"
+}
