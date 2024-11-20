@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "51f10d5e647f",
-			"xdb_url": "https://vulncheck.com/xdb/51f10d5e647f",
-			"date_added": "2021-02-04T15:15:22Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:dgh05t/VMware_ESXI_OpenSLP_PoCs.git"
-		},
-		{
 			"xdb_id": "8a8375ae7774",
 			"xdb_url": "https://vulncheck.com/xdb/8a8375ae7774",
 			"date_added": "2020-12-01T13:49:26Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:HynekPetrak/CVE-2019-5544_CVE-2020-3992.git"
+		},
+		{
+			"xdb_id": "51f10d5e647f",
+			"xdb_url": "https://vulncheck.com/xdb/51f10d5e647f",
+			"date_added": "2021-02-04T15:15:22Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:dgh05t/VMware_ESXI_OpenSLP_PoCs.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

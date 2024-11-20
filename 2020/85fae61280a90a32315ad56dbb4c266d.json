@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:Zeop-CyberSec/fortios_vpnssl_traversal_leak.git"
 		},
 		{
-			"xdb_id": "beecdbe5f919",
-			"xdb_url": "https://vulncheck.com/xdb/beecdbe5f919",
-			"date_added": "2019-08-11T09:44:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:milo2012/CVE-2018-13379.git"
-		},
-		{
 			"xdb_id": "166599b1677b",
 			"xdb_url": "https://vulncheck.com/xdb/166599b1677b",
 			"date_added": "2020-12-14T12:17:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:B1anda0/CVE-2018-13379.git"
+		},
+		{
+			"xdb_id": "beecdbe5f919",
+			"xdb_url": "https://vulncheck.com/xdb/beecdbe5f919",
+			"date_added": "2019-08-11T09:44:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:milo2012/CVE-2018-13379.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1561,6 +1561,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-18&host_type=src&vulnerability=cve-2018-13379",
 			"date_added": "2024-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-19&host_type=src&vulnerability=cve-2018-13379",
+			"date_added": "2024-11-19T00:00:00Z"
 		},
 		{
 			"url": "https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf",

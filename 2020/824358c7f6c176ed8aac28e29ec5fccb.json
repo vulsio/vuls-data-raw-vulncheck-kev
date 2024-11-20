@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "8566ea6250e8",
-			"xdb_url": "https://vulncheck.com/xdb/8566ea6250e8",
-			"date_added": "2020-12-30T19:58:33Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Marmeus/CVE-2020-15999.git"
-		},
-		{
 			"xdb_id": "5cca2ba03cd1",
 			"xdb_url": "https://vulncheck.com/xdb/5cca2ba03cd1",
 			"date_added": "2020-10-28T16:16:25Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:marcinguy/CVE-2020-15999.git"
+		},
+		{
+			"xdb_id": "8566ea6250e8",
+			"xdb_url": "https://vulncheck.com/xdb/8566ea6250e8",
+			"date_added": "2020-12-30T19:58:33Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Marmeus/CVE-2020-15999.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
