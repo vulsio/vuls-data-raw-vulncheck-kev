@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-49039"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b7425539e1cf",
+			"xdb_url": "https://vulncheck.com/xdb/b7425539e1cf",
+			"date_added": "2024-11-19T08:57:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:je5442804/WPTaskScheduler_CVE-2024-49039.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

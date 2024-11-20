@@ -22,6 +22,20 @@
 			"date_added": "2021-11-22T12:49:42Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:kap1ush0n/CVE-2021-41277.git"
+		},
+		{
+			"xdb_id": "b19043527f88",
+			"xdb_url": "https://vulncheck.com/xdb/b19043527f88",
+			"date_added": "2022-01-19T17:43:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:frknktlca/Metabase_Nmap_Script.git"
+		},
+		{
+			"xdb_id": "d82529f295a2",
+			"xdb_url": "https://vulncheck.com/xdb/d82529f295a2",
+			"date_added": "2022-03-11T06:39:38Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:chengling-ing/CVE-2021-41277.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

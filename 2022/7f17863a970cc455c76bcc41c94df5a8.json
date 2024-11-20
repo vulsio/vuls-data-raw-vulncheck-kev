@@ -381,6 +381,13 @@
 			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-3156-go.git"
 		},
 		{
+			"xdb_id": "8a16e063dbd5",
+			"xdb_url": "https://vulncheck.com/xdb/8a16e063dbd5",
+			"date_added": "2021-02-01T21:53:57+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:pwn2security/CVE-2021-3156.git"
+		},
+		{
 			"xdb_id": "748cab143d91",
 			"xdb_url": "https://vulncheck.com/xdb/748cab143d91",
 			"date_added": "2021-12-11T00:59:24+08:00",
@@ -416,11 +423,11 @@
 			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3156.git"
 		},
 		{
-			"xdb_id": "8a16e063dbd5",
-			"xdb_url": "https://vulncheck.com/xdb/8a16e063dbd5",
-			"date_added": "2021-02-01T21:53:57+08:00",
+			"xdb_id": "300797d10318",
+			"xdb_url": "https://vulncheck.com/xdb/300797d10318",
+			"date_added": "2021-02-04T19:55:38Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:pwn2security/CVE-2021-3156.git"
+			"clone_ssh_url": "git@gitlab.com:kal1gh0st/CVE-2021-3156.git"
 		},
 		{
 			"xdb_id": "bfb260e80a93",
@@ -428,13 +435,6 @@
 			"date_added": "2023-05-14T12:04:34Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitlab.com:tav1nald3rs0n/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "300797d10318",
-			"xdb_url": "https://vulncheck.com/xdb/300797d10318",
-			"date_added": "2021-02-04T19:55:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitlab.com:kal1gh0st/CVE-2021-3156.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

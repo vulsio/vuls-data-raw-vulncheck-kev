@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-9474"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "151f0aa40b6d",
+			"xdb_url": "https://vulncheck.com/xdb/151f0aa40b6d",
+			"date_added": "2024-11-19T17:26:27Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-9474.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

@@ -15,6 +15,13 @@
 			"date_added": "2019-10-21T14:15:09Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:mpgn/CVE-2018-3760.git"
+		},
+		{
+			"xdb_id": "4122f98f049f",
+			"xdb_url": "https://vulncheck.com/xdb/4122f98f049f",
+			"date_added": "2024-11-19T11:52:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wudidwo/CVE-2018-3760-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

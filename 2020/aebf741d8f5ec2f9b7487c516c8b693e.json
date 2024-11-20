@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2020-0688-GUI.git"
 		},
 		{
-			"xdb_id": "e502b8576da7",
-			"xdb_url": "https://vulncheck.com/xdb/e502b8576da7",
-			"date_added": "2020-10-23T01:18:13Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:zyn3rgy/ecp_slap.git"
-		},
-		{
 			"xdb_id": "868234a5c9b7",
 			"xdb_url": "https://vulncheck.com/xdb/868234a5c9b7",
 			"date_added": "2021-01-04T10:48:40Z",
@@ -85,6 +78,13 @@
 			"date_added": "2020-02-27T02:54:27Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Ridter/cve-2020-0688.git"
+		},
+		{
+			"xdb_id": "e502b8576da7",
+			"xdb_url": "https://vulncheck.com/xdb/e502b8576da7",
+			"date_added": "2020-10-23T01:18:13Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:zyn3rgy/ecp_slap.git"
 		},
 		{
 			"xdb_id": "8a20e8eac65d",

@@ -73,11 +73,11 @@
 			"clone_ssh_url": "git@github.com:NyxByt3/CVE-2015-1635.git"
 		},
 		{
-			"xdb_id": "b0c784acafb8",
-			"xdb_url": "https://vulncheck.com/xdb/b0c784acafb8",
+			"xdb_id": "bd16f7896930",
+			"xdb_url": "https://vulncheck.com/xdb/bd16f7896930",
 			"date_added": "2021-07-12T00:23:30Z",
 			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:h3xcr4ck3r/CVE-2015-1635-POC.git"
+			"clone_ssh_url": "git@github.com:n3rdh4x0r/CVE-2015-1635-POC.git"
 		},
 		{
 			"xdb_id": "640f8e881740",

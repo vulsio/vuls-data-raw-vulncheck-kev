@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-38193"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0f2aa497e815",
+			"xdb_url": "https://vulncheck.com/xdb/0f2aa497e815",
+			"date_added": "2024-11-18T23:34:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Nephster/CVE-2024-38193.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2023-3722"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "0ae341ffccf0",
+			"xdb_url": "https://vulncheck.com/xdb/0ae341ffccf0",
+			"date_added": "2024-11-19T19:40:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:pizza-power/CVE-2023-3722.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://information.rapid7.com/rs/411-NAK-970/images/Rapid7-2023-Mid-Year-Threat-Review.pdf",
