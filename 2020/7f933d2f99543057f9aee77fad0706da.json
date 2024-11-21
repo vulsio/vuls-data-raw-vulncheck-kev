@@ -1019,6 +1019,10 @@
 			"date_added": "2024-11-19T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2020-15505",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/honeypot-recon-enterprise-applications-honeypot-unveiling-findings-from-six-worldwide-locations/",
 			"date_added": "2023-07-05T00:00:00Z"
 		},

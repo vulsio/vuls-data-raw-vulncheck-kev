@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:tangxiaofeng7/CVE-2022-22947-Spring-Cloud-Gateway.git"
 		},
 		{
-			"xdb_id": "a48d3f6ecc63",
-			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
-			"date_added": "2022-04-07T04:28:29Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:helloexp/0day.git"
-		},
-		{
 			"xdb_id": "769ad48809b9",
 			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
 			"date_added": "2020-01-25T08:55:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
+		},
+		{
+			"xdb_id": "a48d3f6ecc63",
+			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
+			"date_added": "2022-04-07T04:28:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:helloexp/0day.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -654,6 +654,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-18&host_type=src&vulnerability=cve-2022-22947",
 			"date_added": "2024-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-11-20T00:00:00Z"
 		},
 		{
 			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",

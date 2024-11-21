@@ -45,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:gianlu111/CUPS-CVE-2024-47176.git"
 		},
 		{
-			"xdb_id": "022e4715a83f",
-			"xdb_url": "https://vulncheck.com/xdb/022e4715a83f",
-			"date_added": "2024-10-07T07:25:18Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:MalwareTech/CVE-2024-47176-Scanner.git"
-		},
-		{
 			"xdb_id": "01371db3db14",
 			"xdb_url": "https://vulncheck.com/xdb/01371db3db14",
 			"date_added": "2024-10-03T15:53:04Z",
@@ -64,6 +57,13 @@
 			"date_added": "2024-09-25T01:17:53Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:RickdeJager/cupshax.git"
+		},
+		{
+			"xdb_id": "022e4715a83f",
+			"xdb_url": "https://vulncheck.com/xdb/022e4715a83f",
+			"date_added": "2024-10-07T07:25:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MalwareTech/CVE-2024-47176-Scanner.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

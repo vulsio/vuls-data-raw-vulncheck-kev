@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:g1vi/CVE-2019-15107.git"
 		},
 		{
-			"xdb_id": "6d77d7695cd4",
-			"xdb_url": "https://vulncheck.com/xdb/6d77d7695cd4",
-			"date_added": "2020-10-15T14:53:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:squid22/Webmin_CVE-2019-15107.git"
-		},
-		{
 			"xdb_id": "c4581c84425b",
 			"xdb_url": "https://vulncheck.com/xdb/c4581c84425b",
 			"date_added": "2023-11-09T12:14:11Z",
@@ -176,6 +169,13 @@
 			"date_added": "2020-11-09T21:46:57Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:MuirlandOracle/CVE-2019-15107.git"
+		},
+		{
+			"xdb_id": "6d77d7695cd4",
+			"xdb_url": "https://vulncheck.com/xdb/6d77d7695cd4",
+			"date_added": "2020-10-15T14:53:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:squid22/Webmin_CVE-2019-15107.git"
 		},
 		{
 			"xdb_id": "a6c954e87af6",
@@ -1388,6 +1388,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-19&host_type=src&vulnerability=cve-2019-15107",
 			"date_added": "2024-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2019-15107",
+			"date_added": "2024-11-20T00:00:00Z"
 		},
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/echobot-malware-now-up-to-71-exploits--targeting-scada",

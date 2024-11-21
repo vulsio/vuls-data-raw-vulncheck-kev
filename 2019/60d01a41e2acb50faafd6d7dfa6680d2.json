@@ -990,6 +990,10 @@
 			"date_added": "2024-11-19T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2018-1273",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/elf-of-the-month-new-lucky-ransomware-sample/",
 			"date_added": "2019-01-08T00:00:00Z"
 		},

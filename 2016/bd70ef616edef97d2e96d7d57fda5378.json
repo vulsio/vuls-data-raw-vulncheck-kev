@@ -164,13 +164,6 @@
 			"clone_ssh_url": "git@github.com:talsim/root-dirtyc0w.git"
 		},
 		{
-			"xdb_id": "0eca479a0f12",
-			"xdb_url": "https://vulncheck.com/xdb/0eca479a0f12",
-			"date_added": "2016-10-23T00:16:33Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:gbonacini/CVE-2016-5195.git"
-		},
-		{
 			"xdb_id": "25a7d419158e",
 			"xdb_url": "https://vulncheck.com/xdb/25a7d419158e",
 			"date_added": "2023-12-15T07:47:39Z",
@@ -183,13 +176,6 @@
 			"date_added": "2024-05-30T13:42:09Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:B1ackCat/cve-2016-5195-DirtyCOW.git"
-		},
-		{
-			"xdb_id": "10e422584e38",
-			"xdb_url": "https://vulncheck.com/xdb/10e422584e38",
-			"date_added": "2016-10-21T11:19:21Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:timwr/CVE-2016-5195.git"
 		},
 		{
 			"xdb_id": "4275f34a5224",
@@ -218,6 +204,20 @@
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "0eca479a0f12",
+			"xdb_url": "https://vulncheck.com/xdb/0eca479a0f12",
+			"date_added": "2016-10-23T00:16:33Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:gbonacini/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "10e422584e38",
+			"xdb_url": "https://vulncheck.com/xdb/10e422584e38",
+			"date_added": "2016-10-21T11:19:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:timwr/CVE-2016-5195.git"
 		},
 		{
 			"xdb_id": "56a0d9175e82",

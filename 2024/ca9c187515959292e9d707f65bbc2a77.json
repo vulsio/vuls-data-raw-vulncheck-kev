@@ -10,6 +10,13 @@
 	],
 	"vulncheck_xdb": [
 		{
+			"xdb_id": "0edcc19bc4d9",
+			"xdb_url": "https://vulncheck.com/xdb/0edcc19bc4d9",
+			"date_added": "2024-11-20T22:31:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:deathvu/CVE-2024-9474.git"
+		},
+		{
 			"xdb_id": "151f0aa40b6d",
 			"xdb_url": "https://vulncheck.com/xdb/151f0aa40b6d",
 			"date_added": "2024-11-19T17:26:27Z",
@@ -32,6 +39,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-19&host_type=src&vulnerability=cve-2024-9474",
 			"date_added": "2024-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2024-9474",
+			"date_added": "2024-11-20T00:00:00Z"
 		},
 		{
 			"url": "https://security.paloaltonetworks.com/CVE-2024-9474",
