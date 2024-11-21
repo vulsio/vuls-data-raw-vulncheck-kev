@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "365_apps",
-	"shortDescription": "Microsoft Outlook Remote Code Execution Vulnerability",
-	"vulnerabilityName": "",
+	"product": "jet",
+	"shortDescription": "The Microsoft Jet database engine allows an attacker to execute commands via a database query, aka the \"VBA Shell\" vulnerability.",
+	"vulnerabilityName": "Microsoft Jet Database Engine VBA Shell Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2024-38021"
+		"CVE-2000-0325"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

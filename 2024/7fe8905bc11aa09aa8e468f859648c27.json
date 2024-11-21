@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Apple",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, macOS, and other Apple products contain an unspecified vulnerability when processing maliciously crafted web content that may lead to a cross-site scripting (XSS) attack.",
+	"vulnerabilityName": "Apple Multiple Products Cross-Site Scripting (XSS) Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-44309"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-21T00:00:00Z"
+		},
+		{
+			"url": "https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/edit",
+			"date_added": "2024-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/121752",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-12T00:00:00Z",
+	"cisa_date_added": "2024-11-21T00:00:00Z",
+	"date_added": "2024-11-19T00:00:00Z"
+}

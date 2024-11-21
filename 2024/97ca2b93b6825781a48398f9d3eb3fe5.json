@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Oracle",
+	"product": "Agile Product Lifecycle Management (PLM)",
+	"shortDescription": "Oracle Agile Product Lifecycle Management (PLM) contains an incorrect authorization vulnerability in the Process Extension component of the Software Development Kit. Successful exploitation of this vulnerability may result in unauthenticated file disclosure.",
+	"vulnerabilityName": "Oracle Agile Product Lifecycle Management (PLM) Incorrect Authorization Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-21287"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blogs.oracle.com/security/post/alert-cve-2024-21287",
+			"date_added": "2024-11-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-12T00:00:00Z",
+	"cisa_date_added": "2024-11-21T00:00:00Z",
+	"date_added": "2024-11-18T00:00:00Z"
+}
