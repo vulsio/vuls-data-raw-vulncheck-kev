@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:huseyinstif/CVE-2024-28995-Nuclei-Template.git"
 		},
 		{
-			"xdb_id": "ed3ef6870d11",
-			"xdb_url": "https://vulncheck.com/xdb/ed3ef6870d11",
-			"date_added": "2024-06-26T10:51:50Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Praison001/CVE-2024-28995-SolarWinds-Serv-U.git"
-		},
-		{
 			"xdb_id": "7cf3d7653ea8",
 			"xdb_url": "https://vulncheck.com/xdb/7cf3d7653ea8",
 			"date_added": "2024-06-14T04:06:58Z",
@@ -52,13 +45,6 @@
 			"clone_ssh_url": "git@github.com:muhammetali20/CVE-2024-28995.git"
 		},
 		{
-			"xdb_id": "99c2ff5b21dd",
-			"xdb_url": "https://vulncheck.com/xdb/99c2ff5b21dd",
-			"date_added": "2024-06-14T23:05:40Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-28995.git"
-		},
-		{
 			"xdb_id": "e7b7e88149e0",
 			"xdb_url": "https://vulncheck.com/xdb/e7b7e88149e0",
 			"date_added": "2024-07-01T11:49:51Z",
@@ -71,6 +57,20 @@
 			"date_added": "2024-08-24T17:05:48Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:gotr00t0day/CVE-2024-28995.git"
+		},
+		{
+			"xdb_id": "99c2ff5b21dd",
+			"xdb_url": "https://vulncheck.com/xdb/99c2ff5b21dd",
+			"date_added": "2024-06-14T23:05:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-28995.git"
+		},
+		{
+			"xdb_id": "ed3ef6870d11",
+			"xdb_url": "https://vulncheck.com/xdb/ed3ef6870d11",
+			"date_added": "2024-06-26T10:51:50Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Praison001/CVE-2024-28995-SolarWinds-Serv-U.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1,0 +1,25 @@
+{
+	"vendorProject": "VMware",
+	"product": "vCenter Server",
+	"shortDescription": "VMware vCenter contains an improper check for dropped privileges vulnerability. This vulnerability could allow an attacker with network access to the vCenter Server to escalate privileges to root by sending a specially crafted packet.",
+	"vulnerabilityName": "VMware vCenter Server Privilege Escalation Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38813"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24968",
+			"date_added": "2024-11-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-11T00:00:00Z",
+	"cisa_date_added": "2024-11-20T00:00:00Z",
+	"date_added": "2024-11-18T00:00:00Z"
+}

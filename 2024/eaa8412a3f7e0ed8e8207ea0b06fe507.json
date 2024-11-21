@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:p0et08/CVE-2024-29973.git"
 		},
 		{
-			"xdb_id": "80b55759e2df",
-			"xdb_url": "https://vulncheck.com/xdb/80b55759e2df",
-			"date_added": "2024-06-20T01:52:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:k3lpi3b4nsh33/CVE-2024-29973.git"
-		},
-		{
 			"xdb_id": "e9f896d58c7b",
 			"xdb_url": "https://vulncheck.com/xdb/e9f896d58c7b",
 			"date_added": "2024-06-30T17:54:02Z",
@@ -45,18 +38,25 @@
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-29973.git"
 		},
 		{
-			"xdb_id": "34525b555a68",
-			"xdb_url": "https://vulncheck.com/xdb/34525b555a68",
-			"date_added": "2024-06-21T15:20:52Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-29973.git"
-		},
-		{
 			"xdb_id": "8a90645d3742",
 			"xdb_url": "https://vulncheck.com/xdb/8a90645d3742",
 			"date_added": "2024-10-10T23:48:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:skyrowalker/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "80b55759e2df",
+			"xdb_url": "https://vulncheck.com/xdb/80b55759e2df",
+			"date_added": "2024-06-20T01:52:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k3lpi3b4nsh33/CVE-2024-29973.git"
+		},
+		{
+			"xdb_id": "34525b555a68",
+			"xdb_url": "https://vulncheck.com/xdb/34525b555a68",
+			"date_added": "2024-06-21T15:20:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:RevoltSecurities/CVE-2024-29973.git"
 		},
 		{
 			"xdb_id": "372a4b801c8c",

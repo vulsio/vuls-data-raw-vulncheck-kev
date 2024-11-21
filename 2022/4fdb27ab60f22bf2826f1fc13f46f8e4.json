@@ -906,13 +906,6 @@
 			"clone_ssh_url": "git@github.com:PwnFunction/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "f0523fed79c3",
-			"xdb_url": "https://vulncheck.com/xdb/f0523fed79c3",
-			"date_added": "2021-03-30T07:09:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
-		},
-		{
 			"xdb_id": "2526c4e141f3",
 			"xdb_url": "https://vulncheck.com/xdb/2526c4e141f3",
 			"date_added": "2022-01-26T01:34:44Z",
@@ -948,6 +941,20 @@
 			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
 		},
 		{
+			"xdb_id": "f0523fed79c3",
+			"xdb_url": "https://vulncheck.com/xdb/f0523fed79c3",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "aeecf13a2fe2",
+			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
+			"date_added": "2023-11-12T05:08:25+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
+		},
+		{
 			"xdb_id": "fc91e648cdb7",
 			"xdb_url": "https://vulncheck.com/xdb/fc91e648cdb7",
 			"date_added": "2022-01-28T15:34:57+08:00",
@@ -960,13 +967,6 @@
 			"date_added": "2023-12-29T11:30:03+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:benu_yang/CVE-2021-4034.git"
-		},
-		{
-			"xdb_id": "aeecf13a2fe2",
-			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
-			"date_added": "2023-11-12T05:08:25+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "2355bc59a8b4",

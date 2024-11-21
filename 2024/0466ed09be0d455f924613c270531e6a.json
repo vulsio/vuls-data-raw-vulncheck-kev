@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:exotikcheat/cve-2023-29360.git"
 		},
 		{
-			"xdb_id": "f4d98c781e76",
-			"xdb_url": "https://vulncheck.com/xdb/f4d98c781e76",
-			"date_added": "2023-09-24T21:59:23Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-29360.git"
-		},
-		{
 			"xdb_id": "4ff3cf601881",
 			"xdb_url": "https://vulncheck.com/xdb/4ff3cf601881",
 			"date_added": "2024-08-31T21:08:39Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0xDivyanshu-new/CVE-2023-29360.git"
+		},
+		{
+			"xdb_id": "f4d98c781e76",
+			"xdb_url": "https://vulncheck.com/xdb/f4d98c781e76",
+			"date_added": "2023-09-24T21:59:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Nero22k/cve-2023-29360.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

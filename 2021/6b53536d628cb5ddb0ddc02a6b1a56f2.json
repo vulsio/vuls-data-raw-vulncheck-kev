@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:YastrebX/CVE-2015-1328.git"
 		},
 		{
-			"xdb_id": "1a7d6e27e1ca",
-			"xdb_url": "https://vulncheck.com/xdb/1a7d6e27e1ca",
-			"date_added": "2021-03-30T07:09:45Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
-		},
-		{
 			"xdb_id": "d054da419d7a",
 			"xdb_url": "https://vulncheck.com/xdb/d054da419d7a",
 			"date_added": "2022-02-07T10:52:51Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:elit3pwner/CVE-2015-1328-GoldenEye.git"
+		},
+		{
+			"xdb_id": "1a7d6e27e1ca",
+			"xdb_url": "https://vulncheck.com/xdb/1a7d6e27e1ca",
+			"date_added": "2021-03-30T07:09:45Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
