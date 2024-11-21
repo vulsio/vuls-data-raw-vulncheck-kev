@@ -84,6 +84,10 @@
 			"date_added": "2024-09-02T00:00:00Z"
 		},
 		{
+			"url": "https://www.nuspire.com/wp-content/uploads/2024/10/Q3-2024_Threat-Landscape-Report_19Oct24_VF.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/psirt-blogs/analysis-of-cve-2023-27997-and-clarifications-on-volt-typhoon-campaign",
 			"date_added": "2023-06-12T00:00:00Z"
 		},
@@ -134,6 +138,10 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+			"date_added": "2023-06-13T00:00:00Z"
 		},
 		{
 			"url": "https://www.tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors",

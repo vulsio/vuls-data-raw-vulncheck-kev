@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.gendigital.com/blog/insights/reports/threat-report-q3-2024",
+			"date_added": "2024-11-19T00:00:00Z"
+		},
+		{
 			"url": "https://web.archive.org/web/20120304003736/http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/reports/rpt_a-look-back-at-2011_information-is-currency.pdf",
 			"date_added": "2012-01-17T00:00:00Z"
 		},

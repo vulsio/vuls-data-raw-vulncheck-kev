@@ -1,0 +1,27 @@
+{
+	"vendorProject": "revive-adserver",
+	"product": "revive_adserver",
+	"shortDescription": "Revive Adserver before 5.1.0 is vulnerable to open redirects via the `dest`, `oadest`, and/or `ct0` parameters of the lg.php and ck.php delivery scripts. Such open redirects had previously been available by design to allow third party ad servers to track such metrics when delivering ads. However, third party click tracking via redirects is not a viable option anymore, leading to such open redirect functionality being removed and reclassified as a vulnerability.",
+	"vulnerabilityName": "revive-adserver revive_adserver URL Redirection to Untrusted Site ('Open Redirect')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-22873"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "aea8fe260ba2",
+			"xdb_url": "https://vulncheck.com/xdb/aea8fe260ba2",
+			"date_added": "2023-07-22T21:49:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-22873-EXPLOIT.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-20T00:00:00Z"
+}

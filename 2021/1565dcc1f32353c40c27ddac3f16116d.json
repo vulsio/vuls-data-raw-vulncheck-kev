@@ -63,6 +63,10 @@
 		{
 			"url": "https://css.ethz.ch/content/dam/ethz/special-interest/gess/cis/center-for-securities-studies/pdfs/CyberDefenseReport_%20From%20Vegas%20to%20Chengdu.pdf",
 			"date_added": "2024-06-06T00:00:00Z"
+		},
+		{
+			"url": "https://intel471.com/blog/a-look-at-trending-chinese-apt-techniques",
+			"date_added": "2024-11-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-12-01T00:00:00Z",

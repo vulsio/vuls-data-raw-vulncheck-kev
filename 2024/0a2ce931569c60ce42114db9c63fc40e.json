@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Intel",
+	"product": "hyperscan_library",
+	"shortDescription": "Insufficient control flow management in the Hyperscan Library maintained by Intel(R) before version 5.4.1 may allow an authenticated user to potentially enable denial of service via local access.",
+	"vulnerabilityName": "Intel hyperscan_library Always-Incorrect Control Flow Implementation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28711"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-20T00:00:00Z"
+}

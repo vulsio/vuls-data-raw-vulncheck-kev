@@ -1563,6 +1563,14 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.nuspire.com/wp-content/uploads/2024/10/Q3-2024_Threat-Landscape-Report_19Oct24_VF.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",

@@ -1983,6 +1983,14 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://intel471.com/blog/a-look-at-trending-chinese-apt-techniques",
+			"date_added": "2024-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-04-16T00:00:00Z",

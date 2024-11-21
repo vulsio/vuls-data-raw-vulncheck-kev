@@ -261,6 +261,10 @@
 			"date_added": "2024-09-19T00:00:00Z"
 		},
 		{
+			"url": "https://www.nuspire.com/wp-content/uploads/2024/10/Q3-2024_Threat-Landscape-Report_19Oct24_VF.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.huntress.com/blog/critical-vulnerability-exploitation-of-apache-activemq-cve-2023-46604",
 			"date_added": "2023-11-02T00:00:00Z"
 		},
@@ -339,6 +343,10 @@
 		{
 			"url": "https://www.ptsecurity.com/ru-ru/research/analytics/itogi-proektov-po-rassledovaniyu-inczidentov-i-retrospektivnomu-analizu-2023-2024/#id1",
 			"date_added": "2024-11-06T00:00:00Z"
+		},
+		{
+			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-11-23T00:00:00Z",
