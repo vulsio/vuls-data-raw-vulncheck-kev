@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:Diego-AltF4/CVE-2023-4911.git"
 		},
 		{
-			"xdb_id": "1bf2c7948d0a",
-			"xdb_url": "https://vulncheck.com/xdb/1bf2c7948d0a",
-			"date_added": "2023-10-11T14:49:22Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ruycr4ft/CVE-2023-4911.git"
-		},
-		{
 			"xdb_id": "b43d5e2b6b33",
 			"xdb_url": "https://vulncheck.com/xdb/b43d5e2b6b33",
 			"date_added": "2024-01-20T18:47:07Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:NishanthAnand21/CVE-2023-4911-PoC.git"
+		},
+		{
+			"xdb_id": "1bf2c7948d0a",
+			"xdb_url": "https://vulncheck.com/xdb/1bf2c7948d0a",
+			"date_added": "2023-10-11T14:49:22Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ruycr4ft/CVE-2023-4911.git"
 		},
 		{
 			"xdb_id": "d9dc0002293f",

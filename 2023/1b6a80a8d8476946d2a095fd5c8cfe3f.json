@@ -276,6 +276,13 @@
 			"clone_ssh_url": "git@github.com:MzzdToT/HAC_Bored_Writing.git"
 		},
 		{
+			"xdb_id": "96853de4ee42",
+			"xdb_url": "https://vulncheck.com/xdb/96853de4ee42",
+			"date_added": "2023-10-09T00:26:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:m3m0o/metabase-pre-auth-rce-poc.git"
+		},
+		{
 			"xdb_id": "4c19f6e943f9",
 			"xdb_url": "https://vulncheck.com/xdb/4c19f6e943f9",
 			"date_added": "2023-08-09T14:05:24Z",
@@ -283,11 +290,11 @@
 			"clone_ssh_url": "git@github.com:robotmikhro/CVE-2023-38646.git"
 		},
 		{
-			"xdb_id": "96853de4ee42",
-			"xdb_url": "https://vulncheck.com/xdb/96853de4ee42",
-			"date_added": "2023-10-09T00:26:38Z",
+			"xdb_id": "fc3a7c741130",
+			"xdb_url": "https://vulncheck.com/xdb/fc3a7c741130",
+			"date_added": "2024-11-22T04:15:25Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:m3m0o/metabase-pre-auth-rce-poc.git"
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-38646-poc.git"
 		},
 		{
 			"xdb_id": "3557b45588ec",
@@ -1789,6 +1796,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-20&host_type=src&vulnerability=cve-2023-38646",
 			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-21&host_type=src&vulnerability=cve-2023-38646",
+			"date_added": "2024-11-21T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sekoia.io/activemq-cve-2023-46604-exploited-by-kinsing-and-overview-of-this-threat/",

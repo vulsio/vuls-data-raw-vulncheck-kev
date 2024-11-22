@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "e720a3447e7a",
-			"xdb_url": "https://vulncheck.com/xdb/e720a3447e7a",
-			"date_added": "2020-04-15T20:44:15Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:VirtueSecurity/benigncertain-monitor.git"
-		},
-		{
 			"xdb_id": "196b3cc71710",
 			"xdb_url": "https://vulncheck.com/xdb/196b3cc71710",
 			"date_added": "2020-11-04T20:08:14Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:3ndG4me/CVE-2016-6415-BenignCertain-Monitor.git"
+		},
+		{
+			"xdb_id": "e720a3447e7a",
+			"xdb_url": "https://vulncheck.com/xdb/e720a3447e7a",
+			"date_added": "2020-04-15T20:44:15Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:VirtueSecurity/benigncertain-monitor.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

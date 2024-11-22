@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-8069"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "5a40d75271ac",
+			"xdb_url": "https://vulncheck.com/xdb/5a40d75271ac",
+			"date_added": "2024-11-13T02:50:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-13&host_type=src&vulnerability=cve-2024-8069",
