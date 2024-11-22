@@ -1,6 +1,6 @@
 {
 	"vendorProject": "D-Link",
-	"product": "dcs-2530l",
+	"product": "dcs-2530l_firmware",
 	"shortDescription": "An issue was discovered on D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 devices. The unauthenticated /config/getuser endpoint allows for remote administrator password disclosure.",
 	"vulnerabilityName": "D-Link DCS-2530L before 1.06.01 Hotfix and DCS-2670L through 2.02 Admin Password Disclosure",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

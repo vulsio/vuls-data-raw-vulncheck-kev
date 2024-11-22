@@ -1,0 +1,151 @@
+{
+	"vendorProject": "cdatatec",
+	"product": "c-data_web_management_system",
+	"shortDescription": "A vulnerability was found in C-DATA Web Management System. It has been rated as critical. This issue affects some unknown processing of the file cgi-bin/jumpto.php of the component GET Parameter Handler. The manipulation of the argument hostname leads to argument injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-214631.",
+	"vulnerabilityName": "cdatatec c-data_web_management_system Improper Neutralization",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-4257"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-19&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2023-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-06&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-07&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-22&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-23&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-24&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-27&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-28&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-29&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-01-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-02-17&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-02-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-04&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-03-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-13&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-03-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-14&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-03-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-20&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-03-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-03-21&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-03-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-21&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-04-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-24&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-04-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-25&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-04-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-15&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-23&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-06-23T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-24&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-06-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-06-29&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-06-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-26&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-08-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-08-28&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-06&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-09-06T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-09-07&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-09-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-10-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-17&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-10-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-20&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-10-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-21&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-29&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-11&host_type=src&vulnerability=cve-2022-4257",
+			"date_added": "2024-11-11T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-v3g4/",
+			"date_added": "2023-02-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/c-data-rce-attack",
+			"date_added": "2024-04-25T00:00:00Z"
+		}
+	],
+	"date_added": "2023-02-15T00:00:00Z"
+}

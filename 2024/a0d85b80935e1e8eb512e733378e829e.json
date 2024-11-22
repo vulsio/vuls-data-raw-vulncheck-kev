@@ -1,0 +1,48 @@
+{
+	"vendorProject": "splunk",
+	"product": "splunk",
+	"shortDescription": "In Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10, an attacker could perform a path traversal on the /modules/messaging/ endpoint in Splunk Enterprise on Windows. This vulnerability should only affect Splunk Enterprise on Windows.",
+	"vulnerabilityName": "splunk splunk Path Traversal: '.../...//'",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-36991"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "939a0b115d90",
+			"xdb_url": "https://vulncheck.com/xdb/939a0b115d90",
+			"date_added": "2024-07-06T17:15:39Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sardine-web/CVE-2024-36991.git"
+		},
+		{
+			"xdb_id": "d3f5d6a67d77",
+			"xdb_url": "https://vulncheck.com/xdb/d3f5d6a67d77",
+			"date_added": "2024-07-06T01:00:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2024-36991.git"
+		},
+		{
+			"xdb_id": "107992315a54",
+			"xdb_url": "https://vulncheck.com/xdb/107992315a54",
+			"date_added": "2024-07-06T15:24:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:th3gokul/CVE-2024-36991.git"
+		},
+		{
+			"xdb_id": "16b2b6649b00",
+			"xdb_url": "https://vulncheck.com/xdb/16b2b6649b00",
+			"date_added": "2024-07-06T00:49:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-36991.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-03&host_type=src&vulnerability=cve-2024-36991",
+			"date_added": "2024-11-03T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-03T00:00:00Z"
+}

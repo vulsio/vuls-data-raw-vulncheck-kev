@@ -1,0 +1,71 @@
+{
+	"vendorProject": "D-Link",
+	"product": "dns-320_firmware",
+	"shortDescription": "A vulnerability was found in D-Link DNS-320, DNS-320LW, DNS-325 and DNS-340L up to 20241028. It has been declared as critical. Affected by this vulnerability is the function cgi_user_add of the file /cgi-bin/account_mgr.cgi?cmd=cgi_user_add. The manipulation of the argument name leads to os command injection. The attack can be launched remotely. The complexity of an attack is rather high. The exploitation appears to be difficult. The exploit has been disclosed to the public and may be used.",
+	"vulnerabilityName": "D-Link dns-320_firmware Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-10914"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2eaa329a97eb",
+			"xdb_url": "https://vulncheck.com/xdb/2eaa329a97eb",
+			"date_added": "2024-11-15T07:56:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Bu0uCat/D-Link-NAS-CVE-2024-10914-.git"
+		},
+		{
+			"xdb_id": "ad064f09887d",
+			"xdb_url": "https://vulncheck.com/xdb/ad064f09887d",
+			"date_added": "2024-11-13T08:33:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Egi08/CVE-2024-10914.git"
+		},
+		{
+			"xdb_id": "66ae016baa3b",
+			"xdb_url": "https://vulncheck.com/xdb/66ae016baa3b",
+			"date_added": "2024-11-09T19:30:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:imnotcha0s/CVE-2024-10914.git"
+		},
+		{
+			"xdb_id": "44163f579aeb",
+			"xdb_url": "https://vulncheck.com/xdb/44163f579aeb",
+			"date_added": "2024-11-10T12:01:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-10914.git"
+		},
+		{
+			"xdb_id": "ee5eb809e894",
+			"xdb_url": "https://vulncheck.com/xdb/ee5eb809e894",
+			"date_added": "2024-11-16T16:32:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ThemeHackers/CVE-2024-10914.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-13&host_type=src&vulnerability=cve-2024-10914",
+			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-14&host_type=src&vulnerability=cve-2024-10914",
+			"date_added": "2024-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-15&host_type=src&vulnerability=cve-2024-10914",
+			"date_added": "2024-11-15T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@shadowserver/113475031465908584",
+			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://x.com/Shadowserver/status/1856635619839008810",
+			"date_added": "2024-11-13T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-13T00:00:00Z"
+}

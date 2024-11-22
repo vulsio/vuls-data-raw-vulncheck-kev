@@ -1,0 +1,19 @@
+{
+	"vendorProject": "coderevolution",
+	"product": "echo_rss_feed_post_generator",
+	"shortDescription": "The Echo RSS Feed Post Generator plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 5.4.6. This is due to the plugin not properly restricting the roles that can set during registration through the echo_check_post_header_sent() function. This makes it possible for unauthenticated attackers to register as an administrator.",
+	"vulnerabilityName": "coderevolution echo_rss_feed_post_generator Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9265"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/vulnerability/rss-feed-post-generator-echo/wordpress-echo-rss-feed-post-generator-plugin-5-4-6-unauthenticated-privilege-escalation-vulnerability",
+			"date_added": "2024-10-01T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-01T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ays-pro",
+	"product": "chartify",
+	"shortDescription": "The Chartify – WordPress Chart Plugin plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 2.9.5 via the 'source' parameter. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included.",
+	"vulnerabilityName": "ays-pro chartify Improper Control of Filename for Include/Require Statement in PHP Program ('PHP Remote File Inclusion')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-10571"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securityonline.info/cve-2024-10571-cvss-9-8-critical-flaw-in-wordpress-chart-plugin-under-active-attack/",
+			"date_added": "2024-11-14T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-14T00:00:00Z"
+}
