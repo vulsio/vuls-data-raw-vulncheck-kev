@@ -55,6 +55,10 @@
 		{
 			"url": "https://unit42.paloaltonetworks.com/cve-2024-0012-cve-2024-9474/",
 			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@shadowserver/113520322017264871",
+			"date_added": "2024-11-21T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-09T00:00:00Z",

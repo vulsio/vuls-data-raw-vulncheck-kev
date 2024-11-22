@@ -1,8 +1,8 @@
 {
 	"vendorProject": "totolink",
-	"product": "a3002r",
+	"product": "a3002r_firmware",
 	"shortDescription": "TOTOLINK A3002RU-V2.0.0 B20190814.1034 allows authenticated remote users to modify the system's 'Run Command'. An attacker can use this functionality to execute arbitrary OS commands on the router.",
-	"vulnerabilityName": "totolink a3002r Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"vulnerabilityName": "totolink a3002r_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

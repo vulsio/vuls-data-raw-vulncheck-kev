@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-11-21T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.oracle.com/security/post/alert-cve-2024-21287",
 			"date_added": "2024-11-18T00:00:00Z"
 		}
