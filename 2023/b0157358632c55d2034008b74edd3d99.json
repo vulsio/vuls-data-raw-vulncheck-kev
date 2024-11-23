@@ -59,11 +59,11 @@
 			"clone_ssh_url": "git@github.com:Ostorlab/known_exploited_vulnerbilities_detectors.git"
 		},
 		{
-			"xdb_id": "83558305f561",
-			"xdb_url": "https://vulncheck.com/xdb/83558305f561",
+			"xdb_id": "6628d3a046f1",
+			"xdb_url": "https://vulncheck.com/xdb/6628d3a046f1",
 			"date_added": "2024-11-22T04:10:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2023-20198-poc.git"
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-20198-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

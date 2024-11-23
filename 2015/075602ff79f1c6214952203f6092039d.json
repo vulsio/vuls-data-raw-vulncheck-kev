@@ -211,6 +211,10 @@
 		{
 			"url": "https://securelist.com/vulnerability-exploit-report-q2-2024/113455/",
 			"date_added": "2024-08-21T00:00:00Z"
+		},
+		{
+			"url": "https://research.cert.orangecyberdefense.com/hidden-network/report.html",
+			"date_added": "2024-11-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

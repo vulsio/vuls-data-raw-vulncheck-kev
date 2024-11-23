@@ -39,6 +39,10 @@
 			"date_added": "2024-11-20T00:00:00Z"
 		},
 		{
+			"url": "https://www.ic3.gov/CSA/2024/241120.pdf",
+			"date_added": "2024-11-20T00:00:00Z"
+		},
+		{
 			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37969",
 			"date_added": "2022-09-13T00:00:00Z"
 		},
@@ -49,6 +53,10 @@
 		{
 			"url": "https://www.zscaler.com/blogs/security-research/technical-analysis-windows-clfs-zero-day-vulnerability-cve-2022-37969-part2-exploit-analysis",
 			"date_added": "2022-10-28T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/ZMtSR5b70g/cve-2022-37969",
+			"date_added": "2024-11-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-10-05T00:00:00Z",

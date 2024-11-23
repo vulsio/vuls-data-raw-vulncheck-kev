@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-5535"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://26857953.fs1.hubspotusercontent-eu1.net/hubfs/26857953/State%20of%20API%20Exposure%202024%20-%20Escape.pdf",
+			"date_added": "2024-11-21T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-21T00:00:00Z"
+}

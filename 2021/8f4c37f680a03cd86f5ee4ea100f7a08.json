@@ -346,13 +346,6 @@
 			"clone_ssh_url": "git@github.com:TishcaTpx/POC-CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "bb58b7001b1f",
-			"xdb_url": "https://vulncheck.com/xdb/bb58b7001b1f",
-			"date_added": "2021-10-06T07:17:05Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:blasty/CVE-2021-41773.git"
-		},
-		{
 			"xdb_id": "7f994d193496",
 			"xdb_url": "https://vulncheck.com/xdb/7f994d193496",
 			"date_added": "2022-04-04T22:07:21Z",
@@ -444,6 +437,13 @@
 			"clone_ssh_url": "git@github.com:thehackersbrain/CVE-2021-41773.git"
 		},
 		{
+			"xdb_id": "bb58b7001b1f",
+			"xdb_url": "https://vulncheck.com/xdb/bb58b7001b1f",
+			"date_added": "2021-10-06T07:17:05Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:blasty/CVE-2021-41773.git"
+		},
+		{
 			"xdb_id": "e53c96b7f8c4",
 			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
 			"date_added": "2023-09-17T13:57:58+08:00",
@@ -451,11 +451,11 @@
 			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "d0972a06acee",
-			"xdb_url": "https://vulncheck.com/xdb/d0972a06acee",
-			"date_added": "2021-10-11T11:57:54+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:lvyyevd/CVE-2021-41773.git"
+			"xdb_id": "846a361d532a",
+			"xdb_url": "https://vulncheck.com/xdb/846a361d532a",
+			"date_added": "2021-10-09T15:36:32+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "56fc1e32325a",
@@ -465,11 +465,11 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
 		},
 		{
-			"xdb_id": "846a361d532a",
-			"xdb_url": "https://vulncheck.com/xdb/846a361d532a",
-			"date_added": "2021-10-09T15:36:32+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-41773.git"
+			"xdb_id": "d0972a06acee",
+			"xdb_url": "https://vulncheck.com/xdb/d0972a06acee",
+			"date_added": "2021-10-11T11:57:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:lvyyevd/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "ff16564070fa",

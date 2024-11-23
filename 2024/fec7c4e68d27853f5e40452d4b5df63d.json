@@ -10,6 +10,20 @@
 	],
 	"vulncheck_xdb": [
 		{
+			"xdb_id": "5a56db95a9d0",
+			"xdb_url": "https://vulncheck.com/xdb/5a56db95a9d0",
+			"date_added": "2024-11-21T03:08:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VegetableLasagne/CVE-2024-0012.git"
+		},
+		{
+			"xdb_id": "f74a09e30d54",
+			"xdb_url": "https://vulncheck.com/xdb/f74a09e30d54",
+			"date_added": "2024-11-22T07:52:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:iSee857/CVE-2024-0012-poc.git"
+		},
+		{
 			"xdb_id": "b3afbf33fe3c",
 			"xdb_url": "https://vulncheck.com/xdb/b3afbf33fe3c",
 			"date_added": "2024-11-19T11:30:25Z",
@@ -24,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:watchtowrlabs/palo-alto-panos-cve-2024-0012.git"
 		},
 		{
-			"xdb_id": "5a56db95a9d0",
-			"xdb_url": "https://vulncheck.com/xdb/5a56db95a9d0",
-			"date_added": "2024-11-21T03:08:00Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:VegetableLasagne/CVE-2024-0012.git"
-		},
-		{
 			"xdb_id": "b64291402220",
 			"xdb_url": "https://vulncheck.com/xdb/b64291402220",
 			"date_added": "2024-11-20T15:35:29Z",
@@ -38,11 +45,11 @@
 			"clone_ssh_url": "git@github.com:greaselovely/CVE-2024-0012.git"
 		},
 		{
-			"xdb_id": "f74a09e30d54",
-			"xdb_url": "https://vulncheck.com/xdb/f74a09e30d54",
-			"date_added": "2024-11-22T07:52:11Z",
+			"xdb_id": "8681e4b6c1e7",
+			"xdb_url": "https://vulncheck.com/xdb/8681e4b6c1e7",
+			"date_added": "2024-11-22T14:11:56Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:iSee857/CVE-2024-0012-poc.git"
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-0012-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

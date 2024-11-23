@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2021-29442"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fcdd46d9ff5b",
+			"xdb_url": "https://vulncheck.com/xdb/fcdd46d9ff5b",
+			"date_added": "2024-11-22T01:32:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-19&host_type=src&vulnerability=cve-2021-29442",

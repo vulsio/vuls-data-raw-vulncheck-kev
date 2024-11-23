@@ -562,6 +562,10 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://medium.com/@knownsec404team/unveiling-the-past-and-present-of-apt-k-47-weapon-asyncshell-5a98f75c2d68",
+			"date_added": "2024-11-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-09-14T00:00:00Z",
