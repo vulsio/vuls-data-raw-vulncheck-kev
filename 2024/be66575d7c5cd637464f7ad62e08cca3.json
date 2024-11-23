@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security",
 			"date_added": "2024-10-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/",
+			"date_added": "2024-11-22T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-05-14T00:00:00Z",

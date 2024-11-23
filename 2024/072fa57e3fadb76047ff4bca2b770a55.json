@@ -1,0 +1,69 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-26229"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4d8198d82a5b",
+			"xdb_url": "https://vulncheck.com/xdb/4d8198d82a5b",
+			"date_added": "2024-06-12T02:47:17Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0XJ175/DRive.git"
+		},
+		{
+			"xdb_id": "35a357b363f4",
+			"xdb_url": "https://vulncheck.com/xdb/35a357b363f4",
+			"date_added": "2024-06-12T11:11:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NVISOsecurity/CVE-2024-26229-BOF.git"
+		},
+		{
+			"xdb_id": "4d8198d82a5b",
+			"xdb_url": "https://vulncheck.com/xdb/4d8198d82a5b",
+			"date_added": "2024-06-13T01:24:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:0XJ175/DRive.git"
+		},
+		{
+			"xdb_id": "c843e97b137c",
+			"xdb_url": "https://vulncheck.com/xdb/c843e97b137c",
+			"date_added": "2024-06-11T08:03:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RalfHacker/CVE-2024-26229-exploit.git"
+		},
+		{
+			"xdb_id": "3ec26e3483ec",
+			"xdb_url": "https://vulncheck.com/xdb/3ec26e3483ec",
+			"date_added": "2024-06-10T17:02:03Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:varwara/CVE-2024-26229.git"
+		},
+		{
+			"xdb_id": "112e1fad5888",
+			"xdb_url": "https://vulncheck.com/xdb/112e1fad5888",
+			"date_added": "2024-08-04T17:40:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Cracked5pider/eop24-26229.git"
+		},
+		{
+			"xdb_id": "6944d8e04ff8",
+			"xdb_url": "https://vulncheck.com/xdb/6944d8e04ff8",
+			"date_added": "2024-06-13T11:57:50Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:apkc/CVE-2024-26229-BOF.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zscaler.com/blogs/security-research/unraveling-raspberry-robin-s-layers-analyzing-obfuscation-techniques-and",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-19T00:00:00Z"
+}
