@@ -1,0 +1,23 @@
+{
+	"vendorProject": "QNAP",
+	"product": "malware_remover",
+	"shortDescription": "A command injection vulnerability has been reported to affect certain versions of Malware Remover. If exploited, this vulnerability allows remote attackers to execute arbitrary commands. This issue affects: QNAP Systems Inc. Malware Remover versions prior to 4.6.1.0. This issue does not affect: QNAP Systems Inc. Malware Remover 3.x.",
+	"vulnerabilityName": "QNAP malware_remover Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2020-36198"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
+			"date_added": "2022-03-24T00:00:00Z"
+		},
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-03-24T00:00:00Z"
+}

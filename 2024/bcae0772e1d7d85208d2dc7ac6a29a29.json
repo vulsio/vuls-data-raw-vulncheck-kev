@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "dx5401-b0_firmware",
+	"shortDescription": "The buffer overflow vulnerability in the library “libclinkc.so” of the web server “zhttpd” in Zyxel DX5401-B0 firmware versions prior to V5.17(ABYO.1)C0 could allow a remote unauthenticated attacker to execute some OS commands or to cause denial-of-service (DoS) conditions on a vulnerable device.",
+	"vulnerabilityName": "Zyxel dx5401-b0_firmware Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28769"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://levelblue.com/blogs/labs-research/ngioweb-remains-active-7-years-later",
+			"date_added": "2024-11-01T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-01T00:00:00Z"
+}

@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Citrix",
+	"product": "NetScaler ADC and NetScaler Gateway",
+	"shortDescription": "Privilege Escalation to root administrator (nsroot)\n",
+	"vulnerabilityName": "Citrix NetScaler ADC and NetScaler Gateway Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3467"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-31T00:00:00Z"
+}

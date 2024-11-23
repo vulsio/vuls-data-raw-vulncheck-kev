@@ -1,0 +1,19 @@
+{
+	"vendorProject": "tableau",
+	"product": "tableau_server",
+	"shortDescription": "Numerous Tableau products are vulnerable to XXE via a malicious workbook, extension, or data source, leading to information disclosure or a DoS. This affects Tableau Server, Tableau Desktop, Tableau Reader, and Tableau Public Desktop.",
+	"vulnerabilityName": "tableau tableau_server Improper Restriction of XML External Entity Reference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-15637"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-07/aa24-207a-dprk-cyber-group-conducts-global-espionage-campaign.pdf",
+			"date_added": "2024-07-25T00:00:00Z"
+		}
+	],
+	"date_added": "2024-07-25T00:00:00Z"
+}

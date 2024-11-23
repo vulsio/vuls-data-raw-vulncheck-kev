@@ -1,6 +1,6 @@
 {
 	"vendorProject": "asrock",
-	"product": "rgb_driver",
+	"product": "rgb_driver_firmware",
 	"shortDescription": "AsrDrv103.sys in the ASRock RGB Driver does not properly restrict access from user space, as demonstrated by triggering a triple fault via a request to zero CR3.",
 	"vulnerabilityName": "ASRock RGB Driver AsrDrv103.sys Triple Fault",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

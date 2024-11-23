@@ -1,0 +1,43 @@
+{
+	"vendorProject": "GIGABYTE",
+	"product": "gb-bsi7h-6500_firmware",
+	"shortDescription": "GIGABYTE BRIX UEFI firmware does not cryptographically validate images prior to updating the system firmware. Additionally, the firmware updates are served over HTTP. An attacker can make arbitrary modifications to firmware images without being detected.",
+	"vulnerabilityName": "GIGABYTE gb-bsi7h-6500_firmware Insufficient Verification of Data Authenticity",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2017-3198"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blogs.blackberry.com/en/2017/03/gigabyte-brix-systems-vulnerabilities",
+			"date_added": "2017-03-31T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/ransomware-_-2022-spotlight-report_compressed.pdf",
+			"date_added": "2022-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://cybersecurityworks.com/howdymanage/uploads/file/RansomwareUpdate%20Report%202022%20Q1.pdf",
+			"date_added": "2022-04-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.ivanti.com/resources/v/doc/pr-survey-report/ransomware-quarterly-indexreport_q2-q3",
+			"date_added": "2022-10-21T00:00:00Z"
+		},
+		{
+			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
+			"date_added": "2023-02-14T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%20-%20Index%20Update%20Q1%202023.pdf",
+			"date_added": "2023-05-15T00:00:00Z"
+		},
+		{
+			"url": "https://4502402.fs1.hubspotusercontent-na1.net/hubfs/4502402/Ransomware%202023%20Year%20in%20Review.pdf",
+			"date_added": "2024-01-24T00:00:00Z"
+		}
+	],
+	"date_added": "2017-03-31T00:00:00Z"
+}

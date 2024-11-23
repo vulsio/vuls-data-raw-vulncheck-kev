@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Schneider Electric",
+	"product": "triconex_tricon_mp_3008_firmware",
+	"shortDescription": "In Schneider Electric Triconex Tricon MP model 3008 firmware versions 10.0-10.4, when a system call is made, registers are stored to a fixed memory location. Modifying the data in this location could allow attackers to gain supervisor-level access and control system states.",
+	"vulnerabilityName": "Schneider Electric triconex_tricon_mp_3008_firmware Improper Restriction of Operations within the Bounds of a Memory Buffer",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-7522"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.waterisac.org/portal/schneider-electric-triconex-tricon-icsa-18-107-02",
+			"date_added": "2018-12-20T00:00:00Z"
+		},
+		{
+			"url": "https://hub.dragos.com/hubfs/333%20Year%20in%20Review/2021/2021%20ICS%20OT%20Cybersecurity%20Year%20In%20Review%20-%20Dragos%202021.pdf?hsLang=en",
+			"date_added": "2022-02-23T00:00:00Z"
+		}
+	],
+	"date_added": "2018-12-20T00:00:00Z"
+}

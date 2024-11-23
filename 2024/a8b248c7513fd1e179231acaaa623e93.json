@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2019-25065"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e1e69c914071",
+			"xdb_url": "https://vulncheck.com/xdb/e1e69c914071",
+			"date_added": "2024-11-22T22:56:42Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sagisar1/CVE-2019-25065-exploit.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-01-13&host_type=src&vulnerability=cve-2019-25065",

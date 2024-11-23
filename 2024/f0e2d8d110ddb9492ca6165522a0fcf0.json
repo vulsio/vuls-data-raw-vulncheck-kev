@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Citrix",
+	"product": "NetScaler ADC and NetScaler Gateway",
+	"shortDescription": "Reflected Cross-Site Scripting (XSS)\n",
+	"vulnerabilityName": "Citrix NetScaler ADC and NetScaler Gateway Improper Input Validation",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3466"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sentinelone.com/resources/watchtower-end-of-year-report-2023/",
+			"date_added": "2024-01-31T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/2024-11/aa24-317a-2023-top-routinely-exploited-vulnerabilities.pdf",
+			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-31T00:00:00Z"
+}

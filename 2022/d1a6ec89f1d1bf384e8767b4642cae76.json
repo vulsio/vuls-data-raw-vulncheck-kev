@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Cisco",
+	"product": "application_extension_platform",
+	"shortDescription": "A vulnerability in the Universal Plug-and-Play (UPnP) service of Cisco Small Business RV110W, RV130, RV130W, and RV215W Routers could allow an unauthenticated, remote attacker to execute arbitrary code or cause an affected device to restart unexpectedly, resulting in a denial of service (DoS) condition. This vulnerability is due to improper validation of incoming UPnP traffic. An attacker could exploit this vulnerability by sending a crafted UPnP request to an affected device. A successful exploit could allow the attacker to execute arbitrary code as the root user on the underlying operating system or cause the device to reload, resulting in a DoS condition. Cisco has not released software updates that address this vulnerability.",
+	"vulnerabilityName": "Cisco application_extension_platform Stack-based Buffer Overflow",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2021-34730"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "95e8a3fd1e67",
+			"xdb_url": "https://vulncheck.com/xdb/95e8a3fd1e67",
+			"date_added": "2021-09-30T11:21:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:badmonkey7/CVE-2021-34730.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://static.tenable.com/marketing/whitepapers/Whitepaper-Ransomware_Ecosystem.pdf",
+			"date_added": "2022-06-22T00:00:00Z"
+		}
+	],
+	"date_added": "2022-06-22T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ninjaforms",
+	"product": "ninja_forms",
+	"shortDescription": "In the Ninja Forms Contact Form WordPress plugin before 3.4.34.1, low-level users, such as subscribers, were able to trigger the action, wp_ajax_nf_oauth, and retrieve the connection url needed to establish a connection. They could also retrieve the client_id for an already established OAuth connection.",
+	"vulnerabilityName": "ninjaforms ninja_forms Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-24164"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ninja-forms/ninja-forms-3434-authenticated-oauth-connection-key-disclosure",
+			"date_added": "2023-01-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-01-18T00:00:00Z"
+}

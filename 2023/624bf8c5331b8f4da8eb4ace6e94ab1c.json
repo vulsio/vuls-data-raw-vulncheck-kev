@@ -1,0 +1,35 @@
+{
+	"vendorProject": "milesight",
+	"product": "ur5x_firmware",
+	"shortDescription": "An information disclosure in Milesight UR5X, UR32L, UR32, UR35, UR41 before v35.3.0.7 allows attackers to access sensitive router components.",
+	"vulnerabilityName": "milesight ur5x_firmware Insertion of Sensitive Information into Log File",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-43261"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "645b345f1d81",
+			"xdb_url": "https://vulncheck.com/xdb/645b345f1d81",
+			"date_added": "2023-09-28T08:45:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:win3zz/CVE-2023-43261.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://vulncheck.com/blog/real-world-cve-2023-43261",
+			"date_added": "2023-10-13T00:00:00Z"
+		},
+		{
+			"url": "https://filestore.fortinet.com/fortiguard/outbreak_alert/Outbreak_Alerts-Annual_Report_2023.pdf",
+			"date_added": "2024-02-20T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/vinfo/us/security/news/internet-of-things/cellular-iot-vulnerabilities-another-door-to-cellular-networks",
+			"date_added": "2024-10-31T00:00:00Z"
+		}
+	],
+	"date_added": "2023-10-13T00:00:00Z"
+}

@@ -1,0 +1,23 @@
+{
+	"vendorProject": "linknet-usa",
+	"product": "lw-n605r_firmware",
+	"shortDescription": "LINK-NET LW-N605R devices with firmware 12.20.2.1486 allow Remote Code Execution via shell metacharacters in the HOST field of the ping feature at adm/systools.asp. Authentication is needed but the default password of admin for the admin account may be used in some cases.",
+	"vulnerabilityName": "linknet-usa lw-n605r_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-16752"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
+			"date_added": "2024-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://blog.xlab.qianxin.com/catddos-derivative-en/",
+			"date_added": "2024-05-22T00:00:00Z"
+		}
+	],
+	"date_added": "2024-01-03T00:00:00Z"
+}
