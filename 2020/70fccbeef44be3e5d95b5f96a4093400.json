@@ -1717,6 +1717,10 @@
 			"date_added": "2024-11-21T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-22&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2024-11-22T00:00:00Z"
+		},
+		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",
 			"date_added": "2022-04-21T00:00:00Z"
 		},

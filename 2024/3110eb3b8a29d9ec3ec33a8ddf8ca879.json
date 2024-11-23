@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:2ptr/BadBizness-CVE-2023-51467.git"
 		},
 		{
-			"xdb_id": "cc543575cce5",
-			"xdb_url": "https://vulncheck.com/xdb/cc543575cce5",
-			"date_added": "2024-01-09T16:58:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-51467.git"
-		},
-		{
 			"xdb_id": "2b13294a7795",
 			"xdb_url": "https://vulncheck.com/xdb/2b13294a7795",
 			"date_added": "2023-12-29T02:25:43Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:JaneMandy/CVE-2023-51467.git"
+		},
+		{
+			"xdb_id": "cc543575cce5",
+			"xdb_url": "https://vulncheck.com/xdb/cc543575cce5",
+			"date_added": "2024-01-09T16:58:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-51467.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
