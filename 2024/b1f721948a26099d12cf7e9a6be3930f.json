@@ -17,11 +17,11 @@
 			"clone_ssh_url": "git@github.com:Quantum-Hacker/CVE-2024-27954.git"
 		},
 		{
-			"xdb_id": "f2aa03a2f38d",
-			"xdb_url": "https://vulncheck.com/xdb/f2aa03a2f38d",
+			"xdb_id": "98ccb2e1b4d5",
+			"xdb_url": "https://vulncheck.com/xdb/98ccb2e1b4d5",
 			"date_added": "2024-10-29T00:46:35Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-27954.git"
+			"clone_ssh_url": "git@github.com:gh-ost00/CVE-2024-27954.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

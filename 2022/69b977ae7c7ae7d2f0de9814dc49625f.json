@@ -416,11 +416,11 @@
 			"clone_ssh_url": "git@github.com:jheeree/CVE-2022-1388-checker.git"
 		},
 		{
-			"xdb_id": "d0f1b0fc442d",
-			"xdb_url": "https://vulncheck.com/xdb/d0f1b0fc442d",
+			"xdb_id": "b3ba3d9e25bb",
+			"xdb_url": "https://vulncheck.com/xdb/b3ba3d9e25bb",
 			"date_added": "2024-11-23T05:39:26Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2022-1388-poc.git"
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2022-1388-poc.git"
 		},
 		{
 			"xdb_id": "317ac291487c",

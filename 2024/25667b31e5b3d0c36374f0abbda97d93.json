@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:Spid3heX/CVE-2024-1071-PoC-Script.git"
 		},
 		{
-			"xdb_id": "ef234f6faa56",
-			"xdb_url": "https://vulncheck.com/xdb/ef234f6faa56",
-			"date_added": "2024-08-30T04:23:04Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-1071-SQL-Injection.git"
-		},
-		{
 			"xdb_id": "f94b209f4745",
 			"xdb_url": "https://vulncheck.com/xdb/f94b209f4745",
 			"date_added": "2024-02-27T11:41:53Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:gbrsh/CVE-2024-1071.git"
+		},
+		{
+			"xdb_id": "7b3d56bb30ba",
+			"xdb_url": "https://vulncheck.com/xdb/7b3d56bb30ba",
+			"date_added": "2024-08-30T04:23:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:gh-ost00/CVE-2024-1071-SQL-Injection.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
