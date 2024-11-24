@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:exploitblizzard/Windows-Privilege-Escalation-CVE-2021-1732.git"
 		},
 		{
-			"xdb_id": "61d86c73450a",
-			"xdb_url": "https://vulncheck.com/xdb/61d86c73450a",
-			"date_added": "2021-03-08T05:07:15Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:k-k-k-k-k/CVE-2021-1732.git"
-		},
-		{
 			"xdb_id": "d37c0a9bd997",
 			"xdb_url": "https://vulncheck.com/xdb/d37c0a9bd997",
 			"date_added": "2021-04-23T08:21:54Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Pai-Po/CVE-2021-1732.git"
+		},
+		{
+			"xdb_id": "61d86c73450a",
+			"xdb_url": "https://vulncheck.com/xdb/61d86c73450a",
+			"date_added": "2021-03-08T05:07:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:k-k-k-k-k/CVE-2021-1732.git"
 		},
 		{
 			"xdb_id": "f72c131deebb",
@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "18e0b48f69bd",
-			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
-			"date_added": "2021-05-02T18:10:21+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
-		},
-		{
 			"xdb_id": "de8ed17d1f87",
 			"xdb_url": "https://vulncheck.com/xdb/de8ed17d1f87",
 			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:paipo/cve-2021-1732.git"
+		},
+		{
+			"xdb_id": "18e0b48f69bd",
+			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
+			"date_added": "2021-05-02T18:10:21+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
