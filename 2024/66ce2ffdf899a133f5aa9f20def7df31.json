@@ -10,11 +10,11 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "66b3436e2fb4",
-			"xdb_url": "https://vulncheck.com/xdb/66b3436e2fb4",
+			"xdb_id": "0fd40bed55d2",
+			"xdb_url": "https://vulncheck.com/xdb/0fd40bed55d2",
 			"date_added": "2024-08-30T15:50:50Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fa-rrel/CVE-2024-7120.git"
+			"clone_ssh_url": "git@github.com:gh-ost00/CVE-2024-7120.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
