@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Array Networks ",
+	"product": "AG/vxAG ArrayOS",
+	"shortDescription": "Array Networks AG and vxAG ArrayOS contains an improper authentication vulnerability that allows an attacker to read local files and execute code on the SSL VPN gateway.",
+	"vulnerabilityName": "Array Networks AG and vxAG ArrayOS Improper Authentication Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-28461"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cybereason.com/blog/cuckoo-spear-analyzing-noopdoor",
+			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+			"date_added": "2024-09-13T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-16T00:00:00Z",
+	"cisa_date_added": "2024-11-25T00:00:00Z",
+	"date_added": "2024-09-13T00:00:00Z"
+}

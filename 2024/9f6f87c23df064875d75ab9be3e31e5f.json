@@ -50,6 +50,13 @@
 			"date_added": "2023-04-16T21:12:29Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:JMousqueton/CVE-2023-21716.git"
+		},
+		{
+			"xdb_id": "8299dbff260c",
+			"xdb_url": "https://vulncheck.com/xdb/8299dbff260c",
+			"date_added": "2024-09-16T13:04:45Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:RonF98/CVE-2023-21716-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
