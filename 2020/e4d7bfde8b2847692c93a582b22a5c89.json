@@ -1,5 +1,5 @@
 {
-	"vendorProject": "Telerik",
+	"vendorProject": "Progress",
 	"product": "User Interface (UI) for ASP.NET AJAX",
 	"shortDescription": "Telerik UI for ASP.NET AJAX contains an insecure direct object reference vulnerability in RadAsyncUpload that can result in file uploads in a limited location and/or remote code execution.",
 	"vulnerabilityName": "Telerik UI for ASP.NET AJAX Insecure Direct Object Reference Vulnerability",

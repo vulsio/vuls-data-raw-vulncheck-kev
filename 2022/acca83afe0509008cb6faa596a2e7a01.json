@@ -1,5 +1,5 @@
 {
-	"vendorProject": "VMware Tanzu",
+	"vendorProject": "VMware",
 	"product": "Spring Cloud",
 	"shortDescription": "When using routing functionality in VMware Tanzu's Spring Cloud Function, it is possible for a user to provide a specially crafted SpEL as a routing-expression that may result in remote code execution and access to local resources.",
 	"vulnerabilityName": "VMware Tanzu Spring Cloud Function Remote Code Execution Vulnerability",

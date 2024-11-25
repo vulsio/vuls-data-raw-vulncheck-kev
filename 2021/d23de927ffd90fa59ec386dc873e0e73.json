@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Ivanti",
-	"product": "Pulse Connect Secure",
+	"product": "Connect Secure and Policy Secure",
 	"shortDescription": "Pulse Connect Secure contains an unspecified vulnerability that allows an authenticated attacker to perform code execution using uncontrolled gzip extraction.",
 	"vulnerabilityName": "Ivanti Pulse Connect Secure Code Execution Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

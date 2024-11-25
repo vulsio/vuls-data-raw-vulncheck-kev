@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Atlassian",
-	"product": "Confluence and Data Center",
+	"product": "Confluence Server and Data Center",
 	"shortDescription": "Atlassian Confluence and Data Center is vulnerable to a remote code execution vulnerability in the 'widget connector' component. The issue lies in a server-side template injection weakness.",
 	"vulnerabilityName": "Atlassian Confluence and Data Center Widget Connector Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

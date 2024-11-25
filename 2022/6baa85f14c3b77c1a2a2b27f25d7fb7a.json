@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Zimbra",
-	"product": "Collaboration Suite (ZCS)",
+	"product": "Zimbra Collaboration Suite (ZCS)",
 	"shortDescription": "Zimbra Collaboration (ZCS) allows an attacker to inject memcache commands into a targeted instance which causes an overwrite of arbitrary cached entries.",
 	"vulnerabilityName": "Zimbra Collaboration (ZCS) Command Injection Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

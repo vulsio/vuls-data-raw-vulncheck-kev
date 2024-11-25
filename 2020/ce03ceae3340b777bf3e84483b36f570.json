@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ASUS",
+	"product": "rt-ac66u_firmware",
+	"shortDescription": "Main_Analysis_Content.asp in /apply.cgi on ASUS RT-AC66U, RT-AC68U, RT-AC86U, RT-AC88U, RT-AC1900, RT-AC2900, and RT-AC3100 devices before 3.0.0.4.384_10007; RT-N18U devices before 3.0.0.4.382.39935; RT-AC87U and RT-AC3200 devices before 3.0.0.4.382.50010; and RT-AC5300 devices before 3.0.0.4.384.20287 allows OS command injection via the pingCNT and destIP fields of the SystemCmd variable.",
+	"vulnerabilityName": "ASUS rt-ac66u_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-9285"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://web.archive.org/web/20200319160240/https://labs.bitdefender.com/2020/01/hold-my-beer-mirai-spinoff-named-liquorbot-incorporates-cryptomining/",
+			"date_added": "2020-01-08T00:00:00Z"
+		}
+	],
+	"date_added": "2020-01-08T00:00:00Z"
+}

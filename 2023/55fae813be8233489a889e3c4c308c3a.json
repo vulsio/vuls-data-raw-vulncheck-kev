@@ -1,5 +1,5 @@
 {
-	"vendorProject": "ultimatemember",
+	"vendorProject": "Ultimate Member",
 	"product": "ultimate_member",
 	"shortDescription": "The Ultimate Member WordPress plugin before 2.6.7 does not prevent visitors from creating user accounts with arbitrary capabilities, effectively allowing attackers to create administrator accounts at will. This is actively being exploited in the wild.",
 	"vulnerabilityName": "The Ultimate Member WordPress plugin before 2.6.7 Privilege Escalation",

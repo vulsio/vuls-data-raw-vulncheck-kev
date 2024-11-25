@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Endpoint Manager Cloud Service Appliance (EPM CSA)",
+	"shortDescription": "Path traversal in Ivanti CSA before version 5.0.2 allows a remote authenticated attacker with admin privileges to bypass restrictions.",
+	"vulnerabilityName": "Ivanti Endpoint Manager Cloud Service Appliance (EPM CSA) Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-9381"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-CSA-Cloud-Services-Appliance-CVE-2024-9379-CVE-2024-9380-CVE-2024-9381?language=en_US",
+			"date_added": "2024-10-08T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-08T00:00:00Z"
+}

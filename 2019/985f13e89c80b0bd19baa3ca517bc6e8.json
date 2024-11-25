@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Rejetto",
-	"product": "HTTP File Server (HFS)",
+	"product": "HTTP File Server",
 	"shortDescription": "The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (HFS or HttpFileServer) allows remote attackers to execute arbitrary programs.",
 	"vulnerabilityName": "Rejetto HTTP File Server (HFS) Remote Code Execution Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Oracle",
-	"product": "BI Publisher (Formerly XML Publisher)",
+	"product": "BI Publisher",
 	"shortDescription": "Oracle BI Publisher, formerly XML Publisher, contains an unspecified vulnerability that allows for various unauthorized actions. Open-source reporting attributes this vulnerability to allowing for authentication bypass.",
 	"vulnerabilityName": "Oracle BI Publisher Unauthorized Access Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

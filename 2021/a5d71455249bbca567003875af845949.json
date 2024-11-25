@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Ivanti",
-	"product": "Pulse Connect Secure",
+	"product": "Connect Secure and Policy Secure",
 	"shortDescription": "Ivanti Pulse Connect Secure contains an unspecified vulnerability in the admin web interface that could allow an authenticated attacker to upload a custom template to perform code execution.",
 	"vulnerabilityName": "Ivanti Pulse Connect Secure Code Execution Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

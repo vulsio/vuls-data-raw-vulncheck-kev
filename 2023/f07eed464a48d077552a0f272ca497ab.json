@@ -1,0 +1,27 @@
+{
+	"vendorProject": "contec",
+	"product": "solarview_compact",
+	"shortDescription": "SolarView Compact 4.0 and 5.0 is vulnerable to Unrestricted File Upload via a crafted php file.",
+	"vulnerabilityName": "contec solarview_compact Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-44354"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fc388ebc22fe",
+			"xdb_url": "https://vulncheck.com/xdb/fc388ebc22fe",
+			"date_added": "2022-10-26T15:39:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:strik3r0x1/Vulns.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://vulncheck.com/blog/solarview-exploitation",
+			"date_added": "2023-07-05T00:00:00Z"
+		}
+	],
+	"date_added": "2023-07-05T00:00:00Z"
+}

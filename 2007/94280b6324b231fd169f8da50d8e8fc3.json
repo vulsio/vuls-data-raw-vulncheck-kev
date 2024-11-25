@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "visual_studio_.net",
+	"product": "visual_studio",
 	"shortDescription": "Cross-zone scripting vulnerability in the WMI Object Broker (WMIScriptUtils.WMIObjectBroker2) ActiveX control (WmiScriptUtils.dll) in Microsoft Visual Studio 2005 allows remote attackers to bypass Internet zone restrictions and execute arbitrary code by instantiating dangerous objects, aka \"WMI Object Broker Vulnerability.\"",
 	"vulnerabilityName": "Microsoft Visual Studio 2005 WMI Object Broker Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

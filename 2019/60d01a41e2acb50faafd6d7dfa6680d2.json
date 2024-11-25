@@ -1,5 +1,5 @@
 {
-	"vendorProject": "VMware Tanzu",
+	"vendorProject": "VMware",
 	"product": "Spring Data Commons",
 	"shortDescription": "Spring Data Commons contains a property binder vulnerability which can allow an attacker to perform remote code execution.",
 	"vulnerabilityName": "VMware Tanzu Spring Data Commons Property Binder Vulnerability",

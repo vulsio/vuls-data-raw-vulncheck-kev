@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Zimbra",
-	"product": "Collaboration Suite (ZCS)",
+	"product": "Zimbra Collaboration Suite (ZCS)",
 	"shortDescription": "Zimbra Collaboration (ZCS) contains flaw in the mboximport functionality, allowing an authenticated attacker to upload arbitrary files to perform remote code execution. This vulnerability was chained with CVE-2022-37042 which allows for unauthenticated remote code execution.",
 	"vulnerabilityName": "Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

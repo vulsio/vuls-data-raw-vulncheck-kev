@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Zimbra",
-	"product": "Collaboration Suite (ZCS)",
+	"product": "Zimbra Collaboration Suite (ZCS)",
 	"shortDescription": "Zimbra Collaboration (ZCS) contains an authentication bypass vulnerability in MailboxImportServlet. This vulnerability was chained with CVE-2022-27925 which allows for unauthenticated remote code execution.",
 	"vulnerabilityName": "Zimbra Collaboration (ZCS) Authentication Bypass Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "office_365_proplus",
+	"product": "Office",
 	"shortDescription": "A remote code execution vulnerability exists in Microsoft Excel software when the software fails to properly handle objects in memory, aka 'Microsoft Excel Remote Code Execution Vulnerability'. This CVE ID is unique from CVE-2020-0650, CVE-2020-0651.",
 	"vulnerabilityName": "Microsoft Excel Remote Code Execution",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

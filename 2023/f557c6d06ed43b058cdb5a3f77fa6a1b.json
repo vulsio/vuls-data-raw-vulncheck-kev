@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Zimbra",
-	"product": "Collaboration Suite (ZCS)",
+	"product": "Zimbra Collaboration Suite (ZCS)",
 	"shortDescription": "Zimbra Collaboration Suite (ZCS) contains a cross-site scripting vulnerability impacting the confidentiality and integrity of data.",
 	"vulnerabilityName": "Zimbra Collaboration (ZCS) Cross-Site Scripting (XSS) Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",

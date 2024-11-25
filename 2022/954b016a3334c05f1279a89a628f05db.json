@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Arcserve",
-	"product": "Unified Data Protection (UDP)",
+	"product": "Unified Data Protection",
 	"shortDescription": "Directory traversal vulnerability in Arcserve UDP allows remote attackers to obtain sensitive information or cause a denial of service.",
 	"vulnerabilityName": "Arcserve Unified Data Protection (UDP) Directory Traversal Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

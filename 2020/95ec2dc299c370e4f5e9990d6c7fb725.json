@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Drupal",
-	"product": "Core",
+	"product": "Drupal Core",
 	"shortDescription": "A remote code execution vulnerability exists within multiple subsystems of Drupal that can allow attackers to exploit multiple attack vectors on a Drupal site.",
 	"vulnerabilityName": "Drupal Core Remote Code Execution Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

@@ -1,5 +1,5 @@
 {
-	"vendorProject": "Telerik",
+	"vendorProject": "Progress",
 	"product": "User Interface (UI) for ASP.NET AJAX",
 	"shortDescription": "Telerik.Web.UI in Progress Telerik UI for ASP.NET AJAX allows remote attackers to perform arbitrary file uploads or execute arbitrary code.",
 	"vulnerabilityName": "Telerik UI for ASP.NET AJAX Unrestricted File Upload Vulnerability",

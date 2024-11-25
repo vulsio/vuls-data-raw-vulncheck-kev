@@ -1,5 +1,5 @@
 {
-	"vendorProject": "GNU.org",
+	"vendorProject": "GNU",
 	"product": "GNU C Library (glibc)",
 	"shortDescription": "The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.",
 	"vulnerabilityName": "GNU C Library iconv() Function Vulnerability",

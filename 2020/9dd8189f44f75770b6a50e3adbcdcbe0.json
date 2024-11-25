@@ -1,6 +1,6 @@
 {
 	"vendorProject": "elementor",
-	"product": "website_builder",
+	"product": "Website Builder",
 	"shortDescription": "Elementor 2.9.5 and below WordPress plugin allows authenticated users to activate its safe mode feature. This can be exploited to disable all security plugins on the blog.",
 	"vulnerabilityName": "Elementor 2.9.5 and below WordPress plugin Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

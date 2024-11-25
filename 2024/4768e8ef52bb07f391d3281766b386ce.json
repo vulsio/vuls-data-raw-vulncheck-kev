@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ASUS",
+	"product": "asuswrt",
+	"shortDescription": "An issue was discovered in ASUSWRT 3.0.0.4.384.20308. When processing the /start_apply.htm POST data, there is a command injection issue via shell metacharacters in the fb_email parameter. By using this issue, an attacker can control the router and get shell.",
+	"vulnerabilityName": "ASUS asuswrt Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-20334"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-10-12&host_type=src&vulnerability=cve-2018-20334",
+			"date_added": "2024-10-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-10-12T00:00:00Z"
+}

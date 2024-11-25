@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Sonatype",
-	"product": "Nexus Repository Manager",
+	"product": "Nexus Repository",
 	"shortDescription": "Sonatype Nexus Repository Manager before 3.15.0 has an incorrect access control vulnerability. Exploitation allows for remote code execution.",
 	"vulnerabilityName": "Sonatype Nexus Repository Manager Incorrect Access Control Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

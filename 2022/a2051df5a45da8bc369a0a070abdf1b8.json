@@ -1,6 +1,6 @@
 {
 	"vendorProject": "SonicWall",
-	"product": "SMA 100 Appliances",
+	"product": "SMA 100",
 	"shortDescription": "SonicWall SMA 100 devies are vulnerable to an unauthenticated stack-based buffer overflow vulnerability where exploitation can result in code execution.",
 	"vulnerabilityName": "SonicWall SMA 100 Appliances Stack-Based Buffer Overflow Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

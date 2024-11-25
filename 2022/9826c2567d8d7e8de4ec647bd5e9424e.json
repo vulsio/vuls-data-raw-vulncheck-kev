@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Windows COM+ Event System Service",
+	"product": "Windows",
 	"shortDescription": "Microsoft Windows COM+ Event System Service contains an unspecified vulnerability that allows for privilege escalation.",
 	"vulnerabilityName": "Microsoft Windows COM+ Event System Service Privilege Escalation Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

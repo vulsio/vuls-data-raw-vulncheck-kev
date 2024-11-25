@@ -1,6 +1,6 @@
 {
 	"vendorProject": "GNU",
-	"product": "GNU C Library",
+	"product": "GNU C Library (glibc)",
 	"shortDescription": "GNU C Library's dynamic loader ld.so contains a buffer overflow vulnerability when processing the GLIBC_TUNABLES environment variable, allowing a local attacker to execute code with elevated privileges.",
 	"vulnerabilityName": "GNU C Library Buffer Overflow Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",

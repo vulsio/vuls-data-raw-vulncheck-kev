@@ -1,6 +1,6 @@
 {
 	"vendorProject": "LiteSpeed Technologies",
-	"product": "LiteSpeed Cache Plugin",
+	"product": "LiteSpeed Cache",
 	"shortDescription": "Incorrect Privilege Assignment vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Privilege Escalation.This issue affects LiteSpeed Cache: from 1.9 through 6.3.0.1.",
 	"vulnerabilityName": "LiteSpeed Cache Plugin Privilege Escalation Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",

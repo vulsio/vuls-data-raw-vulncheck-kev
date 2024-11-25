@@ -1,0 +1,31 @@
+{
+	"vendorProject": "GNU",
+	"product": "Bourne-Again Shell (Bash)",
+	"shortDescription": "GNU Bash through 4.3 bash43-026 does not properly parse function definitions in the values of environment variables, which allows remote attackers to execute arbitrary commands via a crafted environment, as demonstrated by vectors involving the ForceCommand feature in OpenSSH sshd, the mod_cgi and mod_cgid modules in the Apache HTTP Server, scripts executed by unspecified DHCP clients, and other situations in which setting the environment occurs across a privilege boundary from Bash execution.  NOTE: this vulnerability exists because of an incomplete fix for CVE-2014-6271, CVE-2014-7169, and CVE-2014-6277.",
+	"vulnerabilityName": "GNU Bourne-Again Shell (Bash) Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2014-6278"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "679ba7f969da",
+			"xdb_url": "https://vulncheck.com/xdb/679ba7f969da",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.virusbulletin.com/virusbulletin/2018/03/vb2017-paper-router-all-evil-more-just-default-passwords-and-silly-scripts/",
+			"date_added": "2018-03-01T00:00:00Z"
+		},
+		{
+			"url": "https://www.sonicwall.com/medialibrary/en/white-paper/mid-year-2024-cyber-threat-report.pdf",
+			"date_added": "2024-07-23T00:00:00Z"
+		}
+	],
+	"date_added": "2018-03-01T00:00:00Z"
+}

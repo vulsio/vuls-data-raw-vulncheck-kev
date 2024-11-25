@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Apache",
-	"product": "Airflow's Experimental API",
+	"product": "Airflow",
 	"shortDescription": "The previous default setting for Airflow's Experimental API was to allow all API requests without authentication.",
 	"vulnerabilityName": "Apache Airflow's Experimental API Authentication Bypass",
 	"required_action": "Apply updates per vendor instructions.",

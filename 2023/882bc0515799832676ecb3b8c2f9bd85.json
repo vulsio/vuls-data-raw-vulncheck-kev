@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Windows CNG Key Isolation Service",
+	"product": "Windows",
 	"shortDescription": "Microsoft Windows Cryptographic Next Generation (CNG) Key Isolation Service contains an unspecified vulnerability that allows an attacker to gain specific limited SYSTEM privileges.",
 	"vulnerabilityName": "Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",

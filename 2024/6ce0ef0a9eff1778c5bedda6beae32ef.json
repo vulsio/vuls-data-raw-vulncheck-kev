@@ -1,5 +1,5 @@
 {
-	"vendorProject": "Progress Software",
+	"vendorProject": "Progress",
 	"product": "Flowmon",
 	"shortDescription": "In Flowmon versions prior to 11.1.14 and 12.3.5, an operating system command injection vulnerability has been identified. An unauthenticated user can gain entry to the system via the Flowmon management interface, allowing for the execution of arbitrary system commands.",
 	"vulnerabilityName": "Flowmon Operating System Command Injection Vulnerability",

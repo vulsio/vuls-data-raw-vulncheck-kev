@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Ivanti",
-	"product": "Pulse Connect Secure",
+	"product": "Connect Secure and Policy Secure",
 	"shortDescription": "Ivanti Pulse Connect Secure contains an unrestricted file upload vulnerability that allows an authenticated administrator to perform a file write via a maliciously crafted archive upload in the administrator web interface.",
 	"vulnerabilityName": "Ivanti Pulse Connect Secure Unrestricted File Upload Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

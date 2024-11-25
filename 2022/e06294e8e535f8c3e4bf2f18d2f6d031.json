@@ -1,5 +1,5 @@
 {
-	"vendorProject": "VMware Tanzu",
+	"vendorProject": "VMware",
 	"product": "Spring Cloud Configuration (Config) Server",
 	"shortDescription": "Spring, by VMware Tanzu, Cloud Config contains a path traversal vulnerability that allows applications to serve arbitrary configuration files.",
 	"vulnerabilityName": "VMware Tanzu Spring Cloud Config Directory Traversal Vulnerability",

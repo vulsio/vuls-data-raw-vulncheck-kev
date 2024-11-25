@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Drupal",
-	"product": "Core",
+	"product": "Drupal Core",
 	"shortDescription": "In Drupal Core, some field types do not properly sanitize data from non-form sources. This can lead to arbitrary PHP code execution in some cases.",
 	"vulnerabilityName": "Drupal Core Remote Code Execution Vulnerability",
 	"required_action": "Apply updates per vendor instructions.",

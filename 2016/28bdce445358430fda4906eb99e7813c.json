@@ -1,6 +1,6 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Office and WordPad",
+	"product": "Office",
 	"shortDescription": "Microsoft Office Word 2002 SP3 allows remote attackers to execute arbitrary code via a .doc file that contains malformed data, as exploited in the wild in July 2008, and as demonstrated by attachement.doc.",
 	"vulnerabilityName": "Microsoft Office Word 2002 SP3 Malformed Data Remote Code Execution",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
