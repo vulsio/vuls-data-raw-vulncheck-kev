@@ -1402,6 +1402,10 @@
 			"date_added": "2024-11-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-24&host_type=src&vulnerability=cve-2019-15107",
+			"date_added": "2024-11-24T00:00:00Z"
+		},
+		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/echobot-malware-now-up-to-71-exploits--targeting-scada",
 			"date_added": "2019-12-17T00:00:00Z"
 		},

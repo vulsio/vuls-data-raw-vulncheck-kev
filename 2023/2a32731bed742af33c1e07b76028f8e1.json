@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:vlrhsgody/CVE-2021-22911.git"
 		},
 		{
-			"xdb_id": "fea071c9ad62",
-			"xdb_url": "https://vulncheck.com/xdb/fea071c9ad62",
-			"date_added": "2021-06-05T15:05:01Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:CsEnox/CVE-2021-22911.git"
-		},
-		{
 			"xdb_id": "7e30455fc824",
 			"xdb_url": "https://vulncheck.com/xdb/7e30455fc824",
 			"date_added": "2024-10-30T15:30:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Weisant/CVE-2021-22911-EXP.git"
+		},
+		{
+			"xdb_id": "fea071c9ad62",
+			"xdb_url": "https://vulncheck.com/xdb/fea071c9ad62",
+			"date_added": "2021-06-05T15:05:01Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:CsEnox/CVE-2021-22911.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
