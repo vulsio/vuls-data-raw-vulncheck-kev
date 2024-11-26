@@ -153,6 +153,10 @@
 		{
 			"url": "https://redcanary.com/threat-detection-report/trends/vulnerabilities/",
 			"date_added": "2021-11-03T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/earth-estries.html",
+			"date_added": "2024-11-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-04-16T00:00:00Z",
