@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:imhunterand/CVE-2020-3580.git"
 		},
 		{
-			"xdb_id": "d29ebf0afcf2",
-			"xdb_url": "https://vulncheck.com/xdb/d29ebf0afcf2",
-			"date_added": "2021-06-28T06:51:26Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:adarshvs/CVE-2020-3580.git"
-		},
-		{
 			"xdb_id": "929ab8c7b4bf",
 			"xdb_url": "https://vulncheck.com/xdb/929ab8c7b4bf",
 			"date_added": "2021-06-25T04:39:30Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Hudi233/CVE-2020-3580.git"
+		},
+		{
+			"xdb_id": "d29ebf0afcf2",
+			"xdb_url": "https://vulncheck.com/xdb/d29ebf0afcf2",
+			"date_added": "2021-06-28T06:51:26Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:adarshvs/CVE-2020-3580.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

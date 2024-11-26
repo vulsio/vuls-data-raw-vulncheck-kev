@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2022-20699.git"
 		},
 		{
-			"xdb_id": "7acf52ba8e46",
-			"xdb_url": "https://vulncheck.com/xdb/7acf52ba8e46",
-			"date_added": "2022-02-07T15:53:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Audiobahn/CVE-2022-20699.git"
-		},
-		{
 			"xdb_id": "768c813deaad",
 			"xdb_url": "https://vulncheck.com/xdb/768c813deaad",
 			"date_added": "2020-04-08T18:11:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:rdomanski/Exploits_and_Advisories.git"
+		},
+		{
+			"xdb_id": "7acf52ba8e46",
+			"xdb_url": "https://vulncheck.com/xdb/7acf52ba8e46",
+			"date_added": "2022-02-07T15:53:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Audiobahn/CVE-2022-20699.git"
 		},
 		{
 			"xdb_id": "8bf31770e81a",

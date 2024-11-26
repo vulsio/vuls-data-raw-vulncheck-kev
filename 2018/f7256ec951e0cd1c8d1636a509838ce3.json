@@ -10,6 +10,13 @@
 	],
 	"vulncheck_xdb": [
 		{
+			"xdb_id": "afa8b81a8bd7",
+			"xdb_url": "https://vulncheck.com/xdb/afa8b81a8bd7",
+			"date_added": "2024-11-26T00:15:46Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:veeeveeeveee/tabijibiyori-wgetCloud-al5tVPOHMdTt9x2d.git"
+		},
+		{
 			"xdb_id": "679ba7f969da",
 			"xdb_url": "https://vulncheck.com/xdb/679ba7f969da",
 			"date_added": "2016-03-30T11:43:12Z",
