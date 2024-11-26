@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:deathvu/CVE-2024-9474.git"
 		},
 		{
-			"xdb_id": "0a9ea1b441bd",
-			"xdb_url": "https://vulncheck.com/xdb/0a9ea1b441bd",
-			"date_added": "2024-11-19T22:03:13Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:k4nfr3/CVE-2024-9474.git"
-		},
-		{
 			"xdb_id": "151f0aa40b6d",
 			"xdb_url": "https://vulncheck.com/xdb/151f0aa40b6d",
 			"date_added": "2024-11-19T17:26:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-9474.git"
+		},
+		{
+			"xdb_id": "0a9ea1b441bd",
+			"xdb_url": "https://vulncheck.com/xdb/0a9ea1b441bd",
+			"date_added": "2024-11-19T22:03:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:k4nfr3/CVE-2024-9474.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
