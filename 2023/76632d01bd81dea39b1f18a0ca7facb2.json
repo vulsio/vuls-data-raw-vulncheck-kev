@@ -731,6 +731,10 @@
 			"date_added": "2024-11-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-25&host_type=src&vulnerability=cve-2023-28432",
+			"date_added": "2024-11-25T00:00:00Z"
+		},
+		{
 			"url": "https://www.greynoise.io/blog/openai-minio-and-why-you-should-always-use-docker-cli-scan-to-keep-your-supply-chain-clean",
 			"date_added": "2023-03-24T00:00:00Z"
 		},

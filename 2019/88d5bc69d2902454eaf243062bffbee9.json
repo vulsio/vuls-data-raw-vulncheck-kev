@@ -1454,6 +1454,10 @@
 			"date_added": "2024-11-23T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-25&host_type=src&vulnerability=cve-2019-3396",
+			"date_added": "2024-11-25T00:00:00Z"
+		},
+		{
 			"url": "https://www.bleepingcomputer.com/news/security/vulnerable-confluence-servers-get-infected-with-ransomware-trojans/",
 			"date_added": "2019-04-26T00:00:00Z"
 		},
