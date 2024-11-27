@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ecoa",
+	"product": "ecs_router_controller-ecs_firmware",
+	"shortDescription": "ECOA BAS controller has a Cross-Site Request Forgery vulnerability, thus authenticated attacker can remotely place a forged request at a malicious web page and execute CRUD commands (GET, POST, PUT, DELETE) to perform arbitrary operations in the system.",
+	"vulnerabilityName": "ecoa ecs_router_controller-ecs_firmware Cross-Site Request Forgery (CSRF)",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-41295"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.sonicwall.com/blog/steelfox-leverages-signed-windows-drivers-to-attack-kernel",
+			"date_added": "2024-11-26T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-26T00:00:00Z"
+}

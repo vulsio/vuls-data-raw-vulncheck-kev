@@ -13,6 +13,10 @@
 		{
 			"url": "https://securelist.com/steelfox-trojan-drops-stealer-and-miner/114414/",
 			"date_added": "2024-11-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.sonicwall.com/blog/steelfox-leverages-signed-windows-drivers-to-attack-kernel",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"date_added": "2024-11-06T00:00:00Z"

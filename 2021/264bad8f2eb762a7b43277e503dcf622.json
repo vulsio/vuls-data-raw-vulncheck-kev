@@ -81,6 +81,10 @@
 		{
 			"url": "https://www.cisa.gov/uscert/ncas/alerts/aa22-279a",
 			"date_added": "2022-10-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.aquasec.com/blog/matrix-unleashes-a-new-widespread-ddos-campaign/",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2021-11-17T00:00:00Z",

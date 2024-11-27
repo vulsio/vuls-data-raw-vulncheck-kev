@@ -355,6 +355,10 @@
 		{
 			"url": "https://www.fortiguard.com/threat-signal-report/5550/apache-hugegraph-server-improper-access-control-vulnerability-cve-2024-2734",
 			"date_added": "2024-09-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.aquasec.com/blog/matrix-unleashes-a-new-widespread-ddos-campaign/",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-09T00:00:00Z",
