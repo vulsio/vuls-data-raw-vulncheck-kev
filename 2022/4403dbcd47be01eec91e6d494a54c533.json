@@ -171,6 +171,13 @@
 			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
 		},
 		{
+			"xdb_id": "bd2a06bbd8bb",
+			"xdb_url": "https://vulncheck.com/xdb/bd2a06bbd8bb",
+			"date_added": "2024-01-03T09:37:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Sumitpathania03/CVE-2022-22947.git"
+		},
+		{
 			"xdb_id": "a48d3f6ecc63",
 			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
 			"date_added": "2022-04-07T04:28:29Z",

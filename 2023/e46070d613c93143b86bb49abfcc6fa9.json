@@ -94,6 +94,13 @@
 			"clone_ssh_url": "git@github.com:kooroshsanaei/HikVision-CVE-2017-7921.git"
 		},
 		{
+			"xdb_id": "3d1112f04ef6",
+			"xdb_url": "https://vulncheck.com/xdb/3d1112f04ef6",
+			"date_added": "2024-11-26T13:02:18Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:aengussong/hikvision_probe.git"
+		},
+		{
 			"xdb_id": "eec829707014",
 			"xdb_url": "https://vulncheck.com/xdb/eec829707014",
 			"date_added": "2020-06-19T08:43:38+08:00",

@@ -33,6 +33,10 @@
 		{
 			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49039",
 			"date_added": "2024-11-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-03T00:00:00Z",

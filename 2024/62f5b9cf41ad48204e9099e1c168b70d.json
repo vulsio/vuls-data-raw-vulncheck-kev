@@ -25,6 +25,10 @@
 		{
 			"url": "https://blog.mozilla.org/security/2024/10/11/behind-the-scenes-fixing-an-in-the-wild-firefox-exploit/",
 			"date_added": "2024-10-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-11-05T00:00:00Z",

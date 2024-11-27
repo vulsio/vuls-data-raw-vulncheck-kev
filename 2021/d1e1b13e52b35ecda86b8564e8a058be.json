@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
 		},
 		{
-			"xdb_id": "8e30ee28c46e",
-			"xdb_url": "https://vulncheck.com/xdb/8e30ee28c46e",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "e80bf2969f59",
 			"xdb_url": "https://vulncheck.com/xdb/e80bf2969f59",
 			"date_added": "2021-11-16T11:04:42Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:yanghaoi/CVE-2020-0787.git"
+		},
+		{
+			"xdb_id": "8e30ee28c46e",
+			"xdb_url": "https://vulncheck.com/xdb/8e30ee28c46e",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "483730acb6d9",

@@ -105,6 +105,10 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/ransomware-roundup-underground",
 			"date_added": "2024-08-30T00:00:00Z"
+		},
+		{
+			"url": "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/",
+			"date_added": "2024-11-26T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-08-29T00:00:00Z",

@@ -11,6 +11,10 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://vulncheck.com/blog/projectsend-exploited-itw",
+			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-11680",
 			"date_added": "2024-11-26T00:00:00Z"
 		}
