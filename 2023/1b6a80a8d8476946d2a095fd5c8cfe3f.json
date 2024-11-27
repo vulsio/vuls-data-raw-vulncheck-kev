@@ -297,6 +297,13 @@
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-38646-poc.git"
 		},
 		{
+			"xdb_id": "2a6a3d38ef75",
+			"xdb_url": "https://vulncheck.com/xdb/2a6a3d38ef75",
+			"date_added": "2024-11-26T19:05:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JayRyz/CVE-2023-38646-PoC-Metabase.git"
+		},
+		{
 			"xdb_id": "3557b45588ec",
 			"xdb_url": "https://vulncheck.com/xdb/3557b45588ec",
 			"date_added": "2023-07-31T11:18:21Z",
@@ -1816,6 +1823,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-25&host_type=src&vulnerability=cve-2023-38646",
 			"date_added": "2024-11-25T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-26&host_type=src&vulnerability=cve-2023-38646",
+			"date_added": "2024-11-26T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sekoia.io/activemq-cve-2023-46604-exploited-by-kinsing-and-overview-of-this-threat/",

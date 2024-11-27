@@ -29,6 +29,13 @@
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "f6077e67f44e",
+			"xdb_url": "https://vulncheck.com/xdb/f6077e67f44e",
+			"date_added": "2024-11-27T08:39:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:devtz007/overlayfs_CVE-2015-1328.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1251,6 +1251,10 @@
 			"date_added": "2024-11-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-26&host_type=src&vulnerability=cve-2020-17496",
+			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/everything-but-the-kitchen-sink-more-attacks-from-the-gitpaste-12-worm",
 			"date_added": "2020-12-14T00:00:00Z"
 		},
