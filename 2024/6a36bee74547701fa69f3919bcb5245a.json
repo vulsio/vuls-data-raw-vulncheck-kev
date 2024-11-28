@@ -22,6 +22,13 @@
 			"date_added": "2024-10-21T10:27:52Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:p33d/CVE-2024-23113.git"
+		},
+		{
+			"xdb_id": "21802bcf1cb4",
+			"xdb_url": "https://vulncheck.com/xdb/21802bcf1cb4",
+			"date_added": "2024-11-28T06:30:02Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2024-23113-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

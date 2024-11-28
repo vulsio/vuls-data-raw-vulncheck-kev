@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "82c0a02ffc14",
-			"xdb_url": "https://vulncheck.com/xdb/82c0a02ffc14",
-			"date_added": "2021-06-15T10:16:48Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:ramshazar/keycloak-blind-ssrf-poc.git"
-		},
-		{
 			"xdb_id": "5cdd58213a9a",
 			"xdb_url": "https://vulncheck.com/xdb/5cdd58213a9a",
 			"date_added": "2021-10-13T08:40:33Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:ColdFusionX/Keycloak-12.0.1-CVE-2020-10770.git"
+		},
+		{
+			"xdb_id": "82c0a02ffc14",
+			"xdb_url": "https://vulncheck.com/xdb/82c0a02ffc14",
+			"date_added": "2021-06-15T10:16:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ramshazar/keycloak-blind-ssrf-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
