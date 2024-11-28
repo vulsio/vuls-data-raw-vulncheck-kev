@@ -2,7 +2,7 @@
 	"vendorProject": "TP-Link",
 	"product": "archer_ax50_firmware",
 	"shortDescription": "In TP-Link Router AX50 firmware 210730 and older, import of a malicious backup file via web interface can lead to remote code execution due to improper validation.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "TP-Link Router AX50 Authenticated Remote Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

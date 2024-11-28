@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2023-06/aa23-074a-Threat%20Actors%20Exploit%20Progress%20Telerik%20Vulnerabilities%20in%20Multiple%20U.S.%20Government%20IIS%20Servers.pdf",
 			"date_added": "2024-06-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.oipc.bc.ca/documents/investigation-reports/2886",
+			"date_added": "2024-11-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-02-16T00:00:00Z",

@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:julesbsz/CVE-2024-10924.git"
 		},
 		{
-			"xdb_id": "1d9c43a3144b",
-			"xdb_url": "https://vulncheck.com/xdb/1d9c43a3144b",
-			"date_added": "2024-11-19T10:07:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:m3ssap0/wordpress-really-simple-security-authn-bypass-exploit.git"
-		},
-		{
 			"xdb_id": "8bcaff452a99",
 			"xdb_url": "https://vulncheck.com/xdb/8bcaff452a99",
 			"date_added": "2024-11-18T20:37:07Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:m3ssap0/wordpress-really-simple-security-authn-bypass-vulnerable-application.git"
+		},
+		{
+			"xdb_id": "1d9c43a3144b",
+			"xdb_url": "https://vulncheck.com/xdb/1d9c43a3144b",
+			"date_added": "2024-11-19T10:07:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:m3ssap0/wordpress-really-simple-security-authn-bypass-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
