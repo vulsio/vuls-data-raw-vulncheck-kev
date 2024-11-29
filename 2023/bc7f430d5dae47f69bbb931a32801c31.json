@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "57eb7e933e8b",
-			"xdb_url": "https://vulncheck.com/xdb/57eb7e933e8b",
-			"date_added": "2023-09-26T05:52:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:nova-master/CVE-2022-21894-Payload-New.git"
-		},
-		{
 			"xdb_id": "7ed513e238ed",
 			"xdb_url": "https://vulncheck.com/xdb/7ed513e238ed",
 			"date_added": "2022-08-18T23:45:47Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:ASkyeye/CVE-2022-21894-Payload.git"
+		},
+		{
+			"xdb_id": "57eb7e933e8b",
+			"xdb_url": "https://vulncheck.com/xdb/57eb7e933e8b",
+			"date_added": "2023-09-26T05:52:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:nova-master/CVE-2022-21894-Payload-New.git"
 		},
 		{
 			"xdb_id": "90504421214d",

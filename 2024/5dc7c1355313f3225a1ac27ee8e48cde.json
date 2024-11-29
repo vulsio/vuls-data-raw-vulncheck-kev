@@ -29,7 +29,11 @@
 		{
 			"url": "https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/",
 			"date_added": "2024-10-29T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/cve-2024-51378/",
+			"date_added": "2024-10-26T00:00:00Z"
 		}
 	],
-	"date_added": "2024-10-29T00:00:00Z"
+	"date_added": "2024-10-26T00:00:00Z"
 }
