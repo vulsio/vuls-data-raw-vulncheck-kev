@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "07cf7a5d5e1b",
-			"xdb_url": "https://vulncheck.com/xdb/07cf7a5d5e1b",
-			"date_added": "2024-07-05T03:02:30Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Niuwoo/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "1dbce5a4766b",
 			"xdb_url": "https://vulncheck.com/xdb/1dbce5a4766b",
 			"date_added": "2024-07-30T18:43:40Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "07cf7a5d5e1b",
+			"xdb_url": "https://vulncheck.com/xdb/07cf7a5d5e1b",
+			"date_added": "2024-07-05T03:02:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Niuwoo/CVE-2024-36401.git"
 		},
 		{
 			"xdb_id": "584a39f9a9cb",
@@ -115,18 +115,18 @@
 			"clone_ssh_url": "git@github.com:ahisec/geoserver-.git"
 		},
 		{
-			"xdb_id": "6cab2db287eb",
-			"xdb_url": "https://vulncheck.com/xdb/6cab2db287eb",
-			"date_added": "2024-11-27T19:13:49Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2024-36401.git"
-		},
-		{
 			"xdb_id": "a4b1ddfc8280",
 			"xdb_url": "https://vulncheck.com/xdb/a4b1ddfc8280",
 			"date_added": "2024-10-05T10:08:55Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
+		},
+		{
+			"xdb_id": "6cab2db287eb",
+			"xdb_url": "https://vulncheck.com/xdb/6cab2db287eb",
+			"date_added": "2024-11-27T19:13:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2024-36401.git"
 		},
 		{
 			"xdb_id": "6cff7d86193f",
