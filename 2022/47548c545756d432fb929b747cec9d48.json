@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:sailay1996/cve-2022-21882-poc.git"
 		},
 		{
-			"xdb_id": "5494ab88126e",
-			"xdb_url": "https://vulncheck.com/xdb/5494ab88126e",
-			"date_added": "2019-11-10T18:02:31Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:gdabah/win32k-bugs.git"
-		},
-		{
 			"xdb_id": "9bd0de5ceacd",
 			"xdb_url": "https://vulncheck.com/xdb/9bd0de5ceacd",
 			"date_added": "2022-02-03T11:25:14Z",
@@ -57,6 +50,13 @@
 			"date_added": "2022-01-27T03:44:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "5494ab88126e",
+			"xdb_url": "https://vulncheck.com/xdb/5494ab88126e",
+			"date_added": "2019-11-10T18:02:31Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:gdabah/win32k-bugs.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

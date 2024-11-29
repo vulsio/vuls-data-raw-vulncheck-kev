@@ -552,6 +552,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-26&host_type=src&vulnerability=cve-2020-12124",
 			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-28&host_type=src&vulnerability=cve-2020-12124",
+			"date_added": "2024-11-28T00:00:00Z"
 		}
 	],
 	"date_added": "2024-03-30T00:00:00Z"
