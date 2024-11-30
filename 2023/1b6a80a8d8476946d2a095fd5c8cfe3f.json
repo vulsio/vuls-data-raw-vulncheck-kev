@@ -262,13 +262,6 @@
 			"clone_ssh_url": "git@github.com:kh4sh3i/CVE-2023-38646.git"
 		},
 		{
-			"xdb_id": "6db39af8f463",
-			"xdb_url": "https://vulncheck.com/xdb/6db39af8f463",
-			"date_added": "2023-10-11T03:18:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Boogipop/MetabaseRceTools.git"
-		},
-		{
 			"xdb_id": "492f2d2d5985",
 			"xdb_url": "https://vulncheck.com/xdb/492f2d2d5985",
 			"date_added": "2023-07-25T03:18:59Z",
@@ -309,6 +302,13 @@
 			"date_added": "2023-07-31T11:18:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Zenmovie/CVE-2023-38646.git"
+		},
+		{
+			"xdb_id": "6db39af8f463",
+			"xdb_url": "https://vulncheck.com/xdb/6db39af8f463",
+			"date_added": "2023-10-11T03:18:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Boogipop/MetabaseRceTools.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1835,6 +1835,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-28&host_type=src&vulnerability=cve-2023-38646",
 			"date_added": "2024-11-28T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-29&host_type=src&vulnerability=cve-2023-38646",
+			"date_added": "2024-11-29T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sekoia.io/activemq-cve-2023-46604-exploited-by-kinsing-and-overview-of-this-threat/",

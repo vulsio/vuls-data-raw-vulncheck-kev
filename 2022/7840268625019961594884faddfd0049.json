@@ -1216,6 +1216,10 @@
 			"date_added": "2024-11-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-29&host_type=src&vulnerability=cve-2021-41277",
+			"date_added": "2024-11-29T00:00:00Z"
+		},
+		{
 			"url": "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave",
 			"date_added": "2024-11-07T00:00:00Z"
 		},

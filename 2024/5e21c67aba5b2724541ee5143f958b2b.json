@@ -1220,6 +1220,10 @@
 			"date_added": "2024-11-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-29&host_type=src&vulnerability=cve-2024-21887",
+			"date_added": "2024-11-29T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation",
 			"date_added": "2024-05-07T00:00:00Z"
 		},
