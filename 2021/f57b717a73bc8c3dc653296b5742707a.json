@@ -178,13 +178,6 @@
 			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "067f7c923e08",
-			"xdb_url": "https://vulncheck.com/xdb/067f7c923e08",
-			"date_added": "2021-07-15T15:49:21+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:grenader/CVE-2021-3129.git"
-		},
-		{
 			"xdb_id": "ef7d2df1ab88",
 			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
 			"date_added": "2021-09-17T12:51:18+08:00",
@@ -204,6 +197,13 @@
 			"date_added": "2022-01-31T13:17:25+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mo_sen/laravel-CVE-2021-3129-EXP.git"
+		},
+		{
+			"xdb_id": "067f7c923e08",
+			"xdb_url": "https://vulncheck.com/xdb/067f7c923e08",
+			"date_added": "2021-07-15T15:49:21+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:grenader/CVE-2021-3129.git"
 		},
 		{
 			"xdb_id": "e9d83dcde53d",
@@ -1813,6 +1813,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-august-2024",
 			"date_added": "2024-09-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/botpoke-scanner-switches-ip",
+			"date_added": "2024-11-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-09T00:00:00Z",

@@ -97,6 +97,10 @@
 		{
 			"url": "https://security.paloaltonetworks.com/PAN-SA-2024-0010",
 			"date_added": "2024-11-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/56904",
+			"date_added": "2024-11-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-05T00:00:00Z",

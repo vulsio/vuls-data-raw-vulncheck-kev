@@ -1629,6 +1629,10 @@
 		{
 			"url": "https://cert.ssi.gouv.fr/uploads/CERTFR-2024-CTI-010.pdf",
 			"date_added": "2024-11-07T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/botpoke-scanner-switches-ip",
+			"date_added": "2024-11-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

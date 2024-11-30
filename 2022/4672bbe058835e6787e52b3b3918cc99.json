@@ -1985,6 +1985,10 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/botpoke-scanner-switches-ip",
+			"date_added": "2024-11-25T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-06-06T00:00:00Z",
