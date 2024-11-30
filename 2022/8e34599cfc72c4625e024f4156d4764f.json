@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:Johnermac/CVE-2022-35914.git"
 		},
 		{
-			"xdb_id": "c61286d5aed7",
-			"xdb_url": "https://vulncheck.com/xdb/c61286d5aed7",
-			"date_added": "2022-11-06T06:23:14Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xGabe/CVE-2022-35914.git"
-		},
-		{
 			"xdb_id": "8a8a19d6a785",
 			"xdb_url": "https://vulncheck.com/xdb/8a8a19d6a785",
 			"date_added": "2022-10-09T07:46:58Z",
@@ -52,18 +45,25 @@
 			"clone_ssh_url": "git@github.com:noxlumens/CVE-2022-35914_poc.git"
 		},
 		{
-			"xdb_id": "fcbba9e81eb7",
-			"xdb_url": "https://vulncheck.com/xdb/fcbba9e81eb7",
-			"date_added": "2022-09-30T16:43:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:cosad3s/CVE-2022-35914-poc.git"
-		},
-		{
 			"xdb_id": "c9b94cb0248e",
 			"xdb_url": "https://vulncheck.com/xdb/c9b94cb0248e",
 			"date_added": "2024-04-24T06:39:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:senderend/CVE-2022-35914.git"
+		},
+		{
+			"xdb_id": "c61286d5aed7",
+			"xdb_url": "https://vulncheck.com/xdb/c61286d5aed7",
+			"date_added": "2022-11-06T06:23:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xGabe/CVE-2022-35914.git"
+		},
+		{
+			"xdb_id": "fcbba9e81eb7",
+			"xdb_url": "https://vulncheck.com/xdb/fcbba9e81eb7",
+			"date_added": "2022-09-30T16:43:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cosad3s/CVE-2022-35914-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

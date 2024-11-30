@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:HuskyHacks/ShadowSteal.git"
 		},
 		{
-			"xdb_id": "9a45af3ec16c",
-			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
-			"date_added": "2021-07-20T11:35:43Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
-		},
-		{
 			"xdb_id": "3995834c206a",
 			"xdb_url": "https://vulncheck.com/xdb/3995834c206a",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "9a45af3ec16c",
+			"xdb_url": "https://vulncheck.com/xdb/9a45af3ec16c",
+			"date_added": "2021-07-20T11:35:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:GossiTheDog/HiveNightmare.git"
 		},
 		{
 			"xdb_id": "80999bdcfa69",

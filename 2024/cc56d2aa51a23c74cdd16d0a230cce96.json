@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Microsoft",
+	"product": "Partner.Microsoft.Com",
+	"shortDescription": "An improper access control vulnerability in Partner.Microsoft.com allows an a unauthenticated attacker to elevate privileges over a network.",
+	"vulnerabilityName": "Partner.Microsoft.Com Elevation of Privilege Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
@@ -13,6 +13,10 @@
 		{
 			"url": "https://api.msrc.microsoft.com/cvrf/2024-Nov?api-version=2020",
 			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49035",
+			"date_added": "2024-11-27T00:00:00Z"
 		}
 	],
 	"date_added": "2024-11-26T00:00:00Z"
