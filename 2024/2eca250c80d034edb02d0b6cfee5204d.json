@@ -73,25 +73,11 @@
 			"clone_ssh_url": "git@github.com:wh6amiGit/CVE-2024-25600.git"
 		},
 		{
-			"xdb_id": "bd8997f902e9",
-			"xdb_url": "https://vulncheck.com/xdb/bd8997f902e9",
-			"date_added": "2024-02-22T10:53:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress.git"
-		},
-		{
 			"xdb_id": "bb8a84b010c0",
 			"xdb_url": "https://vulncheck.com/xdb/bb8a84b010c0",
 			"date_added": "2024-05-17T05:23:51Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:svchostmm/CVE-2024-25600-mass.git"
-		},
-		{
-			"xdb_id": "b88a09ceb847",
-			"xdb_url": "https://vulncheck.com/xdb/b88a09ceb847",
-			"date_added": "2024-03-01T09:28:08Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-25600-EXPLOIT.git"
 		},
 		{
 			"xdb_id": "18041a4481d0",
@@ -106,6 +92,20 @@
 			"date_added": "2024-02-20T20:16:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-25600.git"
+		},
+		{
+			"xdb_id": "b88a09ceb847",
+			"xdb_url": "https://vulncheck.com/xdb/b88a09ceb847",
+			"date_added": "2024-03-01T09:28:08Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2024-25600-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "bd8997f902e9",
+			"xdb_url": "https://vulncheck.com/xdb/bd8997f902e9",
+			"date_added": "2024-02-22T10:53:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

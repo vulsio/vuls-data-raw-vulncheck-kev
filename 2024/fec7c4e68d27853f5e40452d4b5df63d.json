@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:PunitTailor55/Paloalto-CVE-2024-0012.git"
 		},
 		{
-			"xdb_id": "b3afbf33fe3c",
-			"xdb_url": "https://vulncheck.com/xdb/b3afbf33fe3c",
-			"date_added": "2024-11-19T11:30:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Sachinart/CVE-2024-0012-POC.git"
-		},
-		{
 			"xdb_id": "f74a09e30d54",
 			"xdb_url": "https://vulncheck.com/xdb/f74a09e30d54",
 			"date_added": "2024-11-22T07:52:11Z",
@@ -57,6 +50,20 @@
 			"date_added": "2024-11-19T08:29:32Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:watchtowrlabs/palo-alto-panos-cve-2024-0012.git"
+		},
+		{
+			"xdb_id": "b44394b6ef69",
+			"xdb_url": "https://vulncheck.com/xdb/b44394b6ef69",
+			"date_added": "2024-11-30T16:06:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xjessie21/CVE-2024-0012.git"
+		},
+		{
+			"xdb_id": "b3afbf33fe3c",
+			"xdb_url": "https://vulncheck.com/xdb/b3afbf33fe3c",
+			"date_added": "2024-11-19T11:30:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Sachinart/CVE-2024-0012-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -107,6 +114,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-29&host_type=src&vulnerability=cve-2024-0012",
 			"date_added": "2024-11-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-30&host_type=src&vulnerability=cve-2024-0012",
+			"date_added": "2024-11-30T00:00:00Z"
 		},
 		{
 			"url": "https://security.paloaltonetworks.com/CVE-2024-0012",
