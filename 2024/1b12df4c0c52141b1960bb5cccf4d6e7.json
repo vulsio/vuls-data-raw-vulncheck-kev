@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:Niuwoo/CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "584a39f9a9cb",
-			"xdb_url": "https://vulncheck.com/xdb/584a39f9a9cb",
-			"date_added": "2024-11-22T14:21:53Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-36401-poc.git"
-		},
-		{
 			"xdb_id": "f4801e6b28d5",
 			"xdb_url": "https://vulncheck.com/xdb/f4801e6b28d5",
 			"date_added": "2024-07-17T02:25:21Z",
@@ -122,6 +115,13 @@
 			"clone_ssh_url": "git@github.com:thestar0/CVE-2024-36401-WoodpeckerPlugin.git"
 		},
 		{
+			"xdb_id": "6cab2db287eb",
+			"xdb_url": "https://vulncheck.com/xdb/6cab2db287eb",
+			"date_added": "2024-11-27T19:13:49Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2024-36401.git"
+		},
+		{
 			"xdb_id": "a4b1ddfc8280",
 			"xdb_url": "https://vulncheck.com/xdb/a4b1ddfc8280",
 			"date_added": "2024-10-05T10:08:55Z",
@@ -129,11 +129,11 @@
 			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2024-36401.git"
 		},
 		{
-			"xdb_id": "6cab2db287eb",
-			"xdb_url": "https://vulncheck.com/xdb/6cab2db287eb",
-			"date_added": "2024-11-27T19:13:49Z",
+			"xdb_id": "584a39f9a9cb",
+			"xdb_url": "https://vulncheck.com/xdb/584a39f9a9cb",
+			"date_added": "2024-11-22T14:21:53Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2024-36401.git"
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-36401-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -616,6 +616,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-30&host_type=src&vulnerability=cve-2024-36401",
 			"date_added": "2024-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2024-36401",
+			"date_added": "2024-12-01T00:00:00Z"
 		},
 		{
 			"url": "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave",

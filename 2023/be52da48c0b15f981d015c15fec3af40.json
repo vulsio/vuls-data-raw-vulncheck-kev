@@ -947,6 +947,10 @@
 			"date_added": "2024-11-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2023-1671",
+			"date_added": "2024-12-01T00:00:00Z"
+		},
+		{
 			"url": "https://www.horizon3.ai/analysis-of-2023s-known-exploited-vulnerabilities/",
 			"date_added": "2024-02-06T00:00:00Z"
 		},

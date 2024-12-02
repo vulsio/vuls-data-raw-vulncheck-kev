@@ -381,34 +381,6 @@
 			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
 		},
 		{
-			"xdb_id": "c555ac264c6e",
-			"xdb_url": "https://vulncheck.com/xdb/c555ac264c6e",
-			"date_added": "2021-12-12T22:33:33+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
-		},
-		{
-			"xdb_id": "a57024d99795",
-			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
-			"date_added": "2021-12-13T14:39:20+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
-		},
-		{
-			"xdb_id": "94dd05cb788b",
-			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
-			"date_added": "2022-01-08T02:15:48+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
-		},
-		{
-			"xdb_id": "60c07310e663",
-			"xdb_url": "https://vulncheck.com/xdb/60c07310e663",
-			"date_added": "2021-12-14T08:39:03+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:nottoday/CVE-2021-44228-Apache-Log4j-Rce-main.git"
-		},
-		{
 			"xdb_id": "d3b4139ec745",
 			"xdb_url": "https://vulncheck.com/xdb/d3b4139ec745",
 			"date_added": "2021-12-23T18:43:45+08:00",
@@ -421,6 +393,34 @@
 			"date_added": "2021-12-12T21:06:59+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:huzpsb/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "c555ac264c6e",
+			"xdb_url": "https://vulncheck.com/xdb/c555ac264c6e",
+			"date_added": "2021-12-12T22:33:33+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
+		},
+		{
+			"xdb_id": "60c07310e663",
+			"xdb_url": "https://vulncheck.com/xdb/60c07310e663",
+			"date_added": "2021-12-14T08:39:03+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:nottoday/CVE-2021-44228-Apache-Log4j-Rce-main.git"
+		},
+		{
+			"xdb_id": "94dd05cb788b",
+			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
+			"date_added": "2022-01-08T02:15:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
+		},
+		{
+			"xdb_id": "a57024d99795",
+			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
+			"date_added": "2021-12-13T14:39:20+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1931,6 +1931,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-11-30&host_type=src&vulnerability=cve-2021-44228",
 			"date_added": "2024-11-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2021-44228",
+			"date_added": "2024-12-01T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/",

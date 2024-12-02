@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2023-28205"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "9a944fb94c97",
+			"xdb_url": "https://vulncheck.com/xdb/9a944fb94c97",
+			"date_added": "2024-11-30T12:25:47Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ntfargo/uaf-2023-28205.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://support.apple.com/kb/HT213720",

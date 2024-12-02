@@ -155,6 +155,10 @@
 			"date_added": "2024-11-30T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2024-4325",
+			"date_added": "2024-12-01T00:00:00Z"
+		},
+		{
 			"url": "https://bsky.app/profile/shadowserver.bsky.social/post/3l52cmd5l6j2u",
 			"date_added": "2024-09-26T00:00:00Z"
 		}
