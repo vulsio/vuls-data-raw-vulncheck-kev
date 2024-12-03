@@ -297,18 +297,18 @@
 			"clone_ssh_url": "git@github.com:Boogipop/MetabaseRceTools.git"
 		},
 		{
-			"xdb_id": "3557b45588ec",
-			"xdb_url": "https://vulncheck.com/xdb/3557b45588ec",
-			"date_added": "2023-07-31T11:18:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Zenmovie/CVE-2023-38646.git"
-		},
-		{
 			"xdb_id": "fc3a7c741130",
 			"xdb_url": "https://vulncheck.com/xdb/fc3a7c741130",
 			"date_added": "2024-11-22T04:15:25Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-38646-poc.git"
+		},
+		{
+			"xdb_id": "3557b45588ec",
+			"xdb_url": "https://vulncheck.com/xdb/3557b45588ec",
+			"date_added": "2023-07-31T11:18:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Zenmovie/CVE-2023-38646.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

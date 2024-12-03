@@ -485,6 +485,10 @@
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/new-campaign-uses-remcos-rat-to-exploit-victims",
 			"date_added": "2024-11-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/sophisticated-attack-targets-taiwan-with-smokeloader",
+			"date_added": "2024-12-02T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-05-03T00:00:00Z",

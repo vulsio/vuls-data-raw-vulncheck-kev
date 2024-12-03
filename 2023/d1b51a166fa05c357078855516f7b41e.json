@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:tangxiaofeng7/CVE-2023-32315-Openfire-Bypass.git"
 		},
 		{
-			"xdb_id": "a5e7325d7024",
-			"xdb_url": "https://vulncheck.com/xdb/a5e7325d7024",
-			"date_added": "2023-12-15T16:30:51Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2023-32315-EXPLOIT.git"
-		},
-		{
 			"xdb_id": "ec0dcf4feee2",
 			"xdb_url": "https://vulncheck.com/xdb/ec0dcf4feee2",
 			"date_added": "2023-06-18T15:42:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:miko550/CVE-2023-32315.git"
+		},
+		{
+			"xdb_id": "a5e7325d7024",
+			"xdb_url": "https://vulncheck.com/xdb/a5e7325d7024",
+			"date_added": "2023-12-15T16:30:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2023-32315-EXPLOIT.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
