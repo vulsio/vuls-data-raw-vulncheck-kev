@@ -1,0 +1,25 @@
+{
+	"vendorProject": "North Grid",
+	"product": "Proself",
+	"shortDescription": "North Grid Proself Enterprise/Standard, Gateway, and Mail Sanitize contain an improper restriction of XML External Entity (XXE) reference vulnerability, which could allow a remote, unauthenticated attacker to conduct an XXE attack.",
+	"vulnerabilityName": "North Grid Proself Improper Restriction of XML External Entity (XEE) Reference Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-45727"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cybereason.com/blog/cuckoo-spear-analyzing-noopdoor",
+			"date_added": "2024-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html",
+			"date_added": "2024-11-19T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-24T00:00:00Z",
+	"cisa_date_added": "2024-12-03T00:00:00Z",
+	"date_added": "2024-09-13T00:00:00Z"
+}

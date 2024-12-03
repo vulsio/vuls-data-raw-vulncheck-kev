@@ -1,0 +1,21 @@
+{
+	"vendorProject": "Zyxel",
+	"product": "Multiple Firewalls",
+	"shortDescription": "Multiple Zyxel firewalls contain a path traversal vulnerability in the web management interface that could allow an attacker to download or upload files via a crafted URL.",
+	"vulnerabilityName": "Zyxel Multiple Firewalls Path Traversal Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-11667"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-protecting-against-recent-firewall-threats-11-21-2024",
+			"date_added": "2024-11-21T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-24T00:00:00Z",
+	"cisa_date_added": "2024-12-03T00:00:00Z",
+	"date_added": "2024-11-21T00:00:00Z"
+}

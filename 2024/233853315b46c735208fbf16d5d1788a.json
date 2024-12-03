@@ -1,0 +1,25 @@
+{
+	"vendorProject": "ProjectSend",
+	"product": "ProjectSend",
+	"shortDescription": "ProjectSend contains an improper authentication vulnerability that allows a remote, unauthenticated attacker to enable unauthorized modification of the application's configuration via crafted HTTP requests to options.php. Successful exploitation allows attackers to create accounts, upload webshells, and embed malicious JavaScript.",
+	"vulnerabilityName": "ProjectSend Improper Authentication Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-11680"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://vulncheck.com/blog/projectsend-exploited-itw",
+			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-11680",
+			"date_added": "2024-11-26T00:00:00Z"
+		}
+	],
+	"dueDate": "2024-12-24T00:00:00Z",
+	"cisa_date_added": "2024-12-03T00:00:00Z",
+	"date_added": "2024-11-26T00:00:00Z"
+}
