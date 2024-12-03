@@ -199,18 +199,18 @@
 			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
 		},
 		{
-			"xdb_id": "b21c4b028688",
-			"xdb_url": "https://vulncheck.com/xdb/b21c4b028688",
-			"date_added": "2021-04-14T11:12:30Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:hosch3n/ProxyVulns.git"
-		},
-		{
 			"xdb_id": "05d9d20036f6",
 			"xdb_url": "https://vulncheck.com/xdb/05d9d20036f6",
 			"date_added": "2021-03-29T21:10:34Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Flangvik/SharpProxyLogon.git"
+		},
+		{
+			"xdb_id": "b21c4b028688",
+			"xdb_url": "https://vulncheck.com/xdb/b21c4b028688",
+			"date_added": "2021-04-14T11:12:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hosch3n/ProxyVulns.git"
 		},
 		{
 			"xdb_id": "2036c9063358",
@@ -1755,6 +1755,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2021-26855",
 			"date_added": "2024-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-02&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2024-12-02T00:00:00Z"
 		},
 		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",

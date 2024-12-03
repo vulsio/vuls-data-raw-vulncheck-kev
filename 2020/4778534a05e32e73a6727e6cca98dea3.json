@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "0f4bef153327",
-			"xdb_url": "https://vulncheck.com/xdb/0f4bef153327",
-			"date_added": "2021-09-01T22:47:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:darrenmartyn/CVE-2020-8515.git"
-		},
-		{
 			"xdb_id": "ec025a943dc1",
 			"xdb_url": "https://vulncheck.com/xdb/ec025a943dc1",
 			"date_added": "2020-03-31T05:40:11Z",
@@ -29,6 +22,13 @@
 			"date_added": "2020-03-30T03:31:26Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:imjdl/CVE-2020-8515-PoC.git"
+		},
+		{
+			"xdb_id": "0f4bef153327",
+			"xdb_url": "https://vulncheck.com/xdb/0f4bef153327",
+			"date_added": "2021-09-01T22:47:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:darrenmartyn/CVE-2020-8515.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1227,6 +1227,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-01&host_type=src&vulnerability=cve-2020-8515",
 			"date_added": "2024-12-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-02&host_type=src&vulnerability=cve-2020-8515",
+			"date_added": "2024-12-02T00:00:00Z"
 		},
 		{
 			"url": "https://unit42.paloaltonetworks.com/new-hoaxcalls-ddos-botnet/",

@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:murataydemir/CVE-2020-17518.git"
 		},
 		{
-			"xdb_id": "cbd3d87ea7d5",
-			"xdb_url": "https://vulncheck.com/xdb/cbd3d87ea7d5",
-			"date_added": "2021-01-06T13:40:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:QmF0c3UK/CVE-2020-17518.git"
-		},
-		{
 			"xdb_id": "d75c5445c328",
 			"xdb_url": "https://vulncheck.com/xdb/d75c5445c328",
 			"date_added": "2021-01-10T15:06:40Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:rakjong/Flink-CVE-2020-17518-getshell.git"
+		},
+		{
+			"xdb_id": "cbd3d87ea7d5",
+			"xdb_url": "https://vulncheck.com/xdb/cbd3d87ea7d5",
+			"date_added": "2021-01-06T13:40:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:QmF0c3UK/CVE-2020-17518.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
