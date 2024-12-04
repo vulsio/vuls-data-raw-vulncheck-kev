@@ -339,6 +339,10 @@
 			"date_added": "2024-12-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2022-47945",
+			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/sensor-intel-series-top-cves-june-2024",
 			"date_added": "2024-07-25T00:00:00Z"
 		},

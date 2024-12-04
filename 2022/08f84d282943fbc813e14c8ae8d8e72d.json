@@ -1023,6 +1023,10 @@
 			"date_added": "2024-12-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2022-30525",
+			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
 			"url": "https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/",
 			"date_added": "2022-09-28T00:00:00Z"
 		},

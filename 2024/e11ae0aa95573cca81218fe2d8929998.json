@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-5910"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ffcf4fb80c1a",
+			"xdb_url": "https://vulncheck.com/xdb/ffcf4fb80c1a",
+			"date_added": "2024-12-04T07:06:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Farzan-Kh/CVE-2024-5910.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

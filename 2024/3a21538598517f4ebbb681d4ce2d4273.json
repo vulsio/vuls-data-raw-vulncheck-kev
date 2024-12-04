@@ -122,6 +122,10 @@
 			"date_added": "2024-12-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2024-23692",
+			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
 			"url": "https://asec.ahnlab.com/ko/67509/",
 			"date_added": "2024-06-28T00:00:00Z"
 		},
