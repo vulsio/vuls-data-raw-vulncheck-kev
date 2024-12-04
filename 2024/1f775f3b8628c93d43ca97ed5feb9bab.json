@@ -484,6 +484,10 @@
 		{
 			"url": "https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400#exploited-in-the-wild_419a883d-f8ee-4ec2-986a-74385865d11a",
 			"date_added": "2024-10-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.ncsc.gov.uk/files/NCSC_Annual_Review_2024.pdf",
+			"date_added": "2024-12-03T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-19T00:00:00Z",
