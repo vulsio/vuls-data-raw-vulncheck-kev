@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "7fca7a836019",
-			"xdb_url": "https://vulncheck.com/xdb/7fca7a836019",
-			"date_added": "2024-11-22T02:55:33Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-7965-poc.git"
-		},
-		{
 			"xdb_id": "bcc27e4b72fb",
 			"xdb_url": "https://vulncheck.com/xdb/bcc27e4b72fb",
 			"date_added": "2024-09-16T19:04:57Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:bi-zone/CVE-2024-7965.git"
+		},
+		{
+			"xdb_id": "7fca7a836019",
+			"xdb_url": "https://vulncheck.com/xdb/7fca7a836019",
+			"date_added": "2024-11-22T02:55:33Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-7965-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

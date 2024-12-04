@@ -85,6 +85,13 @@
 			"date_added": "2023-11-10T08:38:51Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:nxenon/cve-2023-44487.git"
+		},
+		{
+			"xdb_id": "f5782b81dab1",
+			"xdb_url": "https://vulncheck.com/xdb/f5782b81dab1",
+			"date_added": "2024-12-03T14:54:21Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:threatlabindonesia/CVE-2023-44487-HTTP-2-Rapid-Reset-Exploit-PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

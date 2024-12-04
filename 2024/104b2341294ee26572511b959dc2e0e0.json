@@ -21,6 +21,10 @@
 		{
 			"url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/lessons-from-a-honeypot-with-us-citizens-data/",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-CVE-2014-2120",
+			"date_added": "2024-12-02T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-03T00:00:00Z",

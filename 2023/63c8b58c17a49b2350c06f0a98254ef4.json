@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:r3dcl1ff/CVE-2023-36844_Juniper_RCE.git"
 		},
 		{
-			"xdb_id": "db1e7b347773",
-			"xdb_url": "https://vulncheck.com/xdb/db1e7b347773",
-			"date_added": "2023-04-26T10:49:41Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:PortSwigger/BChecks.git"
-		},
-		{
 			"xdb_id": "eb307a27c46c",
 			"xdb_url": "https://vulncheck.com/xdb/eb307a27c46c",
 			"date_added": "2023-09-26T17:56:55Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2023-36845.git"
+		},
+		{
+			"xdb_id": "db1e7b347773",
+			"xdb_url": "https://vulncheck.com/xdb/db1e7b347773",
+			"date_added": "2023-04-26T10:49:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:PortSwigger/BChecks.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

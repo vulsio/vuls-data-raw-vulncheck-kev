@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:Phantomlancer123/CVE-2017-0199.git"
 		},
 		{
-			"xdb_id": "0dd660910a33",
-			"xdb_url": "https://vulncheck.com/xdb/0dd660910a33",
-			"date_added": "2017-04-22T04:01:38Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Exploit-install/CVE-2017-0199.git"
-		},
-		{
 			"xdb_id": "2924f4e487d3",
 			"xdb_url": "https://vulncheck.com/xdb/2924f4e487d3",
 			"date_added": "2017-04-23T13:58:30Z",
@@ -78,6 +71,13 @@
 			"date_added": "2017-04-22T11:32:39Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:mzakyz666/PoC-CVE-2017-0199.git"
+		},
+		{
+			"xdb_id": "0dd660910a33",
+			"xdb_url": "https://vulncheck.com/xdb/0dd660910a33",
+			"date_added": "2017-04-22T04:01:38Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Exploit-install/CVE-2017-0199.git"
 		},
 		{
 			"xdb_id": "970b6cfbc7fb",
