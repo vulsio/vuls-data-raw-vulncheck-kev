@@ -1,0 +1,19 @@
+{
+	"vendorProject": "1Panel",
+	"product": "KubePi",
+	"shortDescription": "KubePi is a K8s panel. Starting in version 1.6.3 and prior to version 1.8.0, there is a defect in the KubePi JWT token verification. The JWT key in the default configuration file is empty. Although a random 32-bit string will be generated to overwrite the key in the configuration file when the key is detected to be empty in the configuration file reading logic, the key is empty during actual verification. Using an empty key to generate a JWT token can bypass the login verification and directly take over the back end. Version 1.8.0 contains a patch for this issue.",
+	"vulnerabilityName": "KubePi JWT Token Login Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-36111"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2024-36111",
+			"date_added": "2024-12-03T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-03T00:00:00Z"
+}
