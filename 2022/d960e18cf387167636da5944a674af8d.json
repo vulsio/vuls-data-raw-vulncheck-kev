@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:ZephrFish/NotProxyShellScanner.git"
 		},
 		{
-			"xdb_id": "33385974e77d",
-			"xdb_url": "https://vulncheck.com/xdb/33385974e77d",
-			"date_added": "2022-12-22T09:35:26Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:balki97/OWASSRF-CVE-2022-41082-POC.git"
-		},
-		{
 			"xdb_id": "0b916230c113",
 			"xdb_url": "https://vulncheck.com/xdb/0b916230c113",
 			"date_added": "2022-10-01T11:53:14Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Diverto/nse-exchange.git"
+		},
+		{
+			"xdb_id": "33385974e77d",
+			"xdb_url": "https://vulncheck.com/xdb/33385974e77d",
+			"date_added": "2022-12-22T09:35:26Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:balki97/OWASSRF-CVE-2022-41082-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -961,6 +961,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2022-41082",
 			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2022-41082",
+			"date_added": "2024-12-04T00:00:00Z"
 		},
 		{
 			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",

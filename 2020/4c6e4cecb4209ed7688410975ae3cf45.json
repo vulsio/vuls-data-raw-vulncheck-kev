@@ -80,18 +80,18 @@
 			"clone_ssh_url": "git@github.com:ssrsec/CVE-2020-11651-CVE-2020-11652-EXP.git"
 		},
 		{
-			"xdb_id": "ed4dc5fcce7f",
-			"xdb_url": "https://vulncheck.com/xdb/ed4dc5fcce7f",
-			"date_added": "2020-05-04T20:34:04Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:kevthehermit/CVE-2020-11651.git"
-		},
-		{
 			"xdb_id": "731f17c6b531",
 			"xdb_url": "https://vulncheck.com/xdb/731f17c6b531",
 			"date_added": "2020-05-04T11:52:28Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jasperla/CVE-2020-11651-poc.git"
+		},
+		{
+			"xdb_id": "ed4dc5fcce7f",
+			"xdb_url": "https://vulncheck.com/xdb/ed4dc5fcce7f",
+			"date_added": "2020-05-04T20:34:04Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:kevthehermit/CVE-2020-11651.git"
 		},
 		{
 			"xdb_id": "126bde061e76",

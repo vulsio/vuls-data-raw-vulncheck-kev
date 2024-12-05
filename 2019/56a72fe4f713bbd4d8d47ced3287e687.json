@@ -1397,6 +1397,10 @@
 			"date_added": "2024-12-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2019-11510",
+			"date_added": "2024-12-04T00:00:00Z"
+		},
+		{
 			"url": "https://digital.nhs.uk/cyber-alerts/2019/cc-3044",
 			"date_added": "2019-05-01T00:00:00Z"
 		},

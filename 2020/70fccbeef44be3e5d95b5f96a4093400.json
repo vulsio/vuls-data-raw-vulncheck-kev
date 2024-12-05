@@ -178,13 +178,6 @@
 			"clone_ssh_url": "git@github.com:conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855.git"
 		},
 		{
-			"xdb_id": "5c885ac1f498",
-			"xdb_url": "https://vulncheck.com/xdb/5c885ac1f498",
-			"date_added": "2021-03-17T03:56:54Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
-		},
-		{
 			"xdb_id": "ee22e208e22e",
 			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
 			"date_added": "2021-03-24T01:12:48Z",
@@ -211,6 +204,13 @@
 			"date_added": "2021-04-14T11:12:30Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:hosch3n/ProxyVulns.git"
+		},
+		{
+			"xdb_id": "5c885ac1f498",
+			"xdb_url": "https://vulncheck.com/xdb/5c885ac1f498",
+			"date_added": "2021-03-17T03:56:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
 		},
 		{
 			"xdb_id": "2036c9063358",
@@ -1763,6 +1763,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2021-26855",
 			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2024-12-04T00:00:00Z"
 		},
 		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",

@@ -39,6 +39,10 @@
 			"date_added": "2024-12-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2022-29013",
+			"date_added": "2024-12-04T00:00:00Z"
+		},
+		{
 			"url": "https://cujo.com/blog/the-2022-2023-iot-botnet-report-vulnerabilities-targeted/",
 			"date_added": "2023-04-27T00:00:00Z"
 		},

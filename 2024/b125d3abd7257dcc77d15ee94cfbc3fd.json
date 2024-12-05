@@ -15,6 +15,13 @@
 			"date_added": "2024-11-18T23:34:34Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Nephster/CVE-2024-38193.git"
+		},
+		{
+			"xdb_id": "083768bfaf83",
+			"xdb_url": "https://vulncheck.com/xdb/083768bfaf83",
+			"date_added": "2024-12-03T08:56:59Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:killvxk/CVE-2024-38193-Nephster.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

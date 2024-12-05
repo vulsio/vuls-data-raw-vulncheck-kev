@@ -1627,6 +1627,10 @@
 			"date_added": "2024-12-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2018-7600",
+			"date_added": "2024-12-04T00:00:00Z"
+		},
+		{
 			"url": "https://blog.netlab.360.com/botnet-muhstik-is-actively-exploiting-drupal-cve-2018-7600-in-a-worm-style-en/",
 			"date_added": "2018-04-20T00:00:00Z"
 		},
