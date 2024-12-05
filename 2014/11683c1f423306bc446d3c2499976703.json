@@ -234,11 +234,11 @@
 			"clone_ssh_url": "git@gitee.com:Draycen/shellshock_scanner.git"
 		},
 		{
-			"xdb_id": "3af8913bb29e",
-			"xdb_url": "https://vulncheck.com/xdb/3af8913bb29e",
-			"date_added": "2020-09-11T15:43:07+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-python.git"
+			"xdb_id": "e57812c06caf",
+			"xdb_url": "https://vulncheck.com/xdb/e57812c06caf",
+			"date_added": "2020-09-11T15:43:16+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
 		},
 		{
 			"xdb_id": "f04bc714ad93",
@@ -248,11 +248,11 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
 		},
 		{
-			"xdb_id": "e57812c06caf",
-			"xdb_url": "https://vulncheck.com/xdb/e57812c06caf",
-			"date_added": "2020-09-11T15:43:16+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
+			"xdb_id": "3af8913bb29e",
+			"xdb_url": "https://vulncheck.com/xdb/3af8913bb29e",
+			"date_added": "2020-09-11T15:43:07+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:happiii/shellshocker-python.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
