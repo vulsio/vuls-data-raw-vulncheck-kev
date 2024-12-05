@@ -1,9 +1,9 @@
 {
-	"vendorProject": "CyberPanel Web Hosting Panel",
+	"vendorProject": "CyberPersons",
 	"product": "CyberPanel",
-	"shortDescription": "getresetstatus in dns/views.py and ftp/views.py in CyberPanel (aka Cyber Panel) before 1c0c6cb allows remote attackers to bypass authentication and execute arbitrary commands via /dns/getresetstatus or /ftp/getresetstatus by bypassing secMiddleware (which is only for a POST request) and using shell metacharacters in the statusfile property, as exploited in the wild in October 2024 by PSAUX. Versions through 2.3.6 and (unpatched) 2.3.7 are affected.",
-	"vulnerabilityName": "CyberPanel /dns/getresetstatus or /ftp/getresetstatus Command Injection Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "CyberPanel contains an incorrect default permissions vulnerability that allows for authentication bypass and the execution of arbitrary commands using shell metacharacters in the statusfile property.",
+	"vulnerabilityName": "CyberPanel Incorrect Default Permissions Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2024-51378"
@@ -18,6 +18,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2024-12-04T00:00:00Z"
+		},
 		{
 			"url": "https://gist.github.com/gboddin/d78823245b518edd54bfc2301c5f8882",
 			"date_added": "2024-10-29T00:00:00Z"
@@ -35,5 +39,7 @@
 			"date_added": "2024-10-26T00:00:00Z"
 		}
 	],
+	"dueDate": "2024-12-25T00:00:00Z",
+	"cisa_date_added": "2024-12-04T00:00:00Z",
 	"date_added": "2024-10-26T00:00:00Z"
 }

@@ -43,6 +43,13 @@
 			"date_added": "2023-02-28T02:08:59Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:ardzz/CVE-2022-1386.git"
+		},
+		{
+			"xdb_id": "7e197228c86a",
+			"xdb_url": "https://vulncheck.com/xdb/7e197228c86a",
+			"date_added": "2024-12-04T12:48:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:lamcodeofpwnosec/CVE-2022-1386.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

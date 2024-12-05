@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:BLY-Coder/Python-exploit-CVE-2020-25213.git"
 		},
 		{
-			"xdb_id": "669397d52e31",
-			"xdb_url": "https://vulncheck.com/xdb/669397d52e31",
-			"date_added": "2020-10-10T17:50:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:mansoorr123/wp-file-manager-CVE-2020-25213.git"
-		},
-		{
 			"xdb_id": "39148855248e",
 			"xdb_url": "https://vulncheck.com/xdb/39148855248e",
 			"date_added": "2023-08-02T09:06:13Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:E1tex/Python-CVE-2020-25213.git"
+		},
+		{
+			"xdb_id": "669397d52e31",
+			"xdb_url": "https://vulncheck.com/xdb/669397d52e31",
+			"date_added": "2020-10-10T17:50:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mansoorr123/wp-file-manager-CVE-2020-25213.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
