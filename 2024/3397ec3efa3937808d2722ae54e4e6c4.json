@@ -1,8 +1,8 @@
 {
-	"vendorProject": "GeoVision",
-	"product": "GeoVision Devices",
+	"vendorProject": "geovision",
+	"product": "gv-vs12_firmware",
 	"shortDescription": "Certain EOL GeoVision devices have an OS Command Injection vulnerability. Unauthenticated remote attackers can exploit this vulnerability to inject and execute arbitrary system commands on the device. Moreover, this vulnerability has already been exploited by attackers, and we have received related reports.",
-	"vulnerabilityName": "GeoVision Devices OS Command Injection Vulnerability",
+	"vulnerabilityName": "geovision gv-vs12_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

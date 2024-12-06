@@ -1,0 +1,19 @@
+{
+	"vendorProject": "I-O DATA DEVICE, INC",
+	"product": "UD-LT1 and UD-LT1/EX",
+	"shortDescription": "Inclusion of undocumented features or chicken bits issue exists in UD-LT1 firmware Ver.2.1.8 and earlier and UD-LT1/EX firmware Ver.2.1.8 and earlier. A remote attacker may disable the firewall function of the affected products. As a result, an arbitrary OS command may be executed and/or configuration settings of the device may be altered.",
+	"vulnerabilityName": "UD-LT1 and UD-LT1/EX Firmware Arbitrary OS Command Execution",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-52564"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://jvn.jp/en/jp/JVN46615026/index.html",
+			"date_added": "2024-12-04T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-04T00:00:00Z"
+}
