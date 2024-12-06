@@ -29,6 +29,10 @@
 		{
 			"url": "https://research.checkpoint.com/2024/magnet-goblin-targets-publicly-facing-servers-using-1-day-vulnerabilities/",
 			"date_added": "2024-03-08T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/1HzZGd2EN4/cve-2023-48365#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
+			"date_added": "2024-12-05T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-28T00:00:00Z"

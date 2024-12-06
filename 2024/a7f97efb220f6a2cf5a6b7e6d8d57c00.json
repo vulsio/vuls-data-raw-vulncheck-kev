@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "authenticator",
+	"shortDescription": "Microsoft Authenticator Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft authenticator Improper Authentication",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-21390"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Guest+Diary+Business+Email+Compromise/31474/",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}

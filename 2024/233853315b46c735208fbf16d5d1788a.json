@@ -29,6 +29,10 @@
 		{
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-11680",
 			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/threat-signal-report/5598/projectsend-improper-authentication-vulnerability-cve-2024-11680",
+			"date_added": "2024-12-04T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-24T00:00:00Z",
