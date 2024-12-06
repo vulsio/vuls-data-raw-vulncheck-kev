@@ -556,6 +556,10 @@
 			"date_added": "2024-12-04T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2018-0296",
+			"date_added": "2024-12-05T00:00:00Z"
+		},
+		{
 			"url": "https://blog.talosintelligence.com/2019/04/seaturtle.html",
 			"date_added": "2019-04-17T00:00:00Z"
 		},

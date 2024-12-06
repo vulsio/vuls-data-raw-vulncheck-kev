@@ -1,0 +1,19 @@
+{
+	"vendorProject": "ruijienetworks",
+	"product": "reyeeos",
+	"shortDescription": "A Remote Code Execution (RCE) vulnerability exists in Ruijie Networks Ruijie RG-EW Series Routers up to ReyeeOS 1.55.1915 / EW_3.0(1)B11P55 via the checkNet function in /cgi-bin/luci/api/auth.",
+	"vulnerabilityName": "ruijienetworks reyeeos Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-43163"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2021-43163",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}

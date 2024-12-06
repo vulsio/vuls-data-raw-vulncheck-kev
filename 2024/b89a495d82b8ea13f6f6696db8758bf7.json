@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apache",
+	"product": "OFBiz",
+	"shortDescription": "Server-Side Request Forgery (SSRF), Improper Control of Generation of Code ('Code Injection') vulnerability in Apache OFBiz.\n\nThis issue affects Apache OFBiz: before 18.12.16.\n\nUsers are recommended to upgrade to version 18.12.16, which fixes the issue.",
+	"vulnerabilityName": "Apache OFBiz Improper Control of Generation of Code ('Code Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-45507"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2024-45507",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}

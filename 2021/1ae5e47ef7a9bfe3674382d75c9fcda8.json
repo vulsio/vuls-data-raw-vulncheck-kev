@@ -52,13 +52,6 @@
 			"clone_ssh_url": "git@github.com:je6k/CVE-2021-34473-Exchange-ProxyShell.git"
 		},
 		{
-			"xdb_id": "e3d11e8fb280",
-			"xdb_url": "https://vulncheck.com/xdb/e3d11e8fb280",
-			"date_added": "2021-08-16T17:59:41Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Udyz/proxyshell-auto.git"
-		},
-		{
 			"xdb_id": "9c56595a8e6c",
 			"xdb_url": "https://vulncheck.com/xdb/9c56595a8e6c",
 			"date_added": "2021-08-13T09:38:21Z",
@@ -85,6 +78,13 @@
 			"date_added": "2021-09-04T15:34:03Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:horizon3ai/proxyshell.git"
+		},
+		{
+			"xdb_id": "e3d11e8fb280",
+			"xdb_url": "https://vulncheck.com/xdb/e3d11e8fb280",
+			"date_added": "2021-08-16T17:59:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Udyz/proxyshell-auto.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1255,6 +1255,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-04&host_type=src&vulnerability=cve-2021-34473",
 			"date_added": "2024-12-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2021-34473",
+			"date_added": "2024-12-05T00:00:00Z"
 		},
 		{
 			"url": "https://www.bilibili.com/read/cv17634838",

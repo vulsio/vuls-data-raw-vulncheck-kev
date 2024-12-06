@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:ianxtianxt/cve-2019-2618.git"
 		},
 		{
-			"xdb_id": "8be04489e68e",
-			"xdb_url": "https://vulncheck.com/xdb/8be04489e68e",
-			"date_added": "2020-01-15T04:26:29Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
-		},
-		{
 			"xdb_id": "3c49c9566a90",
 			"xdb_url": "https://vulncheck.com/xdb/3c49c9566a90",
 			"date_added": "2019-06-21T09:22:43Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:dr0op/WeblogicScan.git"
+		},
+		{
+			"xdb_id": "8be04489e68e",
+			"xdb_url": "https://vulncheck.com/xdb/8be04489e68e",
+			"date_added": "2020-01-15T04:26:29Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
 			"xdb_id": "379f99bfaf56",
@@ -56,6 +56,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-05-22&host_type=src&vulnerability=cve-2019-2618",
 			"date_added": "2024-05-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2019-2618",
+			"date_added": "2024-12-05T00:00:00Z"
 		}
 	],
 	"date_added": "2024-05-22T00:00:00Z"

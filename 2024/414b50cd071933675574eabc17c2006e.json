@@ -1,0 +1,27 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-51211"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "15b034407338",
+			"xdb_url": "https://vulncheck.com/xdb/15b034407338",
+			"date_added": "2024-10-05T10:56:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:kutsa1/My-CVE.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2024-51211",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}

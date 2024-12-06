@@ -1,0 +1,174 @@
+{
+	"vendorProject": "chamilo",
+	"product": "chamilo_lms",
+	"shortDescription": "Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS <= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.",
+	"vulnerabilityName": "chamilo chamilo_lms Unrestricted Upload of File with Dangerous Type",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-4220"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6f3b083d8a2a",
+			"xdb_url": "https://vulncheck.com/xdb/6f3b083d8a2a",
+			"date_added": "2024-07-10T02:26:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:krishnan-tech/CVE-2023-4226-POC.git"
+		},
+		{
+			"xdb_id": "01cef89ac168",
+			"xdb_url": "https://vulncheck.com/xdb/01cef89ac168",
+			"date_added": "2024-07-09T16:09:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:HO4XXX/cve-2023-4220-poc.git"
+		},
+		{
+			"xdb_id": "2fbc4336feac",
+			"xdb_url": "https://vulncheck.com/xdb/2fbc4336feac",
+			"date_added": "2024-07-11T13:06:17Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:nr4x4/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "dae666e719cd",
+			"xdb_url": "https://vulncheck.com/xdb/dae666e719cd",
+			"date_added": "2024-07-15T01:38:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Al3xGD/CVE-2023-4220-Exploit.git"
+		},
+		{
+			"xdb_id": "98271549c6ea",
+			"xdb_url": "https://vulncheck.com/xdb/98271549c6ea",
+			"date_added": "2024-07-07T15:53:54Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "a40b98381b26",
+			"xdb_url": "https://vulncheck.com/xdb/a40b98381b26",
+			"date_added": "2024-08-02T06:14:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:charchit-subedi/chamilo-lms-unauthenticated-rce-poc.git"
+		},
+		{
+			"xdb_id": "21e1dfc97c59",
+			"xdb_url": "https://vulncheck.com/xdb/21e1dfc97c59",
+			"date_added": "2024-07-07T16:57:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:charlesgargasson/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "4eb26f6b373b",
+			"xdb_url": "https://vulncheck.com/xdb/4eb26f6b373b",
+			"date_added": "2024-07-09T20:06:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:B1TC0R3/CVE-2023-4220-PoC.git"
+		},
+		{
+			"xdb_id": "630f4cc835a9",
+			"xdb_url": "https://vulncheck.com/xdb/630f4cc835a9",
+			"date_added": "2024-08-18T20:00:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LGenAgul/CVE-2023-4220-Proof-of-concept.git"
+		},
+		{
+			"xdb_id": "463dc3c4df19",
+			"xdb_url": "https://vulncheck.com/xdb/463dc3c4df19",
+			"date_added": "2024-09-03T12:16:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit.git"
+		},
+		{
+			"xdb_id": "bbbcb12a4a5b",
+			"xdb_url": "https://vulncheck.com/xdb/bbbcb12a4a5b",
+			"date_added": "2024-08-24T05:32:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:VanishedPeople/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "10ae6624b0df",
+			"xdb_url": "https://vulncheck.com/xdb/10ae6624b0df",
+			"date_added": "2024-10-23T04:01:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:bueno-armando/CVE-2023-4220-RCE.git"
+		},
+		{
+			"xdb_id": "3b6cd44e17c6",
+			"xdb_url": "https://vulncheck.com/xdb/3b6cd44e17c6",
+			"date_added": "2024-07-07T15:08:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc.git"
+		},
+		{
+			"xdb_id": "00cdf7216db2",
+			"xdb_url": "https://vulncheck.com/xdb/00cdf7216db2",
+			"date_added": "2024-11-02T14:49:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:H4cking4All/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "6b78ca62a34c",
+			"xdb_url": "https://vulncheck.com/xdb/6b78ca62a34c",
+			"date_added": "2024-07-08T09:48:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit.git"
+		},
+		{
+			"xdb_id": "9fe6dd27f44c",
+			"xdb_url": "https://vulncheck.com/xdb/9fe6dd27f44c",
+			"date_added": "2024-08-24T15:25:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:thefizzyfish/CVE-2023-4220_Chamilo_RCE.git"
+		},
+		{
+			"xdb_id": "80e50f659827",
+			"xdb_url": "https://vulncheck.com/xdb/80e50f659827",
+			"date_added": "2024-11-10T18:13:18Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:oxapavan/CVE-2023-4220-HTB-PermX.git"
+		},
+		{
+			"xdb_id": "344c5660e668",
+			"xdb_url": "https://vulncheck.com/xdb/344c5660e668",
+			"date_added": "2024-11-13T08:30:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:numaan911098/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "9316b9d7e5bf",
+			"xdb_url": "https://vulncheck.com/xdb/9316b9d7e5bf",
+			"date_added": "2024-10-27T20:18:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xDTC/Chamilo-LMS-CVE-2023-4220-Exploit.git"
+		},
+		{
+			"xdb_id": "58994525cdd3",
+			"xdb_url": "https://vulncheck.com/xdb/58994525cdd3",
+			"date_added": "2024-07-08T07:31:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:insomnia-jacob/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "3602eeac2b52",
+			"xdb_url": "https://vulncheck.com/xdb/3602eeac2b52",
+			"date_added": "2024-12-04T22:16:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MikeyPPPPPPPP/CVE-2023-4220.git"
+		},
+		{
+			"xdb_id": "2ecbe581c242",
+			"xdb_url": "https://vulncheck.com/xdb/2ecbe581c242",
+			"date_added": "2024-12-05T12:45:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Pr1or95/CVE-2023-4220-exploit.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-05&host_type=src&vulnerability=cve-2023-4220",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}
