@@ -1865,6 +1865,10 @@
 			"date_added": "2024-12-05T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-06&host_type=src&vulnerability=cve-2023-38646",
+			"date_added": "2024-12-06T00:00:00Z"
+		},
+		{
 			"url": "https://blog.sekoia.io/activemq-cve-2023-46604-exploited-by-kinsing-and-overview-of-this-threat/",
 			"date_added": "2023-12-11T00:00:00Z"
 		},

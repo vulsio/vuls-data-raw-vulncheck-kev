@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-21683-rce.git"
 		},
 		{
-			"xdb_id": "9c6e3d7ac91f",
-			"xdb_url": "https://vulncheck.com/xdb/9c6e3d7ac91f",
-			"date_added": "2024-04-17T08:46:22Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:wjlin0/poc-doc.git"
-		},
-		{
 			"xdb_id": "5d69fe716ed6",
 			"xdb_url": "https://vulncheck.com/xdb/5d69fe716ed6",
 			"date_added": "2024-05-23T09:05:40Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2024-21683-RCE.git"
+		},
+		{
+			"xdb_id": "9c6e3d7ac91f",
+			"xdb_url": "https://vulncheck.com/xdb/9c6e3d7ac91f",
+			"date_added": "2024-04-17T08:46:22Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:wjlin0/poc-doc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

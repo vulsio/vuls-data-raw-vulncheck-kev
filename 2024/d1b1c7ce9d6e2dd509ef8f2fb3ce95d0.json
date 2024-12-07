@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:dream434/CVE-2024-29269.git"
 		},
 		{
-			"xdb_id": "4086cfd658f6",
-			"xdb_url": "https://vulncheck.com/xdb/4086cfd658f6",
-			"date_added": "2024-09-08T08:56:33Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:hack-with-rohit/CVE-2024-29269-RCE.git"
-		},
-		{
 			"xdb_id": "3737ed55a984",
 			"xdb_url": "https://vulncheck.com/xdb/3737ed55a984",
 			"date_added": "2024-09-28T18:01:30Z",
@@ -50,6 +43,13 @@
 			"date_added": "2024-04-12T07:36:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:YongYe-Security/CVE-2024-29269.git"
+		},
+		{
+			"xdb_id": "4086cfd658f6",
+			"xdb_url": "https://vulncheck.com/xdb/4086cfd658f6",
+			"date_added": "2024-09-08T08:56:33Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:hack-with-rohit/CVE-2024-29269-RCE.git"
 		},
 		{
 			"xdb_id": "df31e0c20a21",
