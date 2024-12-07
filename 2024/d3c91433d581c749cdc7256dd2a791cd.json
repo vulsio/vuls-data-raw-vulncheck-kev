@@ -1,0 +1,55 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "In the Linux kernel through 6.3.1, a use-after-free in Netfilter nf_tables when processing batch requests can be abused to perform arbitrary read and write operations on kernel memory. Unprivileged local users can obtain root privileges. This occurs because anonymous sets are mishandled.",
+	"vulnerabilityName": "Linux Kernel Use After Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-32233"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fd0f7c34fb56",
+			"xdb_url": "https://vulncheck.com/xdb/fd0f7c34fb56",
+			"date_added": "2024-02-04T02:24:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RogelioPumajulca/TEST-CVE-2023-32233.git"
+		},
+		{
+			"xdb_id": "6f75b3643b15",
+			"xdb_url": "https://vulncheck.com/xdb/6f75b3643b15",
+			"date_added": "2024-04-01T01:20:21Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:void0red/CVE-2023-32233.git"
+		},
+		{
+			"xdb_id": "fb9759f7ce7c",
+			"xdb_url": "https://vulncheck.com/xdb/fb9759f7ce7c",
+			"date_added": "2023-05-16T05:58:03Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:oferchen/POC-CVE-2023-32233.git"
+		},
+		{
+			"xdb_id": "c076df76f476",
+			"xdb_url": "https://vulncheck.com/xdb/c076df76f476",
+			"date_added": "2023-05-16T02:22:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:PIDAN-HEIDASHUAI/CVE-2023-32233.git"
+		},
+		{
+			"xdb_id": "814294d50f42",
+			"xdb_url": "https://vulncheck.com/xdb/814294d50f42",
+			"date_added": "2023-05-16T03:06:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Liuk3r/CVE-2023-32233.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/",
+			"date_added": "2024-12-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-06T00:00:00Z"
+}

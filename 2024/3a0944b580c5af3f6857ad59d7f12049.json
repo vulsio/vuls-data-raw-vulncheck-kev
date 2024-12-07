@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "Linux Kernel nftables Use-After-Free Local Privilege Escalation Vulnerability; `nft_chain_lookup_byid()` failed to check whether a chain was active and CAP_NET_ADMIN is in any user or network namespace",
+	"vulnerabilityName": "Linux Kernel Use After Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-31248"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/",
+			"date_added": "2024-12-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-06T00:00:00Z"
+}

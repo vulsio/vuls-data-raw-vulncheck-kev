@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Linux",
+	"product": "Kernel",
+	"shortDescription": "A vulnerability exists in the memory management subsystem of the Linux kernel. The lock handling for accessing and updating virtual memory areas (VMAs) is incorrect, leading to use-after-free problems. This issue can be successfully exploited to execute arbitrary kernel code, escalate containers, and gain root privileges.",
+	"vulnerabilityName": "Linux Kernel Use After Free",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-3269"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e01c0a7c63c9",
+			"xdb_url": "https://vulncheck.com/xdb/e01c0a7c63c9",
+			"date_added": "2023-06-28T13:22:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:lrh2000/StackRot.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/",
+			"date_added": "2024-12-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-06T00:00:00Z"
+}

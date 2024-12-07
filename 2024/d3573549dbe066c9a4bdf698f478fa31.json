@@ -1,0 +1,90 @@
+{
+	"vendorProject": "Sudo",
+	"product": "Sudo",
+	"shortDescription": "In Sudo before 1.9.12p2, the sudoedit (aka -e) feature mishandles extra arguments passed in the user-provided environment variables (SUDO_EDITOR, VISUAL, and EDITOR), allowing a local attacker to append arbitrary entries to the list of files to process. This can lead to privilege escalation. Affected versions are 1.8.0 through 1.9.12.p1. The problem exists because a user-specified editor may contain a \"--\" argument that defeats a protection mechanism, e.g., an EDITOR='vim -- /path/to/extra/file' value.",
+	"vulnerabilityName": "Sudo Sudo Improper Privilege Management",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-22809"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "26c0ac8c7db3",
+			"xdb_url": "https://vulncheck.com/xdb/26c0ac8c7db3",
+			"date_added": "2023-02-22T17:50:03Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:M4fiaB0y/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "bec947d45411",
+			"xdb_url": "https://vulncheck.com/xdb/bec947d45411",
+			"date_added": "2023-03-19T22:36:41Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RESOLUTE-ATTACK/CVES.git"
+		},
+		{
+			"xdb_id": "28bda98a6c14",
+			"xdb_url": "https://vulncheck.com/xdb/28bda98a6c14",
+			"date_added": "2023-04-06T03:11:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:CKevens/CVE-2023-22809-sudo-POC.git"
+		},
+		{
+			"xdb_id": "f68a6cac7686",
+			"xdb_url": "https://vulncheck.com/xdb/f68a6cac7686",
+			"date_added": "2023-01-21T15:19:23Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:n3m1dotsys/CVE-2023-22809-sudoedit-privesc.git"
+		},
+		{
+			"xdb_id": "e428818ee7cb",
+			"xdb_url": "https://vulncheck.com/xdb/e428818ee7cb",
+			"date_added": "2023-06-25T15:11:01Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:pashayogi/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "968fc4cbb07b",
+			"xdb_url": "https://vulncheck.com/xdb/968fc4cbb07b",
+			"date_added": "2024-08-14T07:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:AntiVlad/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "984443fdba72",
+			"xdb_url": "https://vulncheck.com/xdb/984443fdba72",
+			"date_added": "2024-08-28T14:22:53Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:D0rDa4aN919/CVE-2023-22809-Exploiter.git"
+		},
+		{
+			"xdb_id": "e097039062db",
+			"xdb_url": "https://vulncheck.com/xdb/e097039062db",
+			"date_added": "2023-06-20T00:38:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Chan9Yan9/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "9916f6e4a0d8",
+			"xdb_url": "https://vulncheck.com/xdb/9916f6e4a0d8",
+			"date_added": "2023-07-10T06:38:14Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "31fcf7095c80",
+			"xdb_url": "https://vulncheck.com/xdb/31fcf7095c80",
+			"date_added": "2023-08-06T06:46:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Toothless5143/CVE-2023-22809.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/",
+			"date_added": "2024-12-06T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-06T00:00:00Z"
+}
