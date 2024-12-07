@@ -47,7 +47,7 @@
 		{
 			"xdb_id": "fc99f8e8bde0",
 			"xdb_url": "https://vulncheck.com/xdb/fc99f8e8bde0",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-11-13T08:26:46+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:RobbiNespu/exploit-CVE-2016-10033.git"
 		},
