@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "F-logic",
+	"product": "DataCube3",
+	"shortDescription": "F-logic DataCube3 v1.0 is vulnerable to File Upload via `/admin/transceiver_schedule.php.`",
+	"vulnerabilityName": "F-logic DataCube3 /admin/transceiver_schedule.php File Upload Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

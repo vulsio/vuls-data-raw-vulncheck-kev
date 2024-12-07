@@ -164,25 +164,11 @@
 			"clone_ssh_url": "git@github.com:r0xdeadbeef/CVE-2021-26855.git"
 		},
 		{
-			"xdb_id": "2a12da6c6076",
-			"xdb_url": "https://vulncheck.com/xdb/2a12da6c6076",
-			"date_added": "2022-06-27T08:07:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyLogon.git"
-		},
-		{
 			"xdb_id": "5a8c766c84ab",
 			"xdb_url": "https://vulncheck.com/xdb/5a8c766c84ab",
 			"date_added": "2021-03-06T09:15:55Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855.git"
-		},
-		{
-			"xdb_id": "ee22e208e22e",
-			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
-			"date_added": "2021-03-24T01:12:48Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
 		},
 		{
 			"xdb_id": "28a1acb64734",
@@ -211,6 +197,20 @@
 			"date_added": "2021-03-17T03:56:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
+		},
+		{
+			"xdb_id": "ee22e208e22e",
+			"xdb_url": "https://vulncheck.com/xdb/ee22e208e22e",
+			"date_added": "2021-03-24T01:12:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:praetorian-inc/proxylogon-exploit.git"
+		},
+		{
+			"xdb_id": "2a12da6c6076",
+			"xdb_url": "https://vulncheck.com/xdb/2a12da6c6076",
+			"date_added": "2022-06-27T08:07:48Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyLogon.git"
 		},
 		{
 			"xdb_id": "2036c9063358",
