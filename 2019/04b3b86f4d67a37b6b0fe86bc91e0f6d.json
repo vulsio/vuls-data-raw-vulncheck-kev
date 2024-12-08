@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:wudidwo/CVE-2017-12615-poc.git"
 		},
 		{
-			"xdb_id": "fbbcc0b93b98",
-			"xdb_url": "https://vulncheck.com/xdb/fbbcc0b93b98",
-			"date_added": "2024-08-29T06:38:16Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:lizhianyuguangming/TomcatScanPro.git"
-		},
-		{
 			"xdb_id": "5a1624c6df1b",
 			"xdb_url": "https://vulncheck.com/xdb/5a1624c6df1b",
 			"date_added": "2017-09-23T06:15:48Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:breaktoprotect/CVE-2017-12615.git"
+		},
+		{
+			"xdb_id": "fbbcc0b93b98",
+			"xdb_url": "https://vulncheck.com/xdb/fbbcc0b93b98",
+			"date_added": "2024-08-29T06:38:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:lizhianyuguangming/TomcatScanPro.git"
 		},
 		{
 			"xdb_id": "6889df0c7813",
@@ -414,6 +414,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-03&host_type=src&vulnerability=cve-2017-12615",
 			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-07&host_type=src&vulnerability=cve-2017-12615",
+			"date_added": "2024-12-07T00:00:00Z"
 		},
 		{
 			"url": "https://www.alibabacloud.com/blog/threat-alert-multiple-cryptocurrency-miner-botnets-start-to-exploit-the-new-thinkphp-vulnerability_594369",

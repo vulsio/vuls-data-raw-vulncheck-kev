@@ -407,6 +407,10 @@
 			"date_added": "2024-12-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-07&host_type=src&vulnerability=cve-2021-24762",
+			"date_added": "2024-12-07T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/recent-exploits-network-security-trends/",
 			"date_added": "2022-08-19T00:00:00Z"
 		}
