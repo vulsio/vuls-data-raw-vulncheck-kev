@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:binaryninja/CVE-2024-23334.git"
 		},
 		{
-			"xdb_id": "f1d001911304",
-			"xdb_url": "https://vulncheck.com/xdb/f1d001911304",
-			"date_added": "2024-03-19T16:28:56Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:jhonnybonny/CVE-2024-23334.git"
-		},
-		{
 			"xdb_id": "a3696a1d17bf",
 			"xdb_url": "https://vulncheck.com/xdb/a3696a1d17bf",
 			"date_added": "2024-09-08T10:37:29Z",
@@ -64,6 +57,20 @@
 			"date_added": "2024-11-07T21:37:05Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Pylonet/CVE-2024-23334.git"
+		},
+		{
+			"xdb_id": "f1d001911304",
+			"xdb_url": "https://vulncheck.com/xdb/f1d001911304",
+			"date_added": "2024-03-19T16:28:56Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jhonnybonny/CVE-2024-23334.git"
+		},
+		{
+			"xdb_id": "f2c31f560411",
+			"xdb_url": "https://vulncheck.com/xdb/f2c31f560411",
+			"date_added": "2024-12-09T06:51:13Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Betan423/CVE-2024-23334-PoC.git"
 		},
 		{
 			"xdb_id": "e5449a962b26",
