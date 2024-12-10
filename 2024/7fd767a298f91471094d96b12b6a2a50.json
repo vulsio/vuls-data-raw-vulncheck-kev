@@ -1,0 +1,19 @@
+{
+	"vendorProject": "DropBox Sign",
+	"product": "DropBox Sign",
+	"shortDescription": "User Interface (UI) Misrepresentation of Critical Information vulnerability in DropBox Sign(HelloSign) allows Content Spoofing. Displayed version does not show the layer flattened version, once download, If printed (e.g. via Google Chrome -> Examine the print preview): Will render the vulnerability only, not all layers are flattened. This issue affects DropBox Sign(HelloSign): through 2024-12-04.",
+	"vulnerabilityName": "DropBox Sign Flattened Layer Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-52270"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-52270",
+			"date_added": "2024-12-05T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-05T00:00:00Z"
+}
