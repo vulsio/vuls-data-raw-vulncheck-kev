@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2021-21389"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "61b950ff1d05",
+			"xdb_url": "https://vulncheck.com/xdb/61b950ff1d05",
+			"date_added": "2024-12-09T20:44:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mynameSumin/CVE-2021-21389.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2023-11-29&host_type=src&vulnerability=cve-2021-21389",

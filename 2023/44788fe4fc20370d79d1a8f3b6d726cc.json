@@ -318,18 +318,18 @@
 			"clone_ssh_url": "git@github.com:VictoriousKnight/CVE-2023-38831_Exploit.git"
 		},
 		{
-			"xdb_id": "3e5e3d32361a",
-			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
-			"date_added": "2023-08-25T09:44:08Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
-		},
-		{
 			"xdb_id": "f3b016e52591",
 			"xdb_url": "https://vulncheck.com/xdb/f3b016e52591",
 			"date_added": "2023-08-24T16:03:07Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:BoredHackerBlog/winrar_CVE-2023-38831_lazy_poc.git"
+		},
+		{
+			"xdb_id": "3e5e3d32361a",
+			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
+			"date_added": "2023-08-25T09:44:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -576,6 +576,10 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Securitysituation/IT-Security-Situation-in-Germany-2024.pdf",
+			"date_added": "2024-11-22T00:00:00Z"
 		},
 		{
 			"url": "https://medium.com/@knownsec404team/unveiling-the-past-and-present-of-apt-k-47-weapon-asyncshell-5a98f75c2d68",

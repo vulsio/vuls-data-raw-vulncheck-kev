@@ -73,18 +73,18 @@
 			"clone_ssh_url": "git@github.com:horizon3ai/proxyshell.git"
 		},
 		{
-			"xdb_id": "e3d11e8fb280",
-			"xdb_url": "https://vulncheck.com/xdb/e3d11e8fb280",
-			"date_added": "2021-08-16T17:59:41Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Udyz/proxyshell-auto.git"
-		},
-		{
 			"xdb_id": "fb5181ef3b37",
 			"xdb_url": "https://vulncheck.com/xdb/fb5181ef3b37",
 			"date_added": "2022-06-29T12:37:31Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:kh4sh3i/ProxyShell.git"
+		},
+		{
+			"xdb_id": "e3d11e8fb280",
+			"xdb_url": "https://vulncheck.com/xdb/e3d11e8fb280",
+			"date_added": "2021-08-16T17:59:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Udyz/proxyshell-auto.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
