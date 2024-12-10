@@ -17,11 +17,11 @@
 			"clone_ssh_url": "git@github.com:synacktiv/CVE-2019-8942.git"
 		},
 		{
-			"xdb_id": "7dbb48bd4e40",
-			"xdb_url": "https://vulncheck.com/xdb/7dbb48bd4e40",
+			"xdb_id": "5a4449db45fb",
+			"xdb_url": "https://vulncheck.com/xdb/5a4449db45fb",
 			"date_added": "2021-02-01T12:47:28Z",
 			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:v0lck3r/CVE-2019-8943.git"
+			"clone_ssh_url": "git@github.com:oussama-rahali/CVE-2019-8943.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

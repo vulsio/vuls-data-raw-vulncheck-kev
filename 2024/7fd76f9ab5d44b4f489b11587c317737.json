@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "1154ab034311",
-			"xdb_url": "https://vulncheck.com/xdb/1154ab034311",
-			"date_added": "2024-10-24T04:01:03Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:bartfroklage/CVE-2024-37383-POC.git"
-		},
-		{
 			"xdb_id": "ed3b62fcf757",
 			"xdb_url": "https://vulncheck.com/xdb/ed3b62fcf757",
 			"date_added": "2024-11-03T07:16:46Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:amirzargham/CVE-2024-37383-exploit.git"
+		},
+		{
+			"xdb_id": "1154ab034311",
+			"xdb_url": "https://vulncheck.com/xdb/1154ab034311",
+			"date_added": "2024-10-24T04:01:03Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:bartfroklage/CVE-2024-37383-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

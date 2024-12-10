@@ -10,11 +10,11 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "46f00e7bfdba",
-			"xdb_url": "https://vulncheck.com/xdb/46f00e7bfdba",
+			"xdb_id": "0959a1e968fc",
+			"xdb_url": "https://vulncheck.com/xdb/0959a1e968fc",
 			"date_added": "2020-12-18T22:53:16Z",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:ZwCreatePhoton/CVE-2019-0752.git"
+			"clone_ssh_url": "git@github.com:edxsh/CVE-2019-0752.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
