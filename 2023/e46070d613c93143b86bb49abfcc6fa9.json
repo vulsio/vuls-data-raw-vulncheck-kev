@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2017-7921-EXPLOIT.git"
 		},
 		{
-			"xdb_id": "d68843daf860",
-			"xdb_url": "https://vulncheck.com/xdb/d68843daf860",
-			"date_added": "2024-02-02T03:27:31Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:yousouf-Tasfin/cve-2017-7921-Mass-Exploit.git"
-		},
-		{
 			"xdb_id": "d79e9541cde2",
 			"xdb_url": "https://vulncheck.com/xdb/d79e9541cde2",
 			"date_added": "2024-07-02T11:47:35Z",
@@ -99,6 +92,13 @@
 			"date_added": "2021-01-29T16:08:35Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor.git"
+		},
+		{
+			"xdb_id": "d68843daf860",
+			"xdb_url": "https://vulncheck.com/xdb/d68843daf860",
+			"date_added": "2024-02-02T03:27:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:yousouf-Tasfin/cve-2017-7921-Mass-Exploit.git"
 		},
 		{
 			"xdb_id": "eec829707014",
