@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:Pai-Po/CVE-2021-1732.git"
 		},
 		{
-			"xdb_id": "09740e97aa0d",
-			"xdb_url": "https://vulncheck.com/xdb/09740e97aa0d",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "f72c131deebb",
 			"xdb_url": "https://vulncheck.com/xdb/f72c131deebb",
 			"date_added": "2021-03-05T02:11:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2021-1732-Exploit.git"
+		},
+		{
+			"xdb_id": "09740e97aa0d",
+			"xdb_url": "https://vulncheck.com/xdb/09740e97aa0d",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "18e0b48f69bd",

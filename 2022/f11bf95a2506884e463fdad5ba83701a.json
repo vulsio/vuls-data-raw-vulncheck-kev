@@ -931,6 +931,10 @@
 			"date_added": "2024-12-09T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-10&host_type=src&vulnerability=cve-2022-26352",
+			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
 			"url": "https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/",
 			"date_added": "2022-07-14T00:00:00Z"
 		},

@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:jaychouzzk/CVE-2019-0193-exp.git"
 		},
 		{
-			"xdb_id": "c6f3730bd8f0",
-			"xdb_url": "https://vulncheck.com/xdb/c6f3730bd8f0",
-			"date_added": "2019-08-12T07:17:21Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:1135/solr_exploit.git"
-		},
-		{
 			"xdb_id": "0ff186cb197f",
 			"xdb_url": "https://vulncheck.com/xdb/0ff186cb197f",
 			"date_added": "2019-08-09T06:27:39Z",
@@ -36,6 +29,13 @@
 			"date_added": "2022-09-13T08:38:30Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:freeFV/ApacheSolrRCE.git"
+		},
+		{
+			"xdb_id": "c6f3730bd8f0",
+			"xdb_url": "https://vulncheck.com/xdb/c6f3730bd8f0",
+			"date_added": "2019-08-12T07:17:21Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:1135/solr_exploit.git"
 		},
 		{
 			"xdb_id": "9ca69682db00",
