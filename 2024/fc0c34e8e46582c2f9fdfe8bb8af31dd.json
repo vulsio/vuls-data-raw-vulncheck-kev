@@ -13,6 +13,14 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://api.msrc.microsoft.com/cvrf/2024-Dec?api-version=2020",
+			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49138",
+			"date_added": "2024-12-10T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-31T00:00:00Z",
