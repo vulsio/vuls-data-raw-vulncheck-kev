@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:smokeintheshell/CVE-2023-20198.git"
 		},
 		{
-			"xdb_id": "7cec6c4757e7",
-			"xdb_url": "https://vulncheck.com/xdb/7cec6c4757e7",
-			"date_added": "2022-04-19T08:58:42Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Ostorlab/known_exploited_vulnerbilities_detectors.git"
-		},
-		{
 			"xdb_id": "6628d3a046f1",
 			"xdb_url": "https://vulncheck.com/xdb/6628d3a046f1",
 			"date_added": "2024-11-22T04:10:28Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-20198-poc.git"
+		},
+		{
+			"xdb_id": "7cec6c4757e7",
+			"xdb_url": "https://vulncheck.com/xdb/7cec6c4757e7",
+			"date_added": "2022-04-19T08:58:42Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Ostorlab/known_exploited_vulnerbilities_detectors.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1638,6 +1638,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-08&host_type=src&vulnerability=cve-2023-20198",
 			"date_added": "2024-12-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-09&host_type=src&vulnerability=cve-2023-20198",
+			"date_added": "2024-12-09T00:00:00Z"
 		},
 		{
 			"url": "https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/",

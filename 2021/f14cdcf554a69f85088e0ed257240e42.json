@@ -1587,6 +1587,10 @@
 			"date_added": "2024-12-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-09&host_type=src&vulnerability=cve-2017-18368",
+			"date_added": "2024-12-09T00:00:00Z"
+		},
+		{
 			"url": "https://cybersecurity.att.com/blogs/labs-research/att-alien-labs-finds-new-golang-malwarebotenago-targeting-millions-of-routers-and-iot-devices-with-more-than-30-exploits",
 			"date_added": "2021-11-11T00:00:00Z"
 		},

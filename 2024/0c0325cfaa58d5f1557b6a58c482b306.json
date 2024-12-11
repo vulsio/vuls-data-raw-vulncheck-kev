@@ -754,6 +754,10 @@
 			"date_added": "2024-12-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-09&host_type=src&vulnerability=cve-2024-22024",
+			"date_added": "2024-12-09T00:00:00Z"
+		},
+		{
 			"url": "https://www.wiz.io/blog/ivanti-vulnerabilities-cve-2023-46805-cve-2024-21887-cve-2024-21888-and-cve-2024-21893",
 			"date_added": "2024-02-06T00:00:00Z"
 		},
