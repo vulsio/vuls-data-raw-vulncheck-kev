@@ -17,6 +17,10 @@
 		{
 			"url": "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/24968",
 			"date_added": "2024-11-18T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/Vulnerability+Symbiosis+vSpheres+CVE202438812+and+CVE202438813+Guest+Diary/31510/",
+			"date_added": "2024-12-11T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-11T00:00:00Z",

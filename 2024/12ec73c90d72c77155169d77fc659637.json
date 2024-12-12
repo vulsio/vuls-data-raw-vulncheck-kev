@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-35286"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.greynoise.io/blog/from-poc-to-attacker-interest-in-hours-real-time-insights-into-mitel-micollab-vulnerabilities",
+			"date_added": "2024-12-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-10T00:00:00Z"
+}
