@@ -1,0 +1,19 @@
+{
+	"vendorProject": "CodeChecker",
+	"product": "CodeChecker",
+	"shortDescription": "CodeChecker is an analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy. Authentication bypass occurs when the API URL ends with Authentication. This bypass allows superuser access to all API endpoints other than Authentication. These endpoints include the ability to add, edit, and remove products, among others. All endpoints, apart from the /Authentication is affected by the vulnerability. This issue affects CodeChecker: through 6.24.1.",
+	"vulnerabilityName": "CodeChecker API URL Authentication Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-10081"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-10&host_type=src&vulnerability=cve-2024-10081",
+			"date_added": "2024-12-10T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-10T00:00:00Z"
+}

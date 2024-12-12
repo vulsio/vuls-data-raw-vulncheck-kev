@@ -29,6 +29,20 @@
 			"date_added": "2024-11-19T17:26:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-9474.git"
+		},
+		{
+			"xdb_id": "a6c35ab80c45",
+			"xdb_url": "https://vulncheck.com/xdb/a6c35ab80c45",
+			"date_added": "2024-12-11T18:13:32Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC.git"
+		},
+		{
+			"xdb_id": "633ea1c42a8f",
+			"xdb_url": "https://vulncheck.com/xdb/633ea1c42a8f",
+			"date_added": "2024-12-11T03:10:41Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:coskper-papa/PAN-OS_CVE-2024-9474.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

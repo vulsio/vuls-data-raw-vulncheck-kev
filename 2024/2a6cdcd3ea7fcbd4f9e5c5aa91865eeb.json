@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "ThemeHunk",
+	"product": "Hunk Companion Plugin",
+	"shortDescription": "A vulnerability is present in the Hunk Companion plugin that allows installation and activation of plugins from the Wordpress.org repository via an unauthenticated POST request.",
+	"vulnerabilityName": "Hunk Companion Plugin Unauthenticated POST Request Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -1,0 +1,39 @@
+{
+	"vendorProject": "Cleo",
+	"product": "Harmony/VLTrader/LexiCom",
+	"shortDescription": "In Cleo Harmony before 5.8.0.21, VLTrader before 5.8.0.21, and LexiCom before 5.8.0.21, there is an unrestricted file upload and download that could lead to remote code execution.",
+	"vulnerabilityName": "Cleo Unrestricted File Upload and Download Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-50623"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cyberplace.social/@GossiTheDog/113628339890303857",
+			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://labs.watchtowr.com/cleo-cve-2024-50623/",
+			"date_added": "2024-12-11T00:00:00Z"
+		},
+		{
+			"url": "https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild",
+			"date_added": "2024-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/",
+			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://infosec.exchange/@SophosXOps/113631363563332166",
+			"date_added": "2024-12-11T00:00:00Z"
+		},
+		{
+			"url": "https://x.com/watchtowrcyber/status/1866838624131793215",
+			"date_added": "2024-12-11T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-09T00:00:00Z"
+}
