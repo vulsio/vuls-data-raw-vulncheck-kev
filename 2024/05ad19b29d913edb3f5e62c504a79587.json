@@ -624,6 +624,10 @@
 			"date_added": "2024-12-07T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-11&host_type=src&vulnerability=cve-2024-1212",
+			"date_added": "2024-12-11T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortiguard.com/outbreak-alert/kemp-loadmaster-os-command-injection",
 			"date_added": "2024-11-20T00:00:00Z"
 		}

@@ -150,13 +150,6 @@
 			"clone_ssh_url": "git@github.com:gokul-ramesh/text4shell-exploit.git"
 		},
 		{
-			"xdb_id": "5c158c054bc7",
-			"xdb_url": "https://vulncheck.com/xdb/5c158c054bc7",
-			"date_added": "2022-10-18T13:53:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ClickCyber/cve-2022-42889.git"
-		},
-		{
 			"xdb_id": "94c887a105d9",
 			"xdb_url": "https://vulncheck.com/xdb/94c887a105d9",
 			"date_added": "2022-10-17T18:50:36Z",
@@ -192,13 +185,6 @@
 			"clone_ssh_url": "git@github.com:gustanini/CVE-2022-42889-Text4Shell-POC.git"
 		},
 		{
-			"xdb_id": "be7e0fe71d54",
-			"xdb_url": "https://vulncheck.com/xdb/be7e0fe71d54",
-			"date_added": "2022-10-18T09:58:00Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:karthikuj/cve-2022-42889-text4shell-docker.git"
-		},
-		{
 			"xdb_id": "2113b466a56a",
 			"xdb_url": "https://vulncheck.com/xdb/2113b466a56a",
 			"date_added": "2022-10-19T11:49:08Z",
@@ -213,11 +199,18 @@
 			"clone_ssh_url": "git@github.com:cryxnet/CVE-2022-42889-RCE.git"
 		},
 		{
-			"xdb_id": "62c7fee2481d",
-			"xdb_url": "https://vulncheck.com/xdb/62c7fee2481d",
-			"date_added": "2022-11-10T10:18:06Z",
+			"xdb_id": "5c158c054bc7",
+			"xdb_url": "https://vulncheck.com/xdb/5c158c054bc7",
+			"date_added": "2022-10-18T13:53:55Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitlab.com:ndanhdien98/text4shell-poc.git"
+			"clone_ssh_url": "git@github.com:ClickCyber/cve-2022-42889.git"
+		},
+		{
+			"xdb_id": "be7e0fe71d54",
+			"xdb_url": "https://vulncheck.com/xdb/be7e0fe71d54",
+			"date_added": "2022-10-18T09:58:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:karthikuj/cve-2022-42889-text4shell-docker.git"
 		},
 		{
 			"xdb_id": "c405fdc828c1",
@@ -225,6 +218,13 @@
 			"date_added": "2023-03-14T07:55:48Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitlab.com:korteke/CVE-2022-42889-POC.git"
+		},
+		{
+			"xdb_id": "62c7fee2481d",
+			"xdb_url": "https://vulncheck.com/xdb/62c7fee2481d",
+			"date_added": "2022-11-10T10:18:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:ndanhdien98/text4shell-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
