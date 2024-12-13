@@ -143,13 +143,6 @@
 			"clone_ssh_url": "git@github.com:zgimszhd61/CVE-2024-23897-poc.git"
 		},
 		{
-			"xdb_id": "e7f68889c96b",
-			"xdb_url": "https://vulncheck.com/xdb/e7f68889c96b",
-			"date_added": "2024-01-26T08:02:00Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:binganao/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "9fd38a912fe1",
 			"xdb_url": "https://vulncheck.com/xdb/9fd38a912fe1",
 			"date_added": "2024-02-07T15:07:37Z",
@@ -220,13 +213,6 @@
 			"clone_ssh_url": "git@github.com:godylockz/CVE-2024-23897.git"
 		},
 		{
-			"xdb_id": "ea61ab6382c6",
-			"xdb_url": "https://vulncheck.com/xdb/ea61ab6382c6",
-			"date_added": "2024-01-26T09:44:32Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "20c72b87534c",
 			"xdb_url": "https://vulncheck.com/xdb/20c72b87534c",
 			"date_added": "2024-12-08T08:13:34Z",
@@ -234,11 +220,18 @@
 			"clone_ssh_url": "git@github.com:D1se0/CVE-2024-23897-Vulnerabilidad-Jenkins.git"
 		},
 		{
-			"xdb_id": "5f45754388ab",
-			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
-			"date_added": "2024-01-29T19:47:17+08:00",
+			"xdb_id": "ea61ab6382c6",
+			"xdb_url": "https://vulncheck.com/xdb/ea61ab6382c6",
+			"date_added": "2024-01-26T09:44:32Z",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
+			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "e7f68889c96b",
+			"xdb_url": "https://vulncheck.com/xdb/e7f68889c96b",
+			"date_added": "2024-01-26T08:02:00Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:binganao/CVE-2024-23897.git"
 		},
 		{
 			"xdb_id": "0450095821bb",
@@ -246,6 +239,13 @@
 			"date_added": "2024-01-29T19:45:24+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:river3587/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "5f45754388ab",
+			"xdb_url": "https://vulncheck.com/xdb/5f45754388ab",
+			"date_added": "2024-01-29T19:47:17+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:river3587/h4x0r-dz-cve-2024-23897.git"
 		},
 		{
 			"xdb_id": "f520f4462657",
