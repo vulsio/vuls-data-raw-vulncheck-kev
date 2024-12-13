@@ -1,8 +1,8 @@
 {
 	"vendorProject": "ui",
-	"product": "unifi",
+	"product": "unifi_network_application",
 	"shortDescription": "A backup file vulnerability found in UniFi applications (Version 7.3.83 and earlier) running on Linux operating systems allows application administrators to execute malicious commands on the host device being restored.",
-	"vulnerabilityName": "ui unifi Improper Neutralization of Special Elements used in a Command ('Command Injection')",
+	"vulnerabilityName": "ui unifi_network_application Improper Neutralization of Special Elements used in a Command ('Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

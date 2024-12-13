@@ -80,18 +80,18 @@
 			"clone_ssh_url": "git@github.com:vdohney/keepass-password-dumper.git"
 		},
 		{
-			"xdb_id": "21ffd01290ad",
-			"xdb_url": "https://vulncheck.com/xdb/21ffd01290ad",
-			"date_added": "2023-01-27T13:59:38Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Orange-Cyberdefense/KeePwn.git"
-		},
-		{
 			"xdb_id": "dc3808e0cacd",
 			"xdb_url": "https://vulncheck.com/xdb/dc3808e0cacd",
 			"date_added": "2024-11-19T13:08:51Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:SarahZimmermann-Schmutzler/exploit_keepass.git"
+		},
+		{
+			"xdb_id": "21ffd01290ad",
+			"xdb_url": "https://vulncheck.com/xdb/21ffd01290ad",
+			"date_added": "2023-01-27T13:59:38Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Orange-Cyberdefense/KeePwn.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

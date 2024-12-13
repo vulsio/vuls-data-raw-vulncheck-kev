@@ -180,6 +180,10 @@
 		{
 			"url": "https://www4.orangecyberdefense.com/security-navigator-2025-en",
 			"date_added": "2024-12-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/scanning-for-credentials-and-botpoke-changes-ips-again",
+			"date_added": "2024-12-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-01-03T00:00:00Z",
