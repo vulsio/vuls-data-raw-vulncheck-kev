@@ -903,6 +903,10 @@
 			"date_added": "2024-12-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-12&host_type=src&vulnerability=cve-2018-11759",
+			"date_added": "2024-12-12T00:00:00Z"
+		},
+		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO_CTRL_Report_Q3_2024.pdf",
 			"date_added": "2024-11-20T00:00:00Z"
 		}

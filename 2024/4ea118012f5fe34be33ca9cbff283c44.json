@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "avalanche",
+	"shortDescription": "XXE in SmartDeviceServer in Ivanti Avalanche 6.3.1 allows a remote unauthenticated attacker to read arbitrary files on the server.",
+	"vulnerabilityName": "Ivanti avalanche Improper Restriction of XML External Entity Reference",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-38653"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-12&host_type=src&vulnerability=cve-2024-38653",
+			"date_added": "2024-12-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-12T00:00:00Z"
+}
