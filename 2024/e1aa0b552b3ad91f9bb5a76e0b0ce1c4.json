@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Tanner Record",
+	"product": "Sign In With Google plugin for WordPress",
+	"shortDescription": "The Sign In With Google plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 1.8.0. This is due to the 'authenticate_user' user function not implementing sufficient null value checks when setting the access token and user information. This makes it possible for unauthenticated attackers to log in as the first user who has signed in using Google OAuth, which could be the site administrator.",
+	"vulnerabilityName": "Sign In With Google plugin for WordPress authenticate_user Authentication Bypass Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-11015"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/wordpress/plugin/sign-in-with-google/vulnerability/wordpress-sign-in-with-google-plugin-1-8-0-authentication-bypass-in-authenticate-user-vulnerability",
+			"date_added": "2024-12-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-12T00:00:00Z"
+}
