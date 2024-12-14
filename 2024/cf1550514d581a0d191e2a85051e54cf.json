@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-11015"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://patchstack.com/database/wordpress/plugin/sign-in-with-google/vulnerability/wordpress-sign-in-with-google-plugin-1-8-0-authentication-bypass-in-authenticate-user-vulnerability",
+			"date_added": "2024-12-12T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-12T00:00:00Z"
+}

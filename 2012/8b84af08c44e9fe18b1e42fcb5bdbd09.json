@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Linux",
 	"product": "Kernel",
-	"shortDescription": "The mem_write function in the Linux kernel before 3.2.2, when ASLR is disabled, does not properly check permissions when writing to /proc/<pid>/mem, which allows local users to gain privileges by modifying process memory, as demonstrated by Mempodipper.",
+	"shortDescription": "The mem_write function in the Linux kernel before 3.2.2, when ASLR is disabled, does not properly check permissions when writing to /proc//mem, which allows local users to gain privileges by modifying process memory, as demonstrated by Mempodipper.",
 	"vulnerabilityName": "Linux kernel before 3.2.2 Process Memory Modification Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",

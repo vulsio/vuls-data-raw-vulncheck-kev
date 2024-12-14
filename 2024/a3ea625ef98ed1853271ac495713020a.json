@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Zyxel",
-	"product": "zld_firmware",
+	"product": "zld",
 	"shortDescription": "A command injection vulnerability in the IPSec VPN feature of Zyxel ATP series firmware versions from V4.32 through V5.38, USG FLEX series firmware versions from V4.50 through V5.38, USG FLEX 50(W) series firmware versions from V4.16 through V5.38, and USG20(W)-VPN series firmware versions from V4.16 through V5.38 could allow an unauthenticated attacker to execute some OS commands on an affected device by sending a crafted username to the vulnerable device. Note that this attack could be successful only if the device was configured in User-Based-PSK authentication mode and a valid user with a long username exceeding 28 characters exists.",
-	"vulnerabilityName": "Zyxel zld_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"vulnerabilityName": "Zyxel zld Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
@@ -17,6 +17,10 @@
 		{
 			"url": "https://www.cyfirma.com/research/investigation-into-helldown-ransomware/",
 			"date_added": "2024-11-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.cyfirma.com/research/tracking-ransomware-november-2024/",
+			"date_added": "2024-12-10T00:00:00Z"
 		}
 	],
 	"date_added": "2024-11-25T00:00:00Z"

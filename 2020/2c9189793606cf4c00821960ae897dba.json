@@ -199,6 +199,13 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
+			"xdb_id": "a788d7636e90",
+			"xdb_url": "https://vulncheck.com/xdb/a788d7636e90",
+			"date_added": "2021-11-15T22:01:30+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:xiaobaiyimei0/CVE-2020-0796-PoC.git"
+		},
+		{
 			"xdb_id": "1e6f8ca038f7",
 			"xdb_url": "https://vulncheck.com/xdb/1e6f8ca038f7",
 			"date_added": "2020-08-18T14:49:01+08:00",
@@ -295,13 +302,6 @@
 			"date_added": "2020-04-01T14:05:50+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2020-0796.git"
-		},
-		{
-			"xdb_id": "a788d7636e90",
-			"xdb_url": "https://vulncheck.com/xdb/a788d7636e90",
-			"date_added": "2021-11-15T22:01:30+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:xiaobaiyimei0/CVE-2020-0796-PoC.git"
 		},
 		{
 			"xdb_id": "04badb202b58",

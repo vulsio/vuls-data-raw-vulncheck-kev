@@ -222,7 +222,7 @@
 		{
 			"xdb_id": "ad3e875990f5",
 			"xdb_url": "https://vulncheck.com/xdb/ad3e875990f5",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-10-14T14:45:47+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:wind-feather/cveliyongsnail2.0.git"
 		},

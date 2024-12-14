@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Microsoft",
 	"product": "Exchange Server",
-	"shortDescription": "<p>A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.</p>\n<p>An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user. Exploitation of the vulnerability requires an authenticated user in a certain Exchange role to be compromised.</p>\n<p>The security update addresses the vulnerability by correcting how Microsoft Exchange handles cmdlet arguments.</p>\n",
+	"shortDescription": "A remote code execution vulnerability exists in Microsoft Exchange server due to improper validation of cmdlet arguments.\nAn attacker who successfully exploited the vulnerability could run arbitrary code in the context of the System user. Exploitation of the vulnerability requires an authenticated user in a certain Exchange role to be compromised.\nThe security update addresses the vulnerability by correcting how Microsoft Exchange handles cmdlet arguments.\n",
 	"vulnerabilityName": "Microsoft Exchange Server Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",

@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Microsoft",
 	"product": "SharePoint",
-	"shortDescription": "<p>A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the SharePoint application pool and the SharePoint server farm account.</p>\n<p>Exploitation of this vulnerability requires that a user uploads a specially crafted SharePoint application package to an affected version of SharePoint.</p>\n<p>The security update addresses the vulnerability by correcting how SharePoint checks the source markup of application packages.</p>\n",
+	"shortDescription": "A remote code execution vulnerability exists in Microsoft SharePoint when the software fails to check the source markup of an application package. An attacker who successfully exploited the vulnerability could run arbitrary code in the context of the SharePoint application pool and the SharePoint server farm account.\nExploitation of this vulnerability requires that a user uploads a specially crafted SharePoint application package to an affected version of SharePoint.\nThe security update addresses the vulnerability by correcting how SharePoint checks the source markup of application packages.\n",
 	"vulnerabilityName": "Microsoft SharePoint Download of Code Without Integrity Check",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",

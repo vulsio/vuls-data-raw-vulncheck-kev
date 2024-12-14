@@ -332,6 +332,13 @@
 			"clone_ssh_url": "git@github.com:blasty/CVE-2021-3156.git"
 		},
 		{
+			"xdb_id": "4e52e6bd25cf",
+			"xdb_url": "https://vulncheck.com/xdb/4e52e6bd25cf",
+			"date_added": "2021-06-09T22:44:43+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3156.git"
+		},
+		{
 			"xdb_id": "e970e6dec7b1",
 			"xdb_url": "https://vulncheck.com/xdb/e970e6dec7b1",
 			"date_added": "2023-10-13T16:51:12+08:00",
@@ -386,13 +393,6 @@
 			"date_added": "2021-12-20T19:29:41+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "4e52e6bd25cf",
-			"xdb_url": "https://vulncheck.com/xdb/4e52e6bd25cf",
-			"date_added": "2021-06-09T22:44:43+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3156.git"
 		},
 		{
 			"xdb_id": "73a26a137f38",

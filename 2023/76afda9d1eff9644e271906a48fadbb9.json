@@ -1619,6 +1619,10 @@
 		{
 			"url": "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/2023-top-routinely-exploited-vulnerabilities",
 			"date_added": "2024-11-13T00:00:00Z"
+		},
+		{
+			"url": "https://blog.polyswarm.io/2024-recap-north-korean-threat-actor-activity",
+			"date_added": "2024-12-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-25T00:00:00Z",
