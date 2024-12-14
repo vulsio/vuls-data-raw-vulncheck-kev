@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:Zeyad-Azima/CVE-2024-27348.git"
 		},
 		{
-			"xdb_id": "486eb74db84b",
-			"xdb_url": "https://vulncheck.com/xdb/486eb74db84b",
-			"date_added": "2024-06-03T19:08:24Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2024-27348.git"
-		},
-		{
 			"xdb_id": "0817f891a615",
 			"xdb_url": "https://vulncheck.com/xdb/0817f891a615",
 			"date_added": "2024-06-12T08:14:39Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jakabakos/CVE-2024-27348-Apache-HugeGraph-RCE.git"
+		},
+		{
+			"xdb_id": "486eb74db84b",
+			"xdb_url": "https://vulncheck.com/xdb/486eb74db84b",
+			"date_added": "2024-06-03T19:08:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2024-27348.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -375,6 +375,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-12&host_type=src&vulnerability=cve-2024-27348",
 			"date_added": "2024-12-12T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-13&host_type=src&vulnerability=cve-2024-27348",
+			"date_added": "2024-12-13T00:00:00Z"
 		},
 		{
 			"url": "https://x.com/Shadowserver/status/1813117748005802470",

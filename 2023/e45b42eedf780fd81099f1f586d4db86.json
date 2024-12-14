@@ -634,6 +634,10 @@
 			"date_added": "2024-12-12T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-13&host_type=src&vulnerability=cve-2021-27850",
+			"date_added": "2024-12-13T00:00:00Z"
+		},
+		{
 			"url": "https://www.greynoise.io/blog/u-s-and-uk-warn-of-russian-cyber-threats-9-of-24-vulnerabilities-in-the-advisory-are-being-probed-right-now",
 			"date_added": "2024-10-17T00:00:00Z"
 		}
