@@ -45,11 +45,11 @@
 			"clone_ssh_url": "git@github.com:Maalfer/CVE-2024-10924-PoC.git"
 		},
 		{
-			"xdb_id": "0663a7f06bf8",
-			"xdb_url": "https://vulncheck.com/xdb/0663a7f06bf8",
-			"date_added": "2024-12-03T13:12:58Z",
+			"xdb_id": "1c53cd3c68d3",
+			"xdb_url": "https://vulncheck.com/xdb/1c53cd3c68d3",
+			"date_added": "2024-11-14T16:59:52Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Hunt3r850/CVE-2024-10924-Wordpress-Docker.git"
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-10924.git"
 		},
 		{
 			"xdb_id": "420953eef7a7",
@@ -66,11 +66,11 @@
 			"clone_ssh_url": "git@github.com:D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB.git"
 		},
 		{
-			"xdb_id": "1c53cd3c68d3",
-			"xdb_url": "https://vulncheck.com/xdb/1c53cd3c68d3",
-			"date_added": "2024-11-14T16:59:52Z",
+			"xdb_id": "0663a7f06bf8",
+			"xdb_url": "https://vulncheck.com/xdb/0663a7f06bf8",
+			"date_added": "2024-12-03T13:12:58Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-10924.git"
+			"clone_ssh_url": "git@github.com:Hunt3r850/CVE-2024-10924-Wordpress-Docker.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

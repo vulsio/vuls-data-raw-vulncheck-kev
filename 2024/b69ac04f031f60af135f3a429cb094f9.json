@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:jakabakos/CVE-2023-43208-mirth-connect-rce-poc.git"
 		},
 		{
-			"xdb_id": "467a9c5dfc03",
-			"xdb_url": "https://vulncheck.com/xdb/467a9c5dfc03",
-			"date_added": "2024-11-28T09:03:23Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Avento/CVE-2023-43208_Detection_PoC.git"
-		},
-		{
 			"xdb_id": "ee5e1ec1b051",
 			"xdb_url": "https://vulncheck.com/xdb/ee5e1ec1b051",
 			"date_added": "2024-03-15T12:03:51Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2023-43208-EXPLOIT.git"
+		},
+		{
+			"xdb_id": "467a9c5dfc03",
+			"xdb_url": "https://vulncheck.com/xdb/467a9c5dfc03",
+			"date_added": "2024-11-28T09:03:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Avento/CVE-2023-43208_Detection_PoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

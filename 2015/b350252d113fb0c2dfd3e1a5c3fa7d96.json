@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "eb4a799b8329",
-			"xdb_url": "https://vulncheck.com/xdb/eb4a799b8329",
-			"date_added": "2015-05-12T18:04:48Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:hfiref0x/CVE-2015-1701.git"
-		},
-		{
 			"xdb_id": "ee1abcca5405",
 			"xdb_url": "https://vulncheck.com/xdb/ee1abcca5405",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "eb4a799b8329",
+			"xdb_url": "https://vulncheck.com/xdb/eb4a799b8329",
+			"date_added": "2015-05-12T18:04:48Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:hfiref0x/CVE-2015-1701.git"
 		},
 		{
 			"xdb_id": "6505b117b7db",
