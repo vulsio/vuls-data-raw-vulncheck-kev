@@ -297,20 +297,6 @@
 			"clone_ssh_url": "git@github.com:reznok/Spring4Shell-POC.git"
 		},
 		{
-			"xdb_id": "5978e9609a96",
-			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
-			"date_added": "2023-01-29T01:11:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
-		},
-		{
-			"xdb_id": "f1130a964b4f",
-			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "30bd37a7b9c8",
 			"xdb_url": "https://vulncheck.com/xdb/30bd37a7b9c8",
 			"date_added": "2022-03-30T15:50:28Z",
@@ -323,6 +309,20 @@
 			"date_added": "2023-10-05T11:00:32Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
+		},
+		{
+			"xdb_id": "5978e9609a96",
+			"xdb_url": "https://vulncheck.com/xdb/5978e9609a96",
+			"date_added": "2023-01-29T01:11:21Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:AabyssZG/SpringBoot-Scan.git"
+		},
+		{
+			"xdb_id": "f1130a964b4f",
+			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
 			"xdb_id": "43e4620d8285",

@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "47c8692bb391",
-			"xdb_url": "https://vulncheck.com/xdb/47c8692bb391",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "0661e358e96a",
 			"xdb_url": "https://vulncheck.com/xdb/0661e358e96a",
 			"date_added": "2016-02-09T21:30:34Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:koczkatamas/CVE-2016-0051.git"
+		},
+		{
+			"xdb_id": "47c8692bb391",
+			"xdb_url": "https://vulncheck.com/xdb/47c8692bb391",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "3c19d2cac82d",

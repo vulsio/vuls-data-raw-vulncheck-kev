@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "aa836ed9f079",
-			"xdb_url": "https://vulncheck.com/xdb/aa836ed9f079",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "5ee1591742d9",
 			"xdb_url": "https://vulncheck.com/xdb/5ee1591742d9",
 			"date_added": "2017-03-15T17:16:55Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:zcgonvh/MS16-032.git"
+		},
+		{
+			"xdb_id": "aa836ed9f079",
+			"xdb_url": "https://vulncheck.com/xdb/aa836ed9f079",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
