@@ -136,11 +136,11 @@
 			"clone_ssh_url": "git@github.com:spareack/CVE-2023-22515-NSE.git"
 		},
 		{
-			"xdb_id": "d52d7fbd3322",
-			"xdb_url": "https://vulncheck.com/xdb/d52d7fbd3322",
+			"xdb_id": "bd7912683190",
+			"xdb_url": "https://vulncheck.com/xdb/bd7912683190",
 			"date_added": "2024-07-21T17:19:36Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Onedy1703/CVE-2023-22515.git"
+			"clone_ssh_url": "git@github.com:Onedy1703/CVE-2023-22515-Confluence.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

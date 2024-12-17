@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-11972"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "41faf4d7f8cf",
+			"xdb_url": "https://vulncheck.com/xdb/41faf4d7f8cf",
+			"date_added": "2024-12-15T23:54:15Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JunTakemura/exploit-CVE-2024-11972.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://wpscan.com/blog/unauthorized-plugin-installation-activation-in-hunk-companion/",

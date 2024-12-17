@@ -1,8 +1,8 @@
 {
 	"vendorProject": "JetBrains",
-	"product": "TeamCity",
-	"shortDescription": "Authentication bypass vulnerability in the web component of JetBrains TeamCity",
-	"vulnerabilityName": "JetBrains TeamCity Authentication Bypass",
+	"product": "teamcity",
+	"shortDescription": "In JetBrains TeamCity before 2023.11.4 path traversal allowing to perform limited admin actions  was possible",
+	"vulnerabilityName": "JetBrains teamcity Relative Path Traversal",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [

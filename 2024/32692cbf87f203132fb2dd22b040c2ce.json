@@ -10,6 +10,13 @@
 	],
 	"vulncheck_xdb": [
 		{
+			"xdb_id": "0dfb7d7bb580",
+			"xdb_url": "https://vulncheck.com/xdb/0dfb7d7bb580",
+			"date_added": "2024-12-16T13:25:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Alexandr-bit253/CVE-2024-49039.git"
+		},
+		{
 			"xdb_id": "b7425539e1cf",
 			"xdb_url": "https://vulncheck.com/xdb/b7425539e1cf",
 			"date_added": "2024-11-19T08:57:18Z",
