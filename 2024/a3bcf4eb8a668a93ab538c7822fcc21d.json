@@ -1,0 +1,27 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-53677"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "420179b31365",
+			"xdb_url": "https://vulncheck.com/xdb/420179b31365",
+			"date_added": "2024-12-17T02:22:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:yangyanglo/CVE-2024-53677.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://isc.sans.edu/diary/Exploit+attempts+inspired+by+recent+Struts2+File+Upload+Vulnerability+CVE202453677+CVE202350164/31520",
+			"date_added": "2024-12-15T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-15T00:00:00Z"
+}

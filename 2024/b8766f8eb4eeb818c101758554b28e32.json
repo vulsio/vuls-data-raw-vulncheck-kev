@@ -57,6 +57,14 @@
 		{
 			"url": "https://arcticwolf.com/resources/blog-uk/cleopatras-shadow-a-mass-exploitation-campaign-uk/",
 			"date_added": "2024-12-12T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/ac2Jji2r0E/cve-2024-50623#exploited-in-the-wild_9c3c0bdd-7a98-48de-a889-f351a2aec7cf",
+			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://darktrace.com/blog/cleo-file-transfer-vulnerability-patch-pitfalls-and-darktraces-detection-of-post-exploitation-activities",
+			"date_added": "2024-12-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-03T00:00:00Z",

@@ -1074,6 +1074,10 @@
 		{
 			"url": "https://securelist.com/exploits-and-vulnerabilities-q3-2024/114839/",
 			"date_added": "2024-12-06T00:00:00Z"
+		},
+		{
+			"url": "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22024.pdf",
+			"date_added": "2024-12-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-07-03T00:00:00Z",

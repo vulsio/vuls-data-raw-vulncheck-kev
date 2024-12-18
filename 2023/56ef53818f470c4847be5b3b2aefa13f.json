@@ -69,6 +69,10 @@
 		{
 			"url": "https://www.elastic.co/security-labs/katz-and-mouse-game",
 			"date_added": "2024-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.reliaquest.com/blog/using-captcha-for-compromise/",
+			"date_added": "2024-12-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-12-05T00:00:00Z",
