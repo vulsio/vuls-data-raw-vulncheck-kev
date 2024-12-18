@@ -1139,6 +1139,10 @@
 			"date_added": "2024-12-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-17&host_type=src&vulnerability=cve-2019-7256",
+			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
 			"url": "https://blog.radware.com/security/botnets/2020/05/whos-viktor-tracking-down-the-xtc-polaris-botnets/",
 			"date_added": "2020-05-07T00:00:00Z"
 		},

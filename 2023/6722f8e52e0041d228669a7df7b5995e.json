@@ -831,6 +831,10 @@
 			"date_added": "2024-12-13T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-17&host_type=src&vulnerability=cve-2021-28151",
+			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
 			"url": "https://blog.xlab.qianxin.com/mirai-tbot-en/",
 			"date_added": "2024-01-03T00:00:00Z"
 		},

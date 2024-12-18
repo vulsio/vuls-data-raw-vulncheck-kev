@@ -1139,6 +1139,10 @@
 			"date_added": "2024-12-13T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-17&host_type=src&vulnerability=cve-2018-16763",
+			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
 			"url": "https://cybersecurity.att.com/blogs/labs-research/rapidly-evolving-iot-malware-enemybot-now-targeting-content-management-system-servers",
 			"date_added": "2022-05-26T00:00:00Z"
 		},

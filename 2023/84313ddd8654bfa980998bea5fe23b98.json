@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:tiepologian/CVE-2023-23397.git"
 		},
 		{
-			"xdb_id": "8983cd572882",
-			"xdb_url": "https://vulncheck.com/xdb/8983cd572882",
-			"date_added": "2023-03-18T21:14:21Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:djackreuter/CVE-2023-23397-PoC.git"
-		},
-		{
 			"xdb_id": "645d3afa21d8",
 			"xdb_url": "https://vulncheck.com/xdb/645d3afa21d8",
 			"date_added": "2023-10-26T09:26:32Z",
@@ -141,6 +134,13 @@
 			"date_added": "2023-03-16T19:43:39Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:api0cradle/CVE-2023-23397-POC-Powershell.git"
+		},
+		{
+			"xdb_id": "8983cd572882",
+			"xdb_url": "https://vulncheck.com/xdb/8983cd572882",
+			"date_added": "2023-03-18T21:14:21Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:djackreuter/CVE-2023-23397-PoC.git"
 		},
 		{
 			"xdb_id": "fe69ab5a1930",

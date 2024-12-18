@@ -15,6 +15,14 @@
 			"date_added": "2024-12-17T00:00:00Z"
 		},
 		{
+			"url": "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware",
+			"date_added": "2024-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.threatdown.com/blog/cleo-the-next-moveit-and-goanywhere/",
+			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
 			"url": "https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/",
 			"date_added": "2024-12-10T00:00:00Z"
 		}

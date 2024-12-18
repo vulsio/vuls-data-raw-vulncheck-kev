@@ -31,6 +31,18 @@
 			"date_added": "2024-12-11T00:00:00Z"
 		},
 		{
+			"url": "https://threats.wiz.io/all-incidents/cleo-vulnerabilities-targeted-by-cl0p-ransomware",
+			"date_added": "2024-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/threat-signal-report/5602/cleo-multiple-products-unrestricted-file-upload-vulnerability-cve-2024-50623",
+			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.threatdown.com/blog/cleo-the-next-moveit-and-goanywhere/",
+			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
 			"url": "https://www.huntress.com/blog/threat-advisory-oh-no-cleo-cleo-software-actively-being-exploited-in-the-wild",
 			"date_added": "2024-12-09T00:00:00Z"
 		},
