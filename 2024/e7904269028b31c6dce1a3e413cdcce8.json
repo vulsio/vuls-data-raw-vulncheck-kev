@@ -1,0 +1,16 @@
+{
+	"vendorProject": "Reolink",
+	"product": "RLC-410W IP Camera",
+	"shortDescription": "Reolink RLC-410W IP cameras contain an authenticated OS command injection vulnerability in the device network settings functionality.",
+	"vulnerabilityName": "Reolink RLC-410W IP Camera OS Command Injection Vulnerability ",
+	"required_action": "The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue product utilization if a current mitigation is unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-40407"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [],
+	"dueDate": "2025-01-08T00:00:00Z",
+	"cisa_date_added": "2024-12-18T00:00:00Z",
+	"date_added": "2024-12-18T00:00:00Z"
+}

@@ -129,34 +129,6 @@
 			"clone_ssh_url": "git@github.com:rip1s/CVE-2017-11882.git"
 		},
 		{
-			"xdb_id": "f148343ee61b",
-			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
-			"date_added": "2023-11-30T18:12:58+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
-		},
-		{
-			"xdb_id": "ce6706b8e64f",
-			"xdb_url": "https://vulncheck.com/xdb/ce6706b8e64f",
-			"date_added": "2019-11-19T09:33:21+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882.git"
-		},
-		{
-			"xdb_id": "a5f8a5153c43",
-			"xdb_url": "https://vulncheck.com/xdb/a5f8a5153c43",
-			"date_added": "2020-08-08T10:14:29+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2017-11882-metasploit.git"
-		},
-		{
-			"xdb_id": "e3d7500258d5",
-			"xdb_url": "https://vulncheck.com/xdb/e3d7500258d5",
-			"date_added": "2022-01-11T22:49:55+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_embedi/CVE-2017-11882.git"
-		},
-		{
 			"xdb_id": "ea0b976f167f",
 			"xdb_url": "https://vulncheck.com/xdb/ea0b976f167f",
 			"date_added": "2021-10-17T00:01:07+08:00",
@@ -192,6 +164,34 @@
 			"clone_ssh_url": "git@gitee.com:aston_mation/CVE-2017-11882.git"
 		},
 		{
+			"xdb_id": "1ac59b46e457",
+			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
+			"date_added": "2022-01-11T22:45:31+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "5df1c82ae620",
+			"xdb_url": "https://vulncheck.com/xdb/5df1c82ae620",
+			"date_added": "2020-04-30T10:39:14+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "ce6706b8e64f",
+			"xdb_url": "https://vulncheck.com/xdb/ce6706b8e64f",
+			"date_added": "2019-11-19T09:33:21+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:chenM1020/CVE-2017-11882.git"
+		},
+		{
+			"xdb_id": "a5f8a5153c43",
+			"xdb_url": "https://vulncheck.com/xdb/a5f8a5153c43",
+			"date_added": "2020-08-08T10:14:29+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2017-11882-metasploit.git"
+		},
+		{
 			"xdb_id": "40468e8cc38a",
 			"xdb_url": "https://vulncheck.com/xdb/40468e8cc38a",
 			"date_added": "2021-01-20T11:25:39+08:00",
@@ -206,18 +206,18 @@
 			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882-17k.git"
 		},
 		{
-			"xdb_id": "1ac59b46e457",
-			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
-			"date_added": "2022-01-11T22:45:31+08:00",
+			"xdb_id": "f148343ee61b",
+			"xdb_url": "https://vulncheck.com/xdb/f148343ee61b",
+			"date_added": "2023-11-30T18:12:58+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
+			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
 		},
 		{
-			"xdb_id": "5df1c82ae620",
-			"xdb_url": "https://vulncheck.com/xdb/5df1c82ae620",
-			"date_added": "2020-04-30T10:39:14+08:00",
+			"xdb_id": "e3d7500258d5",
+			"xdb_url": "https://vulncheck.com/xdb/e3d7500258d5",
+			"date_added": "2022-01-11T22:49:55+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:putiji/CVE-2017-11882.git"
+			"clone_ssh_url": "git@gitee.com:mirrors_embedi/CVE-2017-11882.git"
 		},
 		{
 			"xdb_id": "e74b79fd3ee0",
