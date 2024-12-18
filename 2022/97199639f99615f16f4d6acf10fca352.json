@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:p0dalirius/CVE-2018-16763-FuelCMS-1.4.1-RCE.git"
 		},
 		{
-			"xdb_id": "51d3142a58d1",
-			"xdb_url": "https://vulncheck.com/xdb/51d3142a58d1",
-			"date_added": "2022-01-08T07:15:24Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:n3rdh4x0r/CVE-2018-16763.git"
-		},
-		{
 			"xdb_id": "d65bae76c04f",
 			"xdb_url": "https://vulncheck.com/xdb/d65bae76c04f",
 			"date_added": "2024-12-04T00:57:39Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:saccles/CVE-2018-16763-Proof-of-Concept.git"
+		},
+		{
+			"xdb_id": "51d3142a58d1",
+			"xdb_url": "https://vulncheck.com/xdb/51d3142a58d1",
+			"date_added": "2022-01-08T07:15:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:n3rdh4x0r/CVE-2018-16763.git"
 		},
 		{
 			"xdb_id": "df65f1b13b31",

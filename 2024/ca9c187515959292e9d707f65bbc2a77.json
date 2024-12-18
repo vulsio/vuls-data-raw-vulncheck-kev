@@ -159,6 +159,10 @@
 			"date_added": "2024-12-15T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-16&host_type=src&vulnerability=cve-2024-9474",
+			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
 			"url": "https://security.paloaltonetworks.com/CVE-2024-9474",
 			"date_added": "2024-11-18T00:00:00Z"
 		},
