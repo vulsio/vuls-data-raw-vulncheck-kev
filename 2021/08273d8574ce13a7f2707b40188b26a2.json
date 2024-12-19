@@ -360,13 +360,6 @@
 			"clone_ssh_url": "git@github.com:jas502n/Log4j2-CVE-2021-44228.git"
 		},
 		{
-			"xdb_id": "1f35dbf46c65",
-			"xdb_url": "https://vulncheck.com/xdb/1f35dbf46c65",
-			"date_added": "2021-12-11T07:19:11Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
-		},
-		{
 			"xdb_id": "bc6bb6bf5116",
 			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
 			"date_added": "2021-12-13T03:57:50Z",
@@ -379,6 +372,13 @@
 			"date_added": "2021-12-10T23:19:28Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
+		},
+		{
+			"xdb_id": "1f35dbf46c65",
+			"xdb_url": "https://vulncheck.com/xdb/1f35dbf46c65",
+			"date_added": "2021-12-11T07:19:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
 		},
 		{
 			"xdb_id": "c555ac264c6e",
@@ -1999,6 +1999,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-17&host_type=src&vulnerability=cve-2021-44228",
 			"date_added": "2024-12-17T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-18&host_type=src&vulnerability=cve-2021-44228",
+			"date_added": "2024-12-18T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/",

@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:homjxi0e/CVE-2017-3881-exploit-cisco-.git"
 		},
 		{
-			"xdb_id": "7e17d20488ba",
-			"xdb_url": "https://vulncheck.com/xdb/7e17d20488ba",
-			"date_added": "2017-04-10T03:44:04Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:artkond/cisco-rce.git"
-		},
-		{
 			"xdb_id": "793e00067c6b",
 			"xdb_url": "https://vulncheck.com/xdb/793e00067c6b",
 			"date_added": "2016-03-30T11:43:12Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "7e17d20488ba",
+			"xdb_url": "https://vulncheck.com/xdb/7e17d20488ba",
+			"date_added": "2017-04-10T03:44:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:artkond/cisco-rce.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
