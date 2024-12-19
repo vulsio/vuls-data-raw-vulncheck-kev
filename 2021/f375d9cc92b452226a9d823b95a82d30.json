@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:vaginessa/CVE-2020-0041-Pixel-3a.git"
 		},
 		{
-			"xdb_id": "95ece15b5070",
-			"xdb_url": "https://vulncheck.com/xdb/95ece15b5070",
-			"date_added": "2020-08-10T21:34:16Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:j4nn/CVE-2020-0041.git"
-		},
-		{
 			"xdb_id": "b8a8ac784158",
 			"xdb_url": "https://vulncheck.com/xdb/b8a8ac784158",
 			"date_added": "2020-03-31T17:53:57Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:bluefrostsecurity/CVE-2020-0041.git"
+		},
+		{
+			"xdb_id": "95ece15b5070",
+			"xdb_url": "https://vulncheck.com/xdb/95ece15b5070",
+			"date_added": "2020-08-10T21:34:16Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:j4nn/CVE-2020-0041.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

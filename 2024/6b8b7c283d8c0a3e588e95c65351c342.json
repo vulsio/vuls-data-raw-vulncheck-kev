@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Apache",
+	"product": "Apache Struts",
+	"shortDescription": "File upload logic is flawed vulnerability in Apache Struts. This issue affects Apache Struts: from 2.0.0 before 6.4.0. Users are recommended to upgrade to version 6.4.0 and migrate to the new file upload mechanism https://struts.apache.org/core-developers/file-upload.",
+	"vulnerabilityName": "Apache Struts File Upload Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
