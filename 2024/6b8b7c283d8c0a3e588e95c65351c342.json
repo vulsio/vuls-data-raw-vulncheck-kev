@@ -15,12 +15,30 @@
 			"date_added": "2024-12-17T02:22:38Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:yangyanglo/CVE-2024-53677.git"
+		},
+		{
+			"xdb_id": "e3d7a1ada72a",
+			"xdb_url": "https://vulncheck.com/xdb/e3d7a1ada72a",
+			"date_added": "2024-12-18T02:03:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2024-53677-S2-067.git"
+		},
+		{
+			"xdb_id": "876d199e276e",
+			"xdb_url": "https://vulncheck.com/xdb/876d199e276e",
+			"date_added": "2024-12-18T18:42:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dustblessnotdust/CVE-2024-53677-S2-067-thread.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://isc.sans.edu/diary/Exploit+attempts+inspired+by+recent+Struts2+File+Upload+Vulnerability+CVE202453677+CVE202350164/31520",
 			"date_added": "2024-12-15T00:00:00Z"
+		},
+		{
+			"url": "https://attackerkb.com/topics/YfjepZ70DS/cve-2024-53677",
+			"date_added": "2024-12-18T00:00:00Z"
 		}
 	],
 	"date_added": "2024-12-15T00:00:00Z"

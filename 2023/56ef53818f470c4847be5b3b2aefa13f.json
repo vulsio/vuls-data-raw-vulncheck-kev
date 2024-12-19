@@ -32,7 +32,7 @@
 		},
 		{
 			"url": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-darkgate-menace-leveraging-autohotkey-attempt-to-evade-smartscreen/",
-			"date_added": "2024-04-29T00:00:00Z"
+			"date_added": "2023-11-14T00:00:00Z"
 		},
 		{
 			"url": "https://twitter.com/ffforward/status/1726540034462159165",
@@ -69,6 +69,10 @@
 		{
 			"url": "https://www.elastic.co/security-labs/katz-and-mouse-game",
 			"date_added": "2024-10-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2024/12/16/2024-threat-landscape-statistics-ransomware-activity-vulnerability-exploits-and-attack-trends/",
+			"date_added": "2024-12-16T00:00:00Z"
 		},
 		{
 			"url": "https://www.reliaquest.com/blog/using-captcha-for-compromise/",

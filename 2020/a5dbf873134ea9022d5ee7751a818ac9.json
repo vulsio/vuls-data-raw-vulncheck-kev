@@ -416,20 +416,6 @@
 			"clone_ssh_url": "git@github.com:SecuraBV/CVE-2020-1472.git"
 		},
 		{
-			"xdb_id": "ec3302cc4035",
-			"xdb_url": "https://vulncheck.com/xdb/ec3302cc4035",
-			"date_added": "2022-01-11T19:08:48+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_dirkjanm/CVE-2020-1472.git"
-		},
-		{
-			"xdb_id": "85bb14853591",
-			"xdb_url": "https://vulncheck.com/xdb/85bb14853591",
-			"date_added": "2022-01-11T12:56:14+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_SecuraBV/CVE-2020-1472.git"
-		},
-		{
 			"xdb_id": "869e2256552c",
 			"xdb_url": "https://vulncheck.com/xdb/869e2256552c",
 			"date_added": "2023-12-12T15:22:21+08:00",
@@ -449,6 +435,20 @@
 			"date_added": "2022-01-18T01:59:35+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2020-1472.git"
+		},
+		{
+			"xdb_id": "ec3302cc4035",
+			"xdb_url": "https://vulncheck.com/xdb/ec3302cc4035",
+			"date_added": "2022-01-11T19:08:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_dirkjanm/CVE-2020-1472.git"
+		},
+		{
+			"xdb_id": "85bb14853591",
+			"xdb_url": "https://vulncheck.com/xdb/85bb14853591",
+			"date_added": "2022-01-11T12:56:14+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_SecuraBV/CVE-2020-1472.git"
 		},
 		{
 			"xdb_id": "e6e9f7eb96c4",
