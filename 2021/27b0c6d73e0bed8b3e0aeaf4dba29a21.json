@@ -33,6 +33,14 @@
 	],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://support.apple.com/en-us/103147",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/103151",
+			"date_added": "1970-01-01T00:00:00Z"
+		},
+		{
 			"url": "https://support.apple.com/kb/HT212808",
 			"date_added": "2021-09-13T00:00:00Z"
 		},
