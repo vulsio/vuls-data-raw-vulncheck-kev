@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "3373eb57b72a",
-			"xdb_url": "https://vulncheck.com/xdb/3373eb57b72a",
-			"date_added": "2024-02-20T21:56:02Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit.git"
-		},
-		{
 			"xdb_id": "4ffd09616ccf",
 			"xdb_url": "https://vulncheck.com/xdb/4ffd09616ccf",
 			"date_added": "2023-05-16T12:16:34Z",
@@ -29,6 +22,13 @@
 			"date_added": "2017-12-29T07:11:42Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:xyzAsian/Janus-CVE-2017-13156.git"
+		},
+		{
+			"xdb_id": "3373eb57b72a",
+			"xdb_url": "https://vulncheck.com/xdb/3373eb57b72a",
+			"date_added": "2024-02-20T21:56:02Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:nahid0x1/Janus-Vulnerability-CVE-2017-13156-Exploit.git"
 		},
 		{
 			"xdb_id": "a53d146cb86b",

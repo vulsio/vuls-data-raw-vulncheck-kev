@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "8dbca12d6df7",
-			"xdb_url": "https://vulncheck.com/xdb/8dbca12d6df7",
-			"date_added": "2016-12-19T16:14:18Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:timwr/CVE-2013-6282.git"
-		},
-		{
 			"xdb_id": "b71a08d20773",
 			"xdb_url": "https://vulncheck.com/xdb/b71a08d20773",
 			"date_added": "2013-12-21T01:51:42Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:jeboo/bypasslkm.git"
+		},
+		{
+			"xdb_id": "8dbca12d6df7",
+			"xdb_url": "https://vulncheck.com/xdb/8dbca12d6df7",
+			"date_added": "2016-12-19T16:14:18Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:timwr/CVE-2013-6282.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2009-2265"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "be9af909f6f3",
+			"xdb_url": "https://vulncheck.com/xdb/be9af909f6f3",
+			"date_added": "2024-12-18T18:12:56Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xDTC/Adobe-ColdFusion-8-RCE-CVE-2009-2265.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2009-2265",

@@ -193,6 +193,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-16&host_type=src&vulnerability=cve-2018-17532",
 			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.akamai.com/blog/security-research/digiever-fix-that-iot-thing",
+			"date_added": "2024-12-19T00:00:00Z"
 		}
 	],
 	"date_added": "2023-12-31T00:00:00Z"

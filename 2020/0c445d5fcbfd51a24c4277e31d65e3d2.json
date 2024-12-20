@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:c0llision/exim-vuln-poc.git"
 		},
 		{
-			"xdb_id": "9513d11d58b1",
-			"xdb_url": "https://vulncheck.com/xdb/9513d11d58b1",
-			"date_added": "2019-10-10T09:36:03Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:synacktiv/Exim-CVE-2018-6789.git"
-		},
-		{
 			"xdb_id": "59557009b138",
 			"xdb_url": "https://vulncheck.com/xdb/59557009b138",
 			"date_added": "2020-03-02T16:53:02Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:martinclauss/exim-rce-cve-2018-6789.git"
+		},
+		{
+			"xdb_id": "9513d11d58b1",
+			"xdb_url": "https://vulncheck.com/xdb/9513d11d58b1",
+			"date_added": "2019-10-10T09:36:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:synacktiv/Exim-CVE-2018-6789.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

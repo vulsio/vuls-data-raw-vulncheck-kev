@@ -1823,6 +1823,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/scanning-for-credentials-and-botpoke-changes-ips-again",
 			"date_added": "2024-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/Command+Injection+Exploit+For+PHPUnit+before+4828+and+5x+before+563+Guest+Diary/31528",
+			"date_added": "2024-12-17T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-08-15T00:00:00Z",
