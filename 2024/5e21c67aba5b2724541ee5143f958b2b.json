@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21893-to-CVE-2024-21887.git"
 		},
 		{
-			"xdb_id": "a72604a4ced0",
-			"xdb_url": "https://vulncheck.com/xdb/a72604a4ced0",
-			"date_added": "2024-09-06T07:39:16Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:7aRanchi/PublicPoC.git"
-		},
-		{
 			"xdb_id": "ecf3cf71be36",
 			"xdb_url": "https://vulncheck.com/xdb/ecf3cf71be36",
 			"date_added": "2024-01-16T20:59:38Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21887.git"
+		},
+		{
+			"xdb_id": "a72604a4ced0",
+			"xdb_url": "https://vulncheck.com/xdb/a72604a4ced0",
+			"date_added": "2024-09-06T07:39:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:7aRanchi/PublicPoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

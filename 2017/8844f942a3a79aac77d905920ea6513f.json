@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:Voulnet/CVE-2017-8759-Exploit-sample.git"
 		},
 		{
-			"xdb_id": "b9285bd07a5a",
-			"xdb_url": "https://vulncheck.com/xdb/b9285bd07a5a",
-			"date_added": "2020-07-23T11:31:07+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-8759.git"
-		},
-		{
 			"xdb_id": "074916446e1c",
 			"xdb_url": "https://vulncheck.com/xdb/074916446e1c",
 			"date_added": "2022-01-11T22:20:06+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:mirrors_Voulnet/CVE-2017-8759-Exploit-sample.git"
+		},
+		{
+			"xdb_id": "b9285bd07a5a",
+			"xdb_url": "https://vulncheck.com/xdb/b9285bd07a5a",
+			"date_added": "2020-07-23T11:31:07+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-8759.git"
 		},
 		{
 			"xdb_id": "229e0e29b71b",

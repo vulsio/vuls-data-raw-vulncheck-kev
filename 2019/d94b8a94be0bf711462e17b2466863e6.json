@@ -103,7 +103,7 @@
 		{
 			"xdb_id": "927806a24931",
 			"xdb_url": "https://vulncheck.com/xdb/927806a24931",
-			"date_added": "2020-03-31T15:49:46+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:nico555360/CVE-2019-2725.git"
 		},
