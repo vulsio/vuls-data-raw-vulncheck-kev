@@ -1,0 +1,27 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipados",
+	"shortDescription": "A race condition was addressed with improved state handling. This issue is fixed in tvOS 16.2, macOS Monterey 12.6.2, macOS Ventura 13.1, macOS Big Sur 11.7.2, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2, watchOS 9.2. An app may be able to execute arbitrary code with kernel privileges.",
+	"vulnerabilityName": "Apple ipados Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-42864"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "27a9c733f5aa",
+			"xdb_url": "https://vulncheck.com/xdb/27a9c733f5aa",
+			"date_added": "2023-01-19T20:36:49Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:Muirey03/CVE-2022-42864.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213531",
+			"date_added": "2022-12-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-13T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "xmlsoft",
+	"product": "libxml2",
+	"shortDescription": "An issue was discovered in libxml2 before 2.10.3. When parsing a multi-gigabyte XML document with the XML_PARSE_HUGE parser option enabled, several integer counters can overflow. This results in an attempt to access an array at a negative 2GB offset, typically leading to a segmentation fault.",
+	"vulnerabilityName": "xmlsoft libxml2 Integer Overflow or Wraparound",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-40303"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213531",
+			"date_added": "2022-12-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-13T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipados",
+	"shortDescription": "A logic issue was addressed with improved restrictions. This issue is fixed in iOS 15.7.2 and iPadOS 15.7.2, macOS Ventura 13.1, iOS 16.2 and iPadOS 16.2. An app may be able to read sensitive location information",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-46703"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213531",
+			"date_added": "2022-12-13T00:00:00Z"
+		}
+	],
+	"date_added": "2022-12-13T00:00:00Z"
+}

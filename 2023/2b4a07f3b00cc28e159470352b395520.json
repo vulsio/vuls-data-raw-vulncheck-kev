@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "safari",
+	"shortDescription": "A buffer overflow issue was addressed with improved memory handling. This issue is fixed in watchOS 9.5, tvOS 16.5, macOS Ventura 13.4, Safari 16.5, iOS 16.5 and iPadOS 16.5. Processing web content may disclose sensitive information.",
+	"vulnerabilityName": "Apple safari Buffer Copy without Checking Size of Input ('Classic Buffer Overflow')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-32423"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/kb/HT213762",
+			"date_added": "2023-05-18T00:00:00Z"
+		}
+	],
+	"date_added": "2023-05-18T00:00:00Z"
+}

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Apple",
+	"product": "ipados",
+	"shortDescription": "A logic issue was addressed with improved restrictions. This issue is fixed in iOS 15.0.2 and iPadOS 15.0.2, tvOS 15.1, watchOS 8.1, macOS Monterey 12.0.1. A malicious application may be able to read user's gameplay data.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-30896"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/en-us/103159",
+			"date_added": "2021-10-11T00:00:00Z"
+		}
+	],
+	"date_added": "2021-10-11T00:00:00Z"
+}
