@@ -108,6 +108,13 @@
 			"clone_ssh_url": "git@github.com:briskets/CVE-2021-3493.git"
 		},
 		{
+			"xdb_id": "165ca931536b",
+			"xdb_url": "https://vulncheck.com/xdb/165ca931536b",
+			"date_added": "2021-10-28T21:22:22+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:tianrking/CVE-2021-3493.git"
+		},
+		{
 			"xdb_id": "c90d13040f2a",
 			"xdb_url": "https://vulncheck.com/xdb/c90d13040f2a",
 			"date_added": "2021-04-22T12:39:02+08:00",
@@ -141,13 +148,6 @@
 			"date_added": "2023-10-13T16:51:58+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:vincentwang11/CVE-2021-3493.git"
-		},
-		{
-			"xdb_id": "165ca931536b",
-			"xdb_url": "https://vulncheck.com/xdb/165ca931536b",
-			"date_added": "2021-10-28T21:22:22+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:tianrking/CVE-2021-3493.git"
 		},
 		{
 			"xdb_id": "2ab470a88220",
