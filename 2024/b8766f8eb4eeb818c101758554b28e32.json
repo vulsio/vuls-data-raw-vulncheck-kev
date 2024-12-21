@@ -77,6 +77,10 @@
 		{
 			"url": "https://darktrace.com/blog/cleo-file-transfer-vulnerability-patch-pitfalls-and-darktraces-detection-of-post-exploitation-activities",
 			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/cve-2024-55956/",
+			"date_added": "2024-12-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-03T00:00:00Z",

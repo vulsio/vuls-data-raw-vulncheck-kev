@@ -11,6 +11,18 @@
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [
 		{
+			"url": "https://support.apple.com/en-us/103147",
+			"date_added": "2021-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/103148",
+			"date_added": "2021-09-13T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/103157",
+			"date_added": "2021-09-23T00:00:00Z"
+		},
+		{
 			"url": "https://support.apple.com/kb/HT212805",
 			"date_added": "2022-05-25T00:00:00Z"
 		},
@@ -40,7 +52,7 @@
 		},
 		{
 			"url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/Buying_Spying_-_Insights_into_Commercial_Surveillance_Vendors.pdf",
-			"date_added": "2022-05-25T00:00:00Z"
+			"date_added": "2021-09-13T00:00:00Z"
 		},
 		{
 			"url": "https://go.recordedfuture.com/hubfs/reports/CTA-2024-0416.pdf",

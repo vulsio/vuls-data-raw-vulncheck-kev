@@ -25,6 +25,10 @@
 		{
 			"url": "https://www.rapid7.com/blog/post/2024/12/10/etr-widespread-exploitation-of-cleo-file-transfer-software-cve-2024-50623/",
 			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://censys.com/cve-2024-55956/",
+			"date_added": "2024-12-18T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-07T00:00:00Z",

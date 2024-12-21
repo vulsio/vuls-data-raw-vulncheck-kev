@@ -353,13 +353,6 @@
 			"clone_ssh_url": "git@github.com:jas502n/Log4j2-CVE-2021-44228.git"
 		},
 		{
-			"xdb_id": "bc6bb6bf5116",
-			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
-			"date_added": "2021-12-13T03:57:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
-		},
-		{
 			"xdb_id": "9516d10f9dc1",
 			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
 			"date_added": "2021-12-10T23:19:28Z",
@@ -381,11 +374,11 @@
 			"clone_ssh_url": "git@github.com:puzzlepeaches/Log4jUnifi.git"
 		},
 		{
-			"xdb_id": "94dd05cb788b",
-			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
-			"date_added": "2022-01-08T02:15:48+08:00",
+			"xdb_id": "bc6bb6bf5116",
+			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
+			"date_added": "2021-12-13T03:57:50Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
+			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
 		},
 		{
 			"xdb_id": "c555ac264c6e",
@@ -393,13 +386,6 @@
 			"date_added": "2021-12-12T22:33:33+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
-		},
-		{
-			"xdb_id": "a57024d99795",
-			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
-			"date_added": "2021-12-13T14:39:20+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
 		},
 		{
 			"xdb_id": "60c07310e663",
@@ -421,6 +407,20 @@
 			"date_added": "2021-12-12T21:06:59+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:huzpsb/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "a57024d99795",
+			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
+			"date_added": "2021-12-13T14:39:20+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "94dd05cb788b",
+			"xdb_url": "https://vulncheck.com/xdb/94dd05cb788b",
+			"date_added": "2022-01-08T02:15:48+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/Log4j2-CVE-2021-44228.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

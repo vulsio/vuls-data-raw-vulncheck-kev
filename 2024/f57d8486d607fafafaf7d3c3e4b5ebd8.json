@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "6b04ca9b3dac",
-			"xdb_url": "https://vulncheck.com/xdb/6b04ca9b3dac",
-			"date_added": "2024-02-03T11:33:40Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21893-to-CVE-2024-21887.git"
-		},
-		{
 			"xdb_id": "54ee9161753c",
 			"xdb_url": "https://vulncheck.com/xdb/54ee9161753c",
 			"date_added": "2024-02-02T22:59:21Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:h4x0r-dz/CVE-2024-21893.py.git"
+		},
+		{
+			"xdb_id": "6b04ca9b3dac",
+			"xdb_url": "https://vulncheck.com/xdb/6b04ca9b3dac",
+			"date_added": "2024-02-03T11:33:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21893-to-CVE-2024-21887.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
