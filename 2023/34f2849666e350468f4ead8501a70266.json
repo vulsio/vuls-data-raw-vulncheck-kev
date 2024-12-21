@@ -1423,6 +1423,10 @@
 			"date_added": "2024-12-19T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-20&host_type=src&vulnerability=cve-2023-35082",
+			"date_added": "2024-12-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
 			"date_added": "2024-01-18T00:00:00Z"
 		},

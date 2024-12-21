@@ -818,6 +818,10 @@
 			"date_added": "2024-12-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-20&host_type=src&vulnerability=cve-2024-21893",
+			"date_added": "2024-12-20T00:00:00Z"
+		},
+		{
 			"url": "https://www.volexity.com/blog/2024/01/15/ivanti-connect-secure-vpn-exploitation-goes-global/",
 			"date_added": "2024-01-15T00:00:00Z"
 		},

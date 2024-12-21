@@ -1,0 +1,19 @@
+{
+	"vendorProject": "fiberhome",
+	"product": "an5506-01-a_firmware",
+	"shortDescription": "FiberHome ONU GPON AN5506-04-F RP2617 is affected by an OS command injection vulnerability. This vulnerability allows the attacker, once logged in, to send commands to the operating system as the root user via the ping diagnostic tool, bypassing the IP address field, and concatenating OS commands with a semicolon.",
+	"vulnerabilityName": "fiberhome an5506-01-a_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2021-42912"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-20&host_type=src&vulnerability=cve-2021-42912",
+			"date_added": "2024-12-20T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-20T00:00:00Z"
+}

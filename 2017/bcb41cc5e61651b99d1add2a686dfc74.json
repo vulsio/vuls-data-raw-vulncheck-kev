@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:NyxByt3/MS17-010_CVE-2017-0143.git"
 		},
 		{
-			"xdb_id": "3e4890416f69",
-			"xdb_url": "https://vulncheck.com/xdb/3e4890416f69",
-			"date_added": "2022-12-15T19:25:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:fanicia/security-notes.git"
-		},
-		{
 			"xdb_id": "5a99b35253e9",
 			"xdb_url": "https://vulncheck.com/xdb/5a99b35253e9",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "3e4890416f69",
+			"xdb_url": "https://vulncheck.com/xdb/3e4890416f69",
+			"date_added": "2022-12-15T19:25:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:fanicia/security-notes.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
