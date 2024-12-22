@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2024-53677-S2-067.git"
 		},
 		{
-			"xdb_id": "876d199e276e",
-			"xdb_url": "https://vulncheck.com/xdb/876d199e276e",
-			"date_added": "2024-12-18T18:42:34Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:dustblessnotdust/CVE-2024-53677-S2-067-thread.git"
-		},
-		{
 			"xdb_id": "420179b31365",
 			"xdb_url": "https://vulncheck.com/xdb/420179b31365",
 			"date_added": "2024-12-17T02:22:38Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:yangyanglo/CVE-2024-53677.git"
+		},
+		{
+			"xdb_id": "876d199e276e",
+			"xdb_url": "https://vulncheck.com/xdb/876d199e276e",
+			"date_added": "2024-12-18T18:42:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dustblessnotdust/CVE-2024-53677-S2-067-thread.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
