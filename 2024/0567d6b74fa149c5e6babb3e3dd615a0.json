@@ -1,0 +1,27 @@
+{
+	"vendorProject": "cassianetworks",
+	"product": "xc1000_firmware",
+	"shortDescription": "In Cassia Gateway firmware XC1000_2.1.1.2303082218 and XC2000_2.1.1.2303090947, the queueUrl parameter in /bypass/config is not sanitized. This leads to injecting Bash code and executing it with root privileges on device startup.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-31446"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "e1e054b7cebb",
+			"xdb_url": "https://vulncheck.com/xdb/e1e054b7cebb",
+			"date_added": "2024-01-06T12:23:50Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-21&host_type=src&vulnerability=cve-2023-31446",
+			"date_added": "2024-12-21T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-21T00:00:00Z"
+}
