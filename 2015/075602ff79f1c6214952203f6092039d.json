@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:Ridter/RTF_11882_0802.git"
 		},
 		{
-			"xdb_id": "79b5c2826fcb",
-			"xdb_url": "https://vulncheck.com/xdb/79b5c2826fcb",
-			"date_added": "2018-01-11T09:43:46Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:rxwx/CVE-2018-0802.git"
-		},
-		{
 			"xdb_id": "d2e01d805674",
 			"xdb_url": "https://vulncheck.com/xdb/d2e01d805674",
 			"date_added": "2018-01-11T09:16:32Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:zldww2011/CVE-2018-0802_POC.git"
+		},
+		{
+			"xdb_id": "79b5c2826fcb",
+			"xdb_url": "https://vulncheck.com/xdb/79b5c2826fcb",
+			"date_added": "2018-01-11T09:43:46Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rxwx/CVE-2018-0802.git"
 		},
 		{
 			"xdb_id": "e0e7653da293",

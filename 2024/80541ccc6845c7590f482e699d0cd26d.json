@@ -29,6 +29,13 @@
 			"date_added": "2024-12-21T02:26:26Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:zxj-hub/CVE-2024-41713POC.git"
+		},
+		{
+			"xdb_id": "c852f2485f3d",
+			"xdb_url": "https://vulncheck.com/xdb/c852f2485f3d",
+			"date_added": "2024-12-21T09:35:12Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Sanandd/cve-2024-CVE-2024-41713.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
