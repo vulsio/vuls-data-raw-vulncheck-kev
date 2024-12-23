@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
 		},
 		{
-			"xdb_id": "b4a79e992993",
-			"xdb_url": "https://vulncheck.com/xdb/b4a79e992993",
-			"date_added": "2017-05-26T00:58:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2017-7494.git"
-		},
-		{
 			"xdb_id": "5febf3930e17",
 			"xdb_url": "https://vulncheck.com/xdb/5febf3930e17",
 			"date_added": "2017-06-05T16:25:57Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:joxeankoret/CVE-2017-7494.git"
+		},
+		{
+			"xdb_id": "b4a79e992993",
+			"xdb_url": "https://vulncheck.com/xdb/b4a79e992993",
+			"date_added": "2017-05-26T00:58:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:opsxcq/exploit-CVE-2017-7494.git"
 		},
 		{
 			"xdb_id": "0e1687dfba66",

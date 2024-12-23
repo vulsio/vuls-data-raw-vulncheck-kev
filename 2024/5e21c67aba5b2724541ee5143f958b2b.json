@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21887.git"
 		},
 		{
-			"xdb_id": "a72604a4ced0",
-			"xdb_url": "https://vulncheck.com/xdb/a72604a4ced0",
-			"date_added": "2024-09-06T07:39:16Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:7aRanchi/PublicPoC.git"
-		},
-		{
 			"xdb_id": "e6f386d5d54f",
 			"xdb_url": "https://vulncheck.com/xdb/e6f386d5d54f",
 			"date_added": "2024-02-03T11:33:40Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2024-21893-to-CVE-2024-21887.git"
+		},
+		{
+			"xdb_id": "a72604a4ced0",
+			"xdb_url": "https://vulncheck.com/xdb/a72604a4ced0",
+			"date_added": "2024-09-06T07:39:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:7aRanchi/PublicPoC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1298,6 +1298,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-21&host_type=src&vulnerability=cve-2024-21887",
 			"date_added": "2024-12-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-22&host_type=src&vulnerability=cve-2024-21887",
+			"date_added": "2024-12-22T00:00:00Z"
 		},
 		{
 			"url": "https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation",
