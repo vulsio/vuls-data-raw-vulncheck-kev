@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:enty8080/MacDirtyCow.git"
 		},
 		{
-			"xdb_id": "a92229722c63",
-			"xdb_url": "https://vulncheck.com/xdb/a92229722c63",
-			"date_added": "2023-08-21T19:45:40Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Lrdsnow/PureKFD.git"
-		},
-		{
 			"xdb_id": "60e734e24d20",
 			"xdb_url": "https://vulncheck.com/xdb/60e734e24d20",
 			"date_added": "2022-12-17T16:45:24Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:zhuowei/MacDirtyCowDemo.git"
+		},
+		{
+			"xdb_id": "a92229722c63",
+			"xdb_url": "https://vulncheck.com/xdb/a92229722c63",
+			"date_added": "2023-08-21T19:45:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Lrdsnow/PureKFD.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
