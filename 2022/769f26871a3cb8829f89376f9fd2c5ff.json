@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Apple",
 	"product": "ipados",
-	"shortDescription": "The issue was addressed with improved memory handling. This issue is fixed in iOS 16.2 and iPadOS 16.2, iOS 15.7.2 and iPadOS 15.7.2. Parsing a maliciously crafted video file may lead to unexpected system termination.",
-	"vulnerabilityName": "",
+	"shortDescription": "The issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.6.2, macOS Ventura 13.1, macOS Big Sur 11.7.2, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2. An app may be able to execute arbitrary code with kernel privileges.",
+	"vulnerabilityName": "macOS Monterey, macOS Ventura, macOS Big Sur, iOS and iPadOS Kernel Privilege App Code Execution Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-42846"
+		"CVE-2022-42840"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

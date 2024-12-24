@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Apple",
 	"product": "ipados",
-	"shortDescription": "A logic issue was addressed with improved restrictions. This issue is fixed in iOS 15.7.2 and iPadOS 15.7.2, macOS Ventura 13.1, iOS 16.2 and iPadOS 16.2. An app may be able to read sensitive location information",
-	"vulnerabilityName": "",
+	"shortDescription": "A logic issue was addressed with improved state management. This issue is fixed in tvOS 16.2, macOS Monterey 12.6.2, macOS Ventura 13.1, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2. An app may be able to use arbitrary entitlements.",
+	"vulnerabilityName": "tvOS, macOS Monterey, macOS Ventura, iOS and iPadOS App Arbitrary Entitlements Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-46703"
+		"CVE-2022-42855"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Apple",
 	"product": "ipados",
-	"shortDescription": "The issue was addressed with improved memory handling. This issue is fixed in macOS Monterey 12.6.2, macOS Ventura 13.1, macOS Big Sur 11.7.2, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2. An app may be able to execute arbitrary code with kernel privileges.",
-	"vulnerabilityName": "",
+	"shortDescription": "A logic issue was addressed with improved restrictions. This issue is fixed in iOS 15.7.2 and iPadOS 15.7.2, macOS Ventura 13.1, macOS Big Sur 11.7.2, macOS Monterey 12.6.2. An app may be able to read sensitive location information",
+	"vulnerabilityName": "iOS and iPadOS, macOS Ventura, macOS Big Sur, and macOS Monterey App Sensitive Location Read Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-42840"
+		"CVE-2022-46718"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

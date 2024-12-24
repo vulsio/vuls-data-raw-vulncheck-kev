@@ -2,7 +2,7 @@
 	"vendorProject": "Apple",
 	"product": "macos",
 	"shortDescription": "A privacy issue was addressed with improved handling of temporary files. This issue is fixed in macOS Ventura 13.2.1. An app may be able to observe unprotected user data.",
-	"vulnerabilityName": "",
+	"vulnerabilityName": "macOS Ventura Temporary File Handling Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2023-27532-RCE-Only.git"
 		},
 		{
-			"xdb_id": "be7830da6e38",
-			"xdb_url": "https://vulncheck.com/xdb/be7830da6e38",
-			"date_added": "2023-03-23T16:08:43Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2023-27532.git"
-		},
-		{
 			"xdb_id": "70b9158e5d47",
 			"xdb_url": "https://vulncheck.com/xdb/70b9158e5d47",
 			"date_added": "2023-03-18T16:20:53Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2023-27532.git"
+		},
+		{
+			"xdb_id": "be7830da6e38",
+			"xdb_url": "https://vulncheck.com/xdb/be7830da6e38",
+			"date_added": "2023-03-23T16:08:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2023-27532.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Apple",
-	"product": "icloud",
-	"shortDescription": "A logic issue was addressed with improved state management. This issue is fixed in Safari 16.2, tvOS 16.2, iCloud for Windows 14.1, iOS 15.7.2 and iPadOS 15.7.2, macOS Ventura 13.1, iOS 16.2 and iPadOS 16.2, watchOS 9.2. Processing maliciously crafted web content may bypass Same Origin Policy.",
-	"vulnerabilityName": "",
+	"product": "ipados",
+	"shortDescription": "The issue was addressed with improved memory handling. This issue is fixed in iOS 16.2 and iPadOS 16.2, iOS 15.7.2 and iPadOS 15.7.2. Parsing a maliciously crafted video file may lead to unexpected system termination.",
+	"vulnerabilityName": "iOS and iPadOS Malicious Video File System Termination Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-46692"
+		"CVE-2022-42846"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

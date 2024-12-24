@@ -1,12 +1,12 @@
 {
 	"vendorProject": "Apple",
-	"product": "ipados",
-	"shortDescription": "A logic issue was addressed with improved state management. This issue is fixed in tvOS 16.2, macOS Monterey 12.6.2, macOS Ventura 13.1, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2. An app may be able to use arbitrary entitlements.",
-	"vulnerabilityName": "",
+	"product": "safari",
+	"shortDescription": "A spoofing issue existed in the handling of URLs. This issue was addressed with improved input validation. This issue is fixed in iOS 16.2 and iPadOS 16.2, macOS Ventura 13.1, Safari 16.2. Visiting a malicious website may lead to address bar spoofing.",
+	"vulnerabilityName": "iOS, iPadOS, macOS Ventura, and Safari URL Spoofing Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2022-42855"
+		"CVE-2022-46705"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

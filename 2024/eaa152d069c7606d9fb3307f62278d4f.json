@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "BeyondTrust",
+	"product": "Remote Support (RS) & Privileged Remote Access (PRA)",
+	"shortDescription": "A vulnerability has been discovered in Privileged Remote Access (PRA) and Remote Support (RS) which can allow an attacker with existing administrative privileges to inject commands and run as a site user.",
+	"vulnerabilityName": "BeyondTrust Remote Support (RS) & Privileged Remote Access (PRA) Authenticated Command Injection Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
