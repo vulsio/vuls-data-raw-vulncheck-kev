@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:N1rv0us/kernel_exploitation.git"
 		},
 		{
-			"xdb_id": "5e1cd4381cd2",
-			"xdb_url": "https://vulncheck.com/xdb/5e1cd4381cd2",
-			"date_added": "2022-03-18T22:51:02Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:LudovicPatho/CVE-2022-0847.git"
-		},
-		{
 			"xdb_id": "39fa7f44daa8",
 			"xdb_url": "https://vulncheck.com/xdb/39fa7f44daa8",
 			"date_added": "2024-05-01T05:16:16Z",
@@ -323,6 +316,13 @@
 			"date_added": "2022-03-07T18:55:20Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Arinerron/CVE-2022-0847-DirtyPipe-Exploit.git"
+		},
+		{
+			"xdb_id": "5e1cd4381cd2",
+			"xdb_url": "https://vulncheck.com/xdb/5e1cd4381cd2",
+			"date_added": "2022-03-18T22:51:02Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LudovicPatho/CVE-2022-0847.git"
 		},
 		{
 			"xdb_id": "e4ea692dc95e",
