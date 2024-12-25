@@ -220,20 +220,6 @@
 			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
 		},
 		{
-			"xdb_id": "b539b7bd0520",
-			"xdb_url": "https://vulncheck.com/xdb/b539b7bd0520",
-			"date_added": "2021-10-16T23:59:36+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:csharphpython/exphub.git"
-		},
-		{
-			"xdb_id": "8270081cbc20",
-			"xdb_url": "https://vulncheck.com/xdb/8270081cbc20",
-			"date_added": "2021-02-10T16:00:37+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-14882_ALL.git"
-		},
-		{
 			"xdb_id": "a13fcf8de8fc",
 			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
 			"date_added": "2021-05-09T23:24:54+08:00",
@@ -246,6 +232,20 @@
 			"date_added": "2021-01-24T19:00:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
+		},
+		{
+			"xdb_id": "b539b7bd0520",
+			"xdb_url": "https://vulncheck.com/xdb/b539b7bd0520",
+			"date_added": "2021-10-16T23:59:36+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:csharphpython/exphub.git"
+		},
+		{
+			"xdb_id": "8270081cbc20",
+			"xdb_url": "https://vulncheck.com/xdb/8270081cbc20",
+			"date_added": "2021-02-10T16:00:37+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-14882_ALL.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
