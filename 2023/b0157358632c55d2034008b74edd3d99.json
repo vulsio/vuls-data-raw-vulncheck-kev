@@ -1786,6 +1786,10 @@
 		{
 			"url": "https://www.ncsc.gov.uk/files/NCSC_Annual_Review_2024.pdf",
 			"date_added": "2024-12-03T00:00:00Z"
+		},
+		{
+			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-ivanti-php-saml-network-devices-and-more/",
+			"date_added": "2024-12-24T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-10-20T00:00:00Z",

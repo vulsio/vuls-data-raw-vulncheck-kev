@@ -1,0 +1,19 @@
+{
+	"vendorProject": "salesagility",
+	"product": "suitecrm",
+	"shortDescription": "SuiteCRM is a Customer Relationship Management (CRM) software application. Prior to version 8.4.2, Graphql Introspection is enabled without authentication, exposing the scheme defining all object types, arguments, and functions. An attacker can obtain the GraphQL schema and understand the entire attack surface of the API, including sensitive fields such as UserHash. This issue is patched in version 8.4.2. There are no known workarounds.",
+	"vulnerabilityName": "salesagility suitecrm Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2023-47643"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-ivanti-php-saml-network-devices-and-more/",
+			"date_added": "2024-12-24T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-24T00:00:00Z"
+}
