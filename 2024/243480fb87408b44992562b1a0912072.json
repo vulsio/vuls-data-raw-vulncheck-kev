@@ -93,6 +93,10 @@
 			"date_added": "2024-12-04T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-24&host_type=src&vulnerability=cve-2024-32113",
+			"date_added": "2024-12-24T00:00:00Z"
+		},
+		{
 			"url": "https://isc.sans.edu/diary/Increased+Activity+Against+Apache+OFBiz+CVE202432113/31132",
 			"date_added": "2024-07-31T00:00:00Z"
 		}

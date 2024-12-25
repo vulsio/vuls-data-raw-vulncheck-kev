@@ -262,13 +262,6 @@
 			"clone_ssh_url": "git@github.com:antx-code/CVE-2022-0847.git"
 		},
 		{
-			"xdb_id": "46be9d6ea639",
-			"xdb_url": "https://vulncheck.com/xdb/46be9d6ea639",
-			"date_added": "2022-06-04T08:31:32Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:greenhandatsjtu/CVE-2022-0847.git"
-		},
-		{
 			"xdb_id": "5753c6aff2e2",
 			"xdb_url": "https://vulncheck.com/xdb/5753c6aff2e2",
 			"date_added": "2022-03-07T15:50:18Z",
@@ -323,6 +316,13 @@
 			"date_added": "2022-03-18T22:51:02Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:LudovicPatho/CVE-2022-0847.git"
+		},
+		{
+			"xdb_id": "46be9d6ea639",
+			"xdb_url": "https://vulncheck.com/xdb/46be9d6ea639",
+			"date_added": "2022-06-04T08:31:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:greenhandatsjtu/CVE-2022-0847.git"
 		},
 		{
 			"xdb_id": "e4ea692dc95e",

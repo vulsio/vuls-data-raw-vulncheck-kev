@@ -80,18 +80,18 @@
 			"clone_ssh_url": "git@github.com:Sk3pper/CVE-2024-21626.git"
 		},
 		{
-			"xdb_id": "f63cbffeb196",
-			"xdb_url": "https://vulncheck.com/xdb/f63cbffeb196",
-			"date_added": "2024-02-01T15:28:37Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:NitroCao/CVE-2024-21626.git"
-		},
-		{
 			"xdb_id": "a60b448d2a4c",
 			"xdb_url": "https://vulncheck.com/xdb/a60b448d2a4c",
 			"date_added": "2024-11-22T21:55:11Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:adaammmeeee/little-joke.git"
+		},
+		{
+			"xdb_id": "f63cbffeb196",
+			"xdb_url": "https://vulncheck.com/xdb/f63cbffeb196",
+			"date_added": "2024-02-01T15:28:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:NitroCao/CVE-2024-21626.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

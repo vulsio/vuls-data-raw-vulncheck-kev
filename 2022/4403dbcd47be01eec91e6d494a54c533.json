@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:whwlsfb/cve-2022-22947-godzilla-memshell.git"
 		},
 		{
-			"xdb_id": "9344fae60775",
-			"xdb_url": "https://vulncheck.com/xdb/9344fae60775",
-			"date_added": "2022-10-29T03:28:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
-		},
-		{
 			"xdb_id": "769ad48809b9",
 			"xdb_url": "https://vulncheck.com/xdb/769ad48809b9",
 			"date_added": "2020-01-25T08:55:08Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
+		},
+		{
+			"xdb_id": "9344fae60775",
+			"xdb_url": "https://vulncheck.com/xdb/9344fae60775",
+			"date_added": "2022-10-29T03:28:55Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		},
 		{
 			"xdb_id": "a48d3f6ecc63",
@@ -737,6 +737,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-22&host_type=src&vulnerability=cve-2022-22947",
 			"date_added": "2024-12-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-24&host_type=src&vulnerability=cve-2022-22947",
+			"date_added": "2024-12-24T00:00:00Z"
 		},
 		{
 			"url": "https://www.botconf.eu/wp-content/uploads/2022/05/Botconf2022-24-PalotayZsigovits.pdf",
