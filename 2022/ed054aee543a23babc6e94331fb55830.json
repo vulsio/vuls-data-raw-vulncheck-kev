@@ -910,6 +910,10 @@
 			"date_added": "2024-12-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-25&host_type=src&vulnerability=cve-2021-42237",
+			"date_added": "2024-12-25T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/alerts/2022/04/27/2021-top-routinely-exploited-vulnerabilities",
 			"date_added": "2022-04-28T00:00:00Z"
 		},

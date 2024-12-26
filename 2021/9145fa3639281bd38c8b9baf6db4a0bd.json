@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:CyborgSecurity/CVE-2020-17530.git"
 		},
 		{
-			"xdb_id": "bfb08d5ee460",
-			"xdb_url": "https://vulncheck.com/xdb/bfb08d5ee460",
-			"date_added": "2020-12-10T17:42:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:wuzuowei/CVE-2020-17530.git"
-		},
-		{
 			"xdb_id": "2413521dca63",
 			"xdb_url": "https://vulncheck.com/xdb/2413521dca63",
 			"date_added": "2020-12-13T11:02:15Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Al1ex/CVE-2020-17530.git"
+		},
+		{
+			"xdb_id": "bfb08d5ee460",
+			"xdb_url": "https://vulncheck.com/xdb/bfb08d5ee460",
+			"date_added": "2020-12-10T17:42:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:wuzuowei/CVE-2020-17530.git"
 		},
 		{
 			"xdb_id": "e2133615d248",
