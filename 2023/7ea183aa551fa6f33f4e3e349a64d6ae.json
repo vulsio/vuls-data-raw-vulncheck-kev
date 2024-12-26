@@ -145,7 +145,7 @@
 		{
 			"xdb_id": "d9dc0002293f",
 			"xdb_url": "https://vulncheck.com/xdb/d9dc0002293f",
-			"date_added": "2023-11-04T21:55:55+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2023-4911.git"
 		}
