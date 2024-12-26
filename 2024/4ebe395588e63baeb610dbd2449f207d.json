@@ -73,6 +73,13 @@
 			"clone_ssh_url": "git@github.com:Betan423/CVE-2024-23334-PoC.git"
 		},
 		{
+			"xdb_id": "5230c11bc1bc",
+			"xdb_url": "https://vulncheck.com/xdb/5230c11bc1bc",
+			"date_added": "2024-12-25T12:50:59Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:BestDevOfc/CVE-2024-23334-PoC.git"
+		},
+		{
 			"xdb_id": "e5449a962b26",
 			"xdb_url": "https://vulncheck.com/xdb/e5449a962b26",
 			"date_added": "2024-10-21T05:37:33Z",
