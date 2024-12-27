@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "b48e57603171",
-			"xdb_url": "https://vulncheck.com/xdb/b48e57603171",
-			"date_added": "2023-07-22T21:06:51Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-4191-EXPLOIT.git"
-		},
-		{
 			"xdb_id": "4722f45a5488",
 			"xdb_url": "https://vulncheck.com/xdb/4722f45a5488",
 			"date_added": "2023-06-05T04:08:45Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Adelittle/CVE-2021-4191_Exploits.git"
+		},
+		{
+			"xdb_id": "b48e57603171",
+			"xdb_url": "https://vulncheck.com/xdb/b48e57603171",
+			"date_added": "2023-07-22T21:06:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2021-4191-EXPLOIT.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -804,6 +804,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-24&host_type=src&vulnerability=cve-2021-4191",
 			"date_added": "2024-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-26&host_type=src&vulnerability=cve-2021-4191",
+			"date_added": "2024-12-26T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-14T00:00:00Z"

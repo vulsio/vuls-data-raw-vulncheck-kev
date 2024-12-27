@@ -899,6 +899,10 @@
 			"date_added": "2024-12-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-26&host_type=src&vulnerability=cve-2021-31755",
+			"date_added": "2024-12-26T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/the-ghosts-of-mirai",
 			"date_added": "2021-06-24T00:00:00Z"
 		},
