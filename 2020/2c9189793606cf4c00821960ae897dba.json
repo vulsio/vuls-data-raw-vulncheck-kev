@@ -157,20 +157,6 @@
 			"clone_ssh_url": "git@github.com:jiansiting/CVE-2020-0796.git"
 		},
 		{
-			"xdb_id": "9e0eebcc0239",
-			"xdb_url": "https://vulncheck.com/xdb/9e0eebcc0239",
-			"date_added": "2020-03-11T15:21:27Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:ly4k/SMBGhost.git"
-		},
-		{
-			"xdb_id": "234a8c77ec20",
-			"xdb_url": "https://vulncheck.com/xdb/234a8c77ec20",
-			"date_added": "2020-03-30T11:42:56Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:danigargu/CVE-2020-0796.git"
-		},
-		{
 			"xdb_id": "002285bd34cf",
 			"xdb_url": "https://vulncheck.com/xdb/002285bd34cf",
 			"date_added": "2020-04-20T14:35:48Z",
@@ -199,11 +185,18 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "d7d5d53f4bea",
-			"xdb_url": "https://vulncheck.com/xdb/d7d5d53f4bea",
-			"date_added": "2021-07-20T13:06:20+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:li-yuemin-95/CVE-2020-0796-PoC.git"
+			"xdb_id": "9e0eebcc0239",
+			"xdb_url": "https://vulncheck.com/xdb/9e0eebcc0239",
+			"date_added": "2020-03-11T15:21:27Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ly4k/SMBGhost.git"
+		},
+		{
+			"xdb_id": "234a8c77ec20",
+			"xdb_url": "https://vulncheck.com/xdb/234a8c77ec20",
+			"date_added": "2020-03-30T11:42:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:danigargu/CVE-2020-0796.git"
 		},
 		{
 			"xdb_id": "1433f57a34a7",
@@ -276,6 +269,13 @@
 			"clone_ssh_url": "git@gitee.com:mstir/SMBGhost.git"
 		},
 		{
+			"xdb_id": "04badb202b58",
+			"xdb_url": "https://vulncheck.com/xdb/04badb202b58",
+			"date_added": "2022-01-11T22:51:14+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_danigargu/CVE-2020-0796.git"
+		},
+		{
 			"xdb_id": "5f415b7a9395",
 			"xdb_url": "https://vulncheck.com/xdb/5f415b7a9395",
 			"date_added": "2022-01-10T17:47:01+08:00",
@@ -299,16 +299,16 @@
 		{
 			"xdb_id": "1e6f8ca038f7",
 			"xdb_url": "https://vulncheck.com/xdb/1e6f8ca038f7",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-08-18T14:49:01+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:Dyan_code/CVE-2020-0796-SMB.git"
 		},
 		{
-			"xdb_id": "04badb202b58",
-			"xdb_url": "https://vulncheck.com/xdb/04badb202b58",
-			"date_added": "2022-01-11T22:51:14+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_danigargu/CVE-2020-0796.git"
+			"xdb_id": "d7d5d53f4bea",
+			"xdb_url": "https://vulncheck.com/xdb/d7d5d53f4bea",
+			"date_added": "2021-07-20T13:06:20+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:li-yuemin-95/CVE-2020-0796-PoC.git"
 		},
 		{
 			"xdb_id": "f25ef6c781a3",

@@ -383,7 +383,7 @@
 		{
 			"xdb_id": "c555ac264c6e",
 			"xdb_url": "https://vulncheck.com/xdb/c555ac264c6e",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-12-12T22:33:33+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
 		},

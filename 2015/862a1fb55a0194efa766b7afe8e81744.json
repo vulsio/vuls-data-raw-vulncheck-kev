@@ -180,7 +180,7 @@
 		{
 			"xdb_id": "1ac59b46e457",
 			"xdb_url": "https://vulncheck.com/xdb/1ac59b46e457",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-01-11T22:45:31+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:mirrors_unamer/CVE-2017-11882.git"
 		},

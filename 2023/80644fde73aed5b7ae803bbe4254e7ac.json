@@ -19,7 +19,7 @@
 		{
 			"xdb_id": "1d81a72358fa",
 			"xdb_url": "https://vulncheck.com/xdb/1d81a72358fa",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-11-22T10:46:22+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-33044.git"
 		}
