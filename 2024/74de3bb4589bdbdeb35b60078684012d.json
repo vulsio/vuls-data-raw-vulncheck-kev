@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "go-rt-ac750_firmware",
+	"shortDescription": "D-Link GO-RT-AC750 GORTAC750_revA_v101b03 and GO-RT-AC750_revB_FWv200b02 is vulnerable to Command Injection via /cgibin, hnap_main,",
+	"vulnerabilityName": "D-Link go-rt-ac750_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2022-37056"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities",
+			"date_added": "2024-12-26T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-26T00:00:00Z"
+}

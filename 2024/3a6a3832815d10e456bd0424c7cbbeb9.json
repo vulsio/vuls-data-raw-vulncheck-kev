@@ -1,0 +1,19 @@
+{
+	"vendorProject": "D-Link",
+	"product": "DIR-845L",
+	"shortDescription": "D-Link DIR-845L v1.01KRb03 and before is vulnerable to an operating system command injection vulnerability.",
+	"vulnerabilityName": "D-Link DIR-845L HNAP OS Command Injection",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-33112"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortinet.com/blog/threat-research/botnets-continue-to-target-aging-d-link-vulnerabilities",
+			"date_added": "2024-12-26T00:00:00Z"
+		}
+	],
+	"date_added": "2024-12-26T00:00:00Z"
+}
