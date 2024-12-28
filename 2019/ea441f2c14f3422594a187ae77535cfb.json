@@ -33,7 +33,7 @@
 		{
 			"xdb_id": "a53d146cb86b",
 			"xdb_url": "https://vulncheck.com/xdb/a53d146cb86b",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2024-01-24T17:10:16+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:resparkstar/Janus-Exploit2.git"
 		}
