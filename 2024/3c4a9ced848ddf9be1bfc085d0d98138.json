@@ -571,6 +571,10 @@
 			"date_added": "2024-12-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-27&host_type=src&vulnerability=cve-2023-37679",
+			"date_added": "2024-12-27T00:00:00Z"
+		},
+		{
 			"url": "https://censys.com/state-of-internet-of-healthcare-things/",
 			"date_added": "2024-10-10T00:00:00Z"
 		},

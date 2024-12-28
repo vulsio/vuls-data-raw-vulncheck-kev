@@ -304,13 +304,6 @@
 			"clone_ssh_url": "git@github.com:gh-ost00/CVE-2024-4577-RCE.git"
 		},
 		{
-			"xdb_id": "d89b163c7ba9",
-			"xdb_url": "https://vulncheck.com/xdb/d89b163c7ba9",
-			"date_added": "2024-06-07T05:50:23Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-4577.git"
-		},
-		{
 			"xdb_id": "0c4b91081cb3",
 			"xdb_url": "https://vulncheck.com/xdb/0c4b91081cb3",
 			"date_added": "2023-01-13T08:18:15Z",
@@ -332,6 +325,13 @@
 			"clone_ssh_url": "git@github.com:BTtea/CVE-2024-4577-RCE-PoC.git"
 		},
 		{
+			"xdb_id": "d982c4edc474",
+			"xdb_url": "https://vulncheck.com/xdb/d982c4edc474",
+			"date_added": "2024-07-06T19:37:14Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-4577-RCE.git"
+		},
+		{
 			"xdb_id": "7ee6ed2bc73f",
 			"xdb_url": "https://vulncheck.com/xdb/7ee6ed2bc73f",
 			"date_added": "2024-06-07T09:52:54Z",
@@ -339,11 +339,11 @@
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
 		},
 		{
-			"xdb_id": "d982c4edc474",
-			"xdb_url": "https://vulncheck.com/xdb/d982c4edc474",
-			"date_added": "2024-07-06T19:37:14Z",
+			"xdb_id": "d89b163c7ba9",
+			"xdb_url": "https://vulncheck.com/xdb/d89b163c7ba9",
+			"date_added": "2024-06-07T05:50:23Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-4577-RCE.git"
+			"clone_ssh_url": "git@github.com:TAM-K592/CVE-2024-4577.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1022,6 +1022,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-26&host_type=src&vulnerability=cve-2024-4577",
 			"date_added": "2024-12-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-27&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2024-12-27T00:00:00Z"
 		},
 		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",

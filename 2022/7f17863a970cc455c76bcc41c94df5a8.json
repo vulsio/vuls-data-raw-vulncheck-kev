@@ -325,13 +325,6 @@
 			"clone_ssh_url": "git@github.com:blasty/CVE-2021-3156.git"
 		},
 		{
-			"xdb_id": "6f40fc0eb6b6",
-			"xdb_url": "https://vulncheck.com/xdb/6f40fc0eb6b6",
-			"date_added": "2024-12-19T13:29:32Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Intikam21kurucu/Sylph-intframework.git"
-		},
-		{
 			"xdb_id": "81c88fb24bd9",
 			"xdb_url": "https://vulncheck.com/xdb/81c88fb24bd9",
 			"date_added": "2021-02-09T19:25:18Z",
@@ -339,46 +332,11 @@
 			"clone_ssh_url": "git@github.com:Rvn0xsy/CVE-2021-3156-plus.git"
 		},
 		{
-			"xdb_id": "e970e6dec7b1",
-			"xdb_url": "https://vulncheck.com/xdb/e970e6dec7b1",
-			"date_added": "2023-10-13T16:51:12+08:00",
+			"xdb_id": "6f40fc0eb6b6",
+			"xdb_url": "https://vulncheck.com/xdb/6f40fc0eb6b6",
+			"date_added": "2024-12-19T13:29:32Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:vincentwang11/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "6b4c5b3f6b0e",
-			"xdb_url": "https://vulncheck.com/xdb/6b4c5b3f6b0e",
-			"date_added": "2021-03-16T13:14:14+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:eforall/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "42c098e8e2cc",
-			"xdb_url": "https://vulncheck.com/xdb/42c098e8e2cc",
-			"date_added": "2021-11-23T16:28:35+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:lxonz/CVE-2021-3156-plus.git"
-		},
-		{
-			"xdb_id": "25def691895e",
-			"xdb_url": "https://vulncheck.com/xdb/25def691895e",
-			"date_added": "2021-02-07T05:01:00+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "73a26a137f38",
-			"xdb_url": "https://vulncheck.com/xdb/73a26a137f38",
-			"date_added": "2021-03-18T16:55:35+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:cor0ps/CVE-2021-3156.git"
-		},
-		{
-			"xdb_id": "bdfb7b3c721c",
-			"xdb_url": "https://vulncheck.com/xdb/bdfb7b3c721c",
-			"date_added": "2021-04-14T23:08:38+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:shine05/CVE-2021-3156.git"
+			"clone_ssh_url": "git@github.com:Intikam21kurucu/Sylph-intframework.git"
 		},
 		{
 			"xdb_id": "748cab143d91",
@@ -416,6 +374,27 @@
 			"clone_ssh_url": "git@gitee.com:PuGongYingZhiLiu/CVE-2021-3156.git"
 		},
 		{
+			"xdb_id": "42c098e8e2cc",
+			"xdb_url": "https://vulncheck.com/xdb/42c098e8e2cc",
+			"date_added": "2021-11-23T16:28:35+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:lxonz/CVE-2021-3156-plus.git"
+		},
+		{
+			"xdb_id": "e970e6dec7b1",
+			"xdb_url": "https://vulncheck.com/xdb/e970e6dec7b1",
+			"date_added": "2023-10-13T16:51:12+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:vincentwang11/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "6b4c5b3f6b0e",
+			"xdb_url": "https://vulncheck.com/xdb/6b4c5b3f6b0e",
+			"date_added": "2021-03-16T13:14:14+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:eforall/CVE-2021-3156.git"
+		},
+		{
 			"xdb_id": "f80704f9c087",
 			"xdb_url": "https://vulncheck.com/xdb/f80704f9c087",
 			"date_added": "2021-04-09T13:34:40+08:00",
@@ -428,6 +407,27 @@
 			"date_added": "2021-03-19T14:43:17+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-3156-go.git"
+		},
+		{
+			"xdb_id": "25def691895e",
+			"xdb_url": "https://vulncheck.com/xdb/25def691895e",
+			"date_added": "2021-02-07T05:01:00+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "73a26a137f38",
+			"xdb_url": "https://vulncheck.com/xdb/73a26a137f38",
+			"date_added": "2021-03-18T16:55:35+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cor0ps/CVE-2021-3156.git"
+		},
+		{
+			"xdb_id": "bdfb7b3c721c",
+			"xdb_url": "https://vulncheck.com/xdb/bdfb7b3c721c",
+			"date_added": "2021-04-14T23:08:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:shine05/CVE-2021-3156.git"
 		},
 		{
 			"xdb_id": "8a16e063dbd5",

@@ -1647,6 +1647,10 @@
 			"date_added": "2024-12-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-27&host_type=src&vulnerability=cve-2016-10372",
+			"date_added": "2024-12-27T00:00:00Z"
+		},
+		{
 			"url": "https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_02B-3_Herwig_paper.pdf",
 			"date_added": "2019-01-01T00:00:00Z"
 		},
