@@ -1,0 +1,23 @@
+{
+	"vendorProject": "Four-Faith",
+	"product": "F3x24 and F3x36",
+	"shortDescription": "Four-Faith industrial routers are vulnerable to an operating system command injection vulnerability.",
+	"vulnerabilityName": "Four-Faith adjust_sys_time OS Command Injection",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-12856"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://ducklingstudio.blog.fc2.com/blog-entry-392.html",
+			"date_added": "2024-11-09T00:00:00Z"
+		},
+		{
+			"url": "https://vulncheck.com/blog/four-faith-cve-2024-12856",
+			"date_added": "2024-12-27T00:00:00Z"
+		}
+	],
+	"date_added": "2024-11-09T00:00:00Z"
+}
