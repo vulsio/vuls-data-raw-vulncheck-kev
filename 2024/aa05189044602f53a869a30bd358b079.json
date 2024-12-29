@@ -266,6 +266,10 @@
 			"date_added": "2024-12-27T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-28&host_type=src&vulnerability=cve-2024-7593",
+			"date_added": "2024-12-28T00:00:00Z"
+		},
+		{
 			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-ivanti-php-saml-network-devices-and-more/",
 			"date_added": "2024-12-24T00:00:00Z"
 		}
