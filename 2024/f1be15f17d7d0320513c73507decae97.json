@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "163bcfc3bb0a",
-			"xdb_url": "https://vulncheck.com/xdb/163bcfc3bb0a",
-			"date_added": "2024-10-09T16:22:05Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2024-9465.git"
-		},
-		{
 			"xdb_id": "e8e231612451",
 			"xdb_url": "https://vulncheck.com/xdb/e8e231612451",
 			"date_added": "2024-12-05T16:48:52Z",
@@ -36,6 +29,13 @@
 			"date_added": "2024-10-10T08:23:31Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:mustafaakalin/CVE-2024-9465.git"
+		},
+		{
+			"xdb_id": "163bcfc3bb0a",
+			"xdb_url": "https://vulncheck.com/xdb/163bcfc3bb0a",
+			"date_added": "2024-10-09T16:22:05Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2024-9465.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
