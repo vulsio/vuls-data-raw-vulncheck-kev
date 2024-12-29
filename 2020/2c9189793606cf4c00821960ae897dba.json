@@ -360,18 +360,18 @@
 			"clone_ssh_url": "git@gitee.com:jerry1029/CVE-2020-0796-PoC.git"
 		},
 		{
-			"xdb_id": "b8b6072526a3",
-			"xdb_url": "https://vulncheck.com/xdb/b8b6072526a3",
-			"date_added": "2022-08-13T16:11:07Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitlab.com:ran-sama/CVE-2020-0796.git"
-		},
-		{
 			"xdb_id": "935c9e284cc4",
 			"xdb_url": "https://vulncheck.com/xdb/935c9e284cc4",
 			"date_added": "2020-04-07T11:56:17Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitlab.com:gavz/CVE-2020-0796.git"
+		},
+		{
+			"xdb_id": "b8b6072526a3",
+			"xdb_url": "https://vulncheck.com/xdb/b8b6072526a3",
+			"date_added": "2022-08-13T16:11:07Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitlab.com:ran-sama/CVE-2020-0796.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
