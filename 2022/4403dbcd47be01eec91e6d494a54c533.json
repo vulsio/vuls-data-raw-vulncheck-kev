@@ -164,11 +164,11 @@
 			"clone_ssh_url": "git@github.com:whwlsfb/cve-2022-22947-godzilla-memshell.git"
 		},
 		{
-			"xdb_id": "9344fae60775",
-			"xdb_url": "https://vulncheck.com/xdb/9344fae60775",
-			"date_added": "2022-10-29T03:28:55Z",
+			"xdb_id": "a48d3f6ecc63",
+			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
+			"date_added": "2022-04-07T04:28:29Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
+			"clone_ssh_url": "git@github.com:helloexp/0day.git"
 		},
 		{
 			"xdb_id": "769ad48809b9",
@@ -178,11 +178,11 @@
 			"clone_ssh_url": "git@github.com:jm33-m0/emp3r0r.git"
 		},
 		{
-			"xdb_id": "a48d3f6ecc63",
-			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
-			"date_added": "2022-04-07T04:28:29Z",
+			"xdb_id": "9344fae60775",
+			"xdb_url": "https://vulncheck.com/xdb/9344fae60775",
+			"date_added": "2022-10-29T03:28:55Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:helloexp/0day.git"
+			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

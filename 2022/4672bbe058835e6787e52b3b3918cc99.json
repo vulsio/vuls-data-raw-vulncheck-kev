@@ -241,18 +241,18 @@
 			"clone_ssh_url": "git@github.com:BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL.git"
 		},
 		{
-			"xdb_id": "afb357664032",
-			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "5b4caf96d2c6",
 			"xdb_url": "https://vulncheck.com/xdb/5b4caf96d2c6",
 			"date_added": "2022-07-15T10:06:15Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:iveresk/cve-2022-26134.git"
+		},
+		{
+			"xdb_id": "afb357664032",
+			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
 			"xdb_id": "66716e60c64a",
