@@ -283,6 +283,20 @@
 			"clone_ssh_url": "git@gitee.com:tancehello/Check-vuln-CVE-2019-0708.git"
 		},
 		{
+			"xdb_id": "181fc435a9f1",
+			"xdb_url": "https://vulncheck.com/xdb/181fc435a9f1",
+			"date_added": "2019-10-15T20:39:03+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:bxqtee/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "f783965878ba",
+			"xdb_url": "https://vulncheck.com/xdb/f783965878ba",
+			"date_added": "2020-05-26T23:42:14+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:cysec/CVE-2019-0708.git"
+		},
+		{
 			"xdb_id": "1bd6e3d7edf2",
 			"xdb_url": "https://vulncheck.com/xdb/1bd6e3d7edf2",
 			"date_added": "2019-11-05T17:51:24+08:00",
@@ -302,20 +316,6 @@
 			"date_added": "2020-03-17T17:24:17+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CVE-2019-0708.git"
-		},
-		{
-			"xdb_id": "181fc435a9f1",
-			"xdb_url": "https://vulncheck.com/xdb/181fc435a9f1",
-			"date_added": "2019-10-15T20:39:03+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:bxqtee/CVE-2019-0708.git"
-		},
-		{
-			"xdb_id": "f783965878ba",
-			"xdb_url": "https://vulncheck.com/xdb/f783965878ba",
-			"date_added": "2020-05-26T23:42:14+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:cysec/CVE-2019-0708.git"
 		},
 		{
 			"xdb_id": "fee7134123f4",

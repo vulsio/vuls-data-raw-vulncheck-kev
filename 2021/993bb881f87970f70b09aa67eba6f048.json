@@ -33,7 +33,7 @@
 		{
 			"xdb_id": "78f51572c784",
 			"xdb_url": "https://vulncheck.com/xdb/78f51572c784",
-			"date_added": "2021-01-20T09:20:36+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:h1d3r/CVE-2020-17144.git"
 		},
