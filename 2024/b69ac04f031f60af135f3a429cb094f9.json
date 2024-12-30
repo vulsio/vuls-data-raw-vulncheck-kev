@@ -617,6 +617,10 @@
 			"date_added": "2024-12-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-29&host_type=src&vulnerability=cve-2023-43208",
+			"date_added": "2024-12-29T00:00:00Z"
+		},
+		{
 			"url": "https://github.com/nextgenhealthcare/connect/discussions/6124",
 			"date_added": "2024-03-07T00:00:00Z"
 		},

@@ -1051,6 +1051,10 @@
 			"date_added": "2024-12-28T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-29&host_type=src&vulnerability=cve-2020-12800",
+			"date_added": "2024-12-29T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",
 			"date_added": "2021-04-12T00:00:00Z"
 		}

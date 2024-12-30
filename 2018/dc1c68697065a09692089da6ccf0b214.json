@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:bigric3/cve-2018-8120.git"
 		},
 		{
-			"xdb_id": "744e1fb3b1f7",
-			"xdb_url": "https://vulncheck.com/xdb/744e1fb3b1f7",
-			"date_added": "2018-05-19T02:43:15Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:rip1s/CVE-2018-8120.git"
-		},
-		{
 			"xdb_id": "5882ac72e8c6",
 			"xdb_url": "https://vulncheck.com/xdb/5882ac72e8c6",
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "744e1fb3b1f7",
+			"xdb_url": "https://vulncheck.com/xdb/744e1fb3b1f7",
+			"date_added": "2018-05-19T02:43:15Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:rip1s/CVE-2018-8120.git"
 		},
 		{
 			"xdb_id": "48d436ff8d49",

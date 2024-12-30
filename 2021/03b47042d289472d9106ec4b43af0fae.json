@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:ly4k/PrintNightmare.git"
 		},
 		{
-			"xdb_id": "a9a05728c824",
-			"xdb_url": "https://vulncheck.com/xdb/a9a05728c824",
-			"date_added": "2021-07-02T12:10:49Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:JohnHammond/CVE-2021-34527.git"
-		},
-		{
 			"xdb_id": "8b8ea9fe1124",
 			"xdb_url": "https://vulncheck.com/xdb/8b8ea9fe1124",
 			"date_added": "2022-09-05T23:48:44Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:hackerhouse-opensource/cve-2021-34527.git"
+		},
+		{
+			"xdb_id": "f06e206bb116",
+			"xdb_url": "https://vulncheck.com/xdb/f06e206bb116",
+			"date_added": "2021-07-03T15:15:12Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:nemo-wq/PrintNightmare-CVE-2021-34527.git"
 		},
 		{
 			"xdb_id": "236b4901d545",
@@ -73,11 +73,11 @@
 			"clone_ssh_url": "git@github.com:cube0x0/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "f06e206bb116",
-			"xdb_url": "https://vulncheck.com/xdb/f06e206bb116",
-			"date_added": "2021-07-03T15:15:12Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:nemo-wq/PrintNightmare-CVE-2021-34527.git"
+			"xdb_id": "a9a05728c824",
+			"xdb_url": "https://vulncheck.com/xdb/a9a05728c824",
+			"date_added": "2021-07-02T12:10:49Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:JohnHammond/CVE-2021-34527.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
