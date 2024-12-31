@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "JEECG",
+	"product": "JeecgBoot",
+	"shortDescription": "JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.",
+	"vulnerabilityName": "JeecgBoot /onlDragDatasetHead/getTotalData SQL Injection Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

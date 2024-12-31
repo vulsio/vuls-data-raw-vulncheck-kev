@@ -17,6 +17,10 @@
 		{
 			"url": "https://vulncheck.com/blog/four-faith-cve-2024-12856",
 			"date_added": "2024-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cve.org/CVERecord?id=CVE-2024-12856",
+			"date_added": "2024-12-27T00:00:00Z"
 		}
 	],
 	"date_added": "2024-11-09T00:00:00Z"

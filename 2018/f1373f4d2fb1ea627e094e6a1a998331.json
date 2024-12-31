@@ -54,7 +54,7 @@
 		{
 			"xdb_id": "93955bfa2ac3",
 			"xdb_url": "https://vulncheck.com/xdb/93955bfa2ac3",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-03-24T11:15:15+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mi666/CVE-2018-2893.git"
 		}

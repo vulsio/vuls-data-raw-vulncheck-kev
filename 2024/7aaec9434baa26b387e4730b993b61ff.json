@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:apkc/CVE-2024-26229-BOF.git"
 		},
 		{
-			"xdb_id": "112e1fad5888",
-			"xdb_url": "https://vulncheck.com/xdb/112e1fad5888",
-			"date_added": "2024-08-04T17:40:51Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Cracked5pider/eop24-26229.git"
-		},
-		{
 			"xdb_id": "3ec26e3483ec",
 			"xdb_url": "https://vulncheck.com/xdb/3ec26e3483ec",
 			"date_added": "2024-06-10T17:02:03Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:varwara/CVE-2024-26229.git"
+		},
+		{
+			"xdb_id": "112e1fad5888",
+			"xdb_url": "https://vulncheck.com/xdb/112e1fad5888",
+			"date_added": "2024-08-04T17:40:51Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Cracked5pider/eop24-26229.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

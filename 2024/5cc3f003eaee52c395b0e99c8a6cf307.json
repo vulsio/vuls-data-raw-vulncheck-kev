@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Altenergy Power",
+	"product": "Power Control Software",
+	"shortDescription": "A vulnerability classified as critical was found in Altenergy Power Control Software up to 20241108. This vulnerability affects the function get_status_zigbee of the file /index.php/display/status_zigbee. The manipulation of the argument date leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.",
+	"vulnerabilityName": "Altenergy Power Control Software SQL Injection",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
