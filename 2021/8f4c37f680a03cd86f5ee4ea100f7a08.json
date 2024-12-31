@@ -430,13 +430,6 @@
 			"clone_ssh_url": "git@github.com:mohwahyudi/cve-2021-41773.git"
 		},
 		{
-			"xdb_id": "19daa216be3e",
-			"xdb_url": "https://vulncheck.com/xdb/19daa216be3e",
-			"date_added": "2022-03-12T21:24:55Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:thehackersbrain/CVE-2021-41773.git"
-		},
-		{
 			"xdb_id": "7efd496306c2",
 			"xdb_url": "https://vulncheck.com/xdb/7efd496306c2",
 			"date_added": "2024-12-16T04:23:41Z",
@@ -451,11 +444,11 @@
 			"clone_ssh_url": "git@github.com:blackn0te/Apache-HTTP-Server-2.4.49-2.4.50-Path-Traversal-Remote-Code-Execution.git"
 		},
 		{
-			"xdb_id": "e53c96b7f8c4",
-			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
-			"date_added": "2023-09-17T13:57:58+08:00",
+			"xdb_id": "19daa216be3e",
+			"xdb_url": "https://vulncheck.com/xdb/19daa216be3e",
+			"date_added": "2022-03-12T21:24:55Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
+			"clone_ssh_url": "git@github.com:thehackersbrain/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "56fc1e32325a",
@@ -463,6 +456,13 @@
 			"date_added": "2021-11-19T02:09:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-41773.git"
+		},
+		{
+			"xdb_id": "e53c96b7f8c4",
+			"xdb_url": "https://vulncheck.com/xdb/e53c96b7f8c4",
+			"date_added": "2023-09-17T13:57:58+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:Changonshan/CVE-2021-41773.git"
 		},
 		{
 			"xdb_id": "846a361d532a",

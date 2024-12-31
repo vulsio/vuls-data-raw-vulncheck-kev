@@ -206,13 +206,6 @@
 			"clone_ssh_url": "git@github.com:dorkerdevil/Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708-.git"
 		},
 		{
-			"xdb_id": "92597113b854",
-			"xdb_url": "https://vulncheck.com/xdb/92597113b854",
-			"date_added": "2019-05-29T16:53:54Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:Ekultek/BlueKeep.git"
-		},
-		{
 			"xdb_id": "0a6b5b0cbd12",
 			"xdb_url": "https://vulncheck.com/xdb/0a6b5b0cbd12",
 			"date_added": "2020-03-15T19:33:53Z",
@@ -234,18 +227,11 @@
 			"clone_ssh_url": "git@github.com:victor0013/CVE-2019-0708.git"
 		},
 		{
-			"xdb_id": "2116a08dcafd",
-			"xdb_url": "https://vulncheck.com/xdb/2116a08dcafd",
-			"date_added": "2020-09-04T09:41:05+08:00",
+			"xdb_id": "92597113b854",
+			"xdb_url": "https://vulncheck.com/xdb/92597113b854",
+			"date_added": "2019-05-29T16:53:54Z",
 			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:isdc_admin/CVE-2019-0708.git"
-		},
-		{
-			"xdb_id": "d0813d668813",
-			"xdb_url": "https://vulncheck.com/xdb/d0813d668813",
-			"date_added": "2020-05-27T11:12:10+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708.git"
+			"clone_ssh_url": "git@github.com:Ekultek/BlueKeep.git"
 		},
 		{
 			"xdb_id": "495f5c9a61a0",
@@ -281,6 +267,20 @@
 			"date_added": "2021-02-15T21:01:38+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:tancehello/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "2116a08dcafd",
+			"xdb_url": "https://vulncheck.com/xdb/2116a08dcafd",
+			"date_added": "2020-09-04T09:41:05+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:isdc_admin/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "d0813d668813",
+			"xdb_url": "https://vulncheck.com/xdb/d0813d668813",
+			"date_added": "2020-05-27T11:12:10+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708.git"
 		},
 		{
 			"xdb_id": "181fc435a9f1",

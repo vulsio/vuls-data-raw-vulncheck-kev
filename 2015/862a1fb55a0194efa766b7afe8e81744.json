@@ -129,6 +129,13 @@
 			"clone_ssh_url": "git@github.com:0x09AL/CVE-2017-11882-metasploit.git"
 		},
 		{
+			"xdb_id": "ea0b976f167f",
+			"xdb_url": "https://vulncheck.com/xdb/ea0b976f167f",
+			"date_added": "2021-10-17T00:01:07+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:csharphpython/CVE-2017-11882.git"
+		},
+		{
 			"xdb_id": "40468e8cc38a",
 			"xdb_url": "https://vulncheck.com/xdb/40468e8cc38a",
 			"date_added": "2021-01-20T11:25:39+08:00",
@@ -148,13 +155,6 @@
 			"date_added": "2023-11-30T18:12:58+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:j4_son/CVE-2017-11882.git"
-		},
-		{
-			"xdb_id": "ea0b976f167f",
-			"xdb_url": "https://vulncheck.com/xdb/ea0b976f167f",
-			"date_added": "2021-10-17T00:01:07+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:csharphpython/CVE-2017-11882.git"
 		},
 		{
 			"xdb_id": "e792aa5f248a",

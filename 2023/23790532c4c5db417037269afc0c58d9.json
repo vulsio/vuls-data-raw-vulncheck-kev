@@ -54,6 +54,10 @@
 			"date_added": "2023-12-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-30&host_type=src&vulnerability=cve-2023-26360",
+			"date_added": "2024-12-30T00:00:00Z"
+		},
+		{
 			"url": "https://helpx.adobe.com/security/products/coldfusion/apsb23-25.html",
 			"date_added": "2023-03-14T00:00:00Z"
 		},

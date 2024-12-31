@@ -179,6 +179,10 @@
 			"date_added": "2024-12-27T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-30&host_type=src&vulnerability=cve-2024-8963",
+			"date_added": "2024-12-30T00:00:00Z"
+		},
+		{
 			"url": "https://forums.ivanti.com/s/article/Security-Advisory-Ivanti-CSA-4-6-Cloud-Services-Appliance-CVE-2024-8963",
 			"date_added": "2024-09-19T00:00:00Z"
 		},

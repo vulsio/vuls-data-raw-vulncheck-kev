@@ -1378,6 +1378,10 @@
 			"date_added": "2024-12-29T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-30&host_type=src&vulnerability=cve-2023-22518",
+			"date_added": "2024-12-30T00:00:00Z"
+		},
+		{
 			"url": "https://redcanary.com/blog/confluence-exploit-ransomware/",
 			"date_added": "2023-11-06T00:00:00Z"
 		},
