@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:rahisec/CVE-2024-4040.git"
 		},
 		{
-			"xdb_id": "b6b39541f616",
-			"xdb_url": "https://vulncheck.com/xdb/b6b39541f616",
-			"date_added": "2024-09-30T16:18:07Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:geniuszlyy/GenCrushSSTIExploit.git"
-		},
-		{
 			"xdb_id": "e71d60507f5d",
 			"xdb_url": "https://vulncheck.com/xdb/e71d60507f5d",
 			"date_added": "2024-07-05T05:46:56Z",
@@ -106,6 +99,13 @@
 			"date_added": "2024-04-25T19:51:38Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-4040-SSTI-LFI-PoC.git"
+		},
+		{
+			"xdb_id": "49d5d24a6094",
+			"xdb_url": "https://vulncheck.com/xdb/49d5d24a6094",
+			"date_added": "2024-09-30T16:18:07Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:geniuszly/GenCrushSSTIExploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -157,11 +157,11 @@
 			"clone_ssh_url": "git@github.com:inspiringz/CVE-2021-22205.git"
 		},
 		{
-			"xdb_id": "c4cbe11e130c",
-			"xdb_url": "https://vulncheck.com/xdb/c4cbe11e130c",
-			"date_added": "2021-11-17T10:49:16+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:leocxj/CVE-2021-22205.git"
+			"xdb_id": "4f08d429923e",
+			"xdb_url": "https://vulncheck.com/xdb/4f08d429923e",
+			"date_added": "2021-11-13T17:08:22+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:qboy0000/CVE-2021-22205.git"
 		},
 		{
 			"xdb_id": "779a26749ee1",
@@ -171,11 +171,11 @@
 			"clone_ssh_url": "git@gitee.com:ijz/CVE-2021-22205.git"
 		},
 		{
-			"xdb_id": "4f08d429923e",
-			"xdb_url": "https://vulncheck.com/xdb/4f08d429923e",
-			"date_added": "2021-11-13T17:08:22+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:qboy0000/CVE-2021-22205.git"
+			"xdb_id": "c4cbe11e130c",
+			"xdb_url": "https://vulncheck.com/xdb/c4cbe11e130c",
+			"date_added": "2021-11-17T10:49:16+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:leocxj/CVE-2021-22205.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -214,6 +214,10 @@
 		{
 			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
 			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://sysdig.com/content/c/pf-2024-global-threat-report?x=u_WFRi",
+			"date_added": "2024-11-26T00:00:00Z"
 		},
 		{
 			"url": "https://www.bleepingcomputer.com/news/security/new-cerber-ransomware-targets-confluence-and-gitlab-servers/",

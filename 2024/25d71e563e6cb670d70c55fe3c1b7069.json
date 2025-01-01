@@ -10,11 +10,11 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "4cc77230967c",
-			"xdb_url": "https://vulncheck.com/xdb/4cc77230967c",
+			"xdb_id": "6e33d229dce8",
+			"xdb_url": "https://vulncheck.com/xdb/6e33d229dce8",
 			"date_added": "2024-10-13T17:30:19Z",
 			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2020-15916.git"
+			"clone_ssh_url": "git@github.com:geniuszly/CVE-2020-15916.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

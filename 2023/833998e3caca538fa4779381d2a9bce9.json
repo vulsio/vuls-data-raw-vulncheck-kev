@@ -24,11 +24,11 @@
 			"clone_ssh_url": "git@github.com:amitlttwo/CVE-2022-2414-Proof-Of-Concept.git"
 		},
 		{
-			"xdb_id": "6a6ed86f689f",
-			"xdb_url": "https://vulncheck.com/xdb/6a6ed86f689f",
+			"xdb_id": "1a211964c217",
+			"xdb_url": "https://vulncheck.com/xdb/1a211964c217",
 			"date_added": "2024-10-07T15:36:39Z",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2022-2414.git"
+			"clone_ssh_url": "git@github.com:geniuszly/CVE-2022-2414.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

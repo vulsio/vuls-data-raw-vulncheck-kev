@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:A0be/CVE-2019-9193.git"
 		},
 		{
-			"xdb_id": "2675dd7c79a7",
-			"xdb_url": "https://vulncheck.com/xdb/2675dd7c79a7",
-			"date_added": "2024-10-06T17:16:44Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:geniuszlyy/CVE-2019-9193.git"
-		},
-		{
 			"xdb_id": "d49085c8a0de",
 			"xdb_url": "https://vulncheck.com/xdb/d49085c8a0de",
 			"date_added": "2024-10-07T04:40:51Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:AxthonyV/CVE-2019-9193.git"
+		},
+		{
+			"xdb_id": "ae385be7fbf9",
+			"xdb_url": "https://vulncheck.com/xdb/ae385be7fbf9",
+			"date_added": "2024-10-06T17:16:44Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:geniuszly/CVE-2019-9193.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -174,7 +174,7 @@
 			"xdb_id": "9612bcbc8150",
 			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
 			"date_added": "2024-01-15T07:12:07Z",
-			"exploit_type": "remote-with-credentials",
+			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
@@ -1909,6 +1909,10 @@
 		{
 			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",
 			"date_added": "2024-05-10T00:00:00Z"
+		},
+		{
+			"url": "https://sysdig.com/content/c/pf-2024-global-threat-report?x=u_WFRi",
+			"date_added": "2024-11-26T00:00:00Z"
 		},
 		{
 			"url": "https://blog.eclecticiq.com/chinese-threat-actor-used-modified-cobalt-strike-variant-to-attack-taiwanese-critical-infrastructure",

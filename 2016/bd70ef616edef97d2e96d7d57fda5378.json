@@ -164,13 +164,6 @@
 			"clone_ssh_url": "git@github.com:B1ackCat/cve-2016-5195-DirtyCOW.git"
 		},
 		{
-			"xdb_id": "4275f34a5224",
-			"xdb_url": "https://vulncheck.com/xdb/4275f34a5224",
-			"date_added": "2022-03-07T18:36:50Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:r1is/CVE-2022-0847.git"
-		},
-		{
 			"xdb_id": "db0cfa39ee2e",
 			"xdb_url": "https://vulncheck.com/xdb/db0cfa39ee2e",
 			"date_added": "2021-03-30T07:09:45Z",
@@ -227,11 +220,11 @@
 			"clone_ssh_url": "git@github.com:timwr/CVE-2016-5195.git"
 		},
 		{
-			"xdb_id": "56a0d9175e82",
-			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
-			"date_added": "2024-01-26T11:08:45+08:00",
+			"xdb_id": "4275f34a5224",
+			"xdb_url": "https://vulncheck.com/xdb/4275f34a5224",
+			"date_added": "2022-03-07T18:36:50Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
+			"clone_ssh_url": "git@github.com:r1is/CVE-2022-0847.git"
 		},
 		{
 			"xdb_id": "9ab30651140c",
@@ -239,6 +232,13 @@
 			"date_added": "2016-12-08T20:48:51+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:zhizhou/CVE-2016-5195.git"
+		},
+		{
+			"xdb_id": "56a0d9175e82",
+			"xdb_url": "https://vulncheck.com/xdb/56a0d9175e82",
+			"date_added": "2024-01-26T11:08:45+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:evil0xxx/CVE-2016-5195.git"
 		},
 		{
 			"xdb_id": "a73a45d1e2d2",
