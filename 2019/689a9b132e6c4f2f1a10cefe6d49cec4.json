@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:exodusintel/CVE-2019-0808.git"
 		},
 		{
-			"xdb_id": "e81f408aa168",
-			"xdb_url": "https://vulncheck.com/xdb/e81f408aa168",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "c9383a669787",
 			"xdb_url": "https://vulncheck.com/xdb/c9383a669787",
 			"date_added": "2019-03-25T11:53:35Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:ze0r/cve-2019-0808-poc.git"
+		},
+		{
+			"xdb_id": "e81f408aa168",
+			"xdb_url": "https://vulncheck.com/xdb/e81f408aa168",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
