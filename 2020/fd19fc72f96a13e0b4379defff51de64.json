@@ -1710,6 +1710,10 @@
 			"date_added": "2024-12-31T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-01&host_type=src&vulnerability=cve-2018-9995",
+			"date_added": "2025-01-01T00:00:00Z"
+		},
+		{
 			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",
 			"date_added": "2020-02-25T00:00:00Z"
 		},

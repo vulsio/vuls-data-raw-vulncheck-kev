@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "757c1e14dcee",
-			"xdb_url": "https://vulncheck.com/xdb/757c1e14dcee",
-			"date_added": "2023-01-23T23:58:00Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:BomberFish/JailedCement.git"
-		},
-		{
 			"xdb_id": "9eed3d39e805",
 			"xdb_url": "https://vulncheck.com/xdb/9eed3d39e805",
 			"date_added": "2023-01-05T20:47:12Z",
@@ -57,6 +50,13 @@
 			"date_added": "2022-12-17T16:45:24Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:zhuowei/MacDirtyCowDemo.git"
+		},
+		{
+			"xdb_id": "757c1e14dcee",
+			"xdb_url": "https://vulncheck.com/xdb/757c1e14dcee",
+			"date_added": "2023-01-23T23:58:00Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:BomberFish/JailedCement.git"
 		},
 		{
 			"xdb_id": "a92229722c63",
