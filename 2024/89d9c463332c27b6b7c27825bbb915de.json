@@ -1,8 +1,8 @@
 {
 	"vendorProject": "NUUO",
 	"product": "NVRmini2 Devices",
-	"shortDescription": "NUUO NVRmini 2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
-	"vulnerabilityName": "NUUO NVRmini 2 Devices Missing Authentication Vulnerability ",
+	"shortDescription": "NUUO NVRmini2 devices contain a missing authentication vulnerability that allows an unauthenticated attacker to upload an encrypted TAR archive, which can be abused to add arbitrary users. ",
+	"vulnerabilityName": "NUUO NVRmini2 Devices Missing Authentication Vulnerability ",
 	"required_action": "The impacted product is end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue utilization of the product.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
