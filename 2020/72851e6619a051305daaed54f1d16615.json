@@ -180,7 +180,7 @@
 		{
 			"xdb_id": "9fa6bc3af413",
 			"xdb_url": "https://vulncheck.com/xdb/9fa6bc3af413",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-01-11T23:24:04+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_jas502n/CVE-2020-5902.git"
 		},

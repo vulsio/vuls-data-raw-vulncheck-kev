@@ -82,7 +82,7 @@
 		{
 			"xdb_id": "18e0b48f69bd",
 			"xdb_url": "https://vulncheck.com/xdb/18e0b48f69bd",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-05-02T18:10:21+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:zyjsuper/CVE-2021-1732-Exploit.git"
 		}

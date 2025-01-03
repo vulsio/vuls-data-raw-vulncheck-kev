@@ -243,7 +243,7 @@
 		{
 			"xdb_id": "a13fcf8de8fc",
 			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-05-09T23:24:54+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2020-14882.git"
 		},

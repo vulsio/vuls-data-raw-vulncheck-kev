@@ -33,7 +33,7 @@
 		{
 			"xdb_id": "1dc3a463272e",
 			"xdb_url": "https://vulncheck.com/xdb/1dc3a463272e",
-			"date_added": "2020-09-11T15:04:26+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:happiii/CVE-2015-7547.git"
 		}

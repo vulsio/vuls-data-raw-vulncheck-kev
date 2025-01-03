@@ -54,7 +54,7 @@
 		{
 			"xdb_id": "98fbd62a7f31",
 			"xdb_url": "https://vulncheck.com/xdb/98fbd62a7f31",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-08-01T00:57:49+08:00",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:lmdy/CVE-2020-1350-DoS.git"
 		}

@@ -334,7 +334,7 @@
 		{
 			"xdb_id": "c5654abe65dd",
 			"xdb_url": "https://vulncheck.com/xdb/c5654abe65dd",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-04-04T21:55:15+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:any0ne-sec/spring-check.git"
 		},

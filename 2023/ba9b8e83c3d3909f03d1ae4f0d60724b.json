@@ -61,7 +61,7 @@
 		{
 			"xdb_id": "5da0c67872da",
 			"xdb_url": "https://vulncheck.com/xdb/5da0c67872da",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2024-01-23T09:09:11+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:dachuaner/CVE-2023-25157.git"
 		}
