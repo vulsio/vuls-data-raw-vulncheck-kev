@@ -1,0 +1,27 @@
+{
+	"vendorProject": "mi",
+	"product": "millet_router_3g_firmware",
+	"shortDescription": "An issue was discovered on Xiaomi Mi WiFi R3G devices before 2.28.23-stable. There is a directory traversal vulnerability to read arbitrary files via a misconfigured NGINX alias, as demonstrated by api-third-party/download/extdisks../etc/config/account. With this vulnerability, the attacker can bypass authentication.",
+	"vulnerabilityName": "mi millet_router_3g_firmware Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-18371"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "750ba4d5e0ba",
+			"xdb_url": "https://vulncheck.com/xdb/750ba4d5e0ba",
+			"date_added": "2019-08-30T16:32:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-02&host_type=src&vulnerability=cve-2019-18371",
+			"date_added": "2025-01-02T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-02T00:00:00Z"
+}

@@ -199,13 +199,6 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "c05a01763211",
-			"xdb_url": "https://vulncheck.com/xdb/c05a01763211",
-			"date_added": "2020-04-01T09:33:35Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
-		},
-		{
 			"xdb_id": "e962ac877371",
 			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
 			"date_added": "2019-07-18T14:25:37Z",
@@ -213,32 +206,18 @@
 			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
 		},
 		{
+			"xdb_id": "c05a01763211",
+			"xdb_url": "https://vulncheck.com/xdb/c05a01763211",
+			"date_added": "2020-04-01T09:33:35Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
+		},
+		{
 			"xdb_id": "a0b529fd1da1",
 			"xdb_url": "https://vulncheck.com/xdb/a0b529fd1da1",
 			"date_added": "2024-12-26T04:45:46Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:AleksaZatezalo/CVE-2020-14882.git"
-		},
-		{
-			"xdb_id": "8035aa262c64",
-			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
-			"date_added": "2021-07-27T11:11:27+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
-		},
-		{
-			"xdb_id": "a13fcf8de8fc",
-			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
-			"date_added": "2021-05-09T23:24:54+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2020-14882.git"
-		},
-		{
-			"xdb_id": "5f6f99d250bd",
-			"xdb_url": "https://vulncheck.com/xdb/5f6f99d250bd",
-			"date_added": "2021-01-24T19:00:08+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
 		},
 		{
 			"xdb_id": "b539b7bd0520",
@@ -253,6 +232,27 @@
 			"date_added": "2021-02-10T16:00:37+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-14882_ALL.git"
+		},
+		{
+			"xdb_id": "8035aa262c64",
+			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
+			"date_added": "2021-07-27T11:11:27+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
+		},
+		{
+			"xdb_id": "a13fcf8de8fc",
+			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
+			"date_added": "0001-01-01T00:00:00Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:keyboxdzd/CVE-2020-14882.git"
+		},
+		{
+			"xdb_id": "5f6f99d250bd",
+			"xdb_url": "https://vulncheck.com/xdb/5f6f99d250bd",
+			"date_added": "2021-01-24T19:00:08+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1455,6 +1455,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-01&host_type=src&vulnerability=cve-2020-14882",
 			"date_added": "2025-01-01T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-02&host_type=src&vulnerability=cve-2020-14882",
+			"date_added": "2025-01-02T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",

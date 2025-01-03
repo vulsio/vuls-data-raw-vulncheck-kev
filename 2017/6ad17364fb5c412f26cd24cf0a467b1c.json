@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:sasqwatch/CVE-2017-8570.git"
 		},
 		{
-			"xdb_id": "08f7e45a3d54",
-			"xdb_url": "https://vulncheck.com/xdb/08f7e45a3d54",
-			"date_added": "2018-01-09T19:09:33Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:rxwx/CVE-2017-8570.git"
-		},
-		{
 			"xdb_id": "5dbb4686472b",
 			"xdb_url": "https://vulncheck.com/xdb/5dbb4686472b",
 			"date_added": "2017-07-24T18:35:26Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:temesgeny/ppsx-file-generator.git"
+		},
+		{
+			"xdb_id": "08f7e45a3d54",
+			"xdb_url": "https://vulncheck.com/xdb/08f7e45a3d54",
+			"date_added": "2018-01-09T19:09:33Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:rxwx/CVE-2017-8570.git"
 		},
 		{
 			"xdb_id": "e86755a689d5",
