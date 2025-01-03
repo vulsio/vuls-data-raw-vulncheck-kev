@@ -234,6 +234,13 @@
 			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-23897.git"
 		},
 		{
+			"xdb_id": "e82dc77437a5",
+			"xdb_url": "https://vulncheck.com/xdb/e82dc77437a5",
+			"date_added": "2025-01-02T03:28:56Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Marouane133/jenkins-lfi.git"
+		},
+		{
 			"xdb_id": "0450095821bb",
 			"xdb_url": "https://vulncheck.com/xdb/0450095821bb",
 			"date_added": "2024-01-29T19:45:24+08:00",
