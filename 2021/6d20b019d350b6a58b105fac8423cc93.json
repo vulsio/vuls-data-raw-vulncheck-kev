@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:chromanite/CVE-2019-9193-PostgreSQL-9.3-11.7.git"
 		},
 		{
-			"xdb_id": "3bde608f037c",
-			"xdb_url": "https://vulncheck.com/xdb/3bde608f037c",
-			"date_added": "2022-03-29T21:02:02Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:b4keSn4ke/CVE-2019-9193.git"
-		},
-		{
 			"xdb_id": "7917b63fa40f",
 			"xdb_url": "https://vulncheck.com/xdb/7917b63fa40f",
 			"date_added": "2024-10-07T11:28:34Z",
@@ -50,6 +43,13 @@
 			"date_added": "2024-10-06T17:16:44Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:geniuszly/CVE-2019-9193.git"
+		},
+		{
+			"xdb_id": "3bde608f037c",
+			"xdb_url": "https://vulncheck.com/xdb/3bde608f037c",
+			"date_added": "2022-03-29T21:02:02Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:b4keSn4ke/CVE-2019-9193.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

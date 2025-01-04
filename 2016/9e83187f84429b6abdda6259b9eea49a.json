@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:mpgn/heartbleed-PoC.git"
 		},
 		{
-			"xdb_id": "8a3b36c16af2",
-			"xdb_url": "https://vulncheck.com/xdb/8a3b36c16af2",
-			"date_added": "2014-04-07T23:03:09Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:FiloSottile/Heartbleed.git"
-		},
-		{
 			"xdb_id": "180c504a4ab9",
 			"xdb_url": "https://vulncheck.com/xdb/180c504a4ab9",
 			"date_added": "2014-04-08T16:41:51Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Lekensteyn/pacemaker.git"
+		},
+		{
+			"xdb_id": "2777a83a11fb",
+			"xdb_url": "https://vulncheck.com/xdb/2777a83a11fb",
+			"date_added": "2014-04-08T04:25:23Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:titanous/heartbleeder.git"
 		},
 		{
 			"xdb_id": "31dbd59f952b",
@@ -185,11 +185,11 @@
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
-			"xdb_id": "2777a83a11fb",
-			"xdb_url": "https://vulncheck.com/xdb/2777a83a11fb",
-			"date_added": "2014-04-08T04:25:23Z",
+			"xdb_id": "8a3b36c16af2",
+			"xdb_url": "https://vulncheck.com/xdb/8a3b36c16af2",
+			"date_added": "2014-04-07T23:03:09Z",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:titanous/heartbleeder.git"
+			"clone_ssh_url": "git@github.com:FiloSottile/Heartbleed.git"
 		},
 		{
 			"xdb_id": "bd1cb68e3a25",

@@ -192,13 +192,6 @@
 			"clone_ssh_url": "git@github.com:Debajyoti0-0/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "68a67174cffb",
-			"xdb_url": "https://vulncheck.com/xdb/68a67174cffb",
-			"date_added": "2022-06-03T19:24:30Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:crowsec-edtech/CVE-2022-26134.git"
-		},
-		{
 			"xdb_id": "84304f834234",
 			"xdb_url": "https://vulncheck.com/xdb/84304f834234",
 			"date_added": "2024-10-13T13:38:07Z",
@@ -241,18 +234,25 @@
 			"clone_ssh_url": "git@github.com:nxtexploit/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "afb357664032",
-			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
-			"date_added": "2022-05-31T07:44:01Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
-		},
-		{
 			"xdb_id": "0e38e7f0c998",
 			"xdb_url": "https://vulncheck.com/xdb/0e38e7f0c998",
 			"date_added": "2022-06-07T09:19:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL.git"
+		},
+		{
+			"xdb_id": "68a67174cffb",
+			"xdb_url": "https://vulncheck.com/xdb/68a67174cffb",
+			"date_added": "2022-06-03T19:24:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:crowsec-edtech/CVE-2022-26134.git"
+		},
+		{
+			"xdb_id": "afb357664032",
+			"xdb_url": "https://vulncheck.com/xdb/afb357664032",
+			"date_added": "2022-05-31T07:44:01Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/Serein.git"
 		},
 		{
 			"xdb_id": "66716e60c64a",
@@ -1937,6 +1937,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-02&host_type=src&vulnerability=cve-2022-26134",
 			"date_added": "2025-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-03&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",

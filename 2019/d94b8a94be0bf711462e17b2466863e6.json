@@ -80,18 +80,18 @@
 			"clone_ssh_url": "git@github.com:pimps/CVE-2019-2725.git"
 		},
 		{
-			"xdb_id": "596e707e613e",
-			"xdb_url": "https://vulncheck.com/xdb/596e707e613e",
-			"date_added": "2019-06-10T05:12:44Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:TopScrew/CVE-2019-2725.git"
-		},
-		{
 			"xdb_id": "78cfc32167c4",
 			"xdb_url": "https://vulncheck.com/xdb/78cfc32167c4",
 			"date_added": "2019-05-29T01:57:05Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:lufeirider/CVE-2019-2725.git"
+		},
+		{
+			"xdb_id": "596e707e613e",
+			"xdb_url": "https://vulncheck.com/xdb/596e707e613e",
+			"date_added": "2019-06-10T05:12:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:TopScrew/CVE-2019-2725.git"
 		},
 		{
 			"xdb_id": "50cca2cb6c66",
@@ -1615,6 +1615,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-02&host_type=src&vulnerability=cve-2019-2725",
 			"date_added": "2025-01-02T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-03&host_type=src&vulnerability=cve-2019-2725",
+			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
 			"url": "https://unit42.paloaltonetworks.com/new-mirai-variant-adds-8-new-exploits-targets-additional-iot-devices/",
