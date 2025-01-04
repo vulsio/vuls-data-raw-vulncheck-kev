@@ -52,13 +52,6 @@
 			"clone_ssh_url": "git@github.com:MisakaMikato/cve-2017-7921-golang.git"
 		},
 		{
-			"xdb_id": "32a34f6533d8",
-			"xdb_url": "https://vulncheck.com/xdb/32a34f6533d8",
-			"date_added": "2020-11-12T09:02:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BurnyMcDull/CVE-2017-7921.git"
-		},
-		{
 			"xdb_id": "0bf7b1d4ce0e",
 			"xdb_url": "https://vulncheck.com/xdb/0bf7b1d4ce0e",
 			"date_added": "2023-07-24T14:48:38Z",
@@ -87,6 +80,13 @@
 			"clone_ssh_url": "git@github.com:kooroshsanaei/HikVision-CVE-2017-7921.git"
 		},
 		{
+			"xdb_id": "26aff008acca",
+			"xdb_url": "https://vulncheck.com/xdb/26aff008acca",
+			"date_added": "2020-04-27T11:49:40Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:JrDw0/CVE-2017-7921-EXP.git"
+		},
+		{
 			"xdb_id": "bfc9c8fef307",
 			"xdb_url": "https://vulncheck.com/xdb/bfc9c8fef307",
 			"date_added": "2021-01-29T16:08:35Z",
@@ -94,11 +94,11 @@
 			"clone_ssh_url": "git@github.com:chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor.git"
 		},
 		{
-			"xdb_id": "26aff008acca",
-			"xdb_url": "https://vulncheck.com/xdb/26aff008acca",
-			"date_added": "2020-04-27T11:49:40Z",
+			"xdb_id": "32a34f6533d8",
+			"xdb_url": "https://vulncheck.com/xdb/32a34f6533d8",
+			"date_added": "2020-11-12T09:02:10Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:JrDw0/CVE-2017-7921-EXP.git"
+			"clone_ssh_url": "git@github.com:BurnyMcDull/CVE-2017-7921.git"
 		},
 		{
 			"xdb_id": "eec829707014",

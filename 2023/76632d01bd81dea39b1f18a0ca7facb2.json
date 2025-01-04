@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:netuseradministrator/CVE-2023-28432.git"
 		},
 		{
-			"xdb_id": "f8d3bffd0b5f",
-			"xdb_url": "https://vulncheck.com/xdb/f8d3bffd0b5f",
-			"date_added": "2023-03-23T14:44:24Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28432.git"
-		},
-		{
 			"xdb_id": "4daeb2ac36dc",
 			"xdb_url": "https://vulncheck.com/xdb/4daeb2ac36dc",
 			"date_added": "2024-04-13T13:52:43Z",
@@ -127,6 +120,13 @@
 			"date_added": "2023-03-24T08:13:34Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:MzzdToT/CVE-2023-28432.git"
+		},
+		{
+			"xdb_id": "f8d3bffd0b5f",
+			"xdb_url": "https://vulncheck.com/xdb/f8d3bffd0b5f",
+			"date_added": "2023-03-23T14:44:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28432.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

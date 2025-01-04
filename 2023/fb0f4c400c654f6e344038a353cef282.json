@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "ed33127b0327",
-			"xdb_url": "https://vulncheck.com/xdb/ed33127b0327",
-			"date_added": "2023-03-23T14:44:24Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28434.git"
-		},
-		{
 			"xdb_id": "ba8d8634a7d1",
 			"xdb_url": "https://vulncheck.com/xdb/ba8d8634a7d1",
 			"date_added": "2023-03-27T08:53:04Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:AbelChe/evil_minio.git"
+		},
+		{
+			"xdb_id": "ed33127b0327",
+			"xdb_url": "https://vulncheck.com/xdb/ed33127b0327",
+			"date_added": "2023-03-23T14:44:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28434.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:sujaygr8/CVE-2020-3452.git"
 		},
 		{
-			"xdb_id": "765a6e6e3a97",
-			"xdb_url": "https://vulncheck.com/xdb/765a6e6e3a97",
-			"date_added": "2021-02-03T05:45:53Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:fuzzlove/Cisco-ASA-FTD-Web-Services-Traversal.git"
-		},
-		{
 			"xdb_id": "cd0659505a89",
 			"xdb_url": "https://vulncheck.com/xdb/cd0659505a89",
 			"date_added": "2020-08-01T08:27:11Z",
@@ -127,6 +120,13 @@
 			"date_added": "2020-09-28T05:00:37Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:3ndG4me/CVE-2020-3452-Exploit.git"
+		},
+		{
+			"xdb_id": "765a6e6e3a97",
+			"xdb_url": "https://vulncheck.com/xdb/765a6e6e3a97",
+			"date_added": "2021-02-03T05:45:53Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:fuzzlove/Cisco-ASA-FTD-Web-Services-Traversal.git"
 		},
 		{
 			"xdb_id": "9bf142c2d239",
