@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:byt3n33dl3/CLFS.git"
 		},
 		{
-			"xdb_id": "98d4738b82f7",
-			"xdb_url": "https://vulncheck.com/xdb/98d4738b82f7",
-			"date_added": "2023-06-27T12:22:05Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:fortra/CVE-2023-28252.git"
-		},
-		{
 			"xdb_id": "c433f2e8bd59",
 			"xdb_url": "https://vulncheck.com/xdb/c433f2e8bd59",
 			"date_added": "2024-01-22T10:38:02Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:duck-sec/CVE-2023-28252-Compiled-exe.git"
+		},
+		{
+			"xdb_id": "98d4738b82f7",
+			"xdb_url": "https://vulncheck.com/xdb/98d4738b82f7",
+			"date_added": "2023-06-27T12:22:05Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:fortra/CVE-2023-28252.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
