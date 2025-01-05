@@ -101,13 +101,6 @@
 			"clone_ssh_url": "git@github.com:batmoshka55/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
-			"xdb_id": "5febaf1762ec",
-			"xdb_url": "https://vulncheck.com/xdb/5febaf1762ec",
-			"date_added": "2018-04-29T20:00:06Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:ezelf/CVE-2018-9995_dvr_credentials.git"
-		},
-		{
 			"xdb_id": "dae161a6d981",
 			"xdb_url": "https://vulncheck.com/xdb/dae161a6d981",
 			"date_added": "2018-09-23T20:58:40Z",
@@ -120,6 +113,13 @@
 			"date_added": "2024-02-18T12:46:32Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:X3RX3SSec/DVR_Sploit.git"
+		},
+		{
+			"xdb_id": "5febaf1762ec",
+			"xdb_url": "https://vulncheck.com/xdb/5febaf1762ec",
+			"date_added": "2018-04-29T20:00:06Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:ezelf/CVE-2018-9995_dvr_credentials.git"
 		},
 		{
 			"xdb_id": "0bb1e6df735b",
@@ -1720,6 +1720,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-03&host_type=src&vulnerability=cve-2018-9995",
 			"date_added": "2025-01-03T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2018-9995",
+			"date_added": "2025-01-04T00:00:00Z"
 		},
 		{
 			"url": "https://www.csk.gov.in/alerts/STOP_ransomware.html",

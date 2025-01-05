@@ -1067,6 +1067,10 @@
 			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2020-25506",
+			"date_added": "2025-01-04T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/mirai-variant-iot-vulnerabilities/",
 			"date_added": "2021-03-15T00:00:00Z"
 		},

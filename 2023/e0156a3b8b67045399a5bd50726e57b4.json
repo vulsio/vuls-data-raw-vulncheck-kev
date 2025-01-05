@@ -447,6 +447,10 @@
 			"date_added": "2025-01-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2023-38205",
+			"date_added": "2025-01-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortiguard.com/outbreak-alert/adobe-coldfusion-access-bypass",
 			"date_added": "2024-01-16T00:00:00Z"
 		},

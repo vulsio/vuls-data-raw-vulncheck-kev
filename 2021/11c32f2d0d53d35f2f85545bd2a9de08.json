@@ -1039,6 +1039,10 @@
 			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2021-38647",
+			"date_added": "2025-01-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-under-exploitation/",
 			"date_added": "2021-09-17T00:00:00Z"
 		},

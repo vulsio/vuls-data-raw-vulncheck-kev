@@ -819,6 +819,10 @@
 			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2016-5674",
+			"date_added": "2025-01-04T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/totolink-vulnerabilities-beastmode-mirai-campaign",
 			"date_added": "2022-04-01T00:00:00Z"
 		},
