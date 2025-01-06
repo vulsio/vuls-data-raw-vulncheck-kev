@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:Chan9Yan9/CVE-2023-22809.git"
 		},
 		{
-			"xdb_id": "9916f6e4a0d8",
-			"xdb_url": "https://vulncheck.com/xdb/9916f6e4a0d8",
-			"date_added": "2023-07-10T06:38:14Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2023-22809.git"
-		},
-		{
 			"xdb_id": "31fcf7095c80",
 			"xdb_url": "https://vulncheck.com/xdb/31fcf7095c80",
 			"date_added": "2023-08-06T06:46:40Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Toothless5143/CVE-2023-22809.git"
+		},
+		{
+			"xdb_id": "9916f6e4a0d8",
+			"xdb_url": "https://vulncheck.com/xdb/9916f6e4a0d8",
+			"date_added": "2023-07-10T06:38:14Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2023-22809.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

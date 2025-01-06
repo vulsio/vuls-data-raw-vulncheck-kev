@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2021-25076"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d3f1e43b652e",
+			"xdb_url": "https://vulncheck.com/xdb/d3f1e43b652e",
+			"date_added": "2022-06-04T21:22:10Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:0xAbbarhSF/CVE-2021-25076.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://patchstack.com/database/vulnerability/wp-user-frontend/wordpress-wp-user-frontend-plugin-3-5-25-sql-injection-sqli-to-reflected-cross-site-scripting-xss",
