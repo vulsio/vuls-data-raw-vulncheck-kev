@@ -178,18 +178,18 @@
 			"clone_ssh_url": "git@github.com:titanous/heartbleeder.git"
 		},
 		{
-			"xdb_id": "bd1cb68e3a25",
-			"xdb_url": "https://vulncheck.com/xdb/bd1cb68e3a25",
-			"date_added": "2014-04-08T10:10:43Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:musalbas/heartbleed-masstest.git"
-		},
-		{
 			"xdb_id": "8a3b36c16af2",
 			"xdb_url": "https://vulncheck.com/xdb/8a3b36c16af2",
 			"date_added": "2014-04-07T23:03:09Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:FiloSottile/Heartbleed.git"
+		},
+		{
+			"xdb_id": "bd1cb68e3a25",
+			"xdb_url": "https://vulncheck.com/xdb/bd1cb68e3a25",
+			"date_added": "2014-04-08T10:10:43Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:musalbas/heartbleed-masstest.git"
 		},
 		{
 			"xdb_id": "31dbd59f952b",
