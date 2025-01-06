@@ -318,18 +318,18 @@
 			"clone_ssh_url": "git@github.com:HDCE-inc/CVE-2023-38831.git"
 		},
 		{
-			"xdb_id": "3e5e3d32361a",
-			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
-			"date_added": "2023-08-25T09:44:08Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
-		},
-		{
 			"xdb_id": "35f40b8462a2",
 			"xdb_url": "https://vulncheck.com/xdb/35f40b8462a2",
 			"date_added": "2023-09-03T21:14:05Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:xaitax/WinRAR-CVE-2023-38831.git"
+		},
+		{
+			"xdb_id": "3e5e3d32361a",
+			"xdb_url": "https://vulncheck.com/xdb/3e5e3d32361a",
+			"date_added": "2023-08-25T09:44:08Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:b1tg/CVE-2023-38831-winrar-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

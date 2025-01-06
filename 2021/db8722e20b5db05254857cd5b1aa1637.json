@@ -291,6 +291,10 @@
 			"date_added": "2025-01-04T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-05&host_type=src&vulnerability=cve-2014-2321",
+			"date_added": "2025-01-05T00:00:00Z"
+		},
+		{
 			"url": "https://www.microsoft.com/security/blog/2021/08/19/how-to-proactively-defend-against-mozi-iot-botnet/",
 			"date_added": "2021-08-19T00:00:00Z"
 		},
