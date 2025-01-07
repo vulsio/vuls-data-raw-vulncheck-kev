@@ -129,13 +129,6 @@
 			"clone_ssh_url": "git@github.com:AndrewTrube/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "0c06ba53c498",
-			"xdb_url": "https://vulncheck.com/xdb/0c06ba53c498",
-			"date_added": "2021-09-26T13:53:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ly4k/PrintNightmare.git"
-		},
-		{
 			"xdb_id": "3d814c23dd9d",
 			"xdb_url": "https://vulncheck.com/xdb/3d814c23dd9d",
 			"date_added": "2021-07-05T14:17:03Z",
@@ -150,13 +143,6 @@
 			"clone_ssh_url": "git@github.com:BeetleChunks/SpoolSploit.git"
 		},
 		{
-			"xdb_id": "29f9009b9be9",
-			"xdb_url": "https://vulncheck.com/xdb/29f9009b9be9",
-			"date_added": "2021-07-01T23:45:58Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:calebstewart/CVE-2021-1675.git"
-		},
-		{
 			"xdb_id": "b93501b21b35",
 			"xdb_url": "https://vulncheck.com/xdb/b93501b21b35",
 			"date_added": "2021-06-29T17:24:14Z",
@@ -164,11 +150,18 @@
 			"clone_ssh_url": "git@github.com:cube0x0/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "0d51bca37337",
-			"xdb_url": "https://vulncheck.com/xdb/0d51bca37337",
-			"date_added": "2021-09-27T14:59:20+08:00",
+			"xdb_id": "29f9009b9be9",
+			"xdb_url": "https://vulncheck.com/xdb/29f9009b9be9",
+			"date_added": "2021-07-01T23:45:58Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:calebstewart/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "0c06ba53c498",
+			"xdb_url": "https://vulncheck.com/xdb/0c06ba53c498",
+			"date_added": "2021-09-26T13:53:10Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675.git"
+			"clone_ssh_url": "git@github.com:ly4k/PrintNightmare.git"
 		},
 		{
 			"xdb_id": "a80f7a9e25f2",
@@ -176,6 +169,20 @@
 			"date_added": "2023-02-20T19:58:37+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:trfpatriotic/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "0300146c83c2",
+			"xdb_url": "https://vulncheck.com/xdb/0300146c83c2",
+			"date_added": "2021-12-01T12:30:12+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:slip2008/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "0d51bca37337",
+			"xdb_url": "https://vulncheck.com/xdb/0d51bca37337",
+			"date_added": "2021-09-27T14:59:20+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675.git"
 		},
 		{
 			"xdb_id": "613d6b9bd25f",
@@ -204,13 +211,6 @@
 			"date_added": "2021-09-27T14:59:19+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675-LPE.git"
-		},
-		{
-			"xdb_id": "0300146c83c2",
-			"xdb_url": "https://vulncheck.com/xdb/0300146c83c2",
-			"date_added": "2021-12-01T12:30:12+08:00",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@gitee.com:slip2008/CVE-2021-1675.git"
 		},
 		{
 			"xdb_id": "97af0436c96d",
