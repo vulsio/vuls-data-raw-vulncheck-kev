@@ -178,6 +178,20 @@
 			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
 		},
 		{
+			"xdb_id": "ef7d2df1ab88",
+			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
+			"date_added": "2021-09-17T12:51:18+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/cve-2021-3129-1.git"
+		},
+		{
+			"xdb_id": "35724c55fdc0",
+			"xdb_url": "https://vulncheck.com/xdb/35724c55fdc0",
+			"date_added": "2021-03-19T10:07:18+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3129.git"
+		},
+		{
 			"xdb_id": "fcb02bd261db",
 			"xdb_url": "https://vulncheck.com/xdb/fcb02bd261db",
 			"date_added": "2022-01-31T13:17:25+08:00",
@@ -197,20 +211,6 @@
 			"date_added": "2022-03-07T20:51:21+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:xishitianta/CVE-2021-3129.git"
-		},
-		{
-			"xdb_id": "ef7d2df1ab88",
-			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
-			"date_added": "2021-09-17T12:51:18+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/cve-2021-3129-1.git"
-		},
-		{
-			"xdb_id": "35724c55fdc0",
-			"xdb_url": "https://vulncheck.com/xdb/35724c55fdc0",
-			"date_added": "2021-03-19T10:07:18+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2021-3129.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1889,6 +1889,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-05&host_type=src&vulnerability=cve-2021-3129",
 			"date_added": "2025-01-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-06&host_type=src&vulnerability=cve-2021-3129",
+			"date_added": "2025-01-06T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",

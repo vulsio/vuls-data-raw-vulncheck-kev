@@ -1475,6 +1475,10 @@
 			"date_added": "2025-01-05T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-06&host_type=src&vulnerability=cve-2023-35082",
+			"date_added": "2025-01-06T00:00:00Z"
+		},
+		{
 			"url": "https://www.rapid7.com/globalassets/_pdfs/research/rapid7_2024_attack_intelligence_report.pdf",
 			"date_added": "2024-01-18T00:00:00Z"
 		},

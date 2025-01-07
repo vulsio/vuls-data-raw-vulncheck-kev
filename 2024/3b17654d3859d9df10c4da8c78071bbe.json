@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Mitel",
 	"product": "MiCollab",
-	"shortDescription": "A vulnerability in the NuPoint Unified Messaging (NPM) component of Mitel MiCollab through 9.8 SP1 FP2 (9.8.1.201) could allow an unauthenticated attacker to conduct a path traversal attack, due to insufficient input validation. A successful exploit could allow unauthorized access, enabling the attacker to view, corrupt, or delete users' data and system configurations.",
-	"vulnerabilityName": "Mitel MiCollab NuPoint Messenger (NPM) Input Validation Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "Mitel MiCollab contains a path traversal vulnerability that could allow an attacker to gain unauthorized and unauthenticated access. This vulnerability can be chained with CVE-2024-55550, which allows an unauthenticated, remote attacker to read arbitrary files on the server.",
+	"vulnerabilityName": "Mitel MiCollab Path Traversal Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-41713"
@@ -39,6 +39,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-01-07T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-12-11&host_type=src&vulnerability=cve-2024-41713",
 			"date_added": "2024-12-11T00:00:00Z"
@@ -108,9 +112,15 @@
 			"date_added": "2025-01-05T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-06&host_type=src&vulnerability=cve-2024-41713",
+			"date_added": "2025-01-06T00:00:00Z"
+		},
+		{
 			"url": "https://www.greynoise.io/blog/from-poc-to-attacker-interest-in-hours-real-time-insights-into-mitel-micollab-vulnerabilities",
 			"date_added": "2024-12-10T00:00:00Z"
 		}
 	],
+	"dueDate": "2025-01-28T00:00:00Z",
+	"cisa_date_added": "2025-01-07T00:00:00Z",
 	"date_added": "2024-12-10T00:00:00Z"
 }

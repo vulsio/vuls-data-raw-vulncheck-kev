@@ -234,18 +234,18 @@
 			"clone_ssh_url": "git@github.com:nxtexploit/CVE-2022-26134.git"
 		},
 		{
-			"xdb_id": "68a67174cffb",
-			"xdb_url": "https://vulncheck.com/xdb/68a67174cffb",
-			"date_added": "2022-06-03T19:24:30Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:crowsec-edtech/CVE-2022-26134.git"
-		},
-		{
 			"xdb_id": "0e38e7f0c998",
 			"xdb_url": "https://vulncheck.com/xdb/0e38e7f0c998",
 			"date_added": "2022-06-07T09:19:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:BeichenDream/CVE-2022-26134-Godzilla-MEMSHELL.git"
+		},
+		{
+			"xdb_id": "68a67174cffb",
+			"xdb_url": "https://vulncheck.com/xdb/68a67174cffb",
+			"date_added": "2022-06-03T19:24:30Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:crowsec-edtech/CVE-2022-26134.git"
 		},
 		{
 			"xdb_id": "afb357664032",
@@ -1949,6 +1949,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-05&host_type=src&vulnerability=cve-2022-26134",
 			"date_added": "2025-01-05T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-06&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2025-01-06T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
