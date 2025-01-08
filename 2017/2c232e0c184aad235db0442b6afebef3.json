@@ -150,13 +150,6 @@
 			"clone_ssh_url": "git@github.com:jrrombaldo/CVE-2017-5638.git"
 		},
 		{
-			"xdb_id": "09e4b118e2df",
-			"xdb_url": "https://vulncheck.com/xdb/09e4b118e2df",
-			"date_added": "2022-04-14T02:48:22Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xConstant/CVE-2017-5638.git"
-		},
-		{
 			"xdb_id": "20280d4b350b",
 			"xdb_url": "https://vulncheck.com/xdb/20280d4b350b",
 			"date_added": "2018-05-13T16:13:26Z",
@@ -248,18 +241,25 @@
 			"clone_ssh_url": "git@github.com:Iletee/struts2-rce.git"
 		},
 		{
-			"xdb_id": "961d20815cd2",
-			"xdb_url": "https://vulncheck.com/xdb/961d20815cd2",
-			"date_added": "2017-03-12T02:02:25Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:mazen160/struts-pwn.git"
-		},
-		{
 			"xdb_id": "2ee648e8c5ab",
 			"xdb_url": "https://vulncheck.com/xdb/2ee648e8c5ab",
 			"date_added": "2017-03-21T05:47:49Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jas502n/st2-046-poc.git"
+		},
+		{
+			"xdb_id": "cf28f48b8a4b",
+			"xdb_url": "https://vulncheck.com/xdb/cf28f48b8a4b",
+			"date_added": "2022-04-14T02:48:22Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:banomaly/CVE-2017-5638.git"
+		},
+		{
+			"xdb_id": "961d20815cd2",
+			"xdb_url": "https://vulncheck.com/xdb/961d20815cd2",
+			"date_added": "2017-03-12T02:02:25Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:mazen160/struts-pwn.git"
 		},
 		{
 			"xdb_id": "f0dd214c0a71",

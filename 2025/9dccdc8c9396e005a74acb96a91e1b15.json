@@ -9,7 +9,12 @@
 		"CVE-2024-55550"
 	],
 	"vulncheck_xdb": [],
-	"vulncheck_reported_exploitation": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-01-07T00:00:00Z"
+		}
+	],
 	"dueDate": "2025-01-28T00:00:00Z",
 	"cisa_date_added": "2025-01-07T00:00:00Z",
 	"date_added": "2025-01-07T00:00:00Z"
