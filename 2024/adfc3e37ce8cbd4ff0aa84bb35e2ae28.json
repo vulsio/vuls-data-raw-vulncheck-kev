@@ -1166,6 +1166,10 @@
 		{
 			"url": "https://cyble.com/blog/cyble-sensors-detect-attacks-on-ivanti-php-saml-network-devices-and-more/",
 			"date_added": "2024-12-24T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/PacketCrypt+Classic+Cryptocurrency+Miner+on+PHP+Servers/31564/",
+			"date_added": "2025-01-07T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-07-03T00:00:00Z",
