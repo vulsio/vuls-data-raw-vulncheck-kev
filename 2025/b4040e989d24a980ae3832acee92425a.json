@@ -1,0 +1,25 @@
+{
+	"vendorProject": "Ivanti",
+	"product": "Connect Secure, Policy Secure, and ZTA Gateways",
+	"shortDescription": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways contain a stack-based buffer overflow which can lead to unauthenticated remote code execution.",
+	"vulnerabilityName": "Ivanti Connect Secure, Policy Secure, and ZTA Gateways Stack-Based Buffer Overflow Vulnerability",
+	"required_action": "Apply mitigations as set forth in the CISA instructions linked below to include conducting hunt activities, taking remediation actions if applicable, and applying updates prior to returning a device to service.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2025-0282"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.ncsc.gov.uk/news/active-exploitation-ivanti-vulnerabilities",
+			"date_added": "2025-01-08T00:00:00Z"
+		}
+	],
+	"dueDate": "2025-01-15T00:00:00Z",
+	"cisa_date_added": "2025-01-08T00:00:00Z",
+	"date_added": "2025-01-08T00:00:00Z"
+}
