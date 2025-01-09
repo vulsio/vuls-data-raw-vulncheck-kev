@@ -143,6 +143,13 @@
 			"clone_ssh_url": "git@github.com:api0cradle/CVE-2023-23397-POC-Powershell.git"
 		},
 		{
+			"xdb_id": "d533570ebdfa",
+			"xdb_url": "https://vulncheck.com/xdb/d533570ebdfa",
+			"date_added": "2023-07-14T22:02:55Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Muhammad-Ali007/OutlookNTLM_CVE-2023-23397.git"
+		},
+		{
 			"xdb_id": "fe69ab5a1930",
 			"xdb_url": "https://vulncheck.com/xdb/fe69ab5a1930",
 			"date_added": "2023-09-02T15:35:15Z",

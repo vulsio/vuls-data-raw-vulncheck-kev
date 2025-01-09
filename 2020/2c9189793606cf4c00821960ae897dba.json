@@ -185,6 +185,13 @@
 			"clone_ssh_url": "git@github.com:jamf/CVE-2020-0796-RCE-POC.git"
 		},
 		{
+			"xdb_id": "48181658a679",
+			"xdb_url": "https://vulncheck.com/xdb/48181658a679",
+			"date_added": "2023-05-29T06:31:51Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:dungnm24/CVE-2020-0796.git"
+		},
+		{
 			"xdb_id": "9f1dbe33c767",
 			"xdb_url": "https://vulncheck.com/xdb/9f1dbe33c767",
 			"date_added": "2020-08-09T05:48:10Z",
@@ -192,11 +199,32 @@
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
-			"xdb_id": "48181658a679",
-			"xdb_url": "https://vulncheck.com/xdb/48181658a679",
-			"date_added": "2023-05-29T06:31:51Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:dungnm24/CVE-2020-0796.git"
+			"xdb_id": "c349096df32e",
+			"xdb_url": "https://vulncheck.com/xdb/c349096df32e",
+			"date_added": "2020-04-01T14:05:50+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2020-0796.git"
+		},
+		{
+			"xdb_id": "d69aadafc43a",
+			"xdb_url": "https://vulncheck.com/xdb/d69aadafc43a",
+			"date_added": "2022-01-11T23:22:35+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_ZecOps/CVE-2020-0796-RCE-POC.git"
+		},
+		{
+			"xdb_id": "28ef5a320ff6",
+			"xdb_url": "https://vulncheck.com/xdb/28ef5a320ff6",
+			"date_added": "2020-05-06T15:20:06+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mstir/CVE-2020-0796.git"
+		},
+		{
+			"xdb_id": "ac5de3e67dd5",
+			"xdb_url": "https://vulncheck.com/xdb/ac5de3e67dd5",
+			"date_added": "2020-05-06T15:20:09+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:mstir/SMBGhost.git"
 		},
 		{
 			"xdb_id": "c489f75bf99d",
@@ -239,34 +267,6 @@
 			"date_added": "2020-05-28T09:50:05+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:tfxcould/CVE-2020-0796-SMB.git"
-		},
-		{
-			"xdb_id": "d69aadafc43a",
-			"xdb_url": "https://vulncheck.com/xdb/d69aadafc43a",
-			"date_added": "2022-01-11T23:22:35+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_ZecOps/CVE-2020-0796-RCE-POC.git"
-		},
-		{
-			"xdb_id": "28ef5a320ff6",
-			"xdb_url": "https://vulncheck.com/xdb/28ef5a320ff6",
-			"date_added": "2020-05-06T15:20:06+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mstir/CVE-2020-0796.git"
-		},
-		{
-			"xdb_id": "ac5de3e67dd5",
-			"xdb_url": "https://vulncheck.com/xdb/ac5de3e67dd5",
-			"date_added": "2020-05-06T15:20:09+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:mstir/SMBGhost.git"
-		},
-		{
-			"xdb_id": "c349096df32e",
-			"xdb_url": "https://vulncheck.com/xdb/c349096df32e",
-			"date_added": "2020-04-01T14:05:50+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2020-0796.git"
 		},
 		{
 			"xdb_id": "a788d7636e90",

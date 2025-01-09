@@ -13,7 +13,7 @@
 			"xdb_id": "042b3f3b77e0",
 			"xdb_url": "https://vulncheck.com/xdb/042b3f3b77e0",
 			"date_added": "2023-07-14T12:22:45Z",
-			"exploit_type": "client-side",
+			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Malayke/CVE-2023-37582_EXPLOIT.git"
 		}
 	],

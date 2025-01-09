@@ -24,6 +24,13 @@
 			"clone_ssh_url": "git@github.com:hansengentle/CVE-2023.git"
 		},
 		{
+			"xdb_id": "af482cca0b29",
+			"xdb_url": "https://vulncheck.com/xdb/af482cca0b29",
+			"date_added": "2023-11-18T06:34:15Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wshinkle/CVE-2023-2982.git"
+		},
+		{
 			"xdb_id": "d4246bb421ee",
 			"xdb_url": "https://vulncheck.com/xdb/d4246bb421ee",
 			"date_added": "2023-06-29T14:21:08Z",
@@ -36,13 +43,6 @@
 			"date_added": "2023-06-30T09:15:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:H4K6/CVE-2023-2982-POC.git"
-		},
-		{
-			"xdb_id": "af482cca0b29",
-			"xdb_url": "https://vulncheck.com/xdb/af482cca0b29",
-			"date_added": "2023-11-18T06:34:15Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:wshinkle/CVE-2023-2982.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

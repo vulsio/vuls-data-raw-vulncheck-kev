@@ -167,6 +167,10 @@
 			"date_added": "2025-01-03T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2021-20123",
+			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
 			"url": "https://fortiguard.fortinet.com/encyclopedia/ips/55752",
 			"date_added": "2024-07-30T00:00:00Z"
 		},

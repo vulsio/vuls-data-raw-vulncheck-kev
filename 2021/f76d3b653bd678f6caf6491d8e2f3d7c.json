@@ -220,6 +220,13 @@
 			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
 		},
 		{
+			"xdb_id": "8035aa262c64",
+			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
+			"date_added": "2021-07-27T11:11:27+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
+		},
+		{
 			"xdb_id": "a13fcf8de8fc",
 			"xdb_url": "https://vulncheck.com/xdb/a13fcf8de8fc",
 			"date_added": "2021-05-09T23:24:54+08:00",
@@ -246,13 +253,6 @@
 			"date_added": "2021-02-10T16:00:37+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-14882_ALL.git"
-		},
-		{
-			"xdb_id": "8035aa262c64",
-			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
-			"date_added": "2021-07-27T11:11:27+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1475,6 +1475,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-07&host_type=src&vulnerability=cve-2020-14882",
 			"date_added": "2025-01-07T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2020-14882",
+			"date_added": "2025-01-08T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",

@@ -571,6 +571,10 @@
 			"date_added": "2025-01-04T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2023-41265",
+			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
 			"url": "https://www.arcticwolf.com/resources/blog/qlik-sense-exploited-in-cactus-ransomware-campaign/",
 			"date_added": "2023-11-28T00:00:00Z"
 		},

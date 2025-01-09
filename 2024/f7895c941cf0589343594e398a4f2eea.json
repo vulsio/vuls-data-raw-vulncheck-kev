@@ -559,6 +559,10 @@
 			"date_added": "2025-01-06T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2021-33690",
+			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
 			"url": "https://www.csoonline.com/article/2092336/sap-users-are-at-high-risk-as-hackers-exploit-application-vulnerabilities.html",
 			"date_added": "2024-04-17T00:00:00Z"
 		}

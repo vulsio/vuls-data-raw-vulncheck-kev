@@ -43,6 +43,13 @@
 			"date_added": "2023-06-20T08:12:49Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln.git"
+		},
+		{
+			"xdb_id": "a9403b30a968",
+			"xdb_url": "https://vulncheck.com/xdb/a9403b30a968",
+			"date_added": "2023-04-21T09:27:45Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:padbergpete47/CVE-2023-1454.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -713,6 +720,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-04&host_type=src&vulnerability=cve-2023-1454",
 			"date_added": "2025-01-04T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2023-1454",
+			"date_added": "2025-01-08T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-25T00:00:00Z"
