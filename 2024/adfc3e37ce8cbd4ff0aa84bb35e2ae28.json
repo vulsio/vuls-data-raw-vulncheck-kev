@@ -344,6 +344,13 @@
 			"date_added": "2024-06-07T09:52:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:watchtowrlabs/CVE-2024-4577.git"
+		},
+		{
+			"xdb_id": "1531cf762de4",
+			"xdb_url": "https://vulncheck.com/xdb/1531cf762de4",
+			"date_added": "2025-01-08T07:41:29Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Dejavu666/CVE-2024-4577.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

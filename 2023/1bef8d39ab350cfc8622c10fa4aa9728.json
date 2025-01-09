@@ -71,6 +71,13 @@
 			"date_added": "2023-03-10T19:08:28Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:SamuelTulach/nullmap.git"
+		},
+		{
+			"xdb_id": "91ed19bd2175",
+			"xdb_url": "https://vulncheck.com/xdb/91ed19bd2175",
+			"date_added": "2024-12-30T17:27:56Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:IlanDudnik/CVE-2023-21768.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

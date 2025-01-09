@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2014-3704"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "fdd786971c1e",
+			"xdb_url": "https://vulncheck.com/xdb/fdd786971c1e",
+			"date_added": "2025-01-06T20:04:24Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Neldeborg/Drupalgeddon-Python3.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://unit42.paloaltonetworks.com/network-attack-trends-winter-2020/",

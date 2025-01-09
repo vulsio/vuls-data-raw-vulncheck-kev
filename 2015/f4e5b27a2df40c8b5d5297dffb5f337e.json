@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "d3ba259b964e",
-			"xdb_url": "https://vulncheck.com/xdb/d3ba259b964e",
-			"date_added": "2020-10-31T11:39:11Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:elongl/CVE-2014-3153.git"
-		},
-		{
 			"xdb_id": "6457f28f2fe3",
 			"xdb_url": "https://vulncheck.com/xdb/6457f28f2fe3",
 			"date_added": "2015-01-12T16:53:09Z",
@@ -50,6 +43,13 @@
 			"date_added": "2021-03-30T07:09:45Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Al1ex/LinuxEelvation.git"
+		},
+		{
+			"xdb_id": "d3ba259b964e",
+			"xdb_url": "https://vulncheck.com/xdb/d3ba259b964e",
+			"date_added": "2020-10-31T11:39:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:elongl/CVE-2014-3153.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

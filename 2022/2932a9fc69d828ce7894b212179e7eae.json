@@ -192,13 +192,6 @@
 			"clone_ssh_url": "git@github.com:Wrin9/CVE-2022-22965.git"
 		},
 		{
-			"xdb_id": "e538f647f0f7",
-			"xdb_url": "https://vulncheck.com/xdb/e538f647f0f7",
-			"date_added": "2022-03-31T17:23:44Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:cybersecurityworks553/spring4shell-exploit.git"
-		},
-		{
 			"xdb_id": "cdc0fd2e25dc",
 			"xdb_url": "https://vulncheck.com/xdb/cdc0fd2e25dc",
 			"date_added": "2022-04-09T08:40:49Z",
@@ -283,13 +276,6 @@
 			"clone_ssh_url": "git@github.com:craig/SpringCore0day.git"
 		},
 		{
-			"xdb_id": "b383e52d60dd",
-			"xdb_url": "https://vulncheck.com/xdb/b383e52d60dd",
-			"date_added": "2022-03-30T07:54:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:BobTheShoplifter/Spring4Shell-POC.git"
-		},
-		{
 			"xdb_id": "f1130a964b4f",
 			"xdb_url": "https://vulncheck.com/xdb/f1130a964b4f",
 			"date_added": "2022-05-31T07:44:01Z",
@@ -323,6 +309,20 @@
 			"date_added": "2023-10-05T11:00:32Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:sule01u/SBSCAN.git"
+		},
+		{
+			"xdb_id": "e538f647f0f7",
+			"xdb_url": "https://vulncheck.com/xdb/e538f647f0f7",
+			"date_added": "2022-03-31T17:23:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:cybersecurityworks553/spring4shell-exploit.git"
+		},
+		{
+			"xdb_id": "b383e52d60dd",
+			"xdb_url": "https://vulncheck.com/xdb/b383e52d60dd",
+			"date_added": "2022-03-30T07:54:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:BobTheShoplifter/Spring4Shell-POC.git"
 		},
 		{
 			"xdb_id": "43e4620d8285",

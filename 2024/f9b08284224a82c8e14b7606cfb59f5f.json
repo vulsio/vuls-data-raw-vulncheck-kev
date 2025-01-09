@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Windows CSC Service",
-	"shortDescription": "The Microsoft Windows CSC Service is vulnerable to an elevation of privilege flaw. An attacker who successfully exploited this vulnerability could gain SYSTEM privileges.",
-	"vulnerabilityName": "Windows CSC Service Elevation of Privilege Vulnerability",
+	"product": "Windows",
+	"shortDescription": "Windows CSC Service Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft Windows Heap-based Buffer Overflow",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:yangyanglo/CVE-2024-53677.git"
 		},
 		{
-			"xdb_id": "368a28a635a8",
-			"xdb_url": "https://vulncheck.com/xdb/368a28a635a8",
-			"date_added": "2025-01-03T02:30:53Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:EQSTLab/CVE-2024-53677.git"
-		},
-		{
 			"xdb_id": "61b55ac60446",
 			"xdb_url": "https://vulncheck.com/xdb/61b55ac60446",
 			"date_added": "2025-01-07T11:27:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0xPThree/struts_cve-2024-53677.git"
+		},
+		{
+			"xdb_id": "368a28a635a8",
+			"xdb_url": "https://vulncheck.com/xdb/368a28a635a8",
+			"date_added": "2025-01-03T02:30:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:EQSTLab/CVE-2024-53677.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

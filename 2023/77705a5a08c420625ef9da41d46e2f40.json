@@ -22,6 +22,13 @@
 			"date_added": "2024-11-01T16:02:04Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:moften/CVE-2015-9251.git"
+		},
+		{
+			"xdb_id": "f369e87c8fdd",
+			"xdb_url": "https://vulncheck.com/xdb/f369e87c8fdd",
+			"date_added": "2025-01-08T10:03:02Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:hackgiver/CVE-2015-9251.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -2,7 +2,7 @@
 	"vendorProject": "Microsoft",
 	"product": "Windows",
 	"shortDescription": "Proxy Driver Spoofing Vulnerability",
-	"vulnerabilityName": "Proxy Driver Spoofing Vulnerability",
+	"vulnerabilityName": "Microsoft Windows Improper Access Control",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

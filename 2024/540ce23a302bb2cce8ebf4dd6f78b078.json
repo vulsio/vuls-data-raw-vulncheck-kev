@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Microsoft",
 	"product": ".NET Framework",
-	"shortDescription": "An information disclosure vulnerability is present in Microsoft's .NET Framework. An attacker who successfully exploited this vulnerability could obtain the ObjRef URI which could lead to remote code execution.",
-	"vulnerabilityName": ".NET Framework Information Disclosure Vulnerability",
+	"shortDescription": ".NET Framework Information Disclosure Vulnerability",
+	"vulnerabilityName": "Microsoft .NET Framework Generation of Error Message Containing Sensitive Information",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

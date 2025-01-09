@@ -45,6 +45,13 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
+			"xdb_id": "7960bb5df13e",
+			"xdb_url": "https://vulncheck.com/xdb/7960bb5df13e",
+			"date_added": "2021-11-15T08:56:44Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Qynklee/POC_CVE-2020-2883.git"
+		},
+		{
 			"xdb_id": "9ab580b3f80b",
 			"xdb_url": "https://vulncheck.com/xdb/9ab580b3f80b",
 			"date_added": "2020-06-30T08:54:13+08:00",
