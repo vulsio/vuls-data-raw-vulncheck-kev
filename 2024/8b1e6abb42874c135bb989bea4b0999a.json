@@ -410,6 +410,10 @@
 			"date_added": "2025-01-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-09&host_type=src&vulnerability=cve-2024-4040",
+			"date_added": "2025-01-09T00:00:00Z"
+		},
+		{
 			"url": "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomware-attacks-rebound",
 			"date_added": "2024-04-24T00:00:00Z"
 		},

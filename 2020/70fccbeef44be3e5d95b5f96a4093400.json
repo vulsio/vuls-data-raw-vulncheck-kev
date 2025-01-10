@@ -185,6 +185,13 @@
 			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26855_PoC.git"
 		},
 		{
+			"xdb_id": "c3f6061e329d",
+			"xdb_url": "https://vulncheck.com/xdb/c3f6061e329d",
+			"date_added": "2021-03-06T16:34:45Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Udyz/Proxylogon.git"
+		},
+		{
 			"xdb_id": "05d9d20036f6",
 			"xdb_url": "https://vulncheck.com/xdb/05d9d20036f6",
 			"date_added": "2021-03-29T21:10:34Z",
@@ -199,13 +206,6 @@
 			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
 		},
 		{
-			"xdb_id": "c3f6061e329d",
-			"xdb_url": "https://vulncheck.com/xdb/c3f6061e329d",
-			"date_added": "2021-03-06T16:34:45Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Udyz/Proxylogon.git"
-		},
-		{
 			"xdb_id": "5c885ac1f498",
 			"xdb_url": "https://vulncheck.com/xdb/5c885ac1f498",
 			"date_added": "2021-03-17T03:56:54Z",
@@ -213,18 +213,18 @@
 			"clone_ssh_url": "git@github.com:p0wershe11/ProxyLogon.git"
 		},
 		{
-			"xdb_id": "2036c9063358",
-			"xdb_url": "https://vulncheck.com/xdb/2036c9063358",
-			"date_added": "2022-04-02T23:57:02Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitlab.com:securitystuffbackup/SharpProxyLogon.git"
-		},
-		{
 			"xdb_id": "2e432cbc1287",
 			"xdb_url": "https://vulncheck.com/xdb/2e432cbc1287",
 			"date_added": "2021-03-12T11:47:04Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitlab.com:gvillegas/ohwaa.git"
+		},
+		{
+			"xdb_id": "2036c9063358",
+			"xdb_url": "https://vulncheck.com/xdb/2036c9063358",
+			"date_added": "2022-04-02T23:57:02Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitlab.com:securitystuffbackup/SharpProxyLogon.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1903,6 +1903,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-08&host_type=src&vulnerability=cve-2021-26855",
 			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-09&host_type=src&vulnerability=cve-2021-26855",
+			"date_added": "2025-01-09T00:00:00Z"
 		},
 		{
 			"url": "https://www.crowdstrike.com/blog/lemonduck-botnet-targets-docker-for-cryptomining-operations/",

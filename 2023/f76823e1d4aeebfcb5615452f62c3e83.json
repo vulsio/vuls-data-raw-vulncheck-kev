@@ -1210,6 +1210,10 @@
 			"date_added": "2025-01-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-09&host_type=src&vulnerability=cve-2023-0669",
+			"date_added": "2025-01-09T00:00:00Z"
+		},
+		{
 			"url": "https://www.huntress.com/blog/investigating-intrusions-from-intriguing-exploits",
 			"date_added": "2023-02-08T00:00:00Z"
 		},
