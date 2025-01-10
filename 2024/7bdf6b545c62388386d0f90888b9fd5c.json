@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:yinsel/CVE-2024-35250-BOF.git"
 		},
 		{
-			"xdb_id": "ad758b7b19fe",
-			"xdb_url": "https://vulncheck.com/xdb/ad758b7b19fe",
-			"date_added": "2024-10-25T10:06:09Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ro0tmylove/CVE-2024-35250-BOF.git"
-		},
-		{
 			"xdb_id": "46bcac6e7f22",
 			"xdb_url": "https://vulncheck.com/xdb/46bcac6e7f22",
 			"date_added": "2024-10-13T19:30:20Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:varwara/CVE-2024-35250.git"
+		},
+		{
+			"xdb_id": "ad758b7b19fe",
+			"xdb_url": "https://vulncheck.com/xdb/ad758b7b19fe",
+			"date_added": "2024-10-25T10:06:09Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:ro0tmylove/CVE-2024-35250-BOF.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
