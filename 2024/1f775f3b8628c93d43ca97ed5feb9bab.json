@@ -528,6 +528,10 @@
 		{
 			"url": "https://www.rapid7.com/blog/post/2024/12/16/2024-threat-landscape-statistics-ransomware-activity-vulnerability-exploits-and-attack-trends/",
 			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/Examining%20Redtail%20Analyzing%20a%20Sophisticated%20Cryptomining%20Malware%20and%20its%20Advanced%20Tactics%20%5BGuest%20Diary%5D/31568",
+			"date_added": "2025-01-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-19T00:00:00Z",

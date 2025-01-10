@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Microsoft",
-	"product": "Partner.Microsoft.Com",
+	"product": "partner_center",
 	"shortDescription": "An improper access control vulnerability in Partner.Microsoft.com allows an a unauthenticated attacker to elevate privileges over a network.",
-	"vulnerabilityName": "Partner.Microsoft.Com Elevation of Privilege Vulnerability",
+	"vulnerabilityName": "Microsoft partner_center Improper Privilege Management",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

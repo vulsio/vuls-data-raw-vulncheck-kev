@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-09-18T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/anatomy-of-an-attack-hunters-international-ransomware/",
+			"date_added": "2025-01-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-09T00:00:00Z",
