@@ -142,6 +142,10 @@
 			"date_added": "2024-08-21T00:00:00Z"
 		},
 		{
+			"url": "https://unit42.paloaltonetworks.com/hide-n-seek-botnet-updates-arsenal-with-exploits-against-nexus-repository-manager-thinkphp/",
+			"date_added": "2019-06-12T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/lucifer-new-cryptojacking-and-ddos-hybrid-malware/",
 			"date_added": "2020-06-24T00:00:00Z"
 		},
@@ -208,5 +212,5 @@
 	],
 	"dueDate": "2022-05-03T00:00:00Z",
 	"cisa_date_added": "2021-11-03T00:00:00Z",
-	"date_added": "2020-06-24T00:00:00Z"
+	"date_added": "2019-06-12T00:00:00Z"
 }

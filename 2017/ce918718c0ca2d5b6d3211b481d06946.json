@@ -1,0 +1,39 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-12847"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.fortiguard.com/encyclopedia/ips/44738",
+			"date_added": "2017-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/hide-n-seek-botnet-updates-arsenal-with-exploits-against-nexus-repository-manager-thinkphp/",
+			"date_added": "2019-06-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/router-malware-attack",
+			"date_added": "2017-11-01T00:00:00Z"
+		},
+		{
+			"url": "https://unit42.paloaltonetworks.com/mirai-variant-targets-iot-exploits/",
+			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://viz.greynoise.io/tags/netgear-dgn-setup-cgi-cve-2024-12847-command-execution-attempt?days=30",
+			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://www.cve.org/cverecord?id=CVE-2024-12847",
+			"date_added": "2025-01-10T00:00:00Z"
+		}
+	],
+	"date_added": "2017-11-01T00:00:00Z"
+}
