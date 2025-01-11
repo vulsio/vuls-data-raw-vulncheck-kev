@@ -206,13 +206,6 @@
 			"clone_ssh_url": "git@github.com:banomaly/CVE-2014-6271.git"
 		},
 		{
-			"xdb_id": "177e5ecfe706",
-			"xdb_url": "https://vulncheck.com/xdb/177e5ecfe706",
-			"date_added": "2016-03-30T11:43:12Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
-		},
-		{
 			"xdb_id": "1b15435d492f",
 			"xdb_url": "https://vulncheck.com/xdb/1b15435d492f",
 			"date_added": "2023-04-03T15:44:08Z",
@@ -220,11 +213,11 @@
 			"clone_ssh_url": "git@github.com:l0veormiss/l0veormiss.github.io.git"
 		},
 		{
-			"xdb_id": "f04bc714ad93",
-			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
-			"date_added": "2020-08-18T23:57:19+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
+			"xdb_id": "177e5ecfe706",
+			"xdb_url": "https://vulncheck.com/xdb/177e5ecfe706",
+			"date_added": "2016-03-30T11:43:12Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
 		},
 		{
 			"xdb_id": "91302a8a527c",
@@ -246,6 +239,13 @@
 			"date_added": "2020-09-11T15:43:16+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
+		},
+		{
+			"xdb_id": "f04bc714ad93",
+			"xdb_url": "https://vulncheck.com/xdb/f04bc714ad93",
+			"date_added": "2020-08-18T23:57:19+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_villadora/CVE-2014-6271.git"
 		},
 		{
 			"xdb_id": "3af8913bb29e",
