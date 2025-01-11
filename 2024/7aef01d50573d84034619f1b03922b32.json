@@ -1013,6 +1013,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-09&host_type=src&vulnerability=cve-2017-6090",
 			"date_added": "2025-01-09T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2017-6090",
+			"date_added": "2025-01-10T00:00:00Z"
 		}
 	],
 	"date_added": "2024-01-04T00:00:00Z"

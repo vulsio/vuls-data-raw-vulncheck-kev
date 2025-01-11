@@ -1058,6 +1058,10 @@
 			"date_added": "2025-01-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2023-51467",
+			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
 			"url": "https://blog.sonicwall.com/en-us/2023/12/sonicwall-discovers-critical-apache-ofbiz-zero-day-authbiz/",
 			"date_added": "2024-01-02T00:00:00Z"
 		},

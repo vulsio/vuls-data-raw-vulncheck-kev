@@ -1533,6 +1533,10 @@
 			"date_added": "2025-01-09T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2022-37042",
+			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
 			"url": "https://socradar.io/threat-actor-profile-bianlian-the-shape-shifting-ransomware-group/",
 			"date_added": "2023-07-13T00:00:00Z"
 		},

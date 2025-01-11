@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:L4ys/CVE-2022-21882.git"
 		},
 		{
-			"xdb_id": "0df71d9bfe29",
-			"xdb_url": "https://vulncheck.com/xdb/0df71d9bfe29",
-			"date_added": "2022-02-07T03:45:36Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:sailay1996/cve-2022-21882-poc.git"
-		},
-		{
 			"xdb_id": "8b1663fa985c",
 			"xdb_url": "https://vulncheck.com/xdb/8b1663fa985c",
 			"date_added": "2022-01-27T03:44:10Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:KaLendsi/CVE-2022-21882.git"
+		},
+		{
+			"xdb_id": "0df71d9bfe29",
+			"xdb_url": "https://vulncheck.com/xdb/0df71d9bfe29",
+			"date_added": "2022-02-07T03:45:36Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sailay1996/cve-2022-21882-poc.git"
 		},
 		{
 			"xdb_id": "5494ab88126e",

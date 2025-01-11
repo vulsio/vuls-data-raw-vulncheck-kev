@@ -395,6 +395,10 @@
 			"date_added": "2025-01-08T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2017-11610",
+			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/sysrv-botnet-expands-and-gains-persistence",
 			"date_added": "2021-04-08T00:00:00Z"
 		},

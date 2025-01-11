@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "08eae8850638",
-			"xdb_url": "https://vulncheck.com/xdb/08eae8850638",
-			"date_added": "2023-01-04T18:22:29Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:decoder-it/LocalPotato.git"
-		},
-		{
 			"xdb_id": "489fdf7e9b86",
 			"xdb_url": "https://vulncheck.com/xdb/489fdf7e9b86",
 			"date_added": "2023-07-16T15:57:37Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Muhammad-Ali007/LocalPotato_CVE-2023-21746.git"
+		},
+		{
+			"xdb_id": "08eae8850638",
+			"xdb_url": "https://vulncheck.com/xdb/08eae8850638",
+			"date_added": "2023-01-04T18:22:29Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:decoder-it/LocalPotato.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
