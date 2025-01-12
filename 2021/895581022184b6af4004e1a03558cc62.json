@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "189db9bb950f",
-			"xdb_url": "https://vulncheck.com/xdb/189db9bb950f",
-			"date_added": "2022-09-02T10:35:11Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Y3A/CVE-2021-31956.git"
-		},
-		{
 			"xdb_id": "ef8974070480",
 			"xdb_url": "https://vulncheck.com/xdb/ef8974070480",
 			"date_added": "2023-06-05T00:03:10Z",
@@ -29,6 +22,13 @@
 			"date_added": "2022-01-11T16:03:38Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:aazhuliang/CVE-2021-31956-EXP.git"
+		},
+		{
+			"xdb_id": "189db9bb950f",
+			"xdb_url": "https://vulncheck.com/xdb/189db9bb950f",
+			"date_added": "2022-09-02T10:35:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Y3A/CVE-2021-31956.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

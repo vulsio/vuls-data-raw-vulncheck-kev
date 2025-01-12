@@ -59,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:ashr/CVE-2017-8759-exploits.git"
 		},
 		{
-			"xdb_id": "2c3cc4e5f0ef",
-			"xdb_url": "https://vulncheck.com/xdb/2c3cc4e5f0ef",
-			"date_added": "2017-09-13T17:10:18Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:vysecurity/CVE-2017-8759.git"
-		},
-		{
 			"xdb_id": "e28825904312",
 			"xdb_url": "https://vulncheck.com/xdb/e28825904312",
 			"date_added": "2017-09-13T09:50:04Z",
@@ -85,6 +78,13 @@
 			"date_added": "2017-09-13T15:24:10Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:nccgroup/CVE-2017-8759.git"
+		},
+		{
+			"xdb_id": "2c3cc4e5f0ef",
+			"xdb_url": "https://vulncheck.com/xdb/2c3cc4e5f0ef",
+			"date_added": "2017-09-13T17:10:18Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:vysecurity/CVE-2017-8759.git"
 		},
 		{
 			"xdb_id": "b9285bd07a5a",

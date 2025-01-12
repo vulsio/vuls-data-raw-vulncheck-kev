@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:ZZ-SOCMAP/CVE-2022-21907.git"
 		},
 		{
-			"xdb_id": "86fb978ad867",
-			"xdb_url": "https://vulncheck.com/xdb/86fb978ad867",
-			"date_added": "2022-04-04T10:53:28Z",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@github.com:polakow/CVE-2022-21907.git"
-		},
-		{
 			"xdb_id": "8444bab2f56f",
 			"xdb_url": "https://vulncheck.com/xdb/8444bab2f56f",
 			"date_added": "2022-01-23T14:25:12Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:michelep/CVE-2022-21907-Vulnerability-PoC.git"
+		},
+		{
+			"xdb_id": "86fb978ad867",
+			"xdb_url": "https://vulncheck.com/xdb/86fb978ad867",
+			"date_added": "2022-04-04T10:53:28Z",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@github.com:polakow/CVE-2022-21907.git"
 		},
 		{
 			"xdb_id": "65a99dd97dd6",
