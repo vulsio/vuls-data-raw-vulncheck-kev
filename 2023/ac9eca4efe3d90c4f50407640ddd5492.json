@@ -1045,6 +1045,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2010-0219",
 			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-11&host_type=src&vulnerability=cve-2010-0219",
+			"date_added": "2025-01-11T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-15T00:00:00Z"
