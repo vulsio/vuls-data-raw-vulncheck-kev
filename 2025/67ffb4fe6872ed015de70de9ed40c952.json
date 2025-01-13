@@ -1,0 +1,19 @@
+{
+	"vendorProject": "GFI Software",
+	"product": "KerioControl",
+	"shortDescription": "Several vulnerabilities are present in GFI KerioControl due to improper sanitization of the 'dest' GET parameter used to generate a 'Location' HTTP header. The affected endpoints include /nonauth/addCertException.cs, /nonauth/guestConfirm.cs, and /nonauth/expiration.cs. Exploitation could allow for HTTP response splitting and may additionally lead to a reflected cross-site scripting (XSS).",
+	"vulnerabilityName": "GFI KerioControl HTTP Response Splitting Vulnerablility",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-52875"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://viz.greynoise.io/tags/kerio-control-cve-2024-52875-crlf-injection-attempt",
+			"date_added": "2025-01-08T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-08T00:00:00Z"
+}

@@ -29,6 +29,10 @@
 		{
 			"url": "https://www.rapid7.com/blog/post/2025/01/08/etr-cve-2025-0282-ivanti-connect-secure-zero-day-exploited-in-the-wild/",
 			"date_added": "2025-01-08T00:00:00Z"
+		},
+		{
+			"url": "https://www.wiz.io/blog/cve-2025-0282-and-cve-2025-0283-critical-ivanti-0days-exploited-in-the-wild",
+			"date_added": "2025-01-09T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-15T00:00:00Z",
