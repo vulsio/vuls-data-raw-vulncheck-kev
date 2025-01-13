@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:s3xy/CVE-2017-10271.git"
 		},
 		{
-			"xdb_id": "227b6343c39a",
-			"xdb_url": "https://vulncheck.com/xdb/227b6343c39a",
-			"date_added": "2017-12-28T01:30:50Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:c0mmand3rOpSec/CVE-2017-10271.git"
-		},
-		{
 			"xdb_id": "748e47609e78",
 			"xdb_url": "https://vulncheck.com/xdb/748e47609e78",
 			"date_added": "2020-11-18T02:31:18Z",
@@ -106,13 +99,6 @@
 			"date_added": "2019-04-25T03:07:53Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:SkyBlueEternal/CNVD-C-2019-48814-CNNVD-201904-961.git"
-		},
-		{
-			"xdb_id": "d09b1e7f97cc",
-			"xdb_url": "https://vulncheck.com/xdb/d09b1e7f97cc",
-			"date_added": "2018-01-05T21:57:03Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kkirsche/CVE-2017-10271.git"
 		},
 		{
 			"xdb_id": "d4ef87756956",
@@ -136,11 +122,18 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "e9e5a0e896a8",
-			"xdb_url": "https://vulncheck.com/xdb/e9e5a0e896a8",
-			"date_added": "2020-10-05T13:44:06+08:00",
+			"xdb_id": "227b6343c39a",
+			"xdb_url": "https://vulncheck.com/xdb/227b6343c39a",
+			"date_added": "2017-12-28T01:30:50Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xdawn/cve-2017-10271-2.git"
+			"clone_ssh_url": "git@github.com:c0mmand3rOpSec/CVE-2017-10271.git"
+		},
+		{
+			"xdb_id": "d09b1e7f97cc",
+			"xdb_url": "https://vulncheck.com/xdb/d09b1e7f97cc",
+			"date_added": "2018-01-05T21:57:03Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kkirsche/CVE-2017-10271.git"
 		},
 		{
 			"xdb_id": "560237e691a7",
@@ -148,6 +141,13 @@
 			"date_added": "2020-05-19T09:53:13+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:chenjiew/Oracle-WebLogic-CVE-2017-10271.git"
+		},
+		{
+			"xdb_id": "e9e5a0e896a8",
+			"xdb_url": "https://vulncheck.com/xdb/e9e5a0e896a8",
+			"date_added": "2020-10-05T13:44:06+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/cve-2017-10271-2.git"
 		},
 		{
 			"xdb_id": "81bc72dbea42",

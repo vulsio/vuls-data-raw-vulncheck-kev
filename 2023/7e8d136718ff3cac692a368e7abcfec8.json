@@ -645,6 +645,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-10&host_type=src&vulnerability=cve-2020-36112",
 			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-12&host_type=src&vulnerability=cve-2020-36112",
+			"date_added": "2025-01-12T00:00:00Z"
 		}
 	],
 	"date_added": "2023-12-21T00:00:00Z"

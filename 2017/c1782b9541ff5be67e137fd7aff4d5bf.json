@@ -1719,6 +1719,10 @@
 			"date_added": "2025-01-11T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-12&host_type=src&vulnerability=cve-2017-17215",
+			"date_added": "2025-01-12T00:00:00Z"
+		},
+		{
 			"url": "https://research.checkpoint.com/2017/good-zero-day-skiddie/",
 			"date_added": "2017-12-21T00:00:00Z"
 		},
