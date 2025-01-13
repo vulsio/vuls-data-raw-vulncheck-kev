@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-12856"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "ec92ff746736",
+			"xdb_url": "https://vulncheck.com/xdb/ec92ff746736",
+			"date_added": "2025-01-11T18:14:03Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:nu113d/CVE-2024-12856.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://ducklingstudio.blog.fc2.com/blog-entry-392.html",

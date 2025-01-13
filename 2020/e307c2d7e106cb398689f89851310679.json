@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:blacklanternsecurity/dp_cryptomg.git"
 		},
 		{
-			"xdb_id": "89ae1abf1d84",
-			"xdb_url": "https://vulncheck.com/xdb/89ae1abf1d84",
-			"date_added": "2022-10-12T19:11:43Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:blacklanternsecurity/badsecrets.git"
-		},
-		{
 			"xdb_id": "cbd541a8cca4",
 			"xdb_url": "https://vulncheck.com/xdb/cbd541a8cca4",
 			"date_added": "2018-08-03T04:36:23Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:capt-meelo/Telewreck.git"
+		},
+		{
+			"xdb_id": "89ae1abf1d84",
+			"xdb_url": "https://vulncheck.com/xdb/89ae1abf1d84",
+			"date_added": "2022-10-12T19:11:43Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:blacklanternsecurity/badsecrets.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

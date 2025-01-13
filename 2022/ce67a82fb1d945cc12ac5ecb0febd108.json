@@ -45,6 +45,13 @@
 			"clone_ssh_url": "git@github.com:jbaines-r7/dellicious.git"
 		},
 		{
+			"xdb_id": "53bc14e20b42",
+			"xdb_url": "https://vulncheck.com/xdb/53bc14e20b42",
+			"date_added": "2025-01-11T12:18:40Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:IlanDudnik/CVE-2021-21551.git"
+		},
+		{
 			"xdb_id": "00d3994af95f",
 			"xdb_url": "https://vulncheck.com/xdb/00d3994af95f",
 			"date_added": "2022-04-03T00:21:34Z",

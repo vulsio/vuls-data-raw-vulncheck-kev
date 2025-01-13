@@ -59,6 +59,13 @@
 			"clone_ssh_url": "git@github.com:chompie1337/Windows_LPE_AFD_CVE-2023-21768.git"
 		},
 		{
+			"xdb_id": "242fe4c47b64",
+			"xdb_url": "https://vulncheck.com/xdb/242fe4c47b64",
+			"date_added": "2023-04-20T08:26:42Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit.git"
+		},
+		{
 			"xdb_id": "784b586cbad4",
 			"xdb_url": "https://vulncheck.com/xdb/784b586cbad4",
 			"date_added": "2023-03-10T19:08:28Z",
@@ -71,13 +78,6 @@
 			"date_added": "2024-12-30T17:27:56Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:IlanDudnik/CVE-2023-21768.git"
-		},
-		{
-			"xdb_id": "242fe4c47b64",
-			"xdb_url": "https://vulncheck.com/xdb/242fe4c47b64",
-			"date_added": "2023-04-20T08:26:42Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
