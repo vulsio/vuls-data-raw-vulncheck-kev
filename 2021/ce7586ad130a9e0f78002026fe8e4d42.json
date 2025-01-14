@@ -164,20 +164,6 @@
 			"clone_ssh_url": "git@github.com:cube0x0/CVE-2021-1675.git"
 		},
 		{
-			"xdb_id": "0300146c83c2",
-			"xdb_url": "https://vulncheck.com/xdb/0300146c83c2",
-			"date_added": "2021-12-01T12:30:12+08:00",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@gitee.com:slip2008/CVE-2021-1675.git"
-		},
-		{
-			"xdb_id": "0d51bca37337",
-			"xdb_url": "https://vulncheck.com/xdb/0d51bca37337",
-			"date_added": "2021-09-27T14:59:20+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675.git"
-		},
-		{
 			"xdb_id": "a80f7a9e25f2",
 			"xdb_url": "https://vulncheck.com/xdb/a80f7a9e25f2",
 			"date_added": "2023-02-20T19:58:37+08:00",
@@ -192,13 +178,6 @@
 			"clone_ssh_url": "git@gitee.com:mirrors_trending/CVE-2021-1675_1.git"
 		},
 		{
-			"xdb_id": "462712fb0096",
-			"xdb_url": "https://vulncheck.com/xdb/462712fb0096",
-			"date_added": "2021-09-27T14:59:19+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675-LPE.git"
-		},
-		{
 			"xdb_id": "490a73431a10",
 			"xdb_url": "https://vulncheck.com/xdb/490a73431a10",
 			"date_added": "2021-07-02T05:00:29+08:00",
@@ -211,6 +190,27 @@
 			"date_added": "2021-07-01T23:56:20+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:evaltx/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "0300146c83c2",
+			"xdb_url": "https://vulncheck.com/xdb/0300146c83c2",
+			"date_added": "2021-12-01T12:30:12+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:slip2008/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "0d51bca37337",
+			"xdb_url": "https://vulncheck.com/xdb/0d51bca37337",
+			"date_added": "2021-09-27T14:59:20+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675.git"
+		},
+		{
+			"xdb_id": "462712fb0096",
+			"xdb_url": "https://vulncheck.com/xdb/462712fb0096",
+			"date_added": "2021-09-27T14:59:19+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:stemmm/CVE-2021-1675-LPE.git"
 		},
 		{
 			"xdb_id": "ffee1c151af9",
