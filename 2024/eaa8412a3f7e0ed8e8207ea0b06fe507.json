@@ -440,6 +440,10 @@
 			"date_added": "2025-01-12T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2024-29973",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/",
 			"date_added": "2024-06-24T00:00:00Z"
 		},

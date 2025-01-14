@@ -1027,6 +1027,10 @@
 			"date_added": "2025-01-12T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2019-18394",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://sysdig.com/blog/crystalray-rising-threat-actor-exploiting-oss-tools/",
 			"date_added": "2024-07-11T00:00:00Z"
 		}

@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@github.com:DimitriFourny/cve-2019-2215.git"
 		},
 		{
-			"xdb_id": "703d7ebd8c6a",
-			"xdb_url": "https://vulncheck.com/xdb/703d7ebd8c6a",
-			"date_added": "2020-01-30T06:06:32Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:LIznzn/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "b769e46ca29c",
 			"xdb_url": "https://vulncheck.com/xdb/b769e46ca29c",
 			"date_added": "2020-10-27T14:43:17Z",
@@ -122,13 +115,6 @@
 			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
 		},
 		{
-			"xdb_id": "efc0233357b1",
-			"xdb_url": "https://vulncheck.com/xdb/efc0233357b1",
-			"date_added": "2019-10-04T06:32:08Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:timwr/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "570fb66ac36f",
 			"xdb_url": "https://vulncheck.com/xdb/570fb66ac36f",
 			"date_added": "2024-02-04T16:08:02Z",
@@ -136,11 +122,25 @@
 			"clone_ssh_url": "git@github.com:willboka/CVE-2019-2215-HuaweiP20Lite.git"
 		},
 		{
+			"xdb_id": "efc0233357b1",
+			"xdb_url": "https://vulncheck.com/xdb/efc0233357b1",
+			"date_added": "2019-10-04T06:32:08Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:timwr/CVE-2019-2215.git"
+		},
+		{
 			"xdb_id": "af8a91dc7ae5",
 			"xdb_url": "https://vulncheck.com/xdb/af8a91dc7ae5",
 			"date_added": "2020-06-07T15:03:07Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:sharif-dev/AndroidKernelVulnerability.git"
+		},
+		{
+			"xdb_id": "703d7ebd8c6a",
+			"xdb_url": "https://vulncheck.com/xdb/703d7ebd8c6a",
+			"date_added": "2020-01-30T06:06:32Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:LIznzn/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

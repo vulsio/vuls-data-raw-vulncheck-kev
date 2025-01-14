@@ -736,6 +736,10 @@
 			"date_added": "2024-12-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2020-14883",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/22/i/a-post-exploitation-look-at-coinminers-abusing-weblogic-vulnerab.html",
 			"date_added": "2022-09-14T00:00:00Z"
 		},

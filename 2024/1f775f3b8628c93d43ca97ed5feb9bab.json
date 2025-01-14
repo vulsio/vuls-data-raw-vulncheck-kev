@@ -405,6 +405,10 @@
 			"date_added": "2024-12-23T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2024-3400",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://twitter.com/vuldb/status/1779054980487434272",
 			"date_added": "2024-04-12T00:00:00Z"
 		},

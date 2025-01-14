@@ -1099,6 +1099,10 @@
 			"date_added": "2025-01-12T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2024-4577",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://tuxcare.com/blog/php-vulnerability-used-for-malware-and-ddos-attacks/",
 			"date_added": "2024-07-25T00:00:00Z"
 		},

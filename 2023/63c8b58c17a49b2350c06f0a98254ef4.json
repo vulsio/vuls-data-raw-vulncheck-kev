@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:kljunowsky/CVE-2023-36845.git"
 		},
 		{
-			"xdb_id": "db1e7b347773",
-			"xdb_url": "https://vulncheck.com/xdb/db1e7b347773",
-			"date_added": "2023-04-26T10:49:41Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:PortSwigger/BChecks.git"
-		},
-		{
 			"xdb_id": "861198e6f367",
 			"xdb_url": "https://vulncheck.com/xdb/861198e6f367",
 			"date_added": "2023-09-16T09:11:21Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:vulncheck-oss/cve-2023-36845-scanner.git"
+		},
+		{
+			"xdb_id": "db1e7b347773",
+			"xdb_url": "https://vulncheck.com/xdb/db1e7b347773",
+			"date_added": "2023-04-26T10:49:41Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:PortSwigger/BChecks.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

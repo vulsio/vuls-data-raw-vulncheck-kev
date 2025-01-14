@@ -923,6 +923,10 @@
 			"date_added": "2025-01-12T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-13&host_type=src&vulnerability=cve-2020-9054",
+			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
 			"url": "https://krebsonsecurity.com/2020/02/zyxel-fixes-0day-in-network-storage-devices/",
 			"date_added": "2020-02-24T00:00:00Z"
 		},
