@@ -1,0 +1,21 @@
+{
+	"vendorProject": "BeyondTrust",
+	"product": "Privileged Remote Access (PRA) and Remote Support (RS)",
+	"shortDescription": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) contain an OS command injection vulnerability that can be exploited by an attacker with existing administrative privileges to upload a malicious file. Successful exploitation of this vulnerability can allow a remote attacker to execute underlying operating system commands within the context of the site user.",
+	"vulnerabilityName": "BeyondTrust Privileged Remote Access (PRA) and Remote Support (RS) OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-12686"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.beyondtrust.com/remote-support-saas-service-security-investigation",
+			"date_added": "2024-12-18T00:00:00Z"
+		}
+	],
+	"dueDate": "2025-02-03T00:00:00Z",
+	"cisa_date_added": "2025-01-13T00:00:00Z",
+	"date_added": "2024-12-18T00:00:00Z"
+}

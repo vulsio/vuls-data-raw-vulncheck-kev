@@ -1,0 +1,27 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-50603"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "513baacd981d",
+			"xdb_url": "https://vulncheck.com/xdb/513baacd981d",
+			"date_added": "2025-01-08T12:00:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:newlinesec/CVE-2024-50603.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.wiz.io/blog/wiz-research-identifies-exploitation-in-the-wild-of-aviatrix-cve-2024-50603",
+			"date_added": "2025-01-11T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-11T00:00:00Z"
+}

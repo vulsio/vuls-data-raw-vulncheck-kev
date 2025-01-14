@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Qlik",
 	"product": "Sense",
-	"shortDescription": "Qlik Sense Enterprise for Windows before August 2023 Patch 2 allows unauthenticated remote code execution, aka QB-21683. Due to improper validation of HTTP headers, a remote attacker is able to elevate their privilege by tunneling HTTP requests, allowing them to execute HTTP requests on the backend server that hosts the repository application. The fixed versions are August 2023 Patch 2, May 2023 Patch 6, February 2023 Patch 10, November 2022 Patch 12, August 2022 Patch 14, May 2022 Patch 16, February 2022 Patch 15, and November 2021 Patch 17. NOTE: this issue exists because of an incomplete fix for CVE-2023-41265.",
-	"vulnerabilityName": "Qlik Sense Inconsistent Interpretation of HTTP Requests ('HTTP Request/Response Smuggling')",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "Qlik Sense contains an HTTP tunneling vulnerability that allows an attacker to escalate privileges and execute HTTP requests on the backend server hosting the software.",
+	"vulnerabilityName": "Qlik Sense HTTP Tunneling Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Known",
 	"cve": [
 		"CVE-2023-48365"
@@ -39,5 +39,7 @@
 			"date_added": "2024-12-16T00:00:00Z"
 		}
 	],
+	"dueDate": "2025-02-03T00:00:00Z",
+	"cisa_date_added": "2025-01-13T00:00:00Z",
 	"date_added": "2023-11-28T00:00:00Z"
 }
