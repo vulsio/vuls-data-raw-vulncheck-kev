@@ -67,6 +67,10 @@
 			"date_added": "2024-12-05T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-14&host_type=src&vulnerability=cve-2017-18046",
+			"date_added": "2025-01-14T00:00:00Z"
+		},
+		{
 			"url": "https://blog.radware.com/security/botnets/2018/02/new-satori-botnet-variant-enslaves-thousands-dasan-wifi-routers/",
 			"date_added": "2018-02-12T00:00:00Z"
 		}
