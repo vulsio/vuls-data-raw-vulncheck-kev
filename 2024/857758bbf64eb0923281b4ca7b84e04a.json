@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-10571"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "6ccf305644b2",
+			"xdb_url": "https://vulncheck.com/xdb/6ccf305644b2",
+			"date_added": "2025-01-13T10:38:31Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RandomRobbieBF/CVE-2024-10571.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://securityonline.info/cve-2024-10571-cvss-9-8-critical-flaw-in-wordpress-chart-plugin-under-active-attack/",
