@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:rogue-kdc/CVE-2019-1253.git"
 		},
 		{
-			"xdb_id": "cc8bc5f73283",
-			"xdb_url": "https://vulncheck.com/xdb/cc8bc5f73283",
-			"date_added": "2019-09-11T23:28:59Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:sgabe/CVE-2019-1253.git"
-		},
-		{
 			"xdb_id": "be673a8a105e",
 			"xdb_url": "https://vulncheck.com/xdb/be673a8a105e",
 			"date_added": "2019-09-11T20:40:15Z",
@@ -36,6 +29,13 @@
 			"date_added": "2019-09-11T09:59:22Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@github.com:likescam/CVE-2019-1253.git"
+		},
+		{
+			"xdb_id": "cc8bc5f73283",
+			"xdb_url": "https://vulncheck.com/xdb/cc8bc5f73283",
+			"date_added": "2019-09-11T23:28:59Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:sgabe/CVE-2019-1253.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

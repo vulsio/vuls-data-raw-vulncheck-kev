@@ -164,18 +164,18 @@
 			"clone_ssh_url": "git@github.com:savior-only/CVE-2022-22947.git"
 		},
 		{
-			"xdb_id": "a02abe0b70a0",
-			"xdb_url": "https://vulncheck.com/xdb/a02abe0b70a0",
-			"date_added": "2022-03-21T23:37:20Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Enokiy/cve-2022-22947-spring-cloud-gateway.git"
-		},
-		{
 			"xdb_id": "a48d3f6ecc63",
 			"xdb_url": "https://vulncheck.com/xdb/a48d3f6ecc63",
 			"date_added": "2022-04-07T04:28:29Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:helloexp/0day.git"
+		},
+		{
+			"xdb_id": "a02abe0b70a0",
+			"xdb_url": "https://vulncheck.com/xdb/a02abe0b70a0",
+			"date_added": "2022-03-21T23:37:20Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Enokiy/cve-2022-22947-spring-cloud-gateway.git"
 		},
 		{
 			"xdb_id": "769ad48809b9",

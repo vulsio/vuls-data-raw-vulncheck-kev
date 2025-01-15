@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:LightningGod7/CVE-2022-24706-POC.git"
 		},
 		{
-			"xdb_id": "b8f0f62ec11e",
-			"xdb_url": "https://vulncheck.com/xdb/b8f0f62ec11e",
-			"date_added": "2022-05-20T04:28:51Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sadshade/CVE-2022-24706-CouchDB-Exploit.git"
-		},
-		{
 			"xdb_id": "b9f980c9e9d9",
 			"xdb_url": "https://vulncheck.com/xdb/b9f980c9e9d9",
 			"date_added": "2023-11-10T05:43:52Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:hatjwe/CVE-2023-24706.git"
+		},
+		{
+			"xdb_id": "b8f0f62ec11e",
+			"xdb_url": "https://vulncheck.com/xdb/b8f0f62ec11e",
+			"date_added": "2022-05-20T04:28:51Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sadshade/CVE-2022-24706-CouchDB-Exploit.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

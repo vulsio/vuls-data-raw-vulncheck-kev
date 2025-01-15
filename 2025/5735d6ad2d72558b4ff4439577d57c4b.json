@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Ivanti",
-	"product": "Connect Secure, Policy Secure, and Neurons",
-	"shortDescription": "A stack-based buffer overflow in Ivanti Connect Secure before version 22.7R2.5, Ivanti Policy Secure before version 22.7R1.2, and Ivanti Neurons for ZTA gateways before version 22.7R2.3 allows a remote unauthenticated attacker to achieve remote code execution.",
-	"vulnerabilityName": "Ivanti Connect Secure, Policy Secure, and Neurons stack-based buffer overflow",
+	"product": "Connect Secure and Policy Secure",
+	"shortDescription": "A stack-based buffer overflow in Ivanti Connect Secure before version 22.7R2.5, Ivanti Policy Secure before version 22.7R1.2, and Ivanti Neurons for ZTA gateways before version 22.7R2.3 allows a local authenticated attacker to escalate their privileges.",
+	"vulnerabilityName": "Ivanti Connect Secure and Policy Secure Stack-based Buffer Overflow",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Fortinet",
+	"product": "FortiOS and FortiProxy",
+	"shortDescription": "An Authentication Bypass Using an Alternate Path or Channel vulnerability [CWE-288] affecting FortiOS version 7.0.0 through 7.0.16 and FortiProxy version 7.0.0 through 7.0.19 and 7.2.0 through 7.2.12 allows a remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
+	"vulnerabilityName": "FortiOS and FortiProxy Node.js Websocket Module Authentication Bypass Vulnerablility",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-55591"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://fortiguard.fortinet.com/psirt/FG-IR-24-535",
+			"date_added": "2025-01-14T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-14T00:00:00Z"
+}

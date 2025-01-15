@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:undacmic/heartbleed-proof-of-concept.git"
 		},
 		{
-			"xdb_id": "6fd3881a18c4",
-			"xdb_url": "https://vulncheck.com/xdb/6fd3881a18c4",
-			"date_added": "2015-03-08T19:54:33Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:mpgn/heartbleed-PoC.git"
-		},
-		{
 			"xdb_id": "2777a83a11fb",
 			"xdb_url": "https://vulncheck.com/xdb/2777a83a11fb",
 			"date_added": "2014-04-08T04:25:23Z",
@@ -185,18 +178,25 @@
 			"clone_ssh_url": "git@github.com:musalbas/heartbleed-masstest.git"
 		},
 		{
-			"xdb_id": "180c504a4ab9",
-			"xdb_url": "https://vulncheck.com/xdb/180c504a4ab9",
-			"date_added": "2014-04-08T16:41:51Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Lekensteyn/pacemaker.git"
-		},
-		{
 			"xdb_id": "31dbd59f952b",
 			"xdb_url": "https://vulncheck.com/xdb/31dbd59f952b",
 			"date_added": "2016-03-30T11:43:12Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:threat9/routersploit.git"
+		},
+		{
+			"xdb_id": "6fd3881a18c4",
+			"xdb_url": "https://vulncheck.com/xdb/6fd3881a18c4",
+			"date_added": "2015-03-08T19:54:33Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:mpgn/heartbleed-PoC.git"
+		},
+		{
+			"xdb_id": "180c504a4ab9",
+			"xdb_url": "https://vulncheck.com/xdb/180c504a4ab9",
+			"date_added": "2014-04-08T16:41:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Lekensteyn/pacemaker.git"
 		},
 		{
 			"xdb_id": "a5f2ac732a33",
