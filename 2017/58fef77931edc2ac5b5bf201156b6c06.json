@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.cve.org/cverecord?id=CVE-2024-12847",
 			"date_added": "2025-01-10T00:00:00Z"
+		},
+		{
+			"url": "https://isc.sans.edu/diary/The+Curious+Case+of+a+12YearOld+Netgear+Router+Vulnerability/31592/",
+			"date_added": "2025-01-15T00:00:00Z"
 		}
 	],
 	"date_added": "2017-11-01T00:00:00Z"
