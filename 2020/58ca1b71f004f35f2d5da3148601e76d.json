@@ -1135,6 +1135,10 @@
 			"date_added": "2025-01-14T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-15&host_type=src&vulnerability=cve-2016-1555",
+			"date_added": "2025-01-15T00:00:00Z"
+		},
+		{
 			"url": "https://web.archive.org/web/20200319160240/https://labs.bitdefender.com/2020/01/hold-my-beer-mirai-spinoff-named-liquorbot-incorporates-cryptomining/",
 			"date_added": "2020-01-08T00:00:00Z"
 		},

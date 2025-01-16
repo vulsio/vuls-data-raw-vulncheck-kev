@@ -594,6 +594,10 @@
 			"date_added": "2025-01-14T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-15&host_type=src&vulnerability=cve-2021-43798",
+			"date_added": "2025-01-15T00:00:00Z"
+		},
+		{
 			"url": "https://go.catonetworks.com/rs/245-RJK-441/images/CATO-NETWORKS-THREAT-REPORT2024.pdf",
 			"date_added": "2024-05-07T00:00:00Z"
 		},

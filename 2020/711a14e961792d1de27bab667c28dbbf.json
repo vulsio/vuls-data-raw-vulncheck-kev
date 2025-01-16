@@ -115,6 +115,13 @@
 			"clone_ssh_url": "git@github.com:00theway/Ghostcat-CNVD-2020-10487.git"
 		},
 		{
+			"xdb_id": "7e97ae83b853",
+			"xdb_url": "https://vulncheck.com/xdb/7e97ae83b853",
+			"date_added": "2019-06-06T18:13:16Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:LandGrey/ClassHound.git"
+		},
+		{
 			"xdb_id": "556229dec09a",
 			"xdb_url": "https://vulncheck.com/xdb/556229dec09a",
 			"date_added": "2024-08-29T06:38:16Z",
@@ -122,11 +129,18 @@
 			"clone_ssh_url": "git@github.com:lizhianyuguangming/TomcatScanPro.git"
 		},
 		{
-			"xdb_id": "7e97ae83b853",
-			"xdb_url": "https://vulncheck.com/xdb/7e97ae83b853",
-			"date_added": "2019-06-06T18:13:16Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:LandGrey/ClassHound.git"
+			"xdb_id": "6c2db5dec526",
+			"xdb_url": "https://vulncheck.com/xdb/6c2db5dec526",
+			"date_added": "2020-10-16T10:12:15+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:yaogodv/CVE-2020-1938-Tomact-file_include-file_read.git"
+		},
+		{
+			"xdb_id": "396912473adb",
+			"xdb_url": "https://vulncheck.com/xdb/396912473adb",
+			"date_added": "2020-09-04T09:40:52+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:isdc_admin/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
 		},
 		{
 			"xdb_id": "f69eb1a05f7d",
@@ -148,20 +162,6 @@
 			"date_added": "2020-03-17T17:05:41+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CNVD-2020-10487-Tomcat-ajp-POC.git"
-		},
-		{
-			"xdb_id": "6c2db5dec526",
-			"xdb_url": "https://vulncheck.com/xdb/6c2db5dec526",
-			"date_added": "2020-10-16T10:12:15+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:yaogodv/CVE-2020-1938-Tomact-file_include-file_read.git"
-		},
-		{
-			"xdb_id": "396912473adb",
-			"xdb_url": "https://vulncheck.com/xdb/396912473adb",
-			"date_added": "2020-09-04T09:40:52+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:isdc_admin/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
 		},
 		{
 			"xdb_id": "f17ae55010e2",
