@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:R0rt1z2/CVE-2022-38181.git"
 		},
 		{
-			"xdb_id": "0ea5523595cc",
-			"xdb_url": "https://vulncheck.com/xdb/0ea5523595cc",
-			"date_added": "2023-04-13T13:19:04Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Pro-me3us/CVE_2022_38181_Raven.git"
-		},
-		{
 			"xdb_id": "36b7eb9b6e72",
 			"xdb_url": "https://vulncheck.com/xdb/36b7eb9b6e72",
 			"date_added": "2023-04-13T13:25:09Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:Pro-me3us/CVE_2022_38181_Gazelle.git"
+		},
+		{
+			"xdb_id": "0ea5523595cc",
+			"xdb_url": "https://vulncheck.com/xdb/0ea5523595cc",
+			"date_added": "2023-04-13T13:19:04Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Pro-me3us/CVE_2022_38181_Raven.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
