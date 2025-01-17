@@ -17,6 +17,10 @@
 		{
 			"url": "https://fortiguard.fortinet.com/psirt/FG-IR-24-535",
 			"date_added": "2025-01-14T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2025/01/16/etr-fortinet-firewalls-hit-with-new-zero-day-attack-older-data-leak/",
+			"date_added": "2025-01-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-21T00:00:00Z",

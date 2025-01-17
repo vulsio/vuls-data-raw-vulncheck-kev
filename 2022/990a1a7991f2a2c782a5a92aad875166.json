@@ -188,6 +188,10 @@
 		{
 			"url": "https://eclypsium.com/blog/salt-typhoon/",
 			"date_added": "2024-12-12T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2025/01/16/etr-fortinet-firewalls-hit-with-new-zero-day-attack-older-data-leak/",
+			"date_added": "2025-01-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-01-03T00:00:00Z",

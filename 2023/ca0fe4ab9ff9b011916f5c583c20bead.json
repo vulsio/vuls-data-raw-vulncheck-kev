@@ -146,6 +146,10 @@
 		{
 			"url": "https://www.tenable.com/blog/volt-typhoon-u-s-critical-infrastructure-targeted-by-state-sponsored-actors",
 			"date_added": "2024-11-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2025/01/16/etr-fortinet-firewalls-hit-with-new-zero-day-attack-older-data-leak/",
+			"date_added": "2025-01-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2023-07-04T00:00:00Z",

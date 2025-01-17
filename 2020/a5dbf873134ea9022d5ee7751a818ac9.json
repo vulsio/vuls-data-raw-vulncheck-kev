@@ -402,18 +402,18 @@
 			"clone_ssh_url": "git@github.com:dirkjanm/CVE-2020-1472.git"
 		},
 		{
-			"xdb_id": "819d8120f6b4",
-			"xdb_url": "https://vulncheck.com/xdb/819d8120f6b4",
-			"date_added": "2020-08-09T05:48:10Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
-		},
-		{
 			"xdb_id": "22611416152e",
 			"xdb_url": "https://vulncheck.com/xdb/22611416152e",
 			"date_added": "2020-09-08T08:58:37Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:SecuraBV/CVE-2020-1472.git"
+		},
+		{
+			"xdb_id": "819d8120f6b4",
+			"xdb_url": "https://vulncheck.com/xdb/819d8120f6b4",
+			"date_added": "2020-08-09T05:48:10Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "5063a30af753",

@@ -1425,6 +1425,18 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/botpoke-scanner-switches-ip",
 			"date_added": "2024-11-25T00:00:00Z"
+		},
+		{
+			"url": "https://cyberplace.social/@GossiTheDog/113835343933778715",
+			"date_added": "2025-01-15T00:00:00Z"
+		},
+		{
+			"url": "https://www.cloudsek.com/blog/15k-fortigate-firewall-configs-leaked-by-belsen-group-dumped-using-zero-day-in-2022",
+			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.rapid7.com/blog/post/2025/01/16/etr-fortinet-firewalls-hit-with-new-zero-day-attack-older-data-leak/",
+			"date_added": "2025-01-16T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-11-01T00:00:00Z",

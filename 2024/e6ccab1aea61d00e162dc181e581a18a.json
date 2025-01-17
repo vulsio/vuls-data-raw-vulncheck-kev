@@ -17,11 +17,11 @@
 			"clone_ssh_url": "git@github.com:huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner.git"
 		},
 		{
-			"xdb_id": "c384abfece3c",
-			"xdb_url": "https://vulncheck.com/xdb/c384abfece3c",
+			"xdb_id": "292b473a5732",
+			"xdb_url": "https://vulncheck.com/xdb/292b473a5732",
 			"date_added": "2023-06-12T13:06:54Z",
 			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner.git"
+			"clone_ssh_url": "git@github.com:hxlxmj/CVE-2022-3590-WordPress-Vulnerability-Scanner.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

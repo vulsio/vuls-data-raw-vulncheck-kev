@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2025-0282"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "d343e6784986",
+			"xdb_url": "https://vulncheck.com/xdb/d343e6784986",
+			"date_added": "2025-01-16T14:45:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2025-0282.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

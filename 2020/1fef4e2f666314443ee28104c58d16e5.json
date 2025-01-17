@@ -1,8 +1,8 @@
 {
 	"vendorProject": "brizy",
-	"product": "brizy-page_builder",
+	"product": "brizy",
 	"shortDescription": "The Brizy plugin for WordPress is vulnerable to authorization bypass due to a incorrect capability check on the is_administrator() function in versions up to, and including, 1.0.125. This makes it possible for authenticated attackers to access and interact with available AJAX functions.",
-	"vulnerabilityName": "brizy brizy-page_builder Incorrect Authorization",
+	"vulnerabilityName": "brizy brizy Incorrect Authorization",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
