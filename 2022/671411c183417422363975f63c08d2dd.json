@@ -1086,6 +1086,10 @@
 			"date_added": "2025-01-15T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-16&host_type=src&vulnerability=cve-2022-26138",
+			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
 			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",
 			"date_added": "2022-07-29T00:00:00Z"
 		},

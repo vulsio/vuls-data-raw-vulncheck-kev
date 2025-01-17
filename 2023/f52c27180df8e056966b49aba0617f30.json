@@ -1161,6 +1161,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-15&host_type=src&vulnerability=cve-2017-12635",
 			"date_added": "2025-01-15T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-16&host_type=src&vulnerability=cve-2017-12635",
+			"date_added": "2025-01-16T00:00:00Z"
 		}
 	],
 	"date_added": "2023-11-17T00:00:00Z"

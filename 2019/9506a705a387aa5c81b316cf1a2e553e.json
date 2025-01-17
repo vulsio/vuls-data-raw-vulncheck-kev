@@ -94,18 +94,18 @@
 			"clone_ssh_url": "git@github.com:k8gege/CVE-2019-11043.git"
 		},
 		{
-			"xdb_id": "3430044ed268",
-			"xdb_url": "https://vulncheck.com/xdb/3430044ed268",
-			"date_added": "2019-10-23T23:26:57Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11043.git"
-		},
-		{
 			"xdb_id": "095460149708",
 			"xdb_url": "https://vulncheck.com/xdb/095460149708",
 			"date_added": "2019-09-23T21:37:27Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:neex/phuip-fpizdam.git"
+		},
+		{
+			"xdb_id": "3430044ed268",
+			"xdb_url": "https://vulncheck.com/xdb/3430044ed268",
+			"date_added": "2019-10-23T23:26:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-11043.git"
 		},
 		{
 			"xdb_id": "20a6f27a3edd",

@@ -1476,6 +1476,10 @@
 			"date_added": "2025-01-15T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-16&host_type=src&vulnerability=cve-2019-7238",
+			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/hide-n-seek-botnet-updates-arsenal-with-exploits-against-nexus-repository-manager-thinkphp/",
 			"date_added": "2019-06-12T00:00:00Z"
 		},

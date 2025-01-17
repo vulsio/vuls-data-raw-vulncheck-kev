@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:BurnyMcDull/CVE-2017-7921.git"
 		},
 		{
-			"xdb_id": "0bf7b1d4ce0e",
-			"xdb_url": "https://vulncheck.com/xdb/0bf7b1d4ce0e",
-			"date_added": "2023-07-24T14:48:38Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2017-7921-EXPLOIT.git"
-		},
-		{
 			"xdb_id": "3d1112f04ef6",
 			"xdb_url": "https://vulncheck.com/xdb/3d1112f04ef6",
 			"date_added": "2024-11-26T13:02:18Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:aengussong/hikvision_probe.git"
+		},
+		{
+			"xdb_id": "0bf7b1d4ce0e",
+			"xdb_url": "https://vulncheck.com/xdb/0bf7b1d4ce0e",
+			"date_added": "2023-07-24T14:48:38Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:K3ysTr0K3R/CVE-2017-7921-EXPLOIT.git"
 		},
 		{
 			"xdb_id": "eec829707014",
