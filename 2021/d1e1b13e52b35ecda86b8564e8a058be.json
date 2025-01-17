@@ -33,7 +33,7 @@
 		{
 			"xdb_id": "be286a8966d1",
 			"xdb_url": "https://vulncheck.com/xdb/be286a8966d1",
-			"date_added": "2024-01-24T09:08:32+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:dugd520/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION.git"
 		},
