@@ -234,18 +234,18 @@
 			"clone_ssh_url": "git@github.com:0xeb-bp/bluekeep.git"
 		},
 		{
-			"xdb_id": "495f5c9a61a0",
-			"xdb_url": "https://vulncheck.com/xdb/495f5c9a61a0",
-			"date_added": "2022-01-11T21:46:22+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:mirrors_k8gege/CVE-2019-0708.git"
-		},
-		{
 			"xdb_id": "d0813d668813",
 			"xdb_url": "https://vulncheck.com/xdb/d0813d668813",
 			"date_added": "2020-05-27T11:12:10+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:noofisec/CVE-2019-0708.git"
+		},
+		{
+			"xdb_id": "495f5c9a61a0",
+			"xdb_url": "https://vulncheck.com/xdb/495f5c9a61a0",
+			"date_added": "2022-01-11T21:46:22+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors_k8gege/CVE-2019-0708.git"
 		},
 		{
 			"xdb_id": "92468824377e",
@@ -262,11 +262,11 @@
 			"clone_ssh_url": "git@gitee.com:bxqtee/CVE-2019-0708.git"
 		},
 		{
-			"xdb_id": "3785316d7fc5",
-			"xdb_url": "https://vulncheck.com/xdb/3785316d7fc5",
-			"date_added": "2019-05-31T22:11:08+08:00",
-			"exploit_type": "denial-of-service",
-			"clone_ssh_url": "git@gitee.com:mirrors/BlueKeep.git"
+			"xdb_id": "1bd6e3d7edf2",
+			"xdb_url": "https://vulncheck.com/xdb/1bd6e3d7edf2",
+			"date_added": "2019-11-05T17:51:24+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mibrony/BlueKeep.git"
 		},
 		{
 			"xdb_id": "7536b79e5849",
@@ -290,11 +290,11 @@
 			"clone_ssh_url": "git@gitee.com:isdc_admin/CVE-2019-0708.git"
 		},
 		{
-			"xdb_id": "1bd6e3d7edf2",
-			"xdb_url": "https://vulncheck.com/xdb/1bd6e3d7edf2",
-			"date_added": "2019-11-05T17:51:24+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mibrony/BlueKeep.git"
+			"xdb_id": "3785316d7fc5",
+			"xdb_url": "https://vulncheck.com/xdb/3785316d7fc5",
+			"date_added": "2019-05-31T22:11:08+08:00",
+			"exploit_type": "denial-of-service",
+			"clone_ssh_url": "git@gitee.com:mirrors/BlueKeep.git"
 		},
 		{
 			"xdb_id": "f783965878ba",

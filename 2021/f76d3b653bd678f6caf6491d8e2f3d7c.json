@@ -185,13 +185,6 @@
 			"clone_ssh_url": "git@github.com:AleksaZatezalo/CVE-2020-14882.git"
 		},
 		{
-			"xdb_id": "e962ac877371",
-			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
-			"date_added": "2019-07-18T14:25:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
-		},
-		{
 			"xdb_id": "59c38bcb5664",
 			"xdb_url": "https://vulncheck.com/xdb/59c38bcb5664",
 			"date_added": "2020-01-15T04:26:29Z",
@@ -213,11 +206,25 @@
 			"clone_ssh_url": "git@github.com:GGyao/CVE-2020-14882_ALL.git"
 		},
 		{
+			"xdb_id": "e962ac877371",
+			"xdb_url": "https://vulncheck.com/xdb/e962ac877371",
+			"date_added": "2019-07-18T14:25:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
+		},
+		{
 			"xdb_id": "da9f3f6e7e1f",
 			"xdb_url": "https://vulncheck.com/xdb/da9f3f6e7e1f",
 			"date_added": "2020-10-28T11:43:37Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:jas502n/CVE-2020-14882.git"
+		},
+		{
+			"xdb_id": "0b1c82ba94b9",
+			"xdb_url": "https://vulncheck.com/xdb/0b1c82ba94b9",
+			"date_added": "2025-01-17T08:13:39Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:KKC73/weblogic-cve-2020-14882.git"
 		},
 		{
 			"xdb_id": "a13fcf8de8fc",

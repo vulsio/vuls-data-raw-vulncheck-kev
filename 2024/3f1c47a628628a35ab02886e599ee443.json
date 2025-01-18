@@ -13,6 +13,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
 			"date_added": "2024-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.horizon3.ai/attack-research/disclosures/critical-vulnerabilities-in-simplehelp-remote-support-software/",
+			"date_added": "2025-01-13T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-27T00:00:00Z",

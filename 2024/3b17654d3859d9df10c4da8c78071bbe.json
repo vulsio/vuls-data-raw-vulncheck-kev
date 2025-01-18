@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:Sanandd/cve-2024-CVE-2024-41713.git"
 		},
 		{
-			"xdb_id": "355eb6521aa8",
-			"xdb_url": "https://vulncheck.com/xdb/355eb6521aa8",
-			"date_added": "2024-12-05T06:13:57Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713.git"
-		},
-		{
 			"xdb_id": "95179643ddce",
 			"xdb_url": "https://vulncheck.com/xdb/95179643ddce",
 			"date_added": "2024-12-02T06:17:24Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:iSee857/CVE-PoC.git"
+		},
+		{
+			"xdb_id": "355eb6521aa8",
+			"xdb_url": "https://vulncheck.com/xdb/355eb6521aa8",
+			"date_added": "2024-12-05T06:13:57Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/Mitel-MiCollab-Auth-Bypass_CVE-2024-41713.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

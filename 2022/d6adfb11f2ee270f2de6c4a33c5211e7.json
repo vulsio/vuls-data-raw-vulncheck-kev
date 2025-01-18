@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "9f2799649c05",
-			"xdb_url": "https://vulncheck.com/xdb/9f2799649c05",
-			"date_added": "2022-10-19T22:07:24Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:und3sc0n0c1d0/CVE-2022-40684.git"
-		},
-		{
 			"xdb_id": "0f732bdee343",
 			"xdb_url": "https://vulncheck.com/xdb/0f732bdee343",
 			"date_added": "2023-02-27T18:05:34Z",
@@ -129,18 +122,25 @@
 			"clone_ssh_url": "git@github.com:hughink/CVE-2022-40684.git"
 		},
 		{
-			"xdb_id": "006745572ba2",
-			"xdb_url": "https://vulncheck.com/xdb/006745572ba2",
-			"date_added": "2022-10-13T18:13:59Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:carlosevieira/CVE-2022-40684.git"
-		},
-		{
 			"xdb_id": "e7be9b40e314",
 			"xdb_url": "https://vulncheck.com/xdb/e7be9b40e314",
 			"date_added": "2022-10-15T16:51:25Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-40684.git"
+		},
+		{
+			"xdb_id": "37fe630b4cc1",
+			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
+			"date_added": "2022-10-13T14:24:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
+		},
+		{
+			"xdb_id": "9f2799649c05",
+			"xdb_url": "https://vulncheck.com/xdb/9f2799649c05",
+			"date_added": "2022-10-19T22:07:24Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:und3sc0n0c1d0/CVE-2022-40684.git"
 		},
 		{
 			"xdb_id": "687ac29ec096",
@@ -150,11 +150,11 @@
 			"clone_ssh_url": "git@github.com:TaroballzChen/CVE-2022-40684-metasploit-scanner.git"
 		},
 		{
-			"xdb_id": "37fe630b4cc1",
-			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
-			"date_added": "2022-10-13T14:24:12Z",
+			"xdb_id": "006745572ba2",
+			"xdb_url": "https://vulncheck.com/xdb/006745572ba2",
+			"date_added": "2022-10-13T18:13:59Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
+			"clone_ssh_url": "git@github.com:carlosevieira/CVE-2022-40684.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
