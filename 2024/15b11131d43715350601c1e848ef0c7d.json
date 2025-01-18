@@ -191,6 +191,10 @@
 			"date_added": "2025-01-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-17&host_type=src&vulnerability=cve-2024-6670",
+			"date_added": "2025-01-17T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/24/i/whatsup-gold-rce.html",
 			"date_added": "2024-09-12T00:00:00Z"
 		}

@@ -115,6 +115,13 @@
 			"clone_ssh_url": "git@github.com:Pasch0/WSO2RCE.git"
 		},
 		{
+			"xdb_id": "d98d3fe174f9",
+			"xdb_url": "https://vulncheck.com/xdb/d98d3fe174f9",
+			"date_added": "2025-01-17T17:34:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:c1ph3rbyt3/CVE-2022-29464.git"
+		},
+		{
 			"xdb_id": "7407640180cb",
 			"xdb_url": "https://vulncheck.com/xdb/7407640180cb",
 			"date_added": "2022-04-22T02:32:48+08:00",
@@ -1289,6 +1296,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-16&host_type=src&vulnerability=cve-2022-29464",
 			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-17&host_type=src&vulnerability=cve-2022-29464",
+			"date_added": "2025-01-17T00:00:00Z"
 		},
 		{
 			"url": "https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html",

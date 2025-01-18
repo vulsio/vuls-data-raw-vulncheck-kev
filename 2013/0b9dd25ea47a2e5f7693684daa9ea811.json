@@ -17,11 +17,11 @@
 			"clone_ssh_url": "git@github.com:Jjdt12/kuang_grade_mk11.git"
 		},
 		{
-			"xdb_id": "0328de8306de",
-			"xdb_url": "https://vulncheck.com/xdb/0328de8306de",
+			"xdb_id": "8f26e4e2eb9f",
+			"xdb_url": "https://vulncheck.com/xdb/8f26e4e2eb9f",
 			"date_added": "2024-11-13T02:10:20Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:oxBEN10/CVE-2013-0156.git"
+			"clone_ssh_url": "git@github.com:oxben10/CVE-2013-0156.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

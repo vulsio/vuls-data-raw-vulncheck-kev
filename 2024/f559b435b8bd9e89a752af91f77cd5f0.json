@@ -896,6 +896,10 @@
 			"date_added": "2025-01-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-17&host_type=src&vulnerability=cve-2024-23897",
+			"date_added": "2025-01-17T00:00:00Z"
+		},
+		{
 			"url": "https://www.cyfirma.com/research/tracking-ransomware-august-2024/",
 			"date_added": "2024-09-09T00:00:00Z"
 		},
