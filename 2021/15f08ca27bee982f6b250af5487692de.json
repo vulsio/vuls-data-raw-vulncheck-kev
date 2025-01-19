@@ -71,6 +71,10 @@
 			"date_added": "2024-12-27T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2020-2507",
+			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
 			"url": "https://blog.netlab.360.com/qnap-nas-users-make-sure-you-check-your-system/",
 			"date_added": "2021-03-05T00:00:00Z"
 		}

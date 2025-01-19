@@ -1056,6 +1056,10 @@
 			"date_added": "2025-01-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2020-10148",
+			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/analysis-reports/ar21-112a",
 			"date_added": "2021-04-29T00:00:00Z"
 		}

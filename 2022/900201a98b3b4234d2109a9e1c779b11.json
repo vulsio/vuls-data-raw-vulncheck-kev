@@ -911,6 +911,10 @@
 			"date_added": "2025-01-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2020-7209",
+			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
 			"url": "https://www.microsoft.com/en-us/security/blog/2022/12/21/microsoft-research-uncovers-new-zerobot-capabilities/",
 			"date_added": "2022-12-21T00:00:00Z"
 		},

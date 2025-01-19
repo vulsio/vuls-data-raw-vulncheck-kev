@@ -1302,6 +1302,10 @@
 			"date_added": "2025-01-17T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2022-29464",
+			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
 			"url": "https://www.trendmicro.com/en_us/research/22/e/patch-your-wso2-cve-2022-29464-exploited-to-install-linux-compatible-cobalt-strike-beacons-other-malware.html",
 			"date_added": "2022-05-31T00:00:00Z"
 		},

@@ -1614,6 +1614,10 @@
 			"date_added": "2025-01-17T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2023-22527",
+			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
 			"url": "https://www.imperva.com/blog/new-sysrv-botnet-variant-makes-use-of-google-subdomain-to-spread-xmrig-miner/",
 			"date_added": "2024-01-24T00:00:00Z"
 		},
