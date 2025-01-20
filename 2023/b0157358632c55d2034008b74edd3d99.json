@@ -1804,6 +1804,10 @@
 			"date_added": "2025-01-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2023-20198",
+			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
 			"url": "https://blog.talosintelligence.com/active-exploitation-of-cisco-ios-xe-software/",
 			"date_added": "2023-10-16T00:00:00Z"
 		},

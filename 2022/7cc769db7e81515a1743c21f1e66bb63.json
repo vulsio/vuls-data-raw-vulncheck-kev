@@ -1069,6 +1069,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2021-35587",
 			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2021-35587",
+			"date_added": "2025-01-19T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-12-19T00:00:00Z",

@@ -1595,6 +1595,10 @@
 			"date_added": "2025-01-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2020-5902",
+			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
 			"url": "https://redcanary.com/blog/kinsing-malware-citrix-saltstack/",
 			"date_added": "2020-07-22T00:00:00Z"
 		},

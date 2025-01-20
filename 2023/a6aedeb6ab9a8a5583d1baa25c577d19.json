@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:I5N0rth/CVE-2023-33246.git"
 		},
 		{
-			"xdb_id": "b486dcf3f31d",
-			"xdb_url": "https://vulncheck.com/xdb/b486dcf3f31d",
-			"date_added": "2023-06-01T14:48:26Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT.git"
-		},
-		{
 			"xdb_id": "de034939c964",
 			"xdb_url": "https://vulncheck.com/xdb/de034939c964",
 			"date_added": "2024-03-28T07:21:09Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-.git"
+		},
+		{
+			"xdb_id": "b486dcf3f31d",
+			"xdb_url": "https://vulncheck.com/xdb/b486dcf3f31d",
+			"date_added": "2023-06-01T14:48:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Malayke/CVE-2023-33246_RocketMQ_RCE_EXPLOIT.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1039,6 +1039,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-16&host_type=src&vulnerability=cve-2023-33246",
 			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2023-33246",
+			"date_added": "2025-01-19T00:00:00Z"
 		},
 		{
 			"url": "https://blogs.juniper.net/en-us/threat-research/dreambus-botnet-resurfaces-targets-rocketmq-vulnerability",

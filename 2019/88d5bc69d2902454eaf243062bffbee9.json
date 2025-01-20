@@ -47,7 +47,7 @@
 		{
 			"xdb_id": "7f52c8890f19",
 			"xdb_url": "https://vulncheck.com/xdb/7f52c8890f19",
-			"date_added": "2020-07-27T10:27:07+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:p4sschen/CVE-2019-3396_EXP.git"
 		}
@@ -1644,6 +1644,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2019-3396",
 			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2019-3396",
+			"date_added": "2025-01-19T00:00:00Z"
 		},
 		{
 			"url": "https://www.bleepingcomputer.com/news/security/vulnerable-confluence-servers-get-infected-with-ransomware-trojans/",

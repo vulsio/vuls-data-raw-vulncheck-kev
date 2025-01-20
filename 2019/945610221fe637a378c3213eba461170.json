@@ -131,7 +131,7 @@
 		{
 			"xdb_id": "4cf24d124675",
 			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
-			"date_added": "2020-08-06T15:31:27+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
 		},

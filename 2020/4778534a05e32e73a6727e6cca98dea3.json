@@ -1401,6 +1401,10 @@
 			"date_added": "2025-01-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2020-8515",
+			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/new-hoaxcalls-ddos-botnet/",
 			"date_added": "2020-04-03T00:00:00Z"
 		},

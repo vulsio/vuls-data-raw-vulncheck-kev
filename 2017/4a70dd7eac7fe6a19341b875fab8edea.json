@@ -87,18 +87,18 @@
 			"clone_ssh_url": "git@github.com:Al1ex/CVE-2017-7269.git"
 		},
 		{
-			"xdb_id": "6eea40a3a674",
-			"xdb_url": "https://vulncheck.com/xdb/6eea40a3a674",
-			"date_added": "2017-03-30T22:20:36Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:zcgonvh/cve-2017-7269.git"
-		},
-		{
 			"xdb_id": "d7e5f1574c94",
 			"xdb_url": "https://vulncheck.com/xdb/d7e5f1574c94",
 			"date_added": "2024-10-06T17:33:11Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:geniuszly/CVE-2017-7269.git"
+		},
+		{
+			"xdb_id": "6eea40a3a674",
+			"xdb_url": "https://vulncheck.com/xdb/6eea40a3a674",
+			"date_added": "2017-03-30T22:20:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:zcgonvh/cve-2017-7269.git"
 		},
 		{
 			"xdb_id": "a36c0cf57665",

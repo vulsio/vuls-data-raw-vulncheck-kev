@@ -1124,6 +1124,10 @@
 			"date_added": "2025-01-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2021-40539",
+			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
 			"url": "https://www.paloaltonetworks.com/content/dam/pan/en_US/assets/pdf/reports/2022-unit42-ransomware-threat-report-final.pdf",
 			"date_added": "2022-03-24T00:00:00Z"
 		},

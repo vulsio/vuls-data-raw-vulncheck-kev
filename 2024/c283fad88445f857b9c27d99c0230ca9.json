@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "760ecae2eb62",
-			"xdb_url": "https://vulncheck.com/xdb/760ecae2eb62",
-			"date_added": "2023-05-22T03:06:31Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:dhmosfunk/CVE-2023-25690-POC.git"
-		},
-		{
 			"xdb_id": "60881b97bbc7",
 			"xdb_url": "https://vulncheck.com/xdb/60881b97bbc7",
 			"date_added": "2023-12-04T16:58:53Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:thanhlam-attt/CVE-2023-25690.git"
+		},
+		{
+			"xdb_id": "760ecae2eb62",
+			"xdb_url": "https://vulncheck.com/xdb/760ecae2eb62",
+			"date_added": "2023-05-22T03:06:31Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:dhmosfunk/CVE-2023-25690-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

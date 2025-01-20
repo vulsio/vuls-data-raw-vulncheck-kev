@@ -1041,6 +1041,10 @@
 			"date_added": "2025-01-18T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2023-1698",
+			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
 			"url": "https://blog.compass-security.com/2024/02/luring-the-threat-lessons-from-custom-ics-honeypots-in-ukraine-and-germany/",
 			"date_added": "2024-02-27T00:00:00Z"
 		}

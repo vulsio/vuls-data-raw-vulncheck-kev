@@ -96,7 +96,7 @@
 		{
 			"xdb_id": "b03efde8723d",
 			"xdb_url": "https://vulncheck.com/xdb/b03efde8723d",
-			"date_added": "2021-12-25T11:34:20+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-36260-metasploit.git"
 		},
@@ -1523,6 +1523,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-18&host_type=src&vulnerability=cve-2021-36260",
 			"date_added": "2025-01-18T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2021-36260",
+			"date_added": "2025-01-19T00:00:00Z"
 		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/mirai-based-botnet-moobot-targets-hikvision-vulnerability",

@@ -54,7 +54,7 @@
 		{
 			"xdb_id": "ebf92f4c5d9b",
 			"xdb_url": "https://vulncheck.com/xdb/ebf92f4c5d9b",
-			"date_added": "2020-06-19T14:05:11+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:lmdy/CVE-2020-2551.git"
 		},

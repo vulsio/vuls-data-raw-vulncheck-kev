@@ -19,7 +19,7 @@
 		{
 			"xdb_id": "aaa87dc4f469",
 			"xdb_url": "https://vulncheck.com/xdb/aaa87dc4f469",
-			"date_added": "2024-01-18T19:11:20+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:river3587/CVE-2022-22274_CVE-2023-0656.git"
 		}

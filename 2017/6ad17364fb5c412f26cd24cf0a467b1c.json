@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:rxwx/CVE-2017-8570.git"
 		},
 		{
-			"xdb_id": "aba696432d78",
-			"xdb_url": "https://vulncheck.com/xdb/aba696432d78",
-			"date_added": "2018-03-27T17:36:05+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-8570_ppt.git"
-		},
-		{
 			"xdb_id": "e86755a689d5",
 			"xdb_url": "https://vulncheck.com/xdb/e86755a689d5",
 			"date_added": "2018-03-27T17:12:07+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-8570.git"
+		},
+		{
+			"xdb_id": "aba696432d78",
+			"xdb_url": "https://vulncheck.com/xdb/aba696432d78",
+			"date_added": "2018-03-27T17:36:05+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:hz9511/CVE-2017-8570_ppt.git"
 		},
 		{
 			"xdb_id": "7d0692e4071c",
