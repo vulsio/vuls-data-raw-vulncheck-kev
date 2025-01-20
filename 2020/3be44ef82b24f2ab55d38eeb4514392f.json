@@ -173,7 +173,7 @@
 		{
 			"xdb_id": "ebfe92f86902",
 			"xdb_url": "https://vulncheck.com/xdb/ebfe92f86902",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-01-11T23:37:05+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_projectzeroindia/CVE-2019-19781.git"
 		}

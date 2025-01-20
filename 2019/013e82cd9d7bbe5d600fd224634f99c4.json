@@ -194,7 +194,7 @@
 		{
 			"xdb_id": "4c6823870c85",
 			"xdb_url": "https://vulncheck.com/xdb/4c6823870c85",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2019-10-15T20:29:46+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:bxqtee/CVE-2019-15107.git"
 		}

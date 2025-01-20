@@ -236,7 +236,7 @@
 		{
 			"xdb_id": "e57812c06caf",
 			"xdb_url": "https://vulncheck.com/xdb/e57812c06caf",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-09-11T15:43:16+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:happiii/Shellshock-Vulnerability-Scan.git"
 		},

@@ -47,7 +47,7 @@
 		{
 			"xdb_id": "28d90963af15",
 			"xdb_url": "https://vulncheck.com/xdb/28d90963af15",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-11-27T20:06:13+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:its-cc/CVE-2020-6287-exploit.git"
 		}

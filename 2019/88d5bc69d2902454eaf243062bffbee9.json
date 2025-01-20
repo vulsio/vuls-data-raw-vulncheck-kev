@@ -47,7 +47,7 @@
 		{
 			"xdb_id": "7f52c8890f19",
 			"xdb_url": "https://vulncheck.com/xdb/7f52c8890f19",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-07-27T10:27:07+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:p4sschen/CVE-2019-3396_EXP.git"
 		}

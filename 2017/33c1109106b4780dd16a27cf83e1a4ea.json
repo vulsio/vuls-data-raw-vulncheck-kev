@@ -68,7 +68,7 @@
 		{
 			"xdb_id": "0e1687dfba66",
 			"xdb_url": "https://vulncheck.com/xdb/0e1687dfba66",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-01-10T17:06:23+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_opsxcq/exploit-CVE-2017-7494.git"
 		},

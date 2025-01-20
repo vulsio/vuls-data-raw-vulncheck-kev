@@ -110,7 +110,7 @@
 		{
 			"xdb_id": "20a6f27a3edd",
 			"xdb_url": "https://vulncheck.com/xdb/20a6f27a3edd",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-11-21T23:38:15+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:yinguowen/CVE-2019-11043.git"
 		},
