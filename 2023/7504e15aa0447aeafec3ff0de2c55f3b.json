@@ -1027,6 +1027,10 @@
 			"date_added": "2025-01-19T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2022-40881",
+			"date_added": "2025-01-20T00:00:00Z"
+		},
+		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",
 			"date_added": "2023-11-13T00:00:00Z"
 		}

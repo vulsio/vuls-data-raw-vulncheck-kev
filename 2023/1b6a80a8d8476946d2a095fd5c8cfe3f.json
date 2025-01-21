@@ -283,18 +283,18 @@
 			"clone_ssh_url": "git@github.com:JayRyz/CVE-2023-38646-PoC-Metabase.git"
 		},
 		{
-			"xdb_id": "492f2d2d5985",
-			"xdb_url": "https://vulncheck.com/xdb/492f2d2d5985",
-			"date_added": "2023-07-25T03:18:59Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:MzzdToT/HAC_Bored_Writing.git"
-		},
-		{
 			"xdb_id": "fc3a7c741130",
 			"xdb_url": "https://vulncheck.com/xdb/fc3a7c741130",
 			"date_added": "2024-11-22T04:15:25Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-38646-poc.git"
+		},
+		{
+			"xdb_id": "492f2d2d5985",
+			"xdb_url": "https://vulncheck.com/xdb/492f2d2d5985",
+			"date_added": "2023-07-25T03:18:59Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:MzzdToT/HAC_Bored_Writing.git"
 		},
 		{
 			"xdb_id": "6db39af8f463",
@@ -2039,6 +2039,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2023-38646",
 			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2023-38646",
+			"date_added": "2025-01-20T00:00:00Z"
 		},
 		{
 			"url": "https://blog.sekoia.io/activemq-cve-2023-46604-exploited-by-kinsing-and-overview-of-this-threat/",

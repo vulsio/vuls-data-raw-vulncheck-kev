@@ -127,6 +127,10 @@
 			"date_added": "2025-01-19T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2024-42640",
+			"date_added": "2025-01-20T00:00:00Z"
+		},
+		{
 			"url": "https://isc.sans.edu/diary/Angularbase64update+Demo+Script+Exploited+CVE202442640/31354",
 			"date_added": "2024-10-15T00:00:00Z"
 		}

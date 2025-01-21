@@ -157,13 +157,6 @@
 			"clone_ssh_url": "git@github.com:inspiringz/CVE-2021-22205.git"
 		},
 		{
-			"xdb_id": "779a26749ee1",
-			"xdb_url": "https://vulncheck.com/xdb/779a26749ee1",
-			"date_added": "2021-12-03T11:31:37+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:ijz/CVE-2021-22205.git"
-		},
-		{
 			"xdb_id": "c4cbe11e130c",
 			"xdb_url": "https://vulncheck.com/xdb/c4cbe11e130c",
 			"date_added": "2021-11-17T10:49:16+08:00",
@@ -176,6 +169,13 @@
 			"date_added": "2021-11-13T17:08:22+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:qboy0000/CVE-2021-22205.git"
+		},
+		{
+			"xdb_id": "779a26749ee1",
+			"xdb_url": "https://vulncheck.com/xdb/779a26749ee1",
+			"date_added": "2021-12-03T11:31:37+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:ijz/CVE-2021-22205.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -66,18 +66,18 @@
 			"clone_ssh_url": "git@github.com:ThemeHackers/CVE-2024-10914.git"
 		},
 		{
-			"xdb_id": "ce1605f1f68b",
-			"xdb_url": "https://vulncheck.com/xdb/ce1605f1f68b",
-			"date_added": "2024-12-06T19:03:34Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:redspy-sec/D-Link.git"
-		},
-		{
 			"xdb_id": "44163f579aeb",
 			"xdb_url": "https://vulncheck.com/xdb/44163f579aeb",
 			"date_added": "2024-11-10T12:01:21Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:verylazytech/CVE-2024-10914.git"
+		},
+		{
+			"xdb_id": "ce1605f1f68b",
+			"xdb_url": "https://vulncheck.com/xdb/ce1605f1f68b",
+			"date_added": "2024-12-06T19:03:34Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:redspy-sec/D-Link.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -256,6 +256,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2024-10914",
 			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2024-10914",
+			"date_added": "2025-01-20T00:00:00Z"
 		},
 		{
 			"url": "https://infosec.exchange/@shadowserver/113475031465908584",

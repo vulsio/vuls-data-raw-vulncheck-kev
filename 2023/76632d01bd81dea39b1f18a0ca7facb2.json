@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:TaroballzChen/CVE-2023-28432-metasploit-scanner.git"
 		},
 		{
-			"xdb_id": "ddf25a501579",
-			"xdb_url": "https://vulncheck.com/xdb/ddf25a501579",
-			"date_added": "2024-01-11T13:41:20Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:xk-mt/CVE-2023-28432.git"
-		},
-		{
 			"xdb_id": "b297acbd5c68",
 			"xdb_url": "https://vulncheck.com/xdb/b297acbd5c68",
 			"date_added": "2024-01-07T12:34:49Z",
@@ -127,6 +120,13 @@
 			"date_added": "2023-03-23T14:44:24Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Mr-xn/CVE-2023-28432.git"
+		},
+		{
+			"xdb_id": "ddf25a501579",
+			"xdb_url": "https://vulncheck.com/xdb/ddf25a501579",
+			"date_added": "2024-01-11T13:41:20Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:xk-mt/CVE-2023-28432.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -889,6 +889,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-19&host_type=src&vulnerability=cve-2023-28432",
 			"date_added": "2025-01-19T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2023-28432",
+			"date_added": "2025-01-20T00:00:00Z"
 		},
 		{
 			"url": "https://www.greynoise.io/blog/openai-minio-and-why-you-should-always-use-docker-cli-scan-to-keep-your-supply-chain-clean",
