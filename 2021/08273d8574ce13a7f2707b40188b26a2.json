@@ -318,13 +318,6 @@
 			"clone_ssh_url": "git@github.com:twseptian/Spring-Boot-Log4j-CVE-2021-44228-Docker-Lab.git"
 		},
 		{
-			"xdb_id": "a6af622ffa8b",
-			"xdb_url": "https://vulncheck.com/xdb/a6af622ffa8b",
-			"date_added": "2021-12-14T06:37:59Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:0xInfection/LogMePwn.git"
-		},
-		{
 			"xdb_id": "d8fa91bbd26c",
 			"xdb_url": "https://vulncheck.com/xdb/d8fa91bbd26c",
 			"date_added": "2024-05-09T10:05:55Z",
@@ -353,20 +346,6 @@
 			"clone_ssh_url": "git@github.com:funcid/log4j-exploit-fork-bomb.git"
 		},
 		{
-			"xdb_id": "1f35dbf46c65",
-			"xdb_url": "https://vulncheck.com/xdb/1f35dbf46c65",
-			"date_added": "2021-12-11T07:19:11Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
-		},
-		{
-			"xdb_id": "9516d10f9dc1",
-			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
-			"date_added": "2021-12-10T23:19:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
-		},
-		{
 			"xdb_id": "bc6bb6bf5116",
 			"xdb_url": "https://vulncheck.com/xdb/bc6bb6bf5116",
 			"date_added": "2021-12-13T03:57:50Z",
@@ -381,11 +360,32 @@
 			"clone_ssh_url": "git@github.com:tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce.git"
 		},
 		{
-			"xdb_id": "c555ac264c6e",
-			"xdb_url": "https://vulncheck.com/xdb/c555ac264c6e",
-			"date_added": "2021-12-12T22:33:33+08:00",
+			"xdb_id": "a6af622ffa8b",
+			"xdb_url": "https://vulncheck.com/xdb/a6af622ffa8b",
+			"date_added": "2021-12-14T06:37:59Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:0xInfection/LogMePwn.git"
+		},
+		{
+			"xdb_id": "9516d10f9dc1",
+			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
+			"date_added": "2021-12-10T23:19:28Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
+		},
+		{
+			"xdb_id": "03e32dfe2489",
+			"xdb_url": "https://vulncheck.com/xdb/03e32dfe2489",
+			"date_added": "2025-01-20T08:04:01Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
+			"clone_ssh_url": "git@github.com:ZacharyZcR/CVE-2021-44228.git"
+		},
+		{
+			"xdb_id": "1f35dbf46c65",
+			"xdb_url": "https://vulncheck.com/xdb/1f35dbf46c65",
+			"date_added": "2021-12-11T07:19:11Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:f0ng/log4j2burpscanner.git"
 		},
 		{
 			"xdb_id": "a57024d99795",
@@ -414,6 +414,13 @@
 			"date_added": "2021-12-14T08:39:03+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:nottoday/CVE-2021-44228-Apache-Log4j-Rce-main.git"
+		},
+		{
+			"xdb_id": "c555ac264c6e",
+			"xdb_url": "https://vulncheck.com/xdb/c555ac264c6e",
+			"date_added": "2021-12-12T22:33:33+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:java_small_ant/cve-2021-44228-apache-log4j-rce.git"
 		},
 		{
 			"xdb_id": "94dd05cb788b",
