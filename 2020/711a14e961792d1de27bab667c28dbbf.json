@@ -143,6 +143,13 @@
 			"clone_ssh_url": "git@gitee.com:lord__dian/Ghostcat-CNVD-2020-10487.git"
 		},
 		{
+			"xdb_id": "2b72da94f9cb",
+			"xdb_url": "https://vulncheck.com/xdb/2b72da94f9cb",
+			"date_added": "2020-03-17T17:05:41+08:00",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CNVD-2020-10487-Tomcat-ajp-POC.git"
+		},
+		{
 			"xdb_id": "6c2db5dec526",
 			"xdb_url": "https://vulncheck.com/xdb/6c2db5dec526",
 			"date_added": "2020-10-16T10:12:15+08:00",
@@ -155,13 +162,6 @@
 			"date_added": "2020-09-04T09:40:52+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:isdc_admin/CNVD-2020-10487-Tomcat-Ajp-lfi-Scanner.git"
-		},
-		{
-			"xdb_id": "2b72da94f9cb",
-			"xdb_url": "https://vulncheck.com/xdb/2b72da94f9cb",
-			"date_added": "2020-03-17T17:05:41+08:00",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@gitee.com:hazy_little_sky/CNVD-2020-10487-Tomcat-ajp-POC.git"
 		},
 		{
 			"xdb_id": "f17ae55010e2",
