@@ -44,6 +44,10 @@
 			"date_added": "2023-03-01T00:00:00Z"
 		},
 		{
+			"url": "https://www.binarly.io/blog/the-untold-story-of-the-blacklotus-uefi-bootkit",
+			"date_added": "2023-03-03T00:00:00Z"
+		},
+		{
 			"url": "https://cisa.gov/news-events/alerts/2023/04/11/microsoft-releases-guidance-for-the-blacklotus-campaign",
 			"date_added": "2023-04-11T00:00:00Z"
 		},
@@ -58,6 +62,10 @@
 		{
 			"url": "https://media.defense.gov/2023/Jun/22/2003245723/-1/-1/0/CSI_BlackLotus_Mitigation_Guide.PDF",
 			"date_added": "2023-06-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.binarly.io/blog/from-trust-to-trouble-the-supply-chain-implications-of-a-broken-dbx",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"date_added": "2023-03-01T00:00:00Z"
