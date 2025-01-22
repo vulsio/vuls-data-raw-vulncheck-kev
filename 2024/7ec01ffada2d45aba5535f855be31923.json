@@ -59,18 +59,18 @@
 			"clone_ssh_url": "git@github.com:Praison001/CVE-2024-28995-SolarWinds-Serv-U.git"
 		},
 		{
-			"xdb_id": "99c2ff5b21dd",
-			"xdb_url": "https://vulncheck.com/xdb/99c2ff5b21dd",
-			"date_added": "2024-06-14T23:05:40Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-28995.git"
-		},
-		{
 			"xdb_id": "e7b7e88149e0",
 			"xdb_url": "https://vulncheck.com/xdb/e7b7e88149e0",
 			"date_added": "2024-07-01T11:49:51Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:Stuub/CVE-2024-28995.git"
+		},
+		{
+			"xdb_id": "99c2ff5b21dd",
+			"xdb_url": "https://vulncheck.com/xdb/99c2ff5b21dd",
+			"date_added": "2024-06-14T23:05:40Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bigb0x/CVE-2024-28995.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

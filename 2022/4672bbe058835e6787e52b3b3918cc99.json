@@ -257,7 +257,7 @@
 		{
 			"xdb_id": "66716e60c64a",
 			"xdb_url": "https://vulncheck.com/xdb/66716e60c64a",
-			"date_added": "2022-06-13T11:54:58+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:shiqiu1992/CVE-2022-26134.git"
 		},

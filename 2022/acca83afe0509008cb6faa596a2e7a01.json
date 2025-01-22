@@ -124,7 +124,7 @@
 		{
 			"xdb_id": "b3ed0886366b",
 			"xdb_url": "https://vulncheck.com/xdb/b3ed0886366b",
-			"date_added": "2022-03-31T23:20:39+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:chen-ai888/CVE-2022-22963-Spring-Core-RCE.git"
 		}

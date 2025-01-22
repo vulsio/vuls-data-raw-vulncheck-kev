@@ -271,7 +271,7 @@
 		{
 			"xdb_id": "a08cd7c0ec40",
 			"xdb_url": "https://vulncheck.com/xdb/a08cd7c0ec40",
-			"date_added": "2021-03-11T17:56:11+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "denial-of-service",
 			"clone_ssh_url": "git@gitee.com:wsstest/CVE-2020-0796-PoC.git"
 		},
@@ -341,7 +341,7 @@
 		{
 			"xdb_id": "42d4e59819e1",
 			"xdb_url": "https://vulncheck.com/xdb/42d4e59819e1",
-			"date_added": "2020-12-08T20:37:29+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:keepb1ue/cve-2020-0797.git"
 		},

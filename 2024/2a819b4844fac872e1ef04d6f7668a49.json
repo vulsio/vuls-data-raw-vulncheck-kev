@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-43451"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "4b1e8e9b00ed",
+			"xdb_url": "https://vulncheck.com/xdb/4b1e8e9b00ed",
+			"date_added": "2025-01-20T15:30:55Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:RonF98/CVE-2024-43451-POC.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

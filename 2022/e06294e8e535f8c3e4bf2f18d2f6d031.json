@@ -17,6 +17,13 @@
 			"clone_ssh_url": "git@github.com:thelostworldFree/SpringCloud-Config-CVE-2020-5410.git"
 		},
 		{
+			"xdb_id": "6eac00f6b406",
+			"xdb_url": "https://vulncheck.com/xdb/6eac00f6b406",
+			"date_added": "2025-01-21T01:10:36Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:bloodbile/LobeChat-MIX.git"
+		},
+		{
 			"xdb_id": "e1abb7641447",
 			"xdb_url": "https://vulncheck.com/xdb/e1abb7641447",
 			"date_added": "2021-09-08T16:19:29+08:00",

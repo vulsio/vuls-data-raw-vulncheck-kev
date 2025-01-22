@@ -15,6 +15,13 @@
 			"date_added": "2025-01-15T00:43:37Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:MrAle98/CVE-2024-49138-POC.git"
+		},
+		{
+			"xdb_id": "7b388f4dba71",
+			"xdb_url": "https://vulncheck.com/xdb/7b388f4dba71",
+			"date_added": "2025-01-21T01:50:34Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:bananoname/CVE-2024-49138-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

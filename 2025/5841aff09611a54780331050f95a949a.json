@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-55591"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "92d9a3d86d34",
+			"xdb_url": "https://vulncheck.com/xdb/92d9a3d86d34",
+			"date_added": "2025-01-21T12:30:21Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:sysirq/fortios-auth-bypass-poc-CVE-2024-55591.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

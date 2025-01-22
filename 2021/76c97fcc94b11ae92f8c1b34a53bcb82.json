@@ -82,7 +82,7 @@
 		{
 			"xdb_id": "aebd1e7d7dfe",
 			"xdb_url": "https://vulncheck.com/xdb/aebd1e7d7dfe",
-			"date_added": "2022-01-11T21:53:38+08:00",
+			"date_added": "0001-01-01T00:00:00Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:mirrors_jas502n/CVE-2019-13272.git"
 		}

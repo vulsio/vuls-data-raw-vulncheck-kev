@@ -332,6 +332,13 @@
 			"clone_ssh_url": "git@github.com:AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits.git"
 		},
 		{
+			"xdb_id": "986760f90254",
+			"xdb_url": "https://vulncheck.com/xdb/986760f90254",
+			"date_added": "2025-01-21T11:15:54Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:Mephierr/DirtyPipe_exploit.git"
+		},
+		{
 			"xdb_id": "e4ea692dc95e",
 			"xdb_url": "https://vulncheck.com/xdb/e4ea692dc95e",
 			"date_added": "2022-03-30T02:46:48+08:00",
