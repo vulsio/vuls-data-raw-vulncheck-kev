@@ -45,18 +45,18 @@
 			"clone_ssh_url": "git@github.com:vidura2/cve-2023-46747.git"
 		},
 		{
-			"xdb_id": "834010b85f13",
-			"xdb_url": "https://vulncheck.com/xdb/834010b85f13",
-			"date_added": "2023-07-27T07:14:36Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:MD-SEC/MDPOCS.git"
-		},
-		{
 			"xdb_id": "b52643f70db2",
 			"xdb_url": "https://vulncheck.com/xdb/b52643f70db2",
 			"date_added": "2023-11-01T09:31:05Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2023-46747-RCE.git"
+		},
+		{
+			"xdb_id": "834010b85f13",
+			"xdb_url": "https://vulncheck.com/xdb/834010b85f13",
+			"date_added": "2023-07-27T07:14:36Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:MD-SEC/MDPOCS.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -201,7 +201,7 @@
 		{
 			"xdb_id": "5489d7843c65",
 			"xdb_url": "https://vulncheck.com/xdb/5489d7843c65",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-01-14T17:33:00+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-43798-mass_scanner.git"
 		},

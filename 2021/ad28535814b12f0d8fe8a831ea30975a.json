@@ -185,6 +185,13 @@
 			"clone_ssh_url": "git@github.com:Schira4396/VcenterKiller.git"
 		},
 		{
+			"xdb_id": "93708da6b80f",
+			"xdb_url": "https://vulncheck.com/xdb/93708da6b80f",
+			"date_added": "2021-02-28T22:36:23+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-21972.git"
+		},
+		{
 			"xdb_id": "51d9db6c8498",
 			"xdb_url": "https://vulncheck.com/xdb/51d9db6c8498",
 			"date_added": "2021-12-09T20:36:29+08:00",
@@ -197,13 +204,6 @@
 			"date_added": "2021-03-16T15:35:37+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:binbee/CVE-2021-21972.git"
-		},
-		{
-			"xdb_id": "93708da6b80f",
-			"xdb_url": "https://vulncheck.com/xdb/93708da6b80f",
-			"date_added": "2021-02-28T22:36:23+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-21972.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -770,6 +770,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2021-21972",
 			"date_added": "2025-01-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-21&host_type=src&vulnerability=cve-2021-21972",
+			"date_added": "2025-01-21T00:00:00Z"
 		},
 		{
 			"url": "https://blog.talosintelligence.com/2021/06/necro-python-bot-adds-new-tricks.html",

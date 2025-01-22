@@ -2144,6 +2144,10 @@
 			"date_added": "2025-01-20T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-21&host_type=src&vulnerability=cve-2021-44228",
+			"date_added": "2025-01-21T00:00:00Z"
+		},
+		{
 			"url": "https://blog.netlab.360.com/threat-alert-log4j-vulnerability-has-been-adopted-by-two-linux-botnets/",
 			"date_added": "2021-12-10T00:00:00Z"
 		},

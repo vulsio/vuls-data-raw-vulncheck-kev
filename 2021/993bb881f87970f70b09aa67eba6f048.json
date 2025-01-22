@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "bbc21fba2ce0",
-			"xdb_url": "https://vulncheck.com/xdb/bbc21fba2ce0",
-			"date_added": "2020-12-09T20:57:16Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:zcgonvh/CVE-2020-17144.git"
-		},
-		{
 			"xdb_id": "3c6c5d3ca673",
 			"xdb_url": "https://vulncheck.com/xdb/3c6c5d3ca673",
 			"date_added": "2020-12-09T10:30:16Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Airboi/CVE-2020-17144-EXP.git"
+		},
+		{
+			"xdb_id": "bbc21fba2ce0",
+			"xdb_url": "https://vulncheck.com/xdb/bbc21fba2ce0",
+			"date_added": "2020-12-09T20:57:16Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:zcgonvh/CVE-2020-17144.git"
 		},
 		{
 			"xdb_id": "bf12a0733fb9",

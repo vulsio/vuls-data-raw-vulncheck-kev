@@ -82,7 +82,7 @@
 		{
 			"xdb_id": "9be1f64fbcd2",
 			"xdb_url": "https://vulncheck.com/xdb/9be1f64fbcd2",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-12-02T14:32:35+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:haweye/CVE-2020-17519.git"
 		}
@@ -1263,6 +1263,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2020-17519",
 			"date_added": "2025-01-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-21&host_type=src&vulnerability=cve-2020-17519",
+			"date_added": "2025-01-21T00:00:00Z"
 		},
 		{
 			"url": "https://1665891.fs1.hubspotusercontent-na1.net/hubfs/1665891/Threat%20reports/AquaSecurity_Kinsing_Demystified_Technical_Guide.pdf",

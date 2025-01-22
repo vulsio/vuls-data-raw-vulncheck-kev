@@ -124,7 +124,7 @@
 		{
 			"xdb_id": "c7bbf0a3a56c",
 			"xdb_url": "https://vulncheck.com/xdb/c7bbf0a3a56c",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2020-10-05T14:08:30+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:xdawn/cve-2018-2628-2.git"
 		},

@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:gianlu111/CUPS-CVE-2024-47176.git"
 		},
 		{
-			"xdb_id": "01371db3db14",
-			"xdb_url": "https://vulncheck.com/xdb/01371db3db14",
-			"date_added": "2024-10-03T15:53:04Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-47176.git"
-		},
-		{
 			"xdb_id": "051e8715ee9d",
 			"xdb_url": "https://vulncheck.com/xdb/051e8715ee9d",
 			"date_added": "2024-09-28T19:01:31Z",
@@ -64,6 +57,13 @@
 			"date_added": "2024-09-25T01:17:53Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:RickdeJager/cupshax.git"
+		},
+		{
+			"xdb_id": "01371db3db14",
+			"xdb_url": "https://vulncheck.com/xdb/01371db3db14",
+			"date_added": "2024-10-03T15:53:04Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:l0n3m4n/CVE-2024-47176.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -94,18 +94,18 @@
 			"clone_ssh_url": "git@github.com:jweny/zabbix-saml-bypass-exp.git"
 		},
 		{
-			"xdb_id": "f0dbb969817b",
-			"xdb_url": "https://vulncheck.com/xdb/f0dbb969817b",
-			"date_added": "2024-11-30T05:49:21Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:dagowda/Zabbix-cve-2022-23131-SSO-bypass.git"
-		},
-		{
 			"xdb_id": "004f3023163c",
 			"xdb_url": "https://vulncheck.com/xdb/004f3023163c",
 			"date_added": "2022-02-28T10:37:02Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:kh4sh3i/CVE-2022-23131.git"
+		},
+		{
+			"xdb_id": "0eca8abcd488",
+			"xdb_url": "https://vulncheck.com/xdb/0eca8abcd488",
+			"date_added": "2022-02-22T01:39:52Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:L0ading-x/cve-2022-23131.git"
 		},
 		{
 			"xdb_id": "a91a49f498d6",
@@ -115,11 +115,11 @@
 			"clone_ssh_url": "git@github.com:Mr-xn/cve-2022-23131.git"
 		},
 		{
-			"xdb_id": "0eca8abcd488",
-			"xdb_url": "https://vulncheck.com/xdb/0eca8abcd488",
-			"date_added": "2022-02-22T01:39:52Z",
+			"xdb_id": "f0dbb969817b",
+			"xdb_url": "https://vulncheck.com/xdb/f0dbb969817b",
+			"date_added": "2024-11-30T05:49:21Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:L0ading-x/cve-2022-23131.git"
+			"clone_ssh_url": "git@github.com:dagowda/Zabbix-cve-2022-23131-SSO-bypass.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

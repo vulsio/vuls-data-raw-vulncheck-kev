@@ -257,7 +257,7 @@
 		{
 			"xdb_id": "66716e60c64a",
 			"xdb_url": "https://vulncheck.com/xdb/66716e60c64a",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2022-06-13T11:54:58+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:shiqiu1992/CVE-2022-26134.git"
 		},
@@ -2009,6 +2009,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-20&host_type=src&vulnerability=cve-2022-26134",
 			"date_added": "2025-01-20T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-21&host_type=src&vulnerability=cve-2022-26134",
+			"date_added": "2025-01-21T00:00:00Z"
 		},
 		{
 			"url": "https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/",
