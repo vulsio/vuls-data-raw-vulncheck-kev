@@ -1,8 +1,8 @@
 {
-	"vendorProject": "NAS",
-	"product": "Zyxel",
-	"shortDescription": "The command injection vulnerability in the 'setCookie' parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.",
-	"vulnerabilityName": "Zyxel NAS setCookie Crafted HTTP POST Vulnerability",
+	"vendorProject": "Zyxel",
+	"product": "nas326_firmware",
+	"shortDescription": "** UNSUPPORTED WHEN ASSIGNED **\nThe command injection vulnerability in the “setCookie” parameter in Zyxel NAS326 firmware versions before V5.21(AAZF.17)C0 and NAS542 firmware versions before V5.21(ABAG.14)C0 could allow an unauthenticated attacker to execute some operating system (OS) commands by sending a crafted HTTP POST request.",
+	"vulnerabilityName": "Zyxel nas326_firmware Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection')",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

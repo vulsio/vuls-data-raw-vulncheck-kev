@@ -1,8 +1,8 @@
 {
 	"vendorProject": "Fortinet",
-	"product": "FortiOS",
-	"shortDescription": "Fortinet FortiOS contains an authorization bypass vulnerability that may allow an unauthenticated remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
-	"vulnerabilityName": "Fortinet FortiOS Authorization Bypass Vulnerability",
+	"product": "FortiOS and FortiProxy",
+	"shortDescription": "Fortinet FortiOS and FortiProxy contain an authentication bypass vulnerability that may allow an unauthenticated, remote attacker to gain super-admin privileges via crafted requests to Node.js websocket module.",
+	"vulnerabilityName": "Fortinet FortiOS and FortiProxy Authentication Bypass Vulnerability",
 	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
