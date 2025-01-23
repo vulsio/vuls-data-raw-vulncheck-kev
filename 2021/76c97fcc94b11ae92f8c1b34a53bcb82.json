@@ -59,13 +59,6 @@
 			"clone_ssh_url": "git@github.com:oneoy/CVE-2019-13272.git"
 		},
 		{
-			"xdb_id": "94bf994e3e35",
-			"xdb_url": "https://vulncheck.com/xdb/94bf994e3e35",
-			"date_added": "2019-07-31T04:51:43Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-13272.git"
-		},
-		{
 			"xdb_id": "1df2059c8c67",
 			"xdb_url": "https://vulncheck.com/xdb/1df2059c8c67",
 			"date_added": "2021-03-30T07:09:45Z",
@@ -78,6 +71,13 @@
 			"date_added": "2024-06-20T10:04:13Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:josemlwdf/CVE-2019-13272.git"
+		},
+		{
+			"xdb_id": "94bf994e3e35",
+			"xdb_url": "https://vulncheck.com/xdb/94bf994e3e35",
+			"date_added": "2019-07-31T04:51:43Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:jas502n/CVE-2019-13272.git"
 		},
 		{
 			"xdb_id": "aebd1e7d7dfe",

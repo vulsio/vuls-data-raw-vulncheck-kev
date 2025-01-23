@@ -1,0 +1,19 @@
+{
+	"vendorProject": "lansweeper",
+	"product": "lansweeper",
+	"shortDescription": "Lansweeper before 7.1.117.4 allows unauthenticated SQL injection.",
+	"vulnerabilityName": "lansweeper lansweeper Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-13462"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-22&host_type=src&vulnerability=cve-2019-13462",
+			"date_added": "2025-01-22T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-22T00:00:00Z"
+}

@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:ly4k/Pachine.git"
 		},
 		{
-			"xdb_id": "db23ac405047",
-			"xdb_url": "https://vulncheck.com/xdb/db23ac405047",
-			"date_added": "2021-12-11T19:27:30Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:cube0x0/noPac.git"
-		},
-		{
 			"xdb_id": "230d7f3a2644",
 			"xdb_url": "https://vulncheck.com/xdb/230d7f3a2644",
 			"date_added": "2021-12-13T10:28:12Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Ridter/noPac.git"
+		},
+		{
+			"xdb_id": "db23ac405047",
+			"xdb_url": "https://vulncheck.com/xdb/db23ac405047",
+			"date_added": "2021-12-11T19:27:30Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:cube0x0/noPac.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

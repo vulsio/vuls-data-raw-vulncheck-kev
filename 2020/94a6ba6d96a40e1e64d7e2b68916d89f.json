@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:lazaars/UltraRealy_with_CVE-2019-1040.git"
 		},
 		{
-			"xdb_id": "f2b408e5e645",
-			"xdb_url": "https://vulncheck.com/xdb/f2b408e5e645",
-			"date_added": "2019-06-18T12:10:26Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:Ridter/CVE-2019-1040-dcpwn.git"
-		},
-		{
 			"xdb_id": "a9df8050c46d",
 			"xdb_url": "https://vulncheck.com/xdb/a9df8050c46d",
 			"date_added": "2019-06-14T11:16:03Z",
@@ -43,6 +36,13 @@
 			"date_added": "2019-06-24T15:33:50Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:fox-it/cve-2019-1040-scanner.git"
+		},
+		{
+			"xdb_id": "f2b408e5e645",
+			"xdb_url": "https://vulncheck.com/xdb/f2b408e5e645",
+			"date_added": "2019-06-18T12:10:26Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:Ridter/CVE-2019-1040-dcpwn.git"
 		},
 		{
 			"xdb_id": "80bae939a6d9",
