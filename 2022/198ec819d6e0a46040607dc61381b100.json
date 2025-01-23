@@ -185,18 +185,18 @@
 			"clone_ssh_url": "git@github.com:aminetitrofine/CVE-2022-30190.git"
 		},
 		{
-			"xdb_id": "05001d61d2a9",
-			"xdb_url": "https://vulncheck.com/xdb/05001d61d2a9",
-			"date_added": "2022-06-02T12:33:18Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:komomon/CVE-2022-30190-follina-Office-MSDT-Fixed.git"
-		},
-		{
 			"xdb_id": "f87cc7447ce1",
 			"xdb_url": "https://vulncheck.com/xdb/f87cc7447ce1",
 			"date_added": "2022-06-03T00:25:37Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:Noxtal/follina.git"
+		},
+		{
+			"xdb_id": "05001d61d2a9",
+			"xdb_url": "https://vulncheck.com/xdb/05001d61d2a9",
+			"date_added": "2022-06-02T12:33:18Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:komomon/CVE-2022-30190-follina-Office-MSDT-Fixed.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
