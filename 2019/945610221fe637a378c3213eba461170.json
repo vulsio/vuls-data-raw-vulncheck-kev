@@ -94,11 +94,11 @@
 			"clone_ssh_url": "git@github.com:WyAtu/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "769a10397402",
-			"xdb_url": "https://vulncheck.com/xdb/769a10397402",
-			"date_added": "2020-04-03T07:08:53+08:00",
+			"xdb_id": "4cf24d124675",
+			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
+			"date_added": "2020-08-06T15:31:27+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
 		},
 		{
 			"xdb_id": "577747b6d2f6",
@@ -129,11 +129,11 @@
 			"clone_ssh_url": "git@gitee.com:soapffz/CVE-2018-20250.git"
 		},
 		{
-			"xdb_id": "4cf24d124675",
-			"xdb_url": "https://vulncheck.com/xdb/4cf24d124675",
-			"date_added": "2020-08-06T15:31:27+08:00",
+			"xdb_id": "769a10397402",
+			"xdb_url": "https://vulncheck.com/xdb/769a10397402",
+			"date_added": "2020-04-03T07:08:53+08:00",
 			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:zhangbo123321/CVE-2018-20250.git"
+			"clone_ssh_url": "git@gitee.com:cutecuteyu/CVE-2018-20250.git"
 		},
 		{
 			"xdb_id": "2f088777b403",

@@ -68,7 +68,7 @@
 		{
 			"xdb_id": "83a3a8086e22",
 			"xdb_url": "https://vulncheck.com/xdb/83a3a8086e22",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-12-11T00:59:18+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:hissec/CVE-2021-40449-Exploit.git"
 		}

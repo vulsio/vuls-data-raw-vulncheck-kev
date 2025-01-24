@@ -12,7 +12,7 @@
 		{
 			"xdb_id": "899db6e789f6",
 			"xdb_url": "https://vulncheck.com/xdb/899db6e789f6",
-			"date_added": "0001-01-01T00:00:00Z",
+			"date_added": "2021-12-02T14:32:41+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:haweye/CVE-2021-21402.git"
 		}

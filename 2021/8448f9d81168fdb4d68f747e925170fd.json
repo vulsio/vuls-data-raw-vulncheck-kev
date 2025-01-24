@@ -87,6 +87,13 @@
 			"clone_ssh_url": "git@github.com:aengussong/hikvision_probe.git"
 		},
 		{
+			"xdb_id": "9622e9da156e",
+			"xdb_url": "https://vulncheck.com/xdb/9622e9da156e",
+			"date_added": "2021-12-08T02:51:54+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-36260.git"
+		},
+		{
 			"xdb_id": "b03efde8723d",
 			"xdb_url": "https://vulncheck.com/xdb/b03efde8723d",
 			"date_added": "2021-12-25T11:34:20+08:00",
@@ -99,13 +106,6 @@
 			"date_added": "2022-08-04T12:23:33+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
-		},
-		{
-			"xdb_id": "9622e9da156e",
-			"xdb_url": "https://vulncheck.com/xdb/9622e9da156e",
-			"date_added": "2021-12-08T02:51:54+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:mirrors_gladiopeace/CVE-2021-36260.git"
 		},
 		{
 			"xdb_id": "bff72b5d73fa",

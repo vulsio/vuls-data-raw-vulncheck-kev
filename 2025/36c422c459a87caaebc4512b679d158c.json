@@ -1,0 +1,21 @@
+{
+	"vendorProject": "SonicWall",
+	"product": "SMA1000 Appliances",
+	"shortDescription": "SonicWall SMA1000 Appliance Management Console (AMC) and Central Management Console (CMC) contain a deserialization of untrusted data vulnerability, which can enable a remote, unauthenticated attacker to execute arbitrary OS commands.",
+	"vulnerabilityName": "SonicWall SMA1000 Appliances Deserialization Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2025-23006"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2025-0002",
+			"date_added": "2025-01-22T00:00:00Z"
+		}
+	],
+	"dueDate": "2025-02-14T00:00:00Z",
+	"cisa_date_added": "2025-01-24T00:00:00Z",
+	"date_added": "2025-01-22T00:00:00Z"
+}
