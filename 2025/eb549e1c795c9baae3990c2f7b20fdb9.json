@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "CyberPower",
+	"product": "PowerPanel Enterprise",
+	"shortDescription": "An issue regarding missing authentication for certain utilities exists in CyberPower PowerPanel Enterprise prior to v2.8.3. An unauthenticated remote attacker can access the PDNU REST APIs, which may result in compromise of the application.",
+	"vulnerabilityName": "CyberPower PowerPanel Enterprise PDNU REST API Unauthenticated Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

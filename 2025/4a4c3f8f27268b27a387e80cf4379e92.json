@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "CyberPower",
+	"product": "PowerPanel Enterprise",
+	"shortDescription": "A sql injection vulnerability exists in CyberPower PowerPanel Enterprise prior to v2.8.3. An unauthenticated remote attacker can leak sensitive information via the \"query_ptask_verbose\" function within MCUDBHelper.",
+	"vulnerabilityName": "CyberPower PowerPanel Enterprise 'query_ptask_verbose' SQL Injection Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

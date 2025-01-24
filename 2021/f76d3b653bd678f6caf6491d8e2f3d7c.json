@@ -206,18 +206,18 @@
 			"clone_ssh_url": "git@github.com:zhzyker/exphub.git"
 		},
 		{
-			"xdb_id": "7c45f41c9580",
-			"xdb_url": "https://vulncheck.com/xdb/7c45f41c9580",
-			"date_added": "2020-11-04T03:09:13Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2020-14882.git"
-		},
-		{
 			"xdb_id": "59c38bcb5664",
 			"xdb_url": "https://vulncheck.com/xdb/59c38bcb5664",
 			"date_added": "2020-01-15T04:26:29Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
+		},
+		{
+			"xdb_id": "7c45f41c9580",
+			"xdb_url": "https://vulncheck.com/xdb/7c45f41c9580",
+			"date_added": "2020-11-04T03:09:13Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2020-14882.git"
 		},
 		{
 			"xdb_id": "e962ac877371",
