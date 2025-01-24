@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:Onedy1703/CVE-2023-22515-Confluence.git"
 		},
 		{
-			"xdb_id": "cd9c98c483ee",
-			"xdb_url": "https://vulncheck.com/xdb/cd9c98c483ee",
-			"date_added": "2023-10-10T21:40:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-22515.git"
-		},
-		{
 			"xdb_id": "d75adb32bcb4",
 			"xdb_url": "https://vulncheck.com/xdb/d75adb32bcb4",
 			"date_added": "2023-10-11T08:42:17Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:ad-calcium/CVE-2023-22515.git"
+		},
+		{
+			"xdb_id": "cd9c98c483ee",
+			"xdb_url": "https://vulncheck.com/xdb/cd9c98c483ee",
+			"date_added": "2023-10-10T21:40:09Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2023-22515.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1603,6 +1603,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-22&host_type=src&vulnerability=cve-2023-22515",
 			"date_added": "2025-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-23&host_type=src&vulnerability=cve-2023-22515",
+			"date_added": "2025-01-23T00:00:00Z"
 		},
 		{
 			"url": "https://media.defense.gov/2024/Sep/18/2003547016/-1/-1/0/CSA-PRC-LINKED-ACTORS-BOTNET.PDF",

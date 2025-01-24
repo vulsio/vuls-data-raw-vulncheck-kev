@@ -913,13 +913,6 @@
 			"clone_ssh_url": "git@github.com:arthepsy/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "9ba9a40cd868",
-			"xdb_url": "https://vulncheck.com/xdb/9ba9a40cd868",
-			"date_added": "2022-01-27T17:43:24Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:c3c/CVE-2021-4034.git"
-		},
-		{
 			"xdb_id": "0d8ebba65e94",
 			"xdb_url": "https://vulncheck.com/xdb/0d8ebba65e94",
 			"date_added": "2022-01-28T15:13:28Z",
@@ -934,13 +927,6 @@
 			"clone_ssh_url": "git@github.com:PwnFunction/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "722d83b48dd0",
-			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
-			"date_added": "2022-01-26T14:26:10Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
-		},
-		{
 			"xdb_id": "bdac5d88146f",
 			"xdb_url": "https://vulncheck.com/xdb/bdac5d88146f",
 			"date_added": "2022-01-25T23:51:37Z",
@@ -948,39 +934,18 @@
 			"clone_ssh_url": "git@github.com:berdav/CVE-2021-4034.git"
 		},
 		{
-			"xdb_id": "df5b9312957b",
-			"xdb_url": "https://vulncheck.com/xdb/df5b9312957b",
-			"date_added": "2023-01-15T13:56:38+08:00",
+			"xdb_id": "722d83b48dd0",
+			"xdb_url": "https://vulncheck.com/xdb/722d83b48dd0",
+			"date_added": "2022-01-26T14:26:10Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:buxiaomo/CVE-2021-4034.git"
+			"clone_ssh_url": "git@github.com:ly4k/PwnKit.git"
 		},
 		{
-			"xdb_id": "b46d72a94313",
-			"xdb_url": "https://vulncheck.com/xdb/b46d72a94313",
-			"date_added": "2022-02-13T17:32:15+08:00",
+			"xdb_id": "9ba9a40cd868",
+			"xdb_url": "https://vulncheck.com/xdb/9ba9a40cd868",
+			"date_added": "2022-01-27T17:43:24Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:pwn2security/CVE-2021-4034.git"
-		},
-		{
-			"xdb_id": "2355bc59a8b4",
-			"xdb_url": "https://vulncheck.com/xdb/2355bc59a8b4",
-			"date_added": "2024-01-09T18:23:20+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:li-bai444/CVE-2021-4034.git"
-		},
-		{
-			"xdb_id": "2fbfcd89b625",
-			"xdb_url": "https://vulncheck.com/xdb/2fbfcd89b625",
-			"date_added": "2022-03-03T20:27:42+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:distancexx/CVE-2021-4034.git"
-		},
-		{
-			"xdb_id": "aeecf13a2fe2",
-			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
-			"date_added": "2023-11-12T05:08:25+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
+			"clone_ssh_url": "git@github.com:c3c/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "f81ade7ce959",
@@ -995,6 +960,27 @@
 			"date_added": "2022-01-28T15:34:57+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:ruoziyou/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "aeecf13a2fe2",
+			"xdb_url": "https://vulncheck.com/xdb/aeecf13a2fe2",
+			"date_added": "2023-11-12T05:08:25+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:mirrors_alkisg/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "2355bc59a8b4",
+			"xdb_url": "https://vulncheck.com/xdb/2355bc59a8b4",
+			"date_added": "2024-01-09T18:23:20+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:li-bai444/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "2fbfcd89b625",
+			"xdb_url": "https://vulncheck.com/xdb/2fbfcd89b625",
+			"date_added": "2022-03-03T20:27:42+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:distancexx/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "fe47fe6ea534",
@@ -1023,6 +1009,20 @@
 			"date_added": "2022-02-25T11:28:43+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:shuaiqi_lw/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "df5b9312957b",
+			"xdb_url": "https://vulncheck.com/xdb/df5b9312957b",
+			"date_added": "2023-01-15T13:56:38+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:buxiaomo/CVE-2021-4034.git"
+		},
+		{
+			"xdb_id": "b46d72a94313",
+			"xdb_url": "https://vulncheck.com/xdb/b46d72a94313",
+			"date_added": "2022-02-13T17:32:15+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:pwn2security/CVE-2021-4034.git"
 		},
 		{
 			"xdb_id": "273b1f8f417f",

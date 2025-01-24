@@ -105,6 +105,10 @@
 		{
 			"url": "https://securelist.com/patched-forticlient-ems-vulnerability-exploited-in-the-wild/115046/",
 			"date_added": "2024-12-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/salt-typhoon-an-analysis-of-vulnerabilities-exploited-by-this-state-sponsored-actor",
+			"date_added": "2025-01-23T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-15T00:00:00Z",

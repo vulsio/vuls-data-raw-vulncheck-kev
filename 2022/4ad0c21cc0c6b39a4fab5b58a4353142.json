@@ -65,6 +65,10 @@
 		{
 			"url": "https://eclypsium.com/blog/salt-typhoon/",
 			"date_added": "2022-09-23T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/salt-typhoon-an-analysis-of-vulnerabilities-exploited-by-this-state-sponsored-actor",
+			"date_added": "2025-01-23T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-10-14T00:00:00Z",
