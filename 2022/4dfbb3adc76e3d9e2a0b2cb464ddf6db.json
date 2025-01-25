@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "63dee87b89a7",
-			"xdb_url": "https://vulncheck.com/xdb/63dee87b89a7",
-			"date_added": "2019-06-12T10:21:35Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:RythmStick/CVE-2019-1064.git"
-		},
-		{
 			"xdb_id": "fc46b3dba1ae",
 			"xdb_url": "https://vulncheck.com/xdb/fc46b3dba1ae",
 			"date_added": "2019-06-12T15:54:55Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:0x00-0x00/CVE-2019-1064.git"
+		},
+		{
+			"xdb_id": "63dee87b89a7",
+			"xdb_url": "https://vulncheck.com/xdb/63dee87b89a7",
+			"date_added": "2019-06-12T10:21:35Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:RythmStick/CVE-2019-1064.git"
 		},
 		{
 			"xdb_id": "2606dfc2804f",

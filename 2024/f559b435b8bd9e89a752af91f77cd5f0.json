@@ -178,13 +178,6 @@
 			"clone_ssh_url": "git@github.com:i-100-user/CVE-2024-25897.git"
 		},
 		{
-			"xdb_id": "29a3cbe431c7",
-			"xdb_url": "https://vulncheck.com/xdb/29a3cbe431c7",
-			"date_added": "2024-01-27T19:34:48Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:wjlin0/CVE-2024-23897.git"
-		},
-		{
 			"xdb_id": "e7f68889c96b",
 			"xdb_url": "https://vulncheck.com/xdb/e7f68889c96b",
 			"date_added": "2024-01-26T08:02:00Z",
@@ -239,6 +232,13 @@
 			"date_added": "2024-02-04T20:56:42Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:kaanatmacaa/CVE-2024-23897.git"
+		},
+		{
+			"xdb_id": "29a3cbe431c7",
+			"xdb_url": "https://vulncheck.com/xdb/29a3cbe431c7",
+			"date_added": "2024-01-27T19:34:48Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:wjlin0/CVE-2024-23897.git"
 		},
 		{
 			"xdb_id": "0450095821bb",
@@ -906,6 +906,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-21&host_type=src&vulnerability=cve-2024-23897",
 			"date_added": "2025-01-21T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-24&host_type=src&vulnerability=cve-2024-23897",
+			"date_added": "2025-01-24T00:00:00Z"
 		},
 		{
 			"url": "https://www.cyfirma.com/research/tracking-ransomware-august-2024/",

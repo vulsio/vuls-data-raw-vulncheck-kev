@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:ihebski/CVE-2024-3400.git"
 		},
 		{
-			"xdb_id": "72d187d1fad6",
-			"xdb_url": "https://vulncheck.com/xdb/72d187d1fad6",
-			"date_added": "2025-01-10T02:20:26Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2024-3400-poc.git"
-		},
-		{
 			"xdb_id": "3d0eb812cb1f",
 			"xdb_url": "https://vulncheck.com/xdb/3d0eb812cb1f",
 			"date_added": "2024-11-30T05:47:12Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:nanwinata/CVE-2024-3400.git"
+		},
+		{
+			"xdb_id": "72d187d1fad6",
+			"xdb_url": "https://vulncheck.com/xdb/72d187d1fad6",
+			"date_added": "2025-01-10T02:20:26Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:XiaomingX/CVE-2024-3400-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
