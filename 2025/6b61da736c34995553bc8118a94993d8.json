@@ -1,0 +1,19 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-42448"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://insights.nccgroup.com/l/898251/2025-01-15/31km7v7/898251/1736933471Luh7mq1o/Dec_Monthly_Threat_Pulse_Freemium_V4.pdf",
+			"date_added": "2025-01-23T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-23T00:00:00Z"
+}
