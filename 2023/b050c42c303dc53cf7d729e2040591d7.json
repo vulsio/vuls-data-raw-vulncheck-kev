@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:tucommenceapousser/CVE-2023-47246.git"
 		},
 		{
-			"xdb_id": "35d58d1d70ee",
-			"xdb_url": "https://vulncheck.com/xdb/35d58d1d70ee",
-			"date_added": "2023-11-17T07:03:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2023-47246-EXP.git"
-		},
-		{
 			"xdb_id": "d306acc109ee",
 			"xdb_url": "https://vulncheck.com/xdb/d306acc109ee",
 			"date_added": "2024-11-23T05:21:22Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-47246-poc.git"
+		},
+		{
+			"xdb_id": "35d58d1d70ee",
+			"xdb_url": "https://vulncheck.com/xdb/35d58d1d70ee",
+			"date_added": "2023-11-17T07:03:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2023-47246-EXP.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

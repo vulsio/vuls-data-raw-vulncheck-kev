@@ -381,20 +381,6 @@
 			"clone_ssh_url": "git@github.com:cube0x0/CVE-2020-1472.git"
 		},
 		{
-			"xdb_id": "8240eab3ecba",
-			"xdb_url": "https://vulncheck.com/xdb/8240eab3ecba",
-			"date_added": "2020-09-14T19:19:07Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:risksense/zerologon.git"
-		},
-		{
-			"xdb_id": "22611416152e",
-			"xdb_url": "https://vulncheck.com/xdb/22611416152e",
-			"date_added": "2020-09-08T08:58:37Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:SecuraBV/CVE-2020-1472.git"
-		},
-		{
 			"xdb_id": "ef4224f7e535",
 			"xdb_url": "https://vulncheck.com/xdb/ef4224f7e535",
 			"date_added": "2020-09-16T03:40:47Z",
@@ -414,6 +400,20 @@
 			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+		},
+		{
+			"xdb_id": "8240eab3ecba",
+			"xdb_url": "https://vulncheck.com/xdb/8240eab3ecba",
+			"date_added": "2020-09-14T19:19:07Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:risksense/zerologon.git"
+		},
+		{
+			"xdb_id": "22611416152e",
+			"xdb_url": "https://vulncheck.com/xdb/22611416152e",
+			"date_added": "2020-09-08T08:58:37Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:SecuraBV/CVE-2020-1472.git"
 		},
 		{
 			"xdb_id": "7a9717baaae0",
