@@ -2,7 +2,7 @@
 	"vendorProject": "TOTOLINK",
 	"product": "EX1800T",
 	"shortDescription": "TOTOLINK EX1800T V9.1.0cu.2112_B20220316 has a vulnerability in the apcliEncrypType parameter that allows unauthorized execution of arbitrary commands, allowing an attacker to obtain device administrator privileges.",
-	"vulnerabilityName": "TOTOLINK EX1800T apcliEncrypType Vulnerablility",
+	"vulnerabilityName": "TOTOLINK EX1800T apcliEncrypType Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

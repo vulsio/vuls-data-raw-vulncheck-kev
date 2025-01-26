@@ -1,7 +1,7 @@
 {
 	"vendorProject": "Freemius",
 	"product": "SDK for WordPress",
-	"shortDescription": "Freemius SDK for WordPress is vulnerable to a reflected cross site scripting vulnerablility due to improper sanitization.",
+	"shortDescription": "Freemius SDK for WordPress is vulnerable to a reflected cross site scripting vulnerability due to improper sanitization.",
 	"vulnerabilityName": "Freemius SDK for WordPress Reflected Cross Site Scripting (XSS)",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",

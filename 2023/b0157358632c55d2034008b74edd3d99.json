@@ -52,18 +52,18 @@
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2023-20198-poc.git"
 		},
 		{
-			"xdb_id": "7cec6c4757e7",
-			"xdb_url": "https://vulncheck.com/xdb/7cec6c4757e7",
-			"date_added": "2022-04-19T08:58:42Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:Ostorlab/known_exploited_vulnerbilities_detectors.git"
-		},
-		{
 			"xdb_id": "1281b61abcb0",
 			"xdb_url": "https://vulncheck.com/xdb/1281b61abcb0",
 			"date_added": "2024-04-25T06:59:53Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:W01fh4cker/CVE-2023-20198-RCE.git"
+		},
+		{
+			"xdb_id": "7cec6c4757e7",
+			"xdb_url": "https://vulncheck.com/xdb/7cec6c4757e7",
+			"date_added": "2022-04-19T08:58:42Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:Ostorlab/known_exploited_vulnerbilities_detectors.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
