@@ -1851,6 +1851,10 @@
 			"date_added": "2025-01-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-25&host_type=src&vulnerability=cve-2023-4966",
+			"date_added": "2025-01-25T00:00:00Z"
+		},
+		{
 			"url": "https://doublepulsar.com/lockbit-ransomware-group-assemble-strike-team-to-breach-banks-law-firms-and-governments-4220580bfcee",
 			"date_added": "2023-11-13T00:00:00Z"
 		},

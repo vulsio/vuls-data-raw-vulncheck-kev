@@ -1048,6 +1048,10 @@
 			"date_added": "2025-01-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-25&host_type=src&vulnerability=cve-2021-40870",
+			"date_added": "2025-01-25T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/network-attacks-trends-august-october-2021/",
 			"date_added": "2021-12-21T00:00:00Z"
 		}

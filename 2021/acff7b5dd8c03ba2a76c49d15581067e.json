@@ -1731,6 +1731,10 @@
 			"date_added": "2025-01-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-25&host_type=src&vulnerability=cve-2020-16846",
+			"date_added": "2025-01-25T00:00:00Z"
+		},
+		{
 			"url": "https://www.bleepingcomputer.com/news/security/new-cryptomining-malware-builds-an-army-of-windows-linux-bots/",
 			"date_added": "2021-04-24T00:00:00Z"
 		},

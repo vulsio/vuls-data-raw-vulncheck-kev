@@ -185,13 +185,6 @@
 			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2020-5902_RCE.git"
 		},
 		{
-			"xdb_id": "a8f50138be81",
-			"xdb_url": "https://vulncheck.com/xdb/a8f50138be81",
-			"date_added": "2020-07-06T23:29:38+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2020-5902.git"
-		},
-		{
 			"xdb_id": "9fa6bc3af413",
 			"xdb_url": "https://vulncheck.com/xdb/9fa6bc3af413",
 			"date_added": "2022-01-11T23:24:04+08:00",
@@ -225,6 +218,13 @@
 			"date_added": "2020-10-14T14:45:47+08:00",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@gitee.com:wind-feather/cveliyongsnail2.0.git"
+		},
+		{
+			"xdb_id": "a8f50138be81",
+			"xdb_url": "https://vulncheck.com/xdb/a8f50138be81",
+			"date_added": "2020-07-06T23:29:38+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:rockmelodies/CVE-2020-5902.git"
 		},
 		{
 			"xdb_id": "5965f23f2c23",
@@ -1613,6 +1613,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-24&host_type=src&vulnerability=cve-2020-5902",
 			"date_added": "2025-01-24T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-25&host_type=src&vulnerability=cve-2020-5902",
+			"date_added": "2025-01-25T00:00:00Z"
 		},
 		{
 			"url": "https://redcanary.com/blog/kinsing-malware-citrix-saltstack/",

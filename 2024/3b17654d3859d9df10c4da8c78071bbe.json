@@ -184,6 +184,10 @@
 			"date_added": "2025-01-24T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-25&host_type=src&vulnerability=cve-2024-41713",
+			"date_added": "2025-01-25T00:00:00Z"
+		},
+		{
 			"url": "https://www.greynoise.io/blog/from-poc-to-attacker-interest-in-hours-real-time-insights-into-mitel-micollab-vulnerabilities",
 			"date_added": "2024-12-10T00:00:00Z"
 		}
