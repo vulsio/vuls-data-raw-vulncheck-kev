@@ -87,11 +87,11 @@
 			"clone_ssh_url": "git@github.com:Ridter/cve-2020-0688.git"
 		},
 		{
-			"xdb_id": "05c78c55c273",
-			"xdb_url": "https://vulncheck.com/xdb/05c78c55c273",
-			"date_added": "2022-01-11T23:35:51+08:00",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@gitee.com:mirrors_zcgonvh/CVE-2020-0688.git"
+			"xdb_id": "8a20e8eac65d",
+			"xdb_url": "https://vulncheck.com/xdb/8a20e8eac65d",
+			"date_added": "2020-10-09T13:12:20+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-0688_EXP.git"
 		},
 		{
 			"xdb_id": "7f793deb1114",
@@ -101,11 +101,11 @@
 			"clone_ssh_url": "git@gitee.com:kevin66654/Exchange-EXP-CVE-2020-0688.git"
 		},
 		{
-			"xdb_id": "8a20e8eac65d",
-			"xdb_url": "https://vulncheck.com/xdb/8a20e8eac65d",
-			"date_added": "2020-10-09T13:12:20+08:00",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/CVE-2020-0688_EXP.git"
+			"xdb_id": "05c78c55c273",
+			"xdb_url": "https://vulncheck.com/xdb/05c78c55c273",
+			"date_added": "2022-01-11T23:35:51+08:00",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@gitee.com:mirrors_zcgonvh/CVE-2020-0688.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
