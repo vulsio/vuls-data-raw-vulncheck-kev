@@ -178,18 +178,18 @@
 			"clone_ssh_url": "git@github.com:alt3kx/CVE-2021-26855_PoC.git"
 		},
 		{
-			"xdb_id": "28a1acb64734",
-			"xdb_url": "https://vulncheck.com/xdb/28a1acb64734",
-			"date_added": "2021-03-08T11:54:32Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
-		},
-		{
 			"xdb_id": "c3f6061e329d",
 			"xdb_url": "https://vulncheck.com/xdb/c3f6061e329d",
 			"date_added": "2021-03-06T16:34:45Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Udyz/Proxylogon.git"
+		},
+		{
+			"xdb_id": "28a1acb64734",
+			"xdb_url": "https://vulncheck.com/xdb/28a1acb64734",
+			"date_added": "2021-03-08T11:54:32Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:dwisiswant0/proxylogscan.git"
 		},
 		{
 			"xdb_id": "5c885ac1f498",
