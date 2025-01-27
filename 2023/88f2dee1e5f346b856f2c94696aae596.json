@@ -59,6 +59,10 @@
 			"date_added": "2025-01-22T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-26&host_type=src&vulnerability=cve-2023-22952",
+			"date_added": "2025-01-26T00:00:00Z"
+		},
+		{
 			"url": "https://infosec.exchange/@ll/109630615353251077",
 			"date_added": "2023-01-04T00:00:00Z"
 		},

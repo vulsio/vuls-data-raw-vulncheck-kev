@@ -1908,6 +1908,10 @@
 			"date_added": "2025-01-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-26&host_type=src&vulnerability=cve-2022-1388",
+			"date_added": "2025-01-26T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/malware-targeting-latest-f5-vulnerability/",
 			"date_added": "2022-05-12T00:00:00Z"
 		},
