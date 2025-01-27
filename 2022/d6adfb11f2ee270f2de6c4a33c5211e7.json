@@ -143,18 +143,18 @@
 			"clone_ssh_url": "git@github.com:carlosevieira/CVE-2022-40684.git"
 		},
 		{
-			"xdb_id": "37fe630b4cc1",
-			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
-			"date_added": "2022-10-13T14:24:12Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
-		},
-		{
 			"xdb_id": "38b52c3e8812",
 			"xdb_url": "https://vulncheck.com/xdb/38b52c3e8812",
 			"date_added": "2022-10-13T19:53:17Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:Filiplain/Fortinet-PoC-Auth-Bypass.git"
+		},
+		{
+			"xdb_id": "37fe630b4cc1",
+			"xdb_url": "https://vulncheck.com/xdb/37fe630b4cc1",
+			"date_added": "2022-10-13T14:24:12Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-40684.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
