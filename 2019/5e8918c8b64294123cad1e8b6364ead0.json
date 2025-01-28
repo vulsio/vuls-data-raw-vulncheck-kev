@@ -80,13 +80,6 @@
 			"clone_ssh_url": "git@gitee.com:abcall/jboss-_CVE-2017-12149.git"
 		},
 		{
-			"xdb_id": "93fd63db9635",
-			"xdb_url": "https://vulncheck.com/xdb/93fd63db9635",
-			"date_added": "2020-10-04T21:52:16+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149.git"
-		},
-		{
 			"xdb_id": "d9f3bd9b80b5",
 			"xdb_url": "https://vulncheck.com/xdb/d9f3bd9b80b5",
 			"date_added": "2020-12-31T20:23:17+08:00",
@@ -99,6 +92,13 @@
 			"date_added": "2021-05-22T09:28:17+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:weiuwang/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "93fd63db9635",
+			"xdb_url": "https://vulncheck.com/xdb/93fd63db9635",
+			"date_added": "2020-10-04T21:52:16+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149.git"
 		},
 		{
 			"xdb_id": "07509b590e3a",
