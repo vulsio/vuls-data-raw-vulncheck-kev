@@ -1321,6 +1321,10 @@
 		{
 			"url": "https://censys.com/cve-2024-9441/",
 			"date_added": "2024-11-05T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/2024-global-threat-roundup-report/",
+			"date_added": "2025-01-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-04-15T00:00:00Z",

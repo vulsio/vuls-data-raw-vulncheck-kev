@@ -25,6 +25,10 @@
 		{
 			"url": "https://www.recordedfuture.com/blog/top-vulnerabilities-2018",
 			"date_added": "2019-03-19T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-04-15T00:00:00Z",

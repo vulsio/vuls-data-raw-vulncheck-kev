@@ -38,13 +38,6 @@
 			"clone_ssh_url": "git@github.com:elbiazo/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "958e996c14b3",
-			"xdb_url": "https://vulncheck.com/xdb/958e996c14b3",
-			"date_added": "2022-02-28T02:34:31Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:nicchongwb/Rootsmart-v2.0.git"
-		},
-		{
 			"xdb_id": "7c2171bd00f8",
 			"xdb_url": "https://vulncheck.com/xdb/7c2171bd00f8",
 			"date_added": "2024-07-02T10:35:30Z",
@@ -87,6 +80,13 @@
 			"clone_ssh_url": "git@github.com:LIznzn/CVE-2019-2215.git"
 		},
 		{
+			"xdb_id": "034793af86bc",
+			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
+			"date_added": "2019-10-14T17:27:37Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
+		},
+		{
 			"xdb_id": "7a600a9b57a1",
 			"xdb_url": "https://vulncheck.com/xdb/7a600a9b57a1",
 			"date_added": "2022-04-28T03:47:00Z",
@@ -94,11 +94,11 @@
 			"clone_ssh_url": "git@github.com:enceka/cve-2019-2215-3.18.git"
 		},
 		{
-			"xdb_id": "034793af86bc",
-			"xdb_url": "https://vulncheck.com/xdb/034793af86bc",
-			"date_added": "2019-10-14T17:27:37Z",
+			"xdb_id": "efc0233357b1",
+			"xdb_url": "https://vulncheck.com/xdb/efc0233357b1",
+			"date_added": "2019-10-04T06:32:08Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:kangtastic/cve-2019-2215.git"
+			"clone_ssh_url": "git@github.com:timwr/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "570fb66ac36f",
@@ -115,11 +115,11 @@
 			"clone_ssh_url": "git@github.com:mutur4/CVE-2019-2215.git"
 		},
 		{
-			"xdb_id": "efc0233357b1",
-			"xdb_url": "https://vulncheck.com/xdb/efc0233357b1",
-			"date_added": "2019-10-04T06:32:08Z",
+			"xdb_id": "958e996c14b3",
+			"xdb_url": "https://vulncheck.com/xdb/958e996c14b3",
+			"date_added": "2022-02-28T02:34:31Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:timwr/CVE-2019-2215.git"
+			"clone_ssh_url": "git@github.com:nicchongwb/Rootsmart-v2.0.git"
 		},
 		{
 			"xdb_id": "af8a91dc7ae5",
@@ -129,18 +129,18 @@
 			"clone_ssh_url": "git@github.com:sharif-dev/AndroidKernelVulnerability.git"
 		},
 		{
-			"xdb_id": "2efb36bee06f",
-			"xdb_url": "https://vulncheck.com/xdb/2efb36bee06f",
-			"date_added": "2023-11-05T14:32:11Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
-		},
-		{
 			"xdb_id": "b769e46ca29c",
 			"xdb_url": "https://vulncheck.com/xdb/b769e46ca29c",
 			"date_added": "2020-10-27T14:43:17Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:c3r34lk1ll3r/CVE-2019-2215.git"
+		},
+		{
+			"xdb_id": "2efb36bee06f",
+			"xdb_url": "https://vulncheck.com/xdb/2efb36bee06f",
+			"date_added": "2023-11-05T14:32:11Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:stevejubx/CVE-2019-2215.git"
 		},
 		{
 			"xdb_id": "8042323a8edc",

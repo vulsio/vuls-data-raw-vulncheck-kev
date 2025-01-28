@@ -87,13 +87,6 @@
 			"clone_ssh_url": "git@github.com:tuntin9x/CheckHKRCE.git"
 		},
 		{
-			"xdb_id": "df0fc9bf195c",
-			"xdb_url": "https://vulncheck.com/xdb/df0fc9bf195c",
-			"date_added": "2022-08-04T12:23:33+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
-		},
-		{
 			"xdb_id": "9622e9da156e",
 			"xdb_url": "https://vulncheck.com/xdb/9622e9da156e",
 			"date_added": "2021-12-08T02:51:54+08:00",
@@ -106,6 +99,13 @@
 			"date_added": "2021-12-25T11:34:20+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:joecool0/CVE-2021-36260-metasploit.git"
+		},
+		{
+			"xdb_id": "df0fc9bf195c",
+			"xdb_url": "https://vulncheck.com/xdb/df0fc9bf195c",
+			"date_added": "2022-08-04T12:23:33+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:ytj360/CVE-2021-36260.git"
 		},
 		{
 			"xdb_id": "bff72b5d73fa",
@@ -1599,6 +1599,10 @@
 		{
 			"url": "https://www.ic3.gov/CSA/2024/241216.pdf",
 			"date_added": "2024-12-16T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/2024-global-threat-roundup-report/",
+			"date_added": "2025-01-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-01-24T00:00:00Z",

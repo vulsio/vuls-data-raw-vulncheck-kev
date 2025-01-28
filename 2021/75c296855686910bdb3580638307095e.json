@@ -1,0 +1,19 @@
+{
+	"vendorProject": "IBM",
+	"product": "tivoli_monitoring",
+	"shortDescription": "IBM Tivoli Monitoring Portal v6 could allow a local (network adjacent) attacker to execute arbitrary commands on the system, when default client-server default communications, HTTP, are being used. IBM X-Force ID: 123493.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2017-1182"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-21T00:00:00Z"
+}

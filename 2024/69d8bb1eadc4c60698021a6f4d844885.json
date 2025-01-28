@@ -561,6 +561,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-26&host_type=src&vulnerability=cve-2021-41293",
 			"date_added": "2025-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://www.forescout.com/resources/2024-global-threat-roundup-report/",
+			"date_added": "2025-01-27T00:00:00Z"
 		}
 	],
 	"date_added": "2024-01-22T00:00:00Z"

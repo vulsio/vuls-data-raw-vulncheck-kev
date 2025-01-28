@@ -136,18 +136,18 @@
 			"clone_ssh_url": "git@github.com:0xn0ne/weblogicScanner.git"
 		},
 		{
-			"xdb_id": "560237e691a7",
-			"xdb_url": "https://vulncheck.com/xdb/560237e691a7",
-			"date_added": "2020-05-19T09:53:13+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:chenjiew/Oracle-WebLogic-CVE-2017-10271.git"
-		},
-		{
 			"xdb_id": "e9e5a0e896a8",
 			"xdb_url": "https://vulncheck.com/xdb/e9e5a0e896a8",
 			"date_added": "2020-10-05T13:44:06+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:xdawn/cve-2017-10271-2.git"
+		},
+		{
+			"xdb_id": "560237e691a7",
+			"xdb_url": "https://vulncheck.com/xdb/560237e691a7",
+			"date_added": "2020-05-19T09:53:13+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:chenjiew/Oracle-WebLogic-CVE-2017-10271.git"
 		},
 		{
 			"xdb_id": "81bc72dbea42",
@@ -1664,6 +1664,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/vulnerabilities--exploits--and-malware-driving-attack-campaigns-in-july-2019",
 			"date_added": "2019-08-28T00:00:00Z"
+		},
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
 		},
 		{
 			"url": "https://securelist.com/andariel-deploys-dtrack-and-maui-ransomware/107063/",

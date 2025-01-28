@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "SharePoint Server",
+	"shortDescription": "An information disclosure vulnerability exists where certain modes of the search function in Microsoft SharePoint Server are vulnerable to cross-site search attacks (a variant of cross-site request forgery, CSRF), aka \"Microsoft SharePoint Information Disclosure Vulnerability.\" This affects Microsoft SharePoint.",
+	"vulnerabilityName": "Microsoft SharePoint Server Exposure of Sensitive Information to an Unauthorized Actor",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8580"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-21T00:00:00Z"
+}

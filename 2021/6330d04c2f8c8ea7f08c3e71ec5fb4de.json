@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Windows",
+	"shortDescription": "An information disclosure vulnerability exists in Windows kernel that could allow an attacker to retrieve information that could lead to a Kernel Address Space Layout Randomization (KASLR) bypass, aka \"Win32k Information Disclosure Vulnerability.\" This affects Windows 10 Servers, Windows 10, Windows Server 2019.",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8637"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-21T00:00:00Z"
+}

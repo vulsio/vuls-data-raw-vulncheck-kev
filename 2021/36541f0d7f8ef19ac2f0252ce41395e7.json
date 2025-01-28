@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Microsoft",
+	"product": "Excel",
+	"shortDescription": "An information disclosure vulnerability exists when Microsoft Excel software reads out of bound memory due to an uninitialized variable, which could disclose the contents of memory, aka \"Microsoft Excel Information Disclosure Vulnerability.\" This affects Microsoft Office, Office 365 ProPlus, Microsoft Excel, Microsoft Excel Viewer, Excel. This CVE ID is unique from CVE-2018-8598.",
+	"vulnerabilityName": "Microsoft Excel Use of Uninitialized Resource",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-8627"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.tenable.com/blog/daisy-chaining-how-vulnerabilities-can-be-greater-than-the-sum-of-their-parts",
+			"date_added": "2021-01-21T00:00:00Z"
+		}
+	],
+	"date_added": "2021-01-21T00:00:00Z"
+}

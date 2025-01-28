@@ -24,6 +24,13 @@
 			"clone_ssh_url": "git@github.com:kjdfklha/CVE-2024-2961_poc.git"
 		},
 		{
+			"xdb_id": "29c7d412dfde",
+			"xdb_url": "https://vulncheck.com/xdb/29c7d412dfde",
+			"date_added": "2025-01-27T03:06:37Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:kyotozx/CVE-2024-2961-Remote-File-Read.git"
+		},
+		{
 			"xdb_id": "cab9ee9dc6bb",
 			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
 			"date_added": "2024-05-27T08:30:06Z",
