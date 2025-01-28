@@ -1,0 +1,35 @@
+{
+	"vendorProject": "",
+	"product": "",
+	"shortDescription": "",
+	"vulnerabilityName": "",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2025-24085"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://support.apple.com/en-us/122066",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/122068",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/122071",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/122072",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://support.apple.com/en-us/122073",
+			"date_added": "2025-01-27T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-27T00:00:00Z"
+}

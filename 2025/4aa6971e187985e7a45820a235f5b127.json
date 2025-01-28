@@ -47,6 +47,10 @@
 		{
 			"url": "https://censys.com/fortigate-config-leak-impact/",
 			"date_added": "2025-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://labs.watchtowr.com/get-fortirekt-i-am-the-super_admin-now-fortios-authentication-bypass-cve-2024-55591/",
+			"date_added": "2025-01-27T00:00:00Z"
 		}
 	],
 	"dueDate": "2025-01-21T00:00:00Z",
