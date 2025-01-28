@@ -1846,6 +1846,10 @@
 			"date_added": "2025-01-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-27&host_type=src&vulnerability=cve-2018-13379",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
 			"url": "https://www.clearskysec.com/wp-content/uploads/2020/12/Pay2Kitten.pdf",
 			"date_added": "2020-12-01T00:00:00Z"
 		},

@@ -17,13 +17,6 @@
 			"clone_ssh_url": "git@github.com:puckiestyle/cve-2023-27997.git"
 		},
 		{
-			"xdb_id": "2d8501b18677",
-			"xdb_url": "https://vulncheck.com/xdb/2d8501b18677",
-			"date_added": "2023-06-22T14:16:44Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:imbas007/CVE-2023-27997-Check.git"
-		},
-		{
 			"xdb_id": "02611bcf27fb",
 			"xdb_url": "https://vulncheck.com/xdb/02611bcf27fb",
 			"date_added": "2023-06-15T05:37:16Z",
@@ -64,6 +57,13 @@
 			"date_added": "2023-06-16T20:15:36Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:BishopFox/CVE-2023-27997-check.git"
+		},
+		{
+			"xdb_id": "2d8501b18677",
+			"xdb_url": "https://vulncheck.com/xdb/2d8501b18677",
+			"date_added": "2023-06-22T14:16:44Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:imbas007/CVE-2023-27997-Check.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

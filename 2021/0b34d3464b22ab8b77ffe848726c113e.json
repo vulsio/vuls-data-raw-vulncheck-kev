@@ -1604,6 +1604,10 @@
 			"date_added": "2025-01-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-27&host_type=src&vulnerability=cve-2019-11581",
+			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
 			"url": "https://www.lacework.com/blog/sysrv-hello-expands-infrastructure/",
 			"date_added": "2021-04-22T00:00:00Z"
 		},

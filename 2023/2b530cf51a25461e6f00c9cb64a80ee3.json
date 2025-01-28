@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:CodeCraftsMan3/Trending-Repos-Tracker.git"
 		},
 		{
-			"xdb_id": "fff6750c86c4",
-			"xdb_url": "https://vulncheck.com/xdb/fff6750c86c4",
-			"date_added": "2023-02-26T18:10:04Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-39952.git"
-		},
-		{
 			"xdb_id": "985d96eaea7a",
 			"xdb_url": "https://vulncheck.com/xdb/985d96eaea7a",
 			"date_added": "2023-02-20T15:12:33Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:horizon3ai/CVE-2022-39952.git"
+		},
+		{
+			"xdb_id": "fff6750c86c4",
+			"xdb_url": "https://vulncheck.com/xdb/fff6750c86c4",
+			"date_added": "2023-02-26T18:10:04Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-39952.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

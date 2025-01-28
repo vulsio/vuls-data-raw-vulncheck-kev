@@ -164,18 +164,25 @@
 			"clone_ssh_url": "git@github.com:zhzyker/CVE-2021-3129.git"
 		},
 		{
-			"xdb_id": "9612bcbc8150",
-			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
-			"date_added": "2024-01-15T07:12:07Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
-		},
-		{
 			"xdb_id": "5f4cc8cb7fe8",
 			"xdb_url": "https://vulncheck.com/xdb/5f4cc8cb7fe8",
 			"date_added": "2024-09-29T05:09:41Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:0x0d3ad/CVE-2021-3129.git"
+		},
+		{
+			"xdb_id": "9612bcbc8150",
+			"xdb_url": "https://vulncheck.com/xdb/9612bcbc8150",
+			"date_added": "2024-01-15T07:12:07Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:Axianke/CVE-2021-3129.git"
+		},
+		{
+			"xdb_id": "ef7d2df1ab88",
+			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
+			"date_added": "2021-09-17T12:51:18+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:sh3llsas/cve-2021-3129-1.git"
 		},
 		{
 			"xdb_id": "fcb02bd261db",
@@ -190,13 +197,6 @@
 			"date_added": "2021-07-15T15:49:21+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:grenader/CVE-2021-3129.git"
-		},
-		{
-			"xdb_id": "ef7d2df1ab88",
-			"xdb_url": "https://vulncheck.com/xdb/ef7d2df1ab88",
-			"date_added": "2021-09-17T12:51:18+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:sh3llsas/cve-2021-3129-1.git"
 		},
 		{
 			"xdb_id": "35724c55fdc0",
@@ -1973,6 +1973,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-26&host_type=src&vulnerability=cve-2021-3129",
 			"date_added": "2025-01-26T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-27&host_type=src&vulnerability=cve-2021-3129",
+			"date_added": "2025-01-27T00:00:00Z"
 		},
 		{
 			"url": "https://blog.netlab.360.com/necro-upgrades-again-using-tor-dynamic-domain-dga-and-aiming-at-both-windows-linux/",
