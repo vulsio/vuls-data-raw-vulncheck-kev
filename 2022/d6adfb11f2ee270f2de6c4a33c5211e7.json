@@ -1489,6 +1489,10 @@
 		{
 			"url": "https://censys.com/fortigate-config-leak-impact/",
 			"date_added": "2025-01-17T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/continued-scanning-for-cve-2023-1389",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"dueDate": "2022-11-01T00:00:00Z",

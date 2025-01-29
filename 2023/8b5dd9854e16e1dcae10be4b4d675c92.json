@@ -1097,6 +1097,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/botpoke-scanner-switches-ip",
 			"date_added": "2024-11-25T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/continued-scanning-for-cve-2023-1389",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"date_added": "2023-12-05T00:00:00Z"

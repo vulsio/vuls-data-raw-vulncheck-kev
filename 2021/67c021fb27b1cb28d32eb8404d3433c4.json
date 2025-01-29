@@ -469,6 +469,10 @@
 		{
 			"url": "https://www.f5.com/labs/articles/threat-intelligence/scanning-for-credentials-and-botpoke-changes-ips-again",
 			"date_added": "2024-12-09T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/continued-scanning-for-cve-2023-1389",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"date_added": "2021-11-11T00:00:00Z"

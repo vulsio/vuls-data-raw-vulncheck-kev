@@ -1813,6 +1813,10 @@
 		{
 			"url": "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/threat-landscape-report-2h-2023.pdf",
 			"date_added": "2024-05-06T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/continued-scanning-for-cve-2023-1389",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-01-29T00:00:00Z",

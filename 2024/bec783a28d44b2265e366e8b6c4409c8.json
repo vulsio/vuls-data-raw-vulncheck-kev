@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.cve.org/CVERecord?id=CVE-2024-12856",
 			"date_added": "2024-12-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.f5.com/labs/articles/threat-intelligence/continued-scanning-for-cve-2023-1389",
+			"date_added": "2025-01-21T00:00:00Z"
 		}
 	],
 	"date_added": "2024-11-09T00:00:00Z"
