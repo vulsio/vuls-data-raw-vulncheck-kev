@@ -1553,6 +1553,10 @@
 			"date_added": "2025-01-27T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-28&host_type=src&vulnerability=cve-2021-36260",
+			"date_added": "2025-01-28T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortinet.com/blog/threat-research/mirai-based-botnet-moobot-targets-hikvision-vulnerability",
 			"date_added": "2021-12-06T00:00:00Z"
 		},
