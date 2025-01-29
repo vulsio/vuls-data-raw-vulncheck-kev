@@ -1,12 +1,12 @@
 {
-	"vendorProject": "IBM",
-	"product": "tivoli_monitoring",
-	"shortDescription": "IBM Tivoli Monitoring Portal v6 could allow a local (network adjacent) attacker to execute arbitrary commands on the system, when default client-server default communications, HTTP, are being used. IBM X-Force ID: 123493.",
-	"vulnerabilityName": "",
+	"vendorProject": "Microsoft",
+	"product": "Word",
+	"shortDescription": "A vulnerability is present in Microsoft Word that may allow for disclosure of sensitive information.",
+	"vulnerabilityName": "Microsoft Word Information Disclosure Vulnerability",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
-		"CVE-2017-1182"
+		"CVE-2018-8616"
 	],
 	"vulncheck_xdb": [],
 	"vulncheck_reported_exploitation": [

@@ -33,6 +33,10 @@
 		{
 			"url": "https://www.cisa.gov/sites/default/files/2025-01/aa25-022a-threat-actors-chained-vulnerabilities-in-ivanti-cloud-service-applications.pdf",
 			"date_added": "2025-01-22T00:00:00Z"
+		},
+		{
+			"url": "https://www.fortiguard.com/outbreak-alert/ivanti-csa-zero-day-attack",
+			"date_added": "2025-01-24T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-10-04T00:00:00Z",

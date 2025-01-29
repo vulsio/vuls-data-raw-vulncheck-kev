@@ -1,8 +1,8 @@
 {
 	"vendorProject": "elementor",
 	"product": "Website Builder",
-	"shortDescription": "Unrestricted Upload of File with Dangerous Type vulnerability in Elementor.Com Elementor Website Builder.This issue affects Elementor Website Builder: from 3.3.0 through 3.18.1.",
-	"vulnerabilityName": "Elementor.Com Elementor Website Builder Unrestricted Upload of File with Dangerous Type Vulnerability",
+	"shortDescription": "Unrestricted Upload of File with Dangerous Type vulnerability in Elementor.Com Elementor Website Builder.This issue affects Elementor Website Builder: from 3.3.0 through 3.18.1.\n\n",
+	"vulnerabilityName": "elementor Website Builder Unrestricted Upload of File with Dangerous Type",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
