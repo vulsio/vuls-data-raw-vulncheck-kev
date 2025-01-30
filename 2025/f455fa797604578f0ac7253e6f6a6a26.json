@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "Zyxel",
+	"product": "CPE Series Devices",
+	"shortDescription": "A command injection vulnerability is present in Zyxel CPE Series devices that could allow for arbitrary command execution. ",
+	"vulnerabilityName": "Zyxel CPE Telnet Command Injection",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

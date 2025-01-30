@@ -164,13 +164,6 @@
 			"clone_ssh_url": "git@github.com:orangmuda/CVE-2021-21972.git"
 		},
 		{
-			"xdb_id": "e5087c9a9442",
-			"xdb_url": "https://vulncheck.com/xdb/e5087c9a9442",
-			"date_added": "2021-02-24T11:14:58Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2021-21972.git"
-		},
-		{
 			"xdb_id": "faddcda29d3c",
 			"xdb_url": "https://vulncheck.com/xdb/faddcda29d3c",
 			"date_added": "2021-02-24T16:31:34Z",
@@ -185,6 +178,13 @@
 			"clone_ssh_url": "git@github.com:Schira4396/VcenterKiller.git"
 		},
 		{
+			"xdb_id": "e5087c9a9442",
+			"xdb_url": "https://vulncheck.com/xdb/e5087c9a9442",
+			"date_added": "2021-02-24T11:14:58Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:NS-Sp4ce/CVE-2021-21972.git"
+		},
+		{
 			"xdb_id": "51d9db6c8498",
 			"xdb_url": "https://vulncheck.com/xdb/51d9db6c8498",
 			"date_added": "2021-12-09T20:36:29+08:00",
@@ -192,18 +192,18 @@
 			"clone_ssh_url": "git@gitee.com:shmilylty/CVE-2021-21972.git"
 		},
 		{
-			"xdb_id": "087036e51a0a",
-			"xdb_url": "https://vulncheck.com/xdb/087036e51a0a",
-			"date_added": "2021-03-16T15:35:37+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:binbee/CVE-2021-21972.git"
-		},
-		{
 			"xdb_id": "93708da6b80f",
 			"xdb_url": "https://vulncheck.com/xdb/93708da6b80f",
 			"date_added": "2021-02-28T22:36:23+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:cor0ps/cve-2021-21972.git"
+		},
+		{
+			"xdb_id": "087036e51a0a",
+			"xdb_url": "https://vulncheck.com/xdb/087036e51a0a",
+			"date_added": "2021-03-16T15:35:37+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:binbee/CVE-2021-21972.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Apple",
-	"product": "visionOS, iOS, ipadOS, macOS Sequoia, watchOS and tvOS",
-	"shortDescription": "A use after free issue was addressed with improved memory management. This issue is fixed in visionOS 2.3, iOS 18.3 and iPadOS 18.3, macOS Sequoia 15.3, watchOS 11.3, tvOS 18.3. A malicious application may be able to elevate privileges. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 17.2.",
-	"vulnerabilityName": "Apple CoreMedia Framework Privilege Escalation Vulnerability",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"product": "Multiple Products",
+	"shortDescription": "Apple iOS, macOS, and other Apple products contain a user-after-free vulnerability that could allow a malicious application to elevate privileges.",
+	"vulnerabilityName": "Apple Multiple Products Use-After-Free Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2025-24085"
@@ -29,7 +29,13 @@
 		{
 			"url": "https://support.apple.com/en-us/122073",
 			"date_added": "2025-01-27T00:00:00Z"
+		},
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-01-29T00:00:00Z"
 		}
 	],
+	"dueDate": "2025-02-19T00:00:00Z",
+	"cisa_date_added": "2025-01-29T00:00:00Z",
 	"date_added": "2025-01-27T00:00:00Z"
 }

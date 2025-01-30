@@ -353,13 +353,6 @@
 			"clone_ssh_url": "git@github.com:jas502n/Log4j2-CVE-2021-44228.git"
 		},
 		{
-			"xdb_id": "9516d10f9dc1",
-			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
-			"date_added": "2021-12-10T23:19:28Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
-		},
-		{
 			"xdb_id": "a6af622ffa8b",
 			"xdb_url": "https://vulncheck.com/xdb/a6af622ffa8b",
 			"date_added": "2021-12-14T06:37:59Z",
@@ -388,18 +381,11 @@
 			"clone_ssh_url": "git@github.com:fullhunt/log4j-scan.git"
 		},
 		{
-			"xdb_id": "a57024d99795",
-			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
-			"date_added": "2021-12-13T14:39:20+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
-		},
-		{
-			"xdb_id": "60c07310e663",
-			"xdb_url": "https://vulncheck.com/xdb/60c07310e663",
-			"date_added": "2021-12-14T08:39:03+08:00",
+			"xdb_id": "9516d10f9dc1",
+			"xdb_url": "https://vulncheck.com/xdb/9516d10f9dc1",
+			"date_added": "2021-12-10T23:19:28Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:nottoday/CVE-2021-44228-Apache-Log4j-Rce-main.git"
+			"clone_ssh_url": "git@github.com:kozmer/log4j-shell-poc.git"
 		},
 		{
 			"xdb_id": "c555ac264c6e",
@@ -421,6 +407,20 @@
 			"date_added": "2021-12-12T21:06:59+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:huzpsb/CVE-2021-44228-Apache-Log4j-Rce.git"
+		},
+		{
+			"xdb_id": "60c07310e663",
+			"xdb_url": "https://vulncheck.com/xdb/60c07310e663",
+			"date_added": "2021-12-14T08:39:03+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:nottoday/CVE-2021-44228-Apache-Log4j-Rce-main.git"
+		},
+		{
+			"xdb_id": "a57024d99795",
+			"xdb_url": "https://vulncheck.com/xdb/a57024d99795",
+			"date_added": "2021-12-13T14:39:20+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:azhao-1981/CVE-2021-44228-Apache-Log4j-Rce.git"
 		},
 		{
 			"xdb_id": "94dd05cb788b",

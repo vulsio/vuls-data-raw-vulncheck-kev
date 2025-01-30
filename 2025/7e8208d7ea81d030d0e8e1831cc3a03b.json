@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "EPC",
+	"product": "Oshine Modules",
+	"shortDescription": "A server side request forgery (SSRF) vulnerability is present in WordPress Oshine Modules Plugin that could allow a website to execute website requests to an arbitrary attacker-controlled domain.",
+	"vulnerabilityName": "WordPress Oshine Modules Plugin Server Side Request Forgery (SSRF)",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

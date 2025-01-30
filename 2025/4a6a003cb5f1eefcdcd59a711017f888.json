@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Mitel",
+	"product": "6800 Series, 6900 Series, and 6900w Series SIP Phones",
+	"shortDescription": "A vulnerability in the Mitel 6800 Series, 6900 Series, and 6900w Series SIP Phones, including the 6970 Conference Unit, through R6.4.0.HF1 (R6.4.0.136) could allow an authenticated attacker with administrative privilege to conduct an argument injection attack, due to insufficient parameter sanitization during the boot process. A successful exploit could allow an attacker to execute arbitrary commands within the context of the system.",
+	"vulnerabilityName": "Mitel 6800 Series, 6900 Series and 6900w Series SIP Phones, including 6970 Conference Unit Command Injection in the Boot Process",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-41710"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.akamai.com/blog/security-research/2025-january-new-aquabot-mirai-variant-exploiting-mitel-phones",
+			"date_added": "2025-01-28T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-28T00:00:00Z"
+}

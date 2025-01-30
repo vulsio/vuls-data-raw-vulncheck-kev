@@ -1162,6 +1162,10 @@
 			"date_added": "2024-10-16T00:00:00Z"
 		},
 		{
+			"url": "https://arcticwolf.com/resources/blog-uk/arctic-wolf-observes-campaign-exploiting-simplehelp-rmm-software-initial-access/",
+			"date_added": "2025-01-24T00:00:00Z"
+		},
+		{
 			"url": "https://www.forescout.com/resources/2024-global-threat-roundup-report/",
 			"date_added": "2025-01-27T00:00:00Z"
 		},
@@ -1236,6 +1240,10 @@
 		{
 			"url": "https://www.horizon3.ai/attack-research/disclosures/critical-vulnerabilities-in-simplehelp-remote-support-software/",
 			"date_added": "2025-01-13T00:00:00Z"
+		},
+		{
+			"url": "https://go.recordedfuture.com/hubfs/reports/cta-2025-0128.pdf",
+			"date_added": "2025-01-28T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-02-29T00:00:00Z",
