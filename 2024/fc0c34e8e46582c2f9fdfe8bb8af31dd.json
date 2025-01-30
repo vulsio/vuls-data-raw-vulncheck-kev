@@ -40,6 +40,10 @@
 		{
 			"url": "https://msrc.microsoft.com/update-guide/en-US/advisory/CVE-2024-49138",
 			"date_added": "2024-12-10T00:00:00Z"
+		},
+		{
+			"url": "https://security.humanativaspa.it/cve-2024-49138-windows-clfs-heap-based-buffer-overflow-analysis-part-1/",
+			"date_added": "2025-01-29T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-12-31T00:00:00Z",

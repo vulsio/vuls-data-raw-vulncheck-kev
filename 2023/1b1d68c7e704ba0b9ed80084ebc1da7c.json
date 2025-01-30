@@ -1,8 +1,8 @@
 {
-	"vendorProject": "HasThemes",
-	"product": "HT Mega",
+	"vendorProject": "hasthemes",
+	"product": "ht_mega",
 	"shortDescription": "Improper Privilege Management vulnerability in HasThemes HT Mega allows Privilege Escalation.This issue affects HT Mega: from n/a through 2.2.0.",
-	"vulnerabilityName": "HasThemes HT Mega Priviledge Escalation",
+	"vulnerabilityName": "hasthemes ht_mega Improper Privilege Management",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
