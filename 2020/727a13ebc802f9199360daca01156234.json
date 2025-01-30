@@ -66,13 +66,6 @@
 			"clone_ssh_url": "git@github.com:yanghaoi/CVE-2020-0601.git"
 		},
 		{
-			"xdb_id": "2269fe47fe2f",
-			"xdb_url": "https://vulncheck.com/xdb/2269fe47fe2f",
-			"date_added": "2020-01-28T21:24:54Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:ioncodes/Curveball.git"
-		},
-		{
 			"xdb_id": "1ab56e688532",
 			"xdb_url": "https://vulncheck.com/xdb/1ab56e688532",
 			"date_added": "2020-01-16T23:44:37Z",
@@ -92,6 +85,13 @@
 			"date_added": "2020-01-19T18:20:26Z",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@github.com:IIICTECH/-CVE-2020-0601-ECC---EXPLOIT.git"
+		},
+		{
+			"xdb_id": "2269fe47fe2f",
+			"xdb_url": "https://vulncheck.com/xdb/2269fe47fe2f",
+			"date_added": "2020-01-28T21:24:54Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:ioncodes/Curveball.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

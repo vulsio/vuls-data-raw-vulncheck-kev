@@ -45,11 +45,11 @@
 			"clone_ssh_url": "git@github.com:hakivvi/CVE-2021-40449.git"
 		},
 		{
-			"xdb_id": "32687d6a60ea",
-			"xdb_url": "https://vulncheck.com/xdb/32687d6a60ea",
-			"date_added": "2022-03-04T17:55:52Z",
+			"xdb_id": "97c8caf60062",
+			"xdb_url": "https://vulncheck.com/xdb/97c8caf60062",
+			"date_added": "2020-08-09T05:48:10Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:SamuelTulach/voidmap.git"
+			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
 		},
 		{
 			"xdb_id": "dccb5f085c09",
@@ -59,11 +59,11 @@
 			"clone_ssh_url": "git@github.com:ly4k/CallbackHell.git"
 		},
 		{
-			"xdb_id": "97c8caf60062",
-			"xdb_url": "https://vulncheck.com/xdb/97c8caf60062",
-			"date_added": "2020-08-09T05:48:10Z",
+			"xdb_id": "32687d6a60ea",
+			"xdb_url": "https://vulncheck.com/xdb/32687d6a60ea",
+			"date_added": "2022-03-04T17:55:52Z",
 			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:Ascotbe/Kernelhub.git"
+			"clone_ssh_url": "git@github.com:SamuelTulach/voidmap.git"
 		},
 		{
 			"xdb_id": "83a3a8086e22",

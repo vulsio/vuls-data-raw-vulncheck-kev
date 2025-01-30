@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:Eap2468/CVE-2022-3699.git"
 		},
 		{
-			"xdb_id": "db999fe3ff1d",
-			"xdb_url": "https://vulncheck.com/xdb/db999fe3ff1d",
-			"date_added": "2022-12-25T04:34:26Z",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@github.com:estimated1337/lenovo_exec.git"
-		},
-		{
 			"xdb_id": "0469da288eeb",
 			"xdb_url": "https://vulncheck.com/xdb/0469da288eeb",
 			"date_added": "2022-11-09T14:15:30Z",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@github.com:alfarom256/CVE-2022-3699.git"
+		},
+		{
+			"xdb_id": "db999fe3ff1d",
+			"xdb_url": "https://vulncheck.com/xdb/db999fe3ff1d",
+			"date_added": "2022-12-25T04:34:26Z",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@github.com:estimated1337/lenovo_exec.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
