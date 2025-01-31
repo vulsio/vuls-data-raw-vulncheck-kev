@@ -115,6 +115,10 @@
 			"date_added": "2025-01-26T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-30&host_type=src&vulnerability=cve-2018-6530",
+			"date_added": "2025-01-30T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/moobot-d-link-devices/",
 			"date_added": "2022-09-06T00:00:00Z"
 		},

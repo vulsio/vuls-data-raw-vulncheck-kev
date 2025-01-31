@@ -106,6 +106,13 @@
 			"date_added": "2022-09-23T11:05:22Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:Chocapikk/CVE-2022-36804-ReverseShell.git"
+		},
+		{
+			"xdb_id": "104d7f8f5541",
+			"xdb_url": "https://vulncheck.com/xdb/104d7f8f5541",
+			"date_added": "2025-01-30T15:52:09Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2022-36804.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

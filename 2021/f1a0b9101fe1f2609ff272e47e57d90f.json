@@ -178,11 +178,11 @@
 			"clone_ssh_url": "git@github.com:twseptian/cve-2021-42013-docker-lab.git"
 		},
 		{
-			"xdb_id": "bdd0638c5bf4",
-			"xdb_url": "https://vulncheck.com/xdb/bdd0638c5bf4",
+			"xdb_id": "c9583159535c",
+			"xdb_url": "https://vulncheck.com/xdb/c9583159535c",
 			"date_added": "2025-01-30T01:28:57Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:asepsaepdin/cve-2021-42013.git"
+			"clone_ssh_url": "git@github.com:asepsaepdin/CVE-2021-42013.git"
 		},
 		{
 			"xdb_id": "28d7e8231b1f",
@@ -972,6 +972,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-29&host_type=src&vulnerability=cve-2021-42013",
 			"date_added": "2025-01-29T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-30&host_type=src&vulnerability=cve-2021-42013",
+			"date_added": "2025-01-30T00:00:00Z"
 		},
 		{
 			"url": "https://www.fortinet.com/blog/threat-research/enemybot-a-look-into-keksecs-latest-ddos-botnet",
