@@ -178,6 +178,13 @@
 			"clone_ssh_url": "git@github.com:twseptian/cve-2021-42013-docker-lab.git"
 		},
 		{
+			"xdb_id": "bdd0638c5bf4",
+			"xdb_url": "https://vulncheck.com/xdb/bdd0638c5bf4",
+			"date_added": "2025-01-30T01:28:57Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:asepsaepdin/cve-2021-42013.git"
+		},
+		{
 			"xdb_id": "28d7e8231b1f",
 			"xdb_url": "https://vulncheck.com/xdb/28d7e8231b1f",
 			"date_added": "2022-05-26T07:01:04Z",

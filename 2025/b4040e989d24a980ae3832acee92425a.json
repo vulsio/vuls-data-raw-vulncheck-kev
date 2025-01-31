@@ -10,18 +10,18 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "d343e6784986",
-			"xdb_url": "https://vulncheck.com/xdb/d343e6784986",
-			"date_added": "2025-01-16T14:45:53Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2025-0282.git"
-		},
-		{
 			"xdb_id": "e2555435150d",
 			"xdb_url": "https://vulncheck.com/xdb/e2555435150d",
 			"date_added": "2025-01-22T08:14:54Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:chiefchainer/CVE-2025-0282.git"
+		},
+		{
+			"xdb_id": "d343e6784986",
+			"xdb_url": "https://vulncheck.com/xdb/d343e6784986",
+			"date_added": "2025-01-16T14:45:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:sfewer-r7/CVE-2025-0282.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
