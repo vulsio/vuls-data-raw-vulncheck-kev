@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:fjserna/CVE-2015-7547.git"
 		},
 		{
-			"xdb_id": "1dc3a463272e",
-			"xdb_url": "https://vulncheck.com/xdb/1dc3a463272e",
-			"date_added": "2020-09-11T15:04:26+08:00",
-			"exploit_type": "local",
-			"clone_ssh_url": "git@gitee.com:happiii/CVE-2015-7547.git"
-		},
-		{
 			"xdb_id": "bb7c175544ab",
 			"xdb_url": "https://vulncheck.com/xdb/bb7c175544ab",
 			"date_added": "2022-01-11T23:48:33+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:mirrors_fjserna/CVE-2015-7547.git"
+		},
+		{
+			"xdb_id": "1dc3a463272e",
+			"xdb_url": "https://vulncheck.com/xdb/1dc3a463272e",
+			"date_added": "2020-09-11T15:04:26+08:00",
+			"exploit_type": "local",
+			"clone_ssh_url": "git@gitee.com:happiii/CVE-2015-7547.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
