@@ -1,0 +1,19 @@
+{
+	"vendorProject": "liferay",
+	"product": "digital_experience_platform",
+	"shortDescription": "HtmlUtil.escapeRedirect in Liferay Portal 7.2.0 through 7.4.3.18, and older unsupported versions, and Liferay DXP 7.4 before update 19, 7.3 before update 4, 7.2 before fix pack 19, and older unsupported versions can be circumvented by using the 'REPLACEMENT CHARACTER' (U+FFFD), which allows remote attackers to redirect users to arbitrary external URLs via the (1) 'redirect` parameter (2) `FORWARD_URL` parameter, (3) `noSuchEntryRedirect` parameter, and (4) others parameters that rely on HtmlUtil.escapeRedirect.",
+	"vulnerabilityName": "liferay digital_experience_platform URL Redirection to Untrusted Site ('Open Redirect')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-25608"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://cofense.com/blog/threat-actors-exploit-government-website-vulnerabilities-for-phishing-campaigns",
+			"date_added": "2025-01-29T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-29T00:00:00Z"
+}
