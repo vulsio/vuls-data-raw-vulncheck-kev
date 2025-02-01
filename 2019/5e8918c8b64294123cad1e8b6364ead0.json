@@ -24,13 +24,6 @@
 			"clone_ssh_url": "git@github.com:sevck/CVE-2017-12149.git"
 		},
 		{
-			"xdb_id": "a775feeaa5fd",
-			"xdb_url": "https://vulncheck.com/xdb/a775feeaa5fd",
-			"date_added": "2019-08-22T21:06:09Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:jreppiks/CVE-2017-12149.git"
-		},
-		{
 			"xdb_id": "df44860bdefc",
 			"xdb_url": "https://vulncheck.com/xdb/df44860bdefc",
 			"date_added": "2022-04-14T13:24:51Z",
@@ -66,18 +59,11 @@
 			"clone_ssh_url": "git@github.com:1337g/CVE-2017-12149.git"
 		},
 		{
-			"xdb_id": "93fd63db9635",
-			"xdb_url": "https://vulncheck.com/xdb/93fd63db9635",
-			"date_added": "2020-10-04T21:52:16+08:00",
+			"xdb_id": "a775feeaa5fd",
+			"xdb_url": "https://vulncheck.com/xdb/a775feeaa5fd",
+			"date_added": "2019-08-22T21:06:09Z",
 			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149.git"
-		},
-		{
-			"xdb_id": "d9f3bd9b80b5",
-			"xdb_url": "https://vulncheck.com/xdb/d9f3bd9b80b5",
-			"date_added": "2020-12-31T20:23:17+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:prajnashipsailor/jboss-_CVE-2017-12149.git"
+			"clone_ssh_url": "git@github.com:jreppiks/CVE-2017-12149.git"
 		},
 		{
 			"xdb_id": "9291e025d38e",
@@ -92,6 +78,20 @@
 			"date_added": "2022-09-19T00:54:38+08:00",
 			"exploit_type": "local",
 			"clone_ssh_url": "git@gitee.com:abcall/jboss-_CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "93fd63db9635",
+			"xdb_url": "https://vulncheck.com/xdb/93fd63db9635",
+			"date_added": "2020-10-04T21:52:16+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:xdawn/CVE-2017-12149.git"
+		},
+		{
+			"xdb_id": "d9f3bd9b80b5",
+			"xdb_url": "https://vulncheck.com/xdb/d9f3bd9b80b5",
+			"date_added": "2020-12-31T20:23:17+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:prajnashipsailor/jboss-_CVE-2017-12149.git"
 		},
 		{
 			"xdb_id": "288d8baf4ead",
