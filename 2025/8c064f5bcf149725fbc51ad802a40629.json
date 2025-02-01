@@ -1,0 +1,27 @@
+{
+	"vendorProject": "simple-help",
+	"product": "simplehelp",
+	"shortDescription": "SimpleHelp remote support software v5.5.7 and before is vulnerable to multiple path traversal vulnerabilities that enable unauthenticated remote attackers to download arbitrary files from the SimpleHelp host via crafted HTTP requests. These files include server configuration files containing various secrets and hashed user passwords.",
+	"vulnerabilityName": "simple-help simplehelp Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Known",
+	"cve": [
+		"CVE-2024-57727"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "2d0a6de76da1",
+			"xdb_url": "https://vulncheck.com/xdb/2d0a6de76da1",
+			"date_added": "2025-01-17T15:45:51Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:imjdl/CVE-2024-57727.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://x.com/curatedintel/status/1885379463682109525?s=46&t=-dkNDSDHEzyAagaVN0SDgA",
+			"date_added": "2025-01-31T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-31T00:00:00Z"
+}
