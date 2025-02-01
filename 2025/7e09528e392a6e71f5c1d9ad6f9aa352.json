@@ -1,0 +1,27 @@
+{
+	"vendorProject": "SolarWinds",
+	"product": "dameware_mini_remote_control",
+	"shortDescription": "The Solarwinds Dameware Mini Remote Client agent v12.1.0.89 supports smart card authentication which can allow a user to upload an executable to be executed on the DWRCS.exe host. An unauthenticated, remote attacker can request smart card login and upload and execute an arbitrary executable run under the Local System account.",
+	"vulnerabilityName": "SolarWinds dameware_mini_remote_control Origin Validation Error",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2019-3980"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "b2d525559d87",
+			"xdb_url": "https://vulncheck.com/xdb/b2d525559d87",
+			"date_added": "2021-10-19T18:28:47Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:Barbarisch/CVE-2019-3980.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://rt-solar.ru/solar-4rays/blog/5202/",
+			"date_added": "2025-01-28T00:00:00Z"
+		}
+	],
+	"date_added": "2025-01-28T00:00:00Z"
+}

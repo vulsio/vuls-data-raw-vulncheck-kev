@@ -227,6 +227,13 @@
 			"clone_ssh_url": "git@github.com:ihebski/A-Red-Teamer-diaries.git"
 		},
 		{
+			"xdb_id": "8035aa262c64",
+			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
+			"date_added": "2021-07-27T11:11:27+08:00",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
+		},
+		{
 			"xdb_id": "b539b7bd0520",
 			"xdb_url": "https://vulncheck.com/xdb/b539b7bd0520",
 			"date_added": "2021-10-16T23:59:36+08:00",
@@ -253,13 +260,6 @@
 			"date_added": "2021-01-24T19:00:08+08:00",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@gitee.com:delete_user/CVE-2020-14882.git"
-		},
-		{
-			"xdb_id": "8035aa262c64",
-			"xdb_url": "https://vulncheck.com/xdb/8035aa262c64",
-			"date_added": "2021-07-27T11:11:27+08:00",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@gitee.com:tntsec/CVE-2020-14882_ALL.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
