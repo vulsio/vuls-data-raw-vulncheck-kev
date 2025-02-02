@@ -636,6 +636,10 @@
 			"date_added": "2025-01-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-01&host_type=src&vulnerability=cve-2021-40438",
+			"date_added": "2025-02-01T00:00:00Z"
+		},
+		{
 			"url": "https://info.securin.io/hubfs/Securin%20Ransomware%20Report%202023.pdf",
 			"date_added": "2023-02-14T00:00:00Z"
 		},
