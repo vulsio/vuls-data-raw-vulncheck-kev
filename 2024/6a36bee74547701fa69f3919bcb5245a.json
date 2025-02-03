@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "0548206afc9c",
-			"xdb_url": "https://vulncheck.com/xdb/0548206afc9c",
-			"date_added": "2024-10-31T07:44:06Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2024-23113.git"
-		},
-		{
 			"xdb_id": "3039091c436b",
 			"xdb_url": "https://vulncheck.com/xdb/3039091c436b",
 			"date_added": "2024-10-21T10:27:52Z",
@@ -29,6 +22,13 @@
 			"date_added": "2024-11-28T06:30:02Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:XiaomingX/cve-2024-23113-poc.git"
+		},
+		{
+			"xdb_id": "0548206afc9c",
+			"xdb_url": "https://vulncheck.com/xdb/0548206afc9c",
+			"date_added": "2024-10-31T07:44:06Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:puckiestyle/CVE-2024-23113.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
