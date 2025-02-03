@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:tiyeume25112004/CVE-2023-1177-rebuild.git"
 		},
 		{
-			"xdb_id": "6fdb0f786753",
-			"xdb_url": "https://vulncheck.com/xdb/6fdb0f786753",
-			"date_added": "2023-07-23T10:12:27Z",
-			"exploit_type": "infoleak",
-			"clone_ssh_url": "git@github.com:iumiro/CVE-2023-1177-MLFlow.git"
-		},
-		{
 			"xdb_id": "aacc879e3530",
 			"xdb_url": "https://vulncheck.com/xdb/aacc879e3530",
 			"date_added": "2024-09-19T10:59:31Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:charlesgargasson/CVE-2023-1177.git"
+		},
+		{
+			"xdb_id": "6fdb0f786753",
+			"xdb_url": "https://vulncheck.com/xdb/6fdb0f786753",
+			"date_added": "2023-07-23T10:12:27Z",
+			"exploit_type": "infoleak",
+			"clone_ssh_url": "git@github.com:iumiro/CVE-2023-1177-MLFlow.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

@@ -803,6 +803,10 @@
 			"date_added": "2025-01-25T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-02&host_type=src&vulnerability=cve-2021-31602",
+			"date_added": "2025-02-02T00:00:00Z"
+		},
+		{
 			"url": "https://unit42.paloaltonetworks.com/network-security-trends-nov-jan/",
 			"date_added": "2023-05-02T00:00:00Z"
 		}

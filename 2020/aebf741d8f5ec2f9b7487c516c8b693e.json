@@ -73,13 +73,6 @@
 			"clone_ssh_url": "git@github.com:w4fz5uck5/cve-2020-0688-webshell-upload-technique.git"
 		},
 		{
-			"xdb_id": "730fc9157ab0",
-			"xdb_url": "https://vulncheck.com/xdb/730fc9157ab0",
-			"date_added": "2020-02-27T02:54:27Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:Ridter/cve-2020-0688.git"
-		},
-		{
 			"xdb_id": "c2dc4dbb6f66",
 			"xdb_url": "https://vulncheck.com/xdb/c2dc4dbb6f66",
 			"date_added": "2020-02-27T13:53:46Z",
@@ -87,11 +80,11 @@
 			"clone_ssh_url": "git@github.com:Yt1g3r/CVE-2020-0688_EXP.git"
 		},
 		{
-			"xdb_id": "7f793deb1114",
-			"xdb_url": "https://vulncheck.com/xdb/7f793deb1114",
-			"date_added": "2020-03-07T16:13:30+08:00",
+			"xdb_id": "730fc9157ab0",
+			"xdb_url": "https://vulncheck.com/xdb/730fc9157ab0",
+			"date_added": "2020-02-27T02:54:27Z",
 			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@gitee.com:kevin66654/Exchange-EXP-CVE-2020-0688.git"
+			"clone_ssh_url": "git@github.com:Ridter/cve-2020-0688.git"
 		},
 		{
 			"xdb_id": "05c78c55c273",
@@ -99,6 +92,13 @@
 			"date_added": "2022-01-11T23:35:51+08:00",
 			"exploit_type": "client-side",
 			"clone_ssh_url": "git@gitee.com:mirrors_zcgonvh/CVE-2020-0688.git"
+		},
+		{
+			"xdb_id": "7f793deb1114",
+			"xdb_url": "https://vulncheck.com/xdb/7f793deb1114",
+			"date_added": "2020-03-07T16:13:30+08:00",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@gitee.com:kevin66654/Exchange-EXP-CVE-2020-0688.git"
 		},
 		{
 			"xdb_id": "8a20e8eac65d",

@@ -38,18 +38,18 @@
 			"clone_ssh_url": "git@github.com:rawtips/CVE-2024-55591.git"
 		},
 		{
-			"xdb_id": "e26be9aa9402",
-			"xdb_url": "https://vulncheck.com/xdb/e26be9aa9402",
-			"date_added": "2025-01-27T06:25:53Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591.git"
-		},
-		{
 			"xdb_id": "f2c0556e0425",
 			"xdb_url": "https://vulncheck.com/xdb/f2c0556e0425",
 			"date_added": "2025-01-25T14:35:57Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:robomusk52/exp-cmd-add-admin-vpn-CVE-2024-55591.git"
+		},
+		{
+			"xdb_id": "e26be9aa9402",
+			"xdb_url": "https://vulncheck.com/xdb/e26be9aa9402",
+			"date_added": "2025-01-27T06:25:53Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [

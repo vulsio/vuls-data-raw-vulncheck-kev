@@ -10,13 +10,6 @@
 	],
 	"vulncheck_xdb": [
 		{
-			"xdb_id": "15f159f290df",
-			"xdb_url": "https://vulncheck.com/xdb/15f159f290df",
-			"date_added": "2023-02-21T02:59:46Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:bigherocenter/CVE-2022-41082-POC.git"
-		},
-		{
 			"xdb_id": "fce0b6801443",
 			"xdb_url": "https://vulncheck.com/xdb/fce0b6801443",
 			"date_added": "2023-03-22T20:04:07Z",
@@ -71,6 +64,13 @@
 			"date_added": "2022-12-22T09:35:26Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:balki97/OWASSRF-CVE-2022-41082-POC.git"
+		},
+		{
+			"xdb_id": "15f159f290df",
+			"xdb_url": "https://vulncheck.com/xdb/15f159f290df",
+			"date_added": "2023-02-21T02:59:46Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:bigherocenter/CVE-2022-41082-POC.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
@@ -1093,6 +1093,10 @@
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-01-30&host_type=src&vulnerability=cve-2022-41082",
 			"date_added": "2025-01-30T00:00:00Z"
+		},
+		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-02&host_type=src&vulnerability=cve-2022-41082",
+			"date_added": "2025-02-02T00:00:00Z"
 		},
 		{
 			"url": "https://go.recordedfuture.com/hubfs/reports/ta-2023-0302.pdf",

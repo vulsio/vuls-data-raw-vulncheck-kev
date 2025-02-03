@@ -1519,6 +1519,10 @@
 			"date_added": "2025-01-31T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-02&host_type=src&vulnerability=cve-2021-25646",
+			"date_added": "2025-02-02T00:00:00Z"
+		},
+		{
 			"url": "https://www.aquasec.com/blog/lucifer-ddos-botnet-malware-is-targeting-apache-big-data-stack/",
 			"date_added": "2024-02-21T00:00:00Z"
 		}
