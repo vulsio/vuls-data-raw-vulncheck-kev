@@ -1,8 +1,8 @@
 {
-	"vendorProject": "",
-	"product": "",
-	"shortDescription": "",
-	"vulnerabilityName": "",
+	"vendorProject": "WSO2",
+	"product": "WSO2 API Manager, WSO2 Identity Server, WSO2 Identity Server as Key Manager",
+	"shortDescription": " The SOAP admin service in WSO2 products has a security vulnerability that allows the creation of new user accounts regardless of the self-registration configuration settings.",
+	"vulnerabilityName": "WSO2 User Registration Arbitrary Account Creation",
 	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [

@@ -24,18 +24,18 @@
 			"clone_ssh_url": "git@github.com:waterrr/noPac.git"
 		},
 		{
-			"xdb_id": "26882e31c656",
-			"xdb_url": "https://vulncheck.com/xdb/26882e31c656",
-			"date_added": "2021-12-11T15:10:30Z",
-			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:safebuffer/sam-the-admin.git"
-		},
-		{
 			"xdb_id": "be2316d8bd2e",
 			"xdb_url": "https://vulncheck.com/xdb/be2316d8bd2e",
 			"date_added": "2021-12-13T19:01:18Z",
 			"exploit_type": "remote-with-credentials",
 			"clone_ssh_url": "git@github.com:ricardojba/Invoke-noPac.git"
+		},
+		{
+			"xdb_id": "26882e31c656",
+			"xdb_url": "https://vulncheck.com/xdb/26882e31c656",
+			"date_added": "2021-12-11T15:10:30Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:safebuffer/sam-the-admin.git"
 		},
 		{
 			"xdb_id": "de00aae17015",

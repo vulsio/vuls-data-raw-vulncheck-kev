@@ -24,11 +24,11 @@
 			"clone_ssh_url": "git@github.com:waterrr/noPac.git"
 		},
 		{
-			"xdb_id": "8c3a23782131",
-			"xdb_url": "https://vulncheck.com/xdb/8c3a23782131",
-			"date_added": "2021-12-13T23:15:05Z",
+			"xdb_id": "db23ac405047",
+			"xdb_url": "https://vulncheck.com/xdb/db23ac405047",
+			"date_added": "2021-12-11T19:27:30Z",
 			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:ly4k/Pachine.git"
+			"clone_ssh_url": "git@github.com:cube0x0/noPac.git"
 		},
 		{
 			"xdb_id": "9c7330f5adf3",
@@ -38,11 +38,11 @@
 			"clone_ssh_url": "git@github.com:ricardojba/Invoke-noPac.git"
 		},
 		{
-			"xdb_id": "db23ac405047",
-			"xdb_url": "https://vulncheck.com/xdb/db23ac405047",
-			"date_added": "2021-12-11T19:27:30Z",
+			"xdb_id": "8c3a23782131",
+			"xdb_url": "https://vulncheck.com/xdb/8c3a23782131",
+			"date_added": "2021-12-13T23:15:05Z",
 			"exploit_type": "remote-with-credentials",
-			"clone_ssh_url": "git@github.com:cube0x0/noPac.git"
+			"clone_ssh_url": "git@github.com:ly4k/Pachine.git"
 		},
 		{
 			"xdb_id": "230d7f3a2644",

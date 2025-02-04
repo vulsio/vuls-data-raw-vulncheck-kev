@@ -17,18 +17,18 @@
 			"clone_ssh_url": "git@github.com:iveresk/cve-2023-40000.git"
 		},
 		{
-			"xdb_id": "22d6fe332f73",
-			"xdb_url": "https://vulncheck.com/xdb/22d6fe332f73",
-			"date_added": "2024-05-12T06:13:47Z",
-			"exploit_type": "client-side",
-			"clone_ssh_url": "git@github.com:quantiom/litespeed-cache-xss-poc.git"
-		},
-		{
 			"xdb_id": "708dc5475dd1",
 			"xdb_url": "https://vulncheck.com/xdb/708dc5475dd1",
 			"date_added": "2024-02-28T19:36:40Z",
 			"exploit_type": "infoleak",
 			"clone_ssh_url": "git@github.com:rxerium/CVE-2023-40000.git"
+		},
+		{
+			"xdb_id": "22d6fe332f73",
+			"xdb_url": "https://vulncheck.com/xdb/22d6fe332f73",
+			"date_added": "2024-05-12T06:13:47Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:quantiom/litespeed-cache-xss-poc.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
