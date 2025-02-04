@@ -255,6 +255,10 @@
 			"date_added": "2025-02-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-03&host_type=src&vulnerability=cve-2024-9463",
+			"date_added": "2025-02-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.fortiguard.com/outbreak-alert/palo-alto-expedition-vulnerability",
 			"date_added": "2024-11-12T00:00:00Z"
 		},

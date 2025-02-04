@@ -1637,6 +1637,10 @@
 			"date_added": "2025-02-01T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-03&host_type=src&vulnerability=cve-2023-42793",
+			"date_added": "2025-02-03T00:00:00Z"
+		},
+		{
 			"url": "https://x.com/PRODAFT/status/1708586257444430019",
 			"date_added": "2023-10-01T00:00:00Z"
 		},

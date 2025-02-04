@@ -30,6 +30,10 @@
 			"date_added": "2025-01-16T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-03&host_type=src&vulnerability=cve-2024-50603",
+			"date_added": "2025-02-03T00:00:00Z"
+		},
+		{
 			"url": "https://docs.aviatrix.com/documentation/latest/release-notices/psirt-advisories/psirt-advisories.html?expand=true#remote-code-execution-vulnerability-in-aviatrix-controllers",
 			"date_added": "2025-01-07T00:00:00Z"
 		},

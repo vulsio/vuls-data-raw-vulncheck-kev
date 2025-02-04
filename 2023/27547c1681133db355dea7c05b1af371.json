@@ -1149,6 +1149,10 @@
 			"date_added": "2025-02-02T00:00:00Z"
 		},
 		{
+			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2025-02-03&host_type=src&vulnerability=cve-2023-20887",
+			"date_added": "2025-02-03T00:00:00Z"
+		},
+		{
 			"url": "https://www.vmware.com/security/advisories/VMSA-2023-0012.html",
 			"date_added": "2023-06-20T00:00:00Z"
 		},

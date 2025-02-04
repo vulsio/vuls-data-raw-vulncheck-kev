@@ -31,18 +31,18 @@
 			"clone_ssh_url": "git@github.com:kyotozx/CVE-2024-2961-Remote-File-Read.git"
 		},
 		{
-			"xdb_id": "cab9ee9dc6bb",
-			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
-			"date_added": "2024-05-27T08:30:06Z",
-			"exploit_type": "initial-access",
-			"clone_ssh_url": "git@github.com:ambionics/cnext-exploits.git"
-		},
-		{
 			"xdb_id": "75be8eeb8fa5",
 			"xdb_url": "https://vulncheck.com/xdb/75be8eeb8fa5",
 			"date_added": "2025-02-02T01:35:43Z",
 			"exploit_type": "initial-access",
 			"clone_ssh_url": "git@github.com:omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961.git"
+		},
+		{
+			"xdb_id": "cab9ee9dc6bb",
+			"xdb_url": "https://vulncheck.com/xdb/cab9ee9dc6bb",
+			"date_added": "2024-05-27T08:30:06Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:ambionics/cnext-exploits.git"
 		}
 	],
 	"vulncheck_reported_exploitation": [
