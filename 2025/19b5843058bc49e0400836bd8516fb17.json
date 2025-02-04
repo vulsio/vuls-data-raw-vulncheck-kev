@@ -1,0 +1,19 @@
+{
+	"vendorProject": "Linux Kernel",
+	"product": "USB Video Class (UVC) Driver",
+	"shortDescription": "In the Linux kernel, the following vulnerability has been resolved: media: uvcvideo: Skip parsing frames of type UVC_VS_UNDEFINED in uvc_parse_format This can lead to out of bounds writes since frames of this type were not taken into account when calculating the size of the frames buffer in uvc_parse_streaming.",
+	"vulnerabilityName": "Linux Kernel uvc_driver.c Privilege Escalation Vulnerability",
+	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2024-53104"
+	],
+	"vulncheck_xdb": [],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://source.android.com/docs/security/bulletin/2025-02-01",
+			"date_added": "2025-02-03T00:00:00Z"
+		}
+	],
+	"date_added": "2025-02-03T00:00:00Z"
+}
