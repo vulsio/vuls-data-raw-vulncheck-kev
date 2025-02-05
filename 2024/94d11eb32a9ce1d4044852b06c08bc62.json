@@ -134,6 +134,10 @@
 		{
 			"url": "https://www.rapid7.com/blog/post/2025/01/16/etr-fortinet-firewalls-hit-with-new-zero-day-attack-older-data-leak/",
 			"date_added": "2025-01-16T00:00:00Z"
+		},
+		{
+			"url": "https://media.defense.gov/2025/Feb/03/2003636950/-1/-1/0/SECURITY-CONSIDERATIONS-FOR-EDGE-DEVICES.PDF",
+			"date_added": "2025-02-04T00:00:00Z"
 		}
 	],
 	"dueDate": "2024-02-16T00:00:00Z",
