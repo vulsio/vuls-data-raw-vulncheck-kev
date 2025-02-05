@@ -1,0 +1,29 @@
+{
+	"vendorProject": "Paessler",
+	"product": "PTRG Network Monitor",
+	"shortDescription": "Paessler PRTG Network Monitor contains a local file inclusion vulnerability that allows a remote, unauthenticated attacker to create users with read-write privileges (including administrator).",
+	"vulnerabilityName": "Paessler PRTG Network Monitor Local File Inclusion Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-19410"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "997f2d3dc749",
+			"xdb_url": "https://vulncheck.com/xdb/997f2d3dc749",
+			"date_added": "2024-01-25T07:20:19Z",
+			"exploit_type": "initial-access",
+			"clone_ssh_url": "git@github.com:himash/CVE-2018-19410-POC.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2025-02-25T00:00:00Z",
+	"cisa_date_added": "2025-02-04T00:00:00Z",
+	"date_added": "2025-02-04T00:00:00Z"
+}

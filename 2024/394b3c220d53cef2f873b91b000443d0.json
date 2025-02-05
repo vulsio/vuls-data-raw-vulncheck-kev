@@ -8,7 +8,15 @@
 	"cve": [
 		"CVE-2024-21412"
 	],
-	"vulncheck_xdb": [],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "758dee144289",
+			"xdb_url": "https://vulncheck.com/xdb/758dee144289",
+			"date_added": "2024-08-02T04:38:01Z",
+			"exploit_type": "client-side",
+			"clone_ssh_url": "git@github.com:auditor-kbfg/Pentest_Training.git"
+		}
+	],
 	"vulncheck_reported_exploitation": [
 		{
 			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",

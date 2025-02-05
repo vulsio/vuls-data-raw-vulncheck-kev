@@ -1,9 +1,9 @@
 {
 	"vendorProject": "Microsoft",
 	"product": ".NET Framework",
-	"shortDescription": ".NET Framework Information Disclosure Vulnerability",
-	"vulnerabilityName": "Microsoft .NET Framework Generation of Error Message Containing Sensitive Information",
-	"required_action": "Apply remediations or mitigations per vendor instructions or discontinue use of the product if remediation or mitigations are unavailable.",
+	"shortDescription": "Microsoft .NET Framework contains an information disclosure vulnerability that exposes the ObjRef URI to an attacker, ultimately enabling remote code execution.",
+	"vulnerabilityName": "Microsoft .NET Framework Information Disclosure Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
 	"knownRansomwareCampaignUse": "Unknown",
 	"cve": [
 		"CVE-2024-29059"
@@ -18,6 +18,10 @@
 		}
 	],
 	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-02-04T00:00:00Z"
+		},
 		{
 			"url": "https://dashboard.shadowserver.org/statistics/honeypot/vulnerability/map/?day=2024-04-27&host_type=src&vulnerability=cve-2024-29059",
 			"date_added": "2024-04-27T00:00:00Z"
@@ -475,5 +479,7 @@
 			"date_added": "2025-01-25T00:00:00Z"
 		}
 	],
+	"dueDate": "2025-02-25T00:00:00Z",
+	"cisa_date_added": "2025-02-04T00:00:00Z",
 	"date_added": "2024-04-27T00:00:00Z"
 }

@@ -1,0 +1,36 @@
+{
+	"vendorProject": "Paessler",
+	"product": "PRTG Network Monitor",
+	"shortDescription": "Paessler PRTG Network Monitor contains an OS command injection vulnerability that allows an attacker with administrative privileges to execute commands via the PRTG System Administrator web console.",
+	"vulnerabilityName": "Paessler PRTG Network Monitor OS Command Injection Vulnerability",
+	"required_action": "Apply mitigations per vendor instructions or discontinue use of the product if mitigations are unavailable.",
+	"knownRansomwareCampaignUse": "Unknown",
+	"cve": [
+		"CVE-2018-9276"
+	],
+	"vulncheck_xdb": [
+		{
+			"xdb_id": "247e582fb633",
+			"xdb_url": "https://vulncheck.com/xdb/247e582fb633",
+			"date_added": "2021-07-29T01:17:22Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:A1vinSmith/CVE-2018-9276.git"
+		},
+		{
+			"xdb_id": "0086801811ed",
+			"xdb_url": "https://vulncheck.com/xdb/0086801811ed",
+			"date_added": "2024-09-03T16:26:31Z",
+			"exploit_type": "remote-with-credentials",
+			"clone_ssh_url": "git@github.com:backglass/exploit_prtg.git"
+		}
+	],
+	"vulncheck_reported_exploitation": [
+		{
+			"url": "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
+			"date_added": "2025-02-04T00:00:00Z"
+		}
+	],
+	"dueDate": "2025-02-25T00:00:00Z",
+	"cisa_date_added": "2025-02-04T00:00:00Z",
+	"date_added": "2025-02-04T00:00:00Z"
+}
